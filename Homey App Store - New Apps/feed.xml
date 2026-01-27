@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Homey App Store - New Apps</title>
+    <link>https://homey.app/en-us/apps/homey-pro/</link>
+    <description>New apps in the Homey App Store</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/bennokress/rss-feeds/main/Homey%20App%20Store%20-%20New%20Apps/channel-icon.png</url>
+      <title>Homey App Store - New Apps</title>
+      <link>https://homey.app/en-us/apps/homey-pro/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jan 2026 15:20:55 +0000</lastBuildDate>
+    <ttl>720</ttl>
+    <item>
+      <title>OpenWRT</title>
+      <link>https://homey.app/a/com.gruijter.openwrt</link>
+      <description>Presence detection, Network control, Energy monitoring</description>
+      <author>noreply@homey.app (Robin de Gruijter)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.gruijter.openwrt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.gruijter.openwrt/3/dc30246e-93cc-485d-b3c2-a6d425fa3b86/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>ASUSTOR</title>
+      <link>https://homey.app/a/com.asustor</link>
+      <description>Reliable storage for home and office</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.asustor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.asustor/5/699e3e5b-795f-4740-aa00-1d0b6c1942a2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Inveo</title>
+      <link>https://homey.app/a/se.nerdtech.inveo.nano</link>
+      <description>Inveo Nano PoE temperature via SNMP</description>
+      <author>noreply@homey.app (Peter Johansson)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.nerdtech.inveo.nano</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.nerdtech.inveo.nano/2/259041c2-59f6-4075-8194-b8e3805511e4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Popup</title>
+      <link>https://homey.app/a/com.marcel.popup</link>
+      <description>push data to the dashboard</description>
+      <author>noreply@homey.app (Marcel Sauer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.marcel.popup</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.marcel.popup/7/04b4a84c-0649-40c0-93e8-85dcbaa47ee9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Virtual Room Occupancy</title>
+      <link>https://homey.app/a/no.oleast.virtual-room-occupancy</link>
+      <description>Create virtual occupancy sensors that intelligently detect room occupancy based on door and motion sensors.</description>
+      <author>noreply@homey.app (Ole Anders Stokker)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.oleast.virtual-room-occupancy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.oleast.virtual-room-occupancy/1/f628a5ba-135b-4861-963b-26c29f7322ab/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>AdGuard Home</title>
+      <link>https://homey.app/a/com.adguard.home</link>
+      <description>Protect your network against ads and trackers</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.adguard.home</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.adguard.home/3/59016b4b-b3bc-441c-8c69-dd0b1507f07d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Siemens Synco Living</title>
+      <link>https://homey.app/a/com.siemens.synco</link>
+      <description>Smart building automation for your home - control room temperature, ventilation, and comfort</description>
+      <author>noreply@homey.app (Marco Rogg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.siemens.synco</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.siemens.synco/2/6dca3d05-85c0-4941-9cc9-1d577a92b950/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chipolo</title>
+      <link>https://homey.app/a/net.chipolo</link>
+      <description>Never lose your items again</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.chipolo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.chipolo/2/dfdf7d3e-d1f4-4551-a621-25d1c12bee4a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Presence Simulator</title>
+      <link>https://homey.app/a/com.simulator.presence</link>
+      <description>Simulate presence by automatically replaying your lighting patterns from a week ago</description>
+      <author>noreply@homey.app (Knut Rikken)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.simulator.presence</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.simulator.presence/3/74e9bb4d-961c-4178-8e5b-b0223031f94e/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:52:55 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

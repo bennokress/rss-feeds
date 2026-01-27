@@ -12,6 +12,14 @@ Unofficial RSS feeds for websites that don't offer their own.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/bennokress/rss-feeds/main/Homey%20App%20Store%20-%20New%20Apps/feed.xml">🔗 Show feed</a></td>
+    <td><img src="Homey App Store - New Apps/channel-icon.png" width="50" height="50"></td>
+    <td><b><a href="https://homey.app/en-us/apps/homey-pro/">Homey App Store - New Apps</a></b><br>New apps added to the Homey Pro App Store.</td>
+  </tr>
+</table>
+
 ## How It Works
 
 Each feed has its own directory containing:
