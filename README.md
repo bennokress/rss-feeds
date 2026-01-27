@@ -20,6 +20,14 @@ Unofficial RSS feeds for websites that don't offer their own.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/bennokress/rss-feeds/main/Komood%20Store/feed.xml">🔗 Show feed</a></td>
+    <td><img src="Komood Store/channel-icon.png" width="50" height="50"></td>
+    <td><b><a href="https://www.komood.store/collections/t-shirt-kollektion">Komood Store</a></b><br>New shirts from Komood Bavarian Apparel.</td>
+  </tr>
+</table>
+
 ## How It Works
 
 Each feed has its own directory containing:
