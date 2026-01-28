@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 15:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:12:30 +0000</lastBuildDate>
     <ttl>720</ttl>
     <item>
       <title>OpenWRT</title>
@@ -94,6 +94,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.simulator.presence</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.simulator.presence/3/74e9bb4d-961c-4178-8e5b-b0223031f94e/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 27 Jan 2026 16:41:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Earth Hour</title>
+      <link>https://homey.app/a/org.earthhour</link>
+      <description>Join the Biggest Hour for Earth.</description>
+      <author>noreply@homey.app (Abe Haverkamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/org.earthhour</guid>
+      <enclosure url="https://apps.homeycdn.net/app/org.earthhour/2/0a23eef9-7135-450a-995a-1b55fb24927e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Jan 2026 21:12:28 +0100</pubDate>
     </item>
   </channel>
 </rss>
