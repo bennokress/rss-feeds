@@ -4,7 +4,9 @@ Scraper for Augsburger Panther news.
 Generates an RSS feed from https://www.aev-panther.de/panther/news.html
 """
 
+import argparse
 import csv
+import os
 import re
 import sys
 import time
@@ -214,6 +216,51 @@ def parse_date(date_str: str, time_str: str) -> datetime | None:
         return None
 
 
+def send_webhook(article: dict) -> bool:
+    """
+    Send article data to webhook.
+    Returns True on success, False on failure.
+    """
+    webhook_url = os.environ.get("MAKE_PANTHER_WEBHOOK_URL")
+    token = os.environ.get("MAKE_WEBHOOKS_TOKEN")
+    if not webhook_url or not token:
+        print("  Warning: MAKE_PANTHER_WEBHOOK_URL or MAKE_WEBHOOKS_TOKEN not set, skipping webhook")
+        return False
+
+    # Convert date/time to Unix timestamp
+    timestamp = None
+    if article["date"]:
+        try:
+            dt_str = f"{article['date']} {article['time']}" if article["time"] else article["date"]
+            fmt = "%Y-%m-%d %H:%M" if article["time"] else "%Y-%m-%d"
+            dt = datetime.strptime(dt_str, fmt)
+            dt = dt.replace(tzinfo=TIMEZONE)
+            timestamp = int(dt.timestamp())
+        except ValueError:
+            pass
+
+    payload = {
+        "title": article["title"],
+        "description": article["description"],
+        "url": article["url"],
+        "imageURL": article["image"],
+        "timestamp": timestamp,
+    }
+
+    try:
+        response = requests.post(
+            webhook_url,
+            json=payload,
+            headers={"x-make-apikey": token},
+            timeout=30,
+        )
+        response.raise_for_status()
+        return True
+    except Exception as e:
+        print(f"  Webhook failed: {e}")
+        return False
+
+
 def generate_rss_feed(articles: list[dict]) -> None:
     """Generate RSS feed from articles."""
     fg = FeedGenerator()
@@ -251,6 +298,10 @@ def generate_rss_feed(articles: list[dict]) -> None:
 
 def main() -> None:
     """Main entry point."""
+    parser = argparse.ArgumentParser(description="Scrape Augsburger Panther news")
+    parser.add_argument("--webhook", action="store_true", help="Send new articles to webhook")
+    args = parser.parse_args()
+
     # Load existing articles
     existing = load_existing_articles()
     existing_urls = {a["url"] for a in existing}
@@ -294,6 +345,14 @@ def main() -> None:
                 print(f"  Failed after {MAX_RETRIES} attempts")
 
         print(f"\nSuccessfully fetched {len(updated_articles)}/{len(articles_needing_content)} articles")
+
+    # Send webhooks for new articles (if enabled)
+    if args.webhook and updated_articles:
+        print(f"\nSending webhooks for {len(updated_articles)} new articles...")
+        for article in updated_articles:
+            print(f"  Webhook: {article['title']}")
+            if send_webhook(article):
+                print("    Sent")
 
     # Save articles
     save_articles(merged)
