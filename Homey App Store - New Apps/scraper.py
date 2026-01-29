@@ -268,7 +268,7 @@ def generate_rss_feed(apps: list[dict]) -> None:
     """Generate RSS feed from apps."""
     fg = FeedGenerator()
     fg.title("Homey App Store - New Apps")
-    fg.link(href=LISTING_URL, rel="alternate")
+    fg.link(href="https://community.homey.app/c/apps/7", rel="alternate")
     fg.description("New apps in the Homey App Store")
     fg.language("en")
     fg.ttl(720)
