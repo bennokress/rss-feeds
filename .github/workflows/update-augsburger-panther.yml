@@ -2,16 +2,21 @@ name: Update Augsburger Panther
 
 on:
   schedule:
-    # Every 2 hours from 11:00 to 23:00 CET (10:00-22:00 UTC)
-    - cron: '0 10,12,14,16,18,20,22 * * *'
+    # Every 2 hours CET (1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23 CET)
+    - cron: '0 0,2,4,6,8,10,12,14,16,18,20,22 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
+concurrency:
+  group: rss-feed-updates
+  cancel-in-progress: false
+
 jobs:
   update-feeds:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
