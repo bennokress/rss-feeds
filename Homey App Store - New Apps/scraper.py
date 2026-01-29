@@ -271,7 +271,7 @@ def generate_rss_feed(apps: list[dict]) -> None:
     fg.link(href="https://community.homey.app/c/apps/7", rel="alternate")
     fg.description("New apps in the Homey App Store")
     fg.language("en")
-    fg.ttl(720)
+    fg.ttl(120)
     fg.image(
         url="https://raw.githubusercontent.com/bennokress/rss-feeds/main/Homey%20App%20Store%20-%20New%20Apps/channel-icon.png",
         title="Homey App Store - New Apps",

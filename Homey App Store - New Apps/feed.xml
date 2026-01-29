@@ -13,7 +13,7 @@
     </image>
     <language>en</language>
     <lastBuildDate>Thu, 29 Jan 2026 10:16:05 +0000</lastBuildDate>
-    <ttl>720</ttl>
+    <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
       <link>https://homey.app/a/com.gruijter.openwrt</link>

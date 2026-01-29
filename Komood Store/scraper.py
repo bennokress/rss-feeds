@@ -208,7 +208,7 @@ def generate_rss_feed(products: list[dict]) -> None:
     fg.link(href=FEED_LINK, rel="alternate")
     fg.description("Neue T-Shirts von Komood Store")
     fg.language("de")
-    fg.ttl(1440)
+    fg.ttl(120)
     fg.image(
         url="https://raw.githubusercontent.com/bennokress/rss-feeds/main/Komood%20Store/channel-icon.png",
         title="Komood Shirts",
