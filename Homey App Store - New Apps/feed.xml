@@ -9,10 +9,10 @@
     <image>
       <url>https://raw.githubusercontent.com/bennokress/rss-feeds/main/Homey%20App%20Store%20-%20New%20Apps/channel-icon.png</url>
       <title>Homey App Store - New Apps</title>
-      <link>https://community.homey.app/c/apps/7</link>
+      <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 20:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 10:16:05 +0000</lastBuildDate>
     <ttl>720</ttl>
     <item>
       <title>OpenWRT</title>
@@ -103,6 +103,24 @@
       <guid isPermaLink="false">https://homey.app/a/org.earthhour</guid>
       <enclosure url="https://apps.homeycdn.net/app/org.earthhour/2/0a23eef9-7135-450a-995a-1b55fb24927e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Jan 2026 21:12:28 +0100</pubDate>
+    </item>
+    <item>
+      <title>HottoH stove</title>
+      <link>https://homey.app/a/com.stove.hottoh</link>
+      <description>Smart heating automation for your HottoH pellet stove</description>
+      <author>noreply@homey.app (Mikkel Hvid)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.stove.hottoh</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.stove.hottoh/27/01cf4b02-5f60-4b74-8cc2-5e705e3f9b76/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 11:16:02 +0100</pubDate>
+    </item>
+    <item>
+      <title>Relax Moes Zigbee</title>
+      <link>https://homey.app/a/se.arserius.hmy.moes</link>
+      <description>Moes smart switches for smart home actions</description>
+      <author>noreply@homey.app (Martin Arserius)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.arserius.hmy.moes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.arserius.hmy.moes/1/6d1e12c5-197f-4aec-96eb-f013c78e33c2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Jan 2026 11:16:02 +0100</pubDate>
     </item>
   </channel>
 </rss>
