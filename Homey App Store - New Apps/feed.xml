@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jan 2026 10:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 10:12:54 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -121,6 +121,15 @@
       <guid isPermaLink="false">https://homey.app/a/se.arserius.hmy.moes</guid>
       <enclosure url="https://apps.homeycdn.net/app/se.arserius.hmy.moes/1/6d1e12c5-197f-4aec-96eb-f013c78e33c2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 29 Jan 2026 11:16:02 +0100</pubDate>
+    </item>
+    <item>
+      <title>WarmteWizard</title>
+      <link>https://homey.app/a/com.dnetlabs.warmtewizard</link>
+      <description>Homey WarmteWizard. The smart energy manager.</description>
+      <author>noreply@homey.app (Warmte Wizard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dnetlabs.warmtewizard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dnetlabs.warmtewizard/17/10360b7f-a799-4a75-8131-8e32ea4e39b9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Jan 2026 11:12:53 +0100</pubDate>
     </item>
   </channel>
 </rss>
