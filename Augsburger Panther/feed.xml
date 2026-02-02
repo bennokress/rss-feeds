@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Jan 2026 10:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 10:23:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Heimspiele gegen Straubing und Nürnberg sind ausverkauft</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Heimspiele-gegen-Straubing-und-N%C3%BCrnberg-sind-ausverkauft-_naid,4186.html</link>
-      <description>Die beiden letzten Heimspiele der Augsburger Panther vor Heiligabend sind ausverkauft. Die Tickets für die Partien gegen die Straubing Tigers am Sonntag, 21. Dezember sowie die Nürnberg Ice Tigers am Dienstag, 23. Dezember sind restlos vergriffen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Heimspiele-gegen-Straubing-und-N%C3%BCrnberg-sind-ausverkauft-_naid,4186.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7218_1_org_SIA_5483.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Dec 2025 14:45:00 +0100</pubDate>
-    </item>
     <item>
       <title>Auch Heimspiel gegen Mannheim ist nun ausverkauft</title>
       <link>https://www.aev-panther.de/panther/news_news,-Auch-Heimspiel-gegen-Mannheim-ist-nun-ausverkauft-_naid,4188.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Fabrizio-Pilu-bleibt-ein-Augsburger-Panther-_naid,4236.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7268_1_org_cp_d3_SWW_AEV25_090k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Jan 2026 10:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pantherdauerkarte 26-27 - Treuepreise bis 08.02.</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Pantherdauerkarte-26-27-Treuepreise-bis-0802-_naid,4237.html</link>
+      <description>Noch bis einschließlich 08. Februar gibt es die Pantherdauerkarte 2026-27 für alle Fans, die bereits in der laufenden Spielzeit eine DK ihr Eigen nennen durften, zum Treuepreis. Fans, die sich ebenfalls bis einschließlich 08. Februar 2026 für die neue Pantherdauerkarte entscheiden und bislang keine eigene DK hatten, erhalten bereits für noch mögliche Playoffs 2026 bis 24 Stunden vor dem jeweils möglichen Heimspiel ein Vorkaufsrecht auf ihren neuen Platz der Saison 2026-27. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Pantherdauerkarte-26-27-Treuepreise-bis-0802-_naid,4237.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7269_1_org_DSC_0317.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Feb 2026 10:35:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
