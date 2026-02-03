@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Feb 2026 10:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:19:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Auch Heimspiel gegen Mannheim ist nun ausverkauft</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Auch-Heimspiel-gegen-Mannheim-ist-nun-ausverkauft-_naid,4188.html</link>
-      <description>Der Ausverkauft-Rekord mit 14 vollen Hütten wackelt. Beim Heimspiel gegen die Adler Mannheim am 28. Dezember dürfen die Augsburger Panther im 13 von dann 17 Hauptrunden-Heimspielen die magische 6.179 als Zuschauerzahl und damit ausverkauft melden. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Auch-Heimspiel-gegen-Mannheim-ist-nun-ausverkauft-_naid,4188.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7220_1_org_DSC_3833.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Dec 2025 14:30:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther verlängern mit Ryan Button</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Ryan-Button-_naid,4189.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Pantherdauerkarte-26-27-Treuepreise-bis-0802-_naid,4237.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7269_1_org_DSC_0317.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 02 Feb 2026 10:35:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther verlängern mit Moritz Elias</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Moritz-Elias-_naid,4238.html</link>
+      <description>Die Augsburger Panther haben den Vertrag mit Moritz Elias verlängert. Der gebürtige Fuggerstädter startete seine Eishockeykarriere im Nachwuchs des Augsburger EV und steht seit 2023 im Profiteam seines Heimatclubs unter Vertrag. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Moritz-Elias-_naid,4238.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7270_1_org_20260106_AEVISR_Goldberg_132.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 10:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
