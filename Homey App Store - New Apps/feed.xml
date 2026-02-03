@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 10:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:16:52 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -130,6 +130,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.dnetlabs.warmtewizard</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dnetlabs.warmtewizard/17/10360b7f-a799-4a75-8131-8e32ea4e39b9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Jan 2026 11:12:53 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bosch HomeCom Easy Community</title>
+      <link>https://homey.app/a/com.bosch.homecom</link>
+      <description>Control your Bosch heating and cooling devices</description>
+      <author>noreply@homey.app (Geert Lucas Drenthe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.bosch.homecom</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.bosch.homecom/10/b0ec9c45-8b44-4a92-a6e3-03d2f1a9263d/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Creality</title>
+      <link>https://homey.app/a/com.creality</link>
+      <description>Control your Creality 3D printers</description>
+      <author>noreply@homey.app (Uğur Benek)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.creality</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.creality/3/7e4a3590-1cb3-4d7a-96e9-20ec5a21f021/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>ESPHome Controller</title>
+      <link>https://homey.app/a/com.ugrbnk.esphome</link>
+      <description>Your DIY devices, seamlessly integrated</description>
+      <author>noreply@homey.app (Uğur Benek)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ugrbnk.esphome</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ugrbnk.esphome/1/9227dbc7-737a-4751-94f8-23534663d42e/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Indevolt Powerflex</title>
+      <link>https://homey.app/a/nl.robceelen.indevolt</link>
+      <description>Monitoring of the Indevolt Powerflex eco and hybrid battery.</description>
+      <author>noreply@homey.app (Rob Ceelen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.robceelen.indevolt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.robceelen.indevolt/18/08d32753-a756-433b-bcf4-ab273ef6be15/assets/images/large-1.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Monta EV Charger</title>
+      <link>https://homey.app/a/se.oxiecloud.monta</link>
+      <description>Monta - Your smart EV charging solution.</description>
+      <author>noreply@homey.app (Mats Knuts)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.oxiecloud.monta</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.oxiecloud.monta/11/b215df04-0e0f-4225-b9be-623bc118cc80/assets/images/app_large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
     </item>
   </channel>
 </rss>
