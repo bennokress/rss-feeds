@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Feb 2026 10:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:19:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verlängern mit Ryan Button</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Ryan-Button-_naid,4189.html</link>
-      <description>Ryan Button wird auch in der PENNY DEL-Saison 2026-27 für die Augsburger Panther auflaufen. Der 34-jährige Verteidiger wechselte zur laufenden Spielzeit von den Grizzlys Wolfsburg in die Fuggerstadt und verdiente sich mit seinen Leistungen eine frühzeitige Vertragsverlängerung. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Ryan-Button-_naid,4189.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7221_1_org_AEVISR_Goldberg_190.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Dec 2025 10:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Leon van der Linde für Rosenheim spielberechtigt</title>
       <link>https://www.aev-panther.de/panther/news_news,-Leon-van-der-Linde-f%C3%BCr-Rosenheim-spielberechtigt-_naid,4190.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Moritz-Elias-_naid,4238.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7270_1_org_20260106_AEVISR_Goldberg_132.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Feb 2026 10:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>17. DEL U11 Cup in Augsburg</title>
+      <link>https://www.aev-panther.de/panther/news_news,-17-DEL-U11-Cup-in-Augsburg-_naid,4239.html</link>
+      <description>Es ist wieder so weit: Deutschlands bester Eishockeynachwuchs in der Altersklasse U11 trifft zum DEL Cup im Augsburger Curt-Frenzel-Stadion. Am 07. und 08. Februar kämpfen die Stars von morgen um die prestigeträchtige Trophäe. Das Turnier wird bereits zum 17. Mal in der Fuggerstadt ausgetragen. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-17-DEL-U11-Cup-in-Augsburg-_naid,4239.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7271_1_org_aev_u11_cup_2025.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Feb 2026 08:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
