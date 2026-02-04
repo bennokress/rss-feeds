@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 16:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 14:20:21 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -184,6 +184,15 @@
       <guid isPermaLink="false">https://homey.app/a/net.franceweb.blueriiot</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.franceweb.blueriiot/10/738e6e06-3934-4a37-a6df-4b8605430254/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Feb 2026 17:21:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mood State</title>
+      <link>https://homey.app/a/com.moodstate</link>
+      <description>Compare your moods with current light states.</description>
+      <author>noreply@homey.app (Kjetil Volden)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.moodstate</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.moodstate/6/c565673c-1df8-4cab-a230-7f55ba7e72f7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Feb 2026 15:20:19 +0100</pubDate>
     </item>
   </channel>
 </rss>
