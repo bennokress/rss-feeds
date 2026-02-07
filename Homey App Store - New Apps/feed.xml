@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 10:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 10:08:15 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -229,6 +229,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.hems.controller</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.hems.controller/5/fc3304e1-ca48-4093-9e61-86937763e951/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Feb 2026 11:17:23 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aquaro Smart Water Monitor</title>
+      <link>https://homey.app/a/com.aquaro</link>
+      <description>The Easiest Way to Save Water, One Drop at a Time.</description>
+      <author>noreply@homey.app (Bretislav Kubesa)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aquaro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aquaro/9/6fab5fb3-2685-4ddf-b5bf-bd4847088b0f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 07 Feb 2026 11:08:14 +0100</pubDate>
     </item>
   </channel>
 </rss>
