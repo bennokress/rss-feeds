@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 10:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 10:27:09 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -238,6 +238,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.aquaro</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.aquaro/9/6fab5fb3-2685-4ddf-b5bf-bd4847088b0f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 07 Feb 2026 11:08:14 +0100</pubDate>
+    </item>
+    <item>
+      <title>KOHLER DTV+</title>
+      <link>https://homey.app/a/com.kohler.dtv-plus</link>
+      <description>The perfect shower, every time</description>
+      <author>noreply@homey.app (Thomas Thaulow)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kohler.dtv-plus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kohler.dtv-plus/34/c5fd6151-bf8b-4298-9062-6751de95be2b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maytronics Dolphin</title>
+      <link>https://homey.app/a/com.maytronics.dolphin</link>
+      <description>Control your Maytronics Dolphin robotic pool cleaner from Homey.</description>
+      <author>noreply@homey.app (Thomas Thaulow)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.maytronics.dolphin</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.maytronics.dolphin/4/63d1bc75-bed5-4785-abf0-0b24f698fd36/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>Swiss Transport Monitor</title>
+      <link>https://homey.app/a/com.swisstransport.monitor</link>
+      <description>Beautiful Widgets for Swiss Public Transport.</description>
+      <author>noreply@homey.app (Beat Ineichen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.swisstransport.monitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.swisstransport.monitor/5/7f3ab6f2-fe16-4352-959a-070db20279b4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kraken Energy</title>
+      <link>https://homey.app/a/com.kraken.energy</link>
+      <description>Monitor the live use of energy using an Octopus Home Mini</description>
+      <author>noreply@homey.app (David Piper)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kraken.energy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kraken.energy/39/d7c0088f-55d7-4f63-84f9-24549bf3242d/assets/images/kraken_energy_monitoring_medium.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
     </item>
   </channel>
 </rss>
