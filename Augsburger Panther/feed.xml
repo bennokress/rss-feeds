@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Feb 2026 10:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:28:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Premiumpartner SAGER GROUP im Rampenlicht</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Premiumpartner-SAGER-GROUP-im-Rampenlicht-_naid,4193.html</link>
-      <description>Beim Heimspiel gegen die Straubing Tigers am Sonntag, 21. Dezember, präsentiert sich die SAGER GROUP auf der Brust der Panthertrikots "Im Rampenlicht". Bereits im Jahr 2020 stieg das Augsburger Unternehmen in die Riege der Top-Partner auf, zur laufenden PENNY DEL-Saison hat der langjährige Unterstützer des Augsburger Eishockeys sein Werbepaket erhöht und ist damit erstmalig sogar Premiumpartner. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Premiumpartner-SAGER-GROUP-im-Rampenlicht-_naid,4193.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7225_1_org_ap_premiumpartner_sager.png.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 20 Dec 2025 12:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther erwarten die Straubing Tigers</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-erwarten-die-Straubing-Tigers-_naid,4191.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-1878-SHOP-in-der-Olympia-Pause-_naid,4241.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7273_1_org_20251204_AEVDRE_Goldberg_155.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Feb 2026 11:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther melden ausverkauft für verbleibende Heimspiele</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</link>
+      <description>PENNY DEL-Rekord egalisiert! Nachdem mittlerweile alle Tickets für die noch drei verbleibenden Hauptrunden-Partien im Curt-Frenzel-Stadion vergriffen sind, stehen die Augsburger Panther in der Saison 2025-26 bei 21 ausverkauften Heimspielen und ziehen in dieser Wertung damit mit den Eisbären Berlin gleich, die in der Hauptrunde 2024-25 ebenfalls 21-mal ausverkauft melden durften. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7274_1_org_20251204_AEVDRE_Goldberg_172.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
