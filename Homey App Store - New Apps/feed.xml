@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 10:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:24:07 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -274,6 +274,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.kraken.energy</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kraken.energy/39/d7c0088f-55d7-4f63-84f9-24549bf3242d/assets/images/kraken_energy_monitoring_medium.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>Petlibro</title>
+      <link>https://homey.app/a/com.petlibro.petlibro</link>
+      <description>Smart pet feeding and hydration, controlled from your Homey</description>
+      <author>noreply@homey.app (Thomas Thaulow)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.petlibro.petlibro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.petlibro.petlibro/6/3c7d1a15-88bd-4eb8-83d9-8b58fd25c7af/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Feb 2026 13:24:03 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vistapool &amp; Hayward</title>
+      <link>https://homey.app/a/com.vistapool.vistapool-sugarvalley-hayward</link>
+      <description>Your pool, always connected to Homey</description>
+      <author>noreply@homey.app (Thomas Thaulow)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.vistapool.vistapool-sugarvalley-hayward</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.vistapool.vistapool-sugarvalley-hayward/11/43066ea2-d3bd-4fb2-b041-0061d8319540/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Feb 2026 13:24:03 +0100</pubDate>
     </item>
   </channel>
 </rss>
