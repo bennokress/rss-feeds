@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 12:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 14:32:51 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -292,6 +292,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.vistapool.vistapool-sugarvalley-hayward</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.vistapool.vistapool-sugarvalley-hayward/11/43066ea2-d3bd-4fb2-b041-0061d8319540/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Feb 2026 13:24:03 +0100</pubDate>
+    </item>
+    <item>
+      <title>Flexit GO</title>
+      <link>https://homey.app/a/com.barelysufficient.flexit</link>
+      <description>Better indoor climate</description>
+      <author>noreply@homey.app (Ole Markus With)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.barelysufficient.flexit</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.barelysufficient.flexit/2/32b87d79-af5e-4dbe-af62-6aff2f08594f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Feb 2026 15:32:50 +0100</pubDate>
     </item>
   </channel>
 </rss>
