@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 14:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 10:21:44 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -301,6 +301,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.barelysufficient.flexit</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.barelysufficient.flexit/2/32b87d79-af5e-4dbe-af62-6aff2f08594f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Feb 2026 15:32:50 +0100</pubDate>
+    </item>
+    <item>
+      <title>Valetudo</title>
+      <link>https://homey.app/a/name.fox.mads.valetudo</link>
+      <description>Smart multi-floor control for your Valetudo robot vacuum. This app is an unofficial integration and is not affiliated with or endorsed by the Valetudo project.</description>
+      <author>noreply@homey.app (Mads Fox)</author>
+      <guid isPermaLink="false">https://homey.app/a/name.fox.mads.valetudo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/name.fox.mads.valetudo/5/dad76dd4-7628-4304-a747-4b3b3adbca34/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 11:21:43 +0100</pubDate>
     </item>
   </channel>
 </rss>
