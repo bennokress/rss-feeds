@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Feb 2026 12:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 14:30:55 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther erwarten die Straubing Tigers</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-erwarten-die-Straubing-Tigers-_naid,4191.html</link>
-      <description>30. Spieltag in der PENNY DEL-Hauptrunde 2025-26. Die Augsburger Panther empfangen am Sonntagnachmittag um 16:30 Uhr die Straubing Tigers im ausverkauften Curt-Frenzel-Stadion zum bayerischen Derby. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-erwarten-die-Straubing-Tigers-_naid,4191.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7223_1_org_20251212_AEVERC_Goldberg_132.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Dec 2025 08:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>AEV punktet verdient gegen Straubing</title>
       <link>https://www.aev-panther.de/panther/news_news,-AEV-punktet-verdient-gegen-Straubing-_naid,4194.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7274_1_org_20251204_AEVDRE_Goldberg_172.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Berufsinfoveranstaltung der HWK für AEV &amp; FCA</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Berufsinfoveranstaltung-der-HWK-f%C3%BCr-AEV-FCA-_naid,4243.html</link>
+      <description>Seit 2010 lädt die Handwerkskammer (HWK) für Schwaben Nachwuchstalente des FC Augsburg und des Augsburger EV zu ihrer Berufsinfoveranstaltung ein. In diesem Jahr informierten sich rund 130 Jugendliche gemeinsam mit Trainern und Eltern über Handwerksberufe und deren Karrierechancen und testeten ihr eigenes handwerkliches Talent. Hierfür standen die Werkstätten des Berufsbildungs- und Technologiezentrums (BTZ) der HWK Schwaben zur Verfügung. Dort konnten sich die Nachwuchstalente als Konditoren, Maler und Lackierer, Kaminkehrer, Elektriker, Schreiner, Feinwerkmechaniker, Metallbauer sowie in der Sanitär-, Heizungs- und Klimatechnik, der Land- und Baumaschinentechnik und im Gerüstbau ausprobieren. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Berufsinfoveranstaltung-der-HWK-f%C3%BCr-AEV-FCA-_naid,4243.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7275_1_org_Berufsinfo_HWK_Metall.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
