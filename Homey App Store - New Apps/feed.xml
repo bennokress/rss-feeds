@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 12:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 14:28:06 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -319,6 +319,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.genvex.connect</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.genvex.connect/1/c0ca0010-ebb0-4438-85cf-6f1a0e3cd249/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 13:22:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Open AIR Mini</title>
+      <link>https://homey.app/a/com.remingtondev.open-air-mini</link>
+      <description>Breathe smarter with Open AIR Mini</description>
+      <author>noreply@homey.app (Julien Moysens)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.remingtondev.open-air-mini</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.remingtondev.open-air-mini/2/cecf7dc5-5449-4611-a70c-a72b5de5c691/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Feb 2026 15:28:04 +0100</pubDate>
     </item>
   </channel>
 </rss>
