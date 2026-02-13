@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 14:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 12:16:00 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -355,6 +355,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.jbl.synthesis</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.jbl.synthesis/5/d1409879-73d5-4ee9-b2d4-4a04f84c72a4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Feb 2026 15:24:44 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dreame Matter Cleaner</title>
+      <link>https://homey.app/a/com.dreame.cleaner.pro</link>
+      <description>Advanced local Matter control for Dreame X50 Ultra and other robot vacuums.</description>
+      <author>noreply@homey.app (Beat Ineichen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dreame.cleaner.pro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dreame.cleaner.pro/2/b3e5451c-9fca-4171-bf75-b154d7639e9d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 13:15:58 +0100</pubDate>
+    </item>
+    <item>
+      <title>Enertek</title>
+      <link>https://homey.app/a/no.enertek.app</link>
+      <description>One app. Smarter home control</description>
+      <author>noreply@homey.app (Mateusz Sybilla)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.enertek.app</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.enertek.app/2/fc89726c-1955-4c55-ac8a-47aefd6ec9ae/assets/images/app_large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Feb 2026 13:15:58 +0100</pubDate>
     </item>
   </channel>
 </rss>
