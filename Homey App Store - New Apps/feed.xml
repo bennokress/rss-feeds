@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 10:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 14:21:40 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -391,6 +391,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.liftmaster.myq</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.liftmaster.myq/4/1fa8db76-2159-466f-87c9-61a97df4649b/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 11:23:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>9to5Google</title>
+      <link>https://homey.app/a/com.9to5google</link>
+      <description>The latest Google news</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.9to5google</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.9to5google/1/2494fd46-c99f-4695-8b96-a6d43d07bf78/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 15:21:39 +0100</pubDate>
+    </item>
+    <item>
+      <title>Swimming Water</title>
+      <link>https://homey.app/a/nl.zwemwater</link>
+      <description>Know before you go — live water temperature and swim safety</description>
+      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.zwemwater</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.zwemwater/2/1fcba2bb-4ee1-40a6-b18b-4e7c350b7332/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 15:21:39 +0100</pubDate>
     </item>
   </channel>
 </rss>
