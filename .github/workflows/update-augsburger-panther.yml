@@ -33,11 +33,11 @@ jobs:
       - name: Update Augsburger Panther feed
         id: scraper
         env:
-          MAKE_WEBHOOKS_TOKEN: ${{ secrets.MAKE_WEBHOOKS_TOKEN }}
-          MAKE_PANTHER_WEBHOOK_URL: ${{ secrets.MAKE_PANTHER_WEBHOOK_URL }}
+          PUSHOVER_TOKEN_AUGSBURGER_PANTHER: ${{ secrets.PUSHOVER_TOKEN_AUGSBURGER_PANTHER }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
         run: |
           set +e
-          python "Augsburger Panther/scraper.py" --webhook 2>&1 | tee scraper_output.txt
+          python "Augsburger Panther/scraper.py" --notify 2>&1 | tee scraper_output.txt
           exit_code=${PIPESTATUS[0]}
           set -e
 

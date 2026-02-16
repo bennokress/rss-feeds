@@ -11,6 +11,7 @@ import re
 import sys
 import time
 from datetime import datetime
+from io import BytesIO
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -27,6 +28,7 @@ MAX_ARTICLES = 50
 TIMEZONE = ZoneInfo("Europe/Berlin")
 FETCH_TIMEOUT = 60
 MAX_RETRIES = 3
+PUSHOVER_API_URL = "https://api.pushover.net/1/messages.json"
 
 
 def fetch_html(url: str) -> str:
@@ -216,49 +218,58 @@ def parse_date(date_str: str, time_str: str) -> datetime | None:
         return None
 
 
-def send_webhook(article: dict) -> bool:
+def send_notification(article: dict) -> bool:
     """
-    Send article data to webhook.
+    Send article notification via Pushover API.
     Returns True on success, False on failure.
     """
-    webhook_url = os.environ.get("MAKE_PANTHER_WEBHOOK_URL")
-    token = os.environ.get("MAKE_WEBHOOKS_TOKEN")
-    if not webhook_url or not token:
-        print("  Warning: MAKE_PANTHER_WEBHOOK_URL or MAKE_WEBHOOKS_TOKEN not set, skipping webhook")
+    token = os.environ.get("PUSHOVER_TOKEN_AUGSBURGER_PANTHER")
+    user = os.environ.get("PUSHOVER_USER")
+    if not token or not user:
+        print("  Warning: PUSHOVER_TOKEN_AUGSBURGER_PANTHER or PUSHOVER_USER not set, skipping notification")
         return False
 
     # Convert date/time to Unix timestamp
     timestamp = None
-    if article["date"]:
-        try:
-            dt_str = f"{article['date']} {article['time']}" if article["time"] else article["date"]
-            fmt = "%Y-%m-%d %H:%M" if article["time"] else "%Y-%m-%d"
-            dt = datetime.strptime(dt_str, fmt)
-            dt = dt.replace(tzinfo=TIMEZONE)
-            timestamp = int(dt.timestamp())
-        except ValueError:
-            pass
+    dt = parse_date(article["date"], article["time"])
+    if dt:
+        timestamp = int(dt.timestamp())
 
-    payload = {
-        "title": article["title"],
-        "description": article["description"],
+    data = {
+        "token": token,
+        "user": user,
+        "title": "Augsburger Panther",
+        "message": article["title"],
         "url": article["url"],
-        "imageURL": article["image"],
-        "timestamp": timestamp,
+        "url_title": article["title"],
     }
+    if timestamp:
+        data["timestamp"] = timestamp
 
+    # Download article image for attachment
+    image_buf = None
     try:
-        response = requests.post(
-            webhook_url,
-            json=payload,
-            headers={"x-make-apikey": token},
-            timeout=30,
-        )
+        if article.get("image"):
+            try:
+                img_response = requests.get(article["image"], timeout=15)
+                img_response.raise_for_status()
+                image_buf = BytesIO(img_response.content)
+            except Exception as e:
+                print(f"  Image download failed, sending without image: {e}")
+
+        files = {}
+        if image_buf:
+            files["attachment"] = ("image.jpg", image_buf, "image/jpeg")
+
+        response = requests.post(PUSHOVER_API_URL, data=data, files=files, timeout=30)
         response.raise_for_status()
         return True
     except Exception as e:
-        print(f"  Webhook failed: {e}")
+        print(f"  Notification failed: {e}")
         return False
+    finally:
+        if image_buf:
+            image_buf.close()
 
 
 def generate_rss_feed(articles: list[dict]) -> None:
@@ -299,7 +310,7 @@ def generate_rss_feed(articles: list[dict]) -> None:
 def main() -> None:
     """Main entry point."""
     parser = argparse.ArgumentParser(description="Scrape Augsburger Panther news")
-    parser.add_argument("--webhook", action="store_true", help="Send new articles to webhook")
+    parser.add_argument("--notify", action="store_true", help="Send new articles as Pushover notifications")
     args = parser.parse_args()
 
     # Load existing articles
@@ -346,12 +357,12 @@ def main() -> None:
 
         print(f"\nSuccessfully fetched {len(updated_articles)}/{len(articles_needing_content)} articles")
 
-    # Send webhooks for new articles (if enabled)
-    if args.webhook and updated_articles:
-        print(f"\nSending webhooks for {len(updated_articles)} new articles...")
+    # Send notifications for new articles (if enabled)
+    if args.notify and updated_articles:
+        print(f"\nSending notifications for {len(updated_articles)} new articles...")
         for article in updated_articles:
-            print(f"  Webhook: {article['title']}")
-            if send_webhook(article):
+            print(f"  Notifying: {article['title']}")
+            if send_notification(article):
                 print("    Sent")
 
     # Save articles
