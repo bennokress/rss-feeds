@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 18:16:00 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -409,6 +409,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.zwemwater</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.zwemwater/2/1fcba2bb-4ee1-40a6-b18b-4e7c350b7332/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 15:21:39 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mercedes-Benz</title>
+      <link>https://homey.app/a/com.mercedes.mbapi</link>
+      <description>Stay connected to your Mercedes-Benz, wherever you are</description>
+      <author>noreply@homey.app (Anders Dissing)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mercedes.mbapi</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mercedes.mbapi/9/51c4698e-bc80-44b4-bebc-16a6cbc0dd47/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Feb 2026 19:15:59 +0100</pubDate>
     </item>
   </channel>
 </rss>
