@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 18:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 10:21:00 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -418,6 +418,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.mercedes.mbapi</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.mercedes.mbapi/9/51c4698e-bc80-44b4-bebc-16a6cbc0dd47/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Feb 2026 19:15:59 +0100</pubDate>
+    </item>
+    <item>
+      <title>Stellantis Vehicles</title>
+      <link>https://homey.app/a/com.martech.stellantisvehicles</link>
+      <description>Connect your Stellantis car and give insight to you</description>
+      <author>noreply@homey.app (Martijn de Bont)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.martech.stellantisvehicles</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.martech.stellantisvehicles/7/6d15a9ff-0185-40ea-9a93-7c42291f8390/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Feb 2026 11:21:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
