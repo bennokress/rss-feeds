@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Feb 2026 14:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 12:22:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV punktet verdient gegen Straubing</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-punktet-verdient-gegen-Straubing-_naid,4194.html</link>
-      <description>Die Augsburger Panther haben nach einem Horrorstart noch einen hochverdienten Punkt gegen die Straubing Tigers in der PENNY DEL geholt, das Spiel letztlich aber mit 2:3 nach Penaltyschießen verloren. Für die Panther trafen Alexander Blank (21.) und Alexandre Grenier (49.). Bei den Niederbayern waren Nicolas Beaudin (2.) und Stefan Loibl (2.) erfolgreich. Den Extrapunkt im Shootout besorgte Tyler Madden (66.). […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-punktet-verdient-gegen-Straubing-_naid,4194.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7226_1_org_str3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Dec 2025 19:27:00 +0100</pubDate>
-    </item>
     <item>
       <title>Öffnungszeiten 1878 SHOP</title>
       <link>https://www.aev-panther.de/panther/news_news,-%C3%96ffnungszeiten-1878-SHOP-_naid,4187.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Berufsinfoveranstaltung-der-HWK-f%C3%BCr-AEV-FCA-_naid,4243.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7275_1_org_Berufsinfo_HWK_Metall.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>DEB-Teams der Frauen und Männer testen in Augsburg</title>
+      <link>https://www.aev-panther.de/panther/news_news,-DEB-Teams-der-Frauen-und-M%C3%A4nner-testen-in-Augsburg-_naid,4244.html</link>
+      <description>Länderspiel-Doppelpack Augsburg: Im Rahmen der WM-Vorbereitung auf die Weltmeisterschaft 2026 der Männer in der Schweiz treten sowohl das DEB-Frauen-Team als auch die Männer-Nationalmannschaft an einem gemeinsamen Spieltag im Curt-Frenzel-Stadion an und bieten allen Fans ein besonderes Eishockeyerlebnis. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-DEB-Teams-der-Frauen-und-M%C3%A4nner-testen-in-Augsburg-_naid,4244.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7276_1_org_cp_d2_DEB_SVK24_017.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Feb 2026 11:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
