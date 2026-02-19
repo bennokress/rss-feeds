@@ -12,7 +12,7 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 10:19:43 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
       <title>OpenWRT</title>
@@ -445,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.emberplus.provider</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.emberplus.provider/3/0f3b1729-5962-4557-a585-517b14cf4a8a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Feb 2026 11:20:03 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fronius GEN24 (Local)</title>
+      <link>https://homey.app/a/com.pascalnohl.froniusgen24</link>
+      <description>Local Fronius GEN24/Reserva/SM IP integration.</description>
+      <author>noreply@homey.app (Pascal Nohl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.froniusgen24</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.froniusgen24/7/23400361-2682-4b9b-914a-6a5efa06facf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Feb 2026 11:19:41 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bridgekeeper</title>
+      <link>https://homey.app/a/com.github.rtyle.bridgekeeper</link>
+      <description>Shield your devices from automation (manual override) and more</description>
+      <author>noreply@homey.app (Ross Tyler)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.github.rtyle.bridgekeeper</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.github.rtyle.bridgekeeper/4/126ae998-84ad-4b55-af76-358954afecd9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Feb 2026 11:19:41 +0100</pubDate>
     </item>
   </channel>
 </rss>
