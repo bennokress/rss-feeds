@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Feb 2026 10:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 10:18:14 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Vorweihnachtliches Derby gegen Nürnberg</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Vorweihnachtliches-Derby-gegen-N%C3%BCrnberg-_naid,4195.html</link>
-      <description>Vorweihnachtliches Derby im ausverkauften Curt-Frenzel-Stadion. Die Augsburger Panther treffen am Tag vor Heiligabend um 19:30 Uhr auf die Nürnberg Ice Tigers. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Vorweihnachtliches-Derby-gegen-N%C3%BCrnberg-_naid,4195.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7227_1_org_DSC_7158.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Dec 2025 08:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther verlängern mit Kyle Mayhew</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-verl%C3%A4ngern-mit-Kyle-Mayhew-_naid,4196.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-fehlt-Panthern-verletzt-_naid,4245.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7277_1_org_AEVLINZ_Goldberg_106.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther nehmen am Dolomitencup 2026 teil</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-nehmen-am-Dolomitencup-2026-teil-_naid,4246.html</link>
+      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups im italienischen Neumarkt statt. Als dritter Teilnehmer nach dem EV Zug und den Eisbären Berlin stehen jetzt rund sechs Monate vor Turnierbeginn auch die Augsburger Panther offiziell fest. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-nehmen-am-Dolomitencup-2026-teil-_naid,4246.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7278_1_org_KER00689_20_08_23.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Feb 2026 11:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
