@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Feb 2026 14:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 18:28:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AHA360° wird Exklusivpartner der Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AHA360%C2%B0-wird-Exklusivpartner-der-Panther-_naid,4199.html</link>
-      <description>Starkes Zeichen zum Weihnachtsfest! Die Werbepartnerschaft mit der AHA GmbH wird frühzeitig verlängert. Dabei erreicht das Engagement des mittelständischen Unternehmens in den nächsten Jahren eine neue Dimension, sodass AHA360°der erste Partner in der höchsten Sponsorenebene der „Exklusivpartner" wird. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AHA360%C2%B0-wird-Exklusivpartner-der-Panther-_naid,4199.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7229_1_org_ap_exklusivpartner_aha.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Dec 2025 19:45:00 +0100</pubDate>
-    </item>
     <item>
       <title>AEV zeigt auch gegen Nürnberg Moral</title>
       <link>https://www.aev-panther.de/panther/news_news,-AEV-zeigt-auch-gegen-N%C3%BCrnberg-Moral-_naid,4198.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Markus-Keller-ist-ab-sofort-spielberechtigt-_naid,4247.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7279_1_org_AEVSERC_Goldberg_229.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 13:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Termine für die Playoffs 2026</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Die-Termine-f%C3%BCr-die-Playoffs-2026-_naid,4248.html</link>
+      <description>Die Hauptrunde der Deutschen Eishockey Liga (PENNY DEL) geht nach der  Olympia-Pause am 25. Februar 2026 mit den letzten acht Spieltagen in die  entscheidende Phase. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Die-Termine-f%C3%BCr-die-Playoffs-2026-_naid,4248.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7281_1_org_cp_d2_F2_EBB_BHV24_022.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Feb 2026 17:50:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
