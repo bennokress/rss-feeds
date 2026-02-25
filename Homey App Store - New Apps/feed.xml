@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 16:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:18:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Presence Simulator</title>
-      <link>https://homey.app/a/com.simulator.presence</link>
-      <description>Simulate presence by automatically replaying your lighting patterns from a week ago</description>
-      <author>noreply@homey.app (Knut Rikken)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.simulator.presence</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.simulator.presence/3/74e9bb4d-961c-4178-8e5b-b0223031f94e/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jan 2026 16:41:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Earth Hour</title>
-      <link>https://homey.app/a/org.earthhour</link>
-      <description>Join the Biggest Hour for Earth.</description>
-      <author>noreply@homey.app (Abe Haverkamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/org.earthhour</guid>
-      <enclosure url="https://apps.homeycdn.net/app/org.earthhour/2/0a23eef9-7135-450a-995a-1b55fb24927e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Jan 2026 21:12:28 +0100</pubDate>
-    </item>
     <item>
       <title>HottoH stove</title>
       <link>https://homey.app/a/com.stove.hottoh</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/gpm.hoymiles.solarpanel</guid>
       <enclosure url="https://apps.homeycdn.net/app/gpm.hoymiles.solarpanel/1/9acc1139-dbe5-4d08-9f2d-74be63267a14/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 17:26:47 +0100</pubDate>
+    </item>
+    <item>
+      <title>Haier hOn</title>
+      <link>https://homey.app/a/com.haier.hon.airco</link>
+      <description>Smart Climate Control</description>
+      <author>noreply@homey.app (Pjotr Grootkop)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.haier.hon.airco</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.haier.hon.airco/6/b6ae274a-4643-4f63-bee9-861c1bbce923/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 09:18:50 +0100</pubDate>
+    </item>
+    <item>
+      <title>Syslog client</title>
+      <link>https://homey.app/a/se.oxiecloud.syslog</link>
+      <description>Syslog made simple</description>
+      <author>noreply@homey.app (Mats Knuts)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.oxiecloud.syslog</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.oxiecloud.syslog/4/ea67db47-155c-44cc-b67e-845935eb9b25/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 09:18:50 +0100</pubDate>
     </item>
   </channel>
 </rss>
