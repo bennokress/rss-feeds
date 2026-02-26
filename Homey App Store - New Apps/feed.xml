@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 08:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 10:20:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bosch HomeCom Easy Community</title>
-      <link>https://homey.app/a/com.bosch.homecom</link>
-      <description>Control your Bosch heating and cooling devices</description>
-      <author>noreply@homey.app (Geert Lucas Drenthe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.bosch.homecom</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.bosch.homecom/10/b0ec9c45-8b44-4a92-a6e3-03d2f1a9263d/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Creality</title>
-      <link>https://homey.app/a/com.creality</link>
-      <description>Control your Creality 3D printers</description>
-      <author>noreply@homey.app (Uğur Benek)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.creality</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.creality/3/7e4a3590-1cb3-4d7a-96e9-20ec5a21f021/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
-    </item>
     <item>
       <title>ESPHome Controller</title>
       <link>https://homey.app/a/com.ugrbnk.esphome</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.ugreen.nas</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ugreen.nas/8/86a112b2-2b73-4498-8da1-166af73ccb4a/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 09:17:59 +0100</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Lighting</title>
+      <link>https://homey.app/a/tv.waldoandfriends.adaptive-lighting</link>
+      <description>Light that follows your natural rhythm</description>
+      <author>noreply@homey.app (Wouter Janson-Korhorn)</author>
+      <guid isPermaLink="false">https://homey.app/a/tv.waldoandfriends.adaptive-lighting</guid>
+      <enclosure url="https://apps.homeycdn.net/app/tv.waldoandfriends.adaptive-lighting/15/ef0cf513-9059-4ca4-8a4a-1867485cf797/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 11:20:25 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chronoflow</title>
+      <link>https://homey.app/a/com.pascalnohl.chronoflow</link>
+      <description>Automate the precise moments of your life</description>
+      <author>noreply@homey.app (Pascal Nohl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.chronoflow</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.chronoflow/1/6a28f9cf-e749-4362-a3db-dd284b71df39/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 11:20:25 +0100</pubDate>
     </item>
   </channel>
 </rss>
