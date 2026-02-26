@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Feb 2026 18:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:41:47 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV zeigt auch gegen Nürnberg Moral</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-zeigt-auch-gegen-N%C3%BCrnberg-Moral-_naid,4198.html</link>
-      <description>Die Augsburger Panther können in der PENNY DEL derzeit einfach nicht im heimischen Curt-Frenzel-Stadion gewinnen. Gegen die Nürnberg Ice Tigers unterlag der AEV einen Tag vor Heiligabend trotz toller Moral mit 2:3 nach Verlängerung und musste sich wie schon gegen Straubing mit einem Punkt begnügen. Es war bereits die siebte Heimniederlage in Folge. Die Treffer für die Panther erzielten Anthony Louis (49.) und Alexander Blank (50.). Für die Ice Tigers waren Samuel Dove-McFalls (27.), Evan Barratt (35.) und Brett Murray (62.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-zeigt-auch-gegen-N%C3%BCrnberg-Moral-_naid,4198.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7230_1_org_nit3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Dec 2025 22:26:00 +0100</pubDate>
-    </item>
     <item>
       <title>Frohe Weihnachten</title>
       <link>https://www.aev-panther.de/panther/news_news,-Frohe-Weihnachten-_naid,4197.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Die-Termine-f%C3%BCr-die-Playoffs-2026-_naid,4248.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7281_1_org_cp_d2_F2_EBB_BHV24_022.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 17:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther siegen in Mannheim</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-siegen-in-Mannheim-_naid,4249.html</link>
+      <description>Die Augsburger Panther dürfen weiter auf die Playoffs in der PENNY DEL hoffen. Bei den Adler Mannheim zeigte der AEV ein starkes Auswärtsspiel, tolle Moral und siegte am Ende mit 4:3 nach Verlängerung. Die Treffer für die Panther erzielten David Farrance (11.), T.J. Trevelyan (31.), Kyle Mayhew (59.) und Cody Kunyk (61.). Für Mannheim waren Zachary Solow (6.), Alexander Ehl (17.) und Marc Michaelis (55.) erfolgreich. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-siegen-in-Mannheim-_naid,4249.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7282_1_org_merc.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 23:22:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
