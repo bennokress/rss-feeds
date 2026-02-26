@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:27:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Frohe Weihnachten</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Frohe-Weihnachten-_naid,4197.html</link>
-      <description>Wenn sich das Jahr dem Ende zuneigt und Weihnachten vor der Türe steht, ist es Zeit, innezuhalten und Danke zu sagen. Danke für die Unterstützung und die große Verbundenheit mit unseren Augsburger Panthern. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Frohe-Weihnachten-_naid,4197.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7181_1_org_Thumbnail_16x9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Dec 2025 00:01:00 +0100</pubDate>
-    </item>
     <item>
       <title>AEV verliert in Dresden</title>
       <link>https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-Dresden-_naid,4200.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-siegen-in-Mannheim-_naid,4249.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7282_1_org_merc.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 23:22:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Clubs reichen Lizenzanträge ein</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Clubs-reichen-Lizenzantr%C3%A4ge-ein-_naid,4251.html</link>
+      <description>Die Augsburger Panther und die 13 anderen Clubs der Deutschen Eishockey Liga (PENNY DEL) haben ihre Anträge zur Teilnahme an der Lizenzprüfung für die kommende Saison fristgerecht beim Ligabüro in Neuss eingereicht. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clubs-reichen-Lizenzantr%C3%A4ge-ein-_naid,4251.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7284_1_org_20260116_AEVFRA_Goldberg_228.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Feb 2026 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
