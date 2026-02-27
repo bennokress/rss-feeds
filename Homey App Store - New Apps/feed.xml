@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 10:15:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ESPHome Controller</title>
-      <link>https://homey.app/a/com.ugrbnk.esphome</link>
-      <description>Your DIY devices, seamlessly integrated</description>
-      <author>noreply@homey.app (Uğur Benek)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ugrbnk.esphome</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ugrbnk.esphome/1/9227dbc7-737a-4751-94f8-23534663d42e/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
-    </item>
     <item>
       <title>Indevolt Powerflex</title>
       <link>https://homey.app/a/nl.robceelen.indevolt</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.chronoflow</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.chronoflow/1/6a28f9cf-e749-4362-a3db-dd284b71df39/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 11:20:25 +0100</pubDate>
+    </item>
+    <item>
+      <title>Midea Vacuum</title>
+      <link>https://homey.app/a/com.midea.vacuum</link>
+      <description>Control Midea vacuum via cloud API</description>
+      <author>noreply@homey.app (Alex Godijn)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.midea.vacuum</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.midea.vacuum/6/093e7f69-70b0-4670-94b0-8ed3e356d2ef/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 11:15:55 +0100</pubDate>
     </item>
   </channel>
 </rss>
