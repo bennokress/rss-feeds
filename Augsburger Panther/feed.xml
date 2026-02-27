@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 14:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:20:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV verliert in Dresden</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-Dresden-_naid,4200.html</link>
-      <description>Die Augsburger Panther haben im dritten Duell in der PENNY DEL mit den Dresdner Eislöwen die zweite Niederlage kassiert. Der AEV verlor am zweiten Weihnachtsfeiertag bei den Sachsen mit 1:3 und kassierte einen herben Dämpfer im Kampf um die Playoffs. Den einzigen Treffer für die Panther erzielte Christian Hanke (43.). Für die Eisöwen waren Lance Bouma (16.), Sebastian Gorcik (33.) und Rourke Chartier (59.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-Dresden-_naid,4200.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7231_1_org_Dre3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Dec 2025 21:21:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther treffen auf die Adler Mannheim</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-die-Adler-Mannheim-_naid,4201.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clubs-reichen-Lizenzantr%C3%A4ge-ein-_naid,4251.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7284_1_org_20260116_AEVFRA_Goldberg_228.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Derby gegen München zur besten Eishockeyzeit</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Derby-gegen-M%C3%BCnchen-zur-besten-Eishockeyzeit-_naid,4250.html</link>
+      <description>Die Augsburger Panther empfangen am Freitagabend Red Bull München im ausverkauften Curt-Frenzel-Stadion. Spielbeginn ist um 19:30 Uhr. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Derby-gegen-M%C3%BCnchen-zur-besten-Eishockeyzeit-_naid,4250.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7283_1_org_DSC_0347.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 08:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
