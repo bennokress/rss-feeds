@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Feb 2026 08:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 22:09:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther treffen auf die Adler Mannheim</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-die-Adler-Mannheim-_naid,4201.html</link>
-      <description>Im letzten Heimspiel des Jahres 2025 geht es für die Augsburger Panther gegen die Adler Mannheim. Spielbeginn im ausverkauften Curt-Frenzel-Stadion ist um 19:00 Uhr. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-die-Adler-Mannheim-_naid,4201.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7232_1_org_20251223_AEVNIT_Goldberg_195.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Dec 2025 09:30:00 +0100</pubDate>
-    </item>
     <item>
       <title>AEV zeigt Reaktion gegen Mannheim</title>
       <link>https://www.aev-panther.de/panther/news_news,-AEV-zeigt-Reaktion-gegen-Mannheim-_naid,4203.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Derby-gegen-M%C3%BCnchen-zur-besten-Eishockeyzeit-_naid,4250.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7283_1_org_DSC_0347.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 08:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther verlieren letztes Derby der Saison</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-verlieren-letztes-Derby-der-Saison-_naid,4252.html</link>
+      <description>Die Augsburger Panther haben das vierte und letzte Derby der Saison in der PENNY DEL gegen den EHC Red Bull München verloren. Trotz einer über weite Strecken starken Vorstellung unterlag der AEV mit 2:4 und musste einen bitteren Rückschlag im Kampf um Platz zehn hinnehmen. Die Treffer für die Panther erzielten Moritz Elias (30.) und Cody Kunyk (50.). Für München waren Ryan Murphy (22.), Maximilian Kastner (25.), Markus Eisenschmid (35.) und Tobias Rieder (48.) erfolgreich. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verlieren-letztes-Derby-der-Saison-_naid,4252.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7285_1_org_MUC4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Feb 2026 22:16:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
