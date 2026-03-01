@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Feb 2026 22:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 18:12:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV zeigt Reaktion gegen Mannheim</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-zeigt-Reaktion-gegen-Mannheim-_naid,4203.html</link>
-      <description>Die Augsburger Panther haben in der PENNY DEL die achte Heimniederlage in Folge kassiert, aber eine starke Reaktion nach dem Spiel bei den Dresdner Eislöwen gezeigt. Der AEV erkämpfte sich gegen die Adler Mannheim einen Punkt, unterlag allerdings am Ende mit 2:3 nach Penaltyschießen. Die Treffer für die Panther erzielten Cody Kunyk (14.) undJason Bast (30.). Für Mannheim waren Marc Michaelis (15.) und Maximilian Heim (19.) erfolgreich. Nicolas Mattinen sichert den Kurpfälzern den Extrapunkt (66.). […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-zeigt-Reaktion-gegen-Mannheim-_naid,4203.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7234_1_org_Man3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Heimspiele gegen Schwenningen &amp; Köln sind ausverkauft</title>
       <link>https://www.aev-panther.de/panther/news_news,-Heimspiele-gegen-Schwenningen-K%C3%B6ln-sind-ausverkauft-_naid,4204.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verlieren-letztes-Derby-der-Saison-_naid,4252.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7285_1_org_MUC4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 22:16:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AEV verliert in Iserlohn</title>
+      <link>https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-Iserlohn-_naid,4253.html</link>
+      <description>Die Hoffnungen auf Platz zehn in der PENNY DEL schwinden für die Augsburger Panther. Bei den Iserlohn Roosters unterlag der AEV mit 2:4 und verlor damit das zweite Spiel in Folge. Die Tore für die Panther erzielten D.J. Busdeker (17.) und Enrico Henriquez (53.). Für Iserlohn waren Tyler Boland (24.), Erik Salsten (34.), Colin Ugbekile (55.) und Christian Thomas (60.) erfolgreich. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-Iserlohn-_naid,4253.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7286_1_org_IEC4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Mar 2026 18:46:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
