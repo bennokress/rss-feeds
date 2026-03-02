@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 12:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 14:20:38 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Proxmox VE</title>
-      <link>https://homey.app/a/com.proxmox.proxmoxve</link>
-      <description>Seamlessly integrate your Proxmox VE infrastructure.</description>
-      <author>noreply@homey.app (Kay-Arne van Dalfsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.proxmox.proxmoxve</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.proxmox.proxmoxve/16/654292b5-aca1-4381-8d6a-0b479adc8deb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 11:18:28 +0100</pubDate>
-    </item>
     <item>
       <title>HEMS Controller</title>
       <link>https://homey.app/a/com.hems.controller</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.espressif</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.espressif/3/6de3c831-5577-474a-84bc-35f471ffb556/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 13:16:51 +0100</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Bot</title>
+      <link>https://homey.app/a/com.dimapp.wabot</link>
+      <description>Connect your Homey to a WhatsApp bot to control your smart home</description>
+      <author>noreply@homey.app (Simone Di Maio)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dimapp.wabot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.wabot/2/71d10376-4f36-4014-a29d-ef4e39a97ded/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 15:20:37 +0100</pubDate>
     </item>
   </channel>
 </rss>
