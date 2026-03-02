@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:16:52 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Oss</title>
-      <link>https://homey.app/a/no.oss.brikke</link>
-      <description>Real-time energy insight at your fingertips.</description>
-      <author>noreply@homey.app (Markus Voss)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.oss.brikke</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.oss.brikke/2/1098391d-6b2e-4e11-a3a8-f73bcfec8f4b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 11:18:28 +0100</pubDate>
-    </item>
     <item>
       <title>Proxmox VE</title>
       <link>https://homey.app/a/com.proxmox.proxmoxve</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.aos.trivia</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.aos.trivia/4/c3342ee9-f6eb-4ba0-a937-3c253e8b6262/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
+    </item>
+    <item>
+      <title>Espressif ZigBee</title>
+      <link>https://homey.app/a/com.espressif</link>
+      <description>Use the ESP32C6 and ESP32H2 example projects in Homey</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.espressif</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.espressif/3/6de3c831-5577-474a-84bc-35f471ffb556/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 13:16:51 +0100</pubDate>
     </item>
   </channel>
 </rss>
