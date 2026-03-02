@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 10:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:20:30 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Indevolt Powerflex</title>
-      <link>https://homey.app/a/nl.robceelen.indevolt</link>
-      <description>Monitoring of the Indevolt Powerflex eco and hybrid battery.</description>
-      <author>noreply@homey.app (Rob Ceelen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.robceelen.indevolt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.robceelen.indevolt/18/08d32753-a756-433b-bcf4-ab273ef6be15/assets/images/large-1.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Monta EV Charger</title>
-      <link>https://homey.app/a/se.oxiecloud.monta</link>
-      <description>Monta - Your smart EV charging solution.</description>
-      <author>noreply@homey.app (Mats Knuts)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.oxiecloud.monta</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.oxiecloud.monta/11/b215df04-0e0f-4225-b9be-623bc118cc80/assets/images/app_large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 11:16:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Blueriiot</title>
-      <link>https://homey.app/a/net.franceweb.blueriiot</link>
-      <description>Keep your pool as pleasant as possible</description>
-      <author>noreply@homey.app (Serge PALUMBO)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.franceweb.blueriiot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.franceweb.blueriiot/10/738e6e06-3934-4a37-a6df-4b8605430254/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Feb 2026 17:21:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Mood State</title>
-      <link>https://homey.app/a/com.moodstate</link>
-      <description>Compare your moods with current light states.</description>
-      <author>noreply@homey.app (Kjetil Volden)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.moodstate</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.moodstate/6/c565673c-1df8-4cab-a230-7f55ba7e72f7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 04 Feb 2026 15:20:19 +0100</pubDate>
-    </item>
-    <item>
-      <title>Haas+Sohn Pellets</title>
-      <link>https://homey.app/a/com.haassohn.pellets</link>
-      <description>Live status, eco mode, and pellet tracking for Haas+Sohn pellet stoves in Homey.</description>
-      <author>noreply@homey.app (Bretislav Kubesa)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.haassohn.pellets</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.haassohn.pellets/8/bb0aba05-bccc-4bce-ac8b-2c77530fa30e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Feb 2026 11:18:28 +0100</pubDate>
-    </item>
     <item>
       <title>Oss</title>
       <link>https://homey.app/a/no.oss.brikke</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.midea.vacuum</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.midea.vacuum/6/093e7f69-70b0-4670-94b0-8ed3e356d2ef/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Feb 2026 11:15:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>Deye Inverter (Local - Solarman V5)</title>
+      <link>https://homey.app/a/gpm.deye.solarpanel.tcp</link>
+      <description>Local integration for Deye inverters using Solarman V5 protocol (port 8899)</description>
+      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
+      <guid isPermaLink="false">https://homey.app/a/gpm.deye.solarpanel.tcp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/gpm.deye.solarpanel.tcp/1/c3ec6d76-7318-4d3f-9081-3b6fba05a8a4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sea Sparkle Predictor</title>
+      <link>https://homey.app/a/nl.zeevonk.predictor</link>
+      <description>Sea sparkle (zeevonk) bioluminescence prediction powered by Open-Meteo</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.zeevonk.predictor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.zeevonk.predictor/2/4776748c-4e8a-4c91-a3e7-ff1ca3dcfb3d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
+    </item>
+    <item>
+      <title>YAWSEE</title>
+      <link>https://homey.app/a/com.wled.slideeffect</link>
+      <description>Sliding on/off animations for WLED LED strips.</description>
+      <author>noreply@homey.app (Peter Persson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wled.slideeffect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wled.slideeffect/5/13c8d18b-e57a-4aea-83ef-e61bfbfaca97/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
+    </item>
+    <item>
+      <title>hOn SmartHome</title>
+      <link>https://homey.app/a/com.dimapp.hon</link>
+      <description>Your laundry, smarter than ever</description>
+      <author>noreply@homey.app (Simone Di Maio)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dimapp.hon</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.hon/5/c27cdae1-cc98-4f44-8df0-d3abdceb4aa4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trivia</title>
+      <link>https://homey.app/a/com.aos.trivia</link>
+      <description>Play trivia rounds directly from your Homey dashboard widget.</description>
+      <author>noreply@homey.app (Arnt Soløy)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aos.trivia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aos.trivia/4/c3342ee9-f6eb-4ba0-a937-3c253e8b6262/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
     </item>
   </channel>
 </rss>
