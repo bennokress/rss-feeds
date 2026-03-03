@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 10:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 12:16:25 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Flexit GO</title>
-      <link>https://homey.app/a/com.barelysufficient.flexit</link>
-      <description>Better indoor climate</description>
-      <author>noreply@homey.app (Ole Markus With)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.barelysufficient.flexit</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.barelysufficient.flexit/2/32b87d79-af5e-4dbe-af62-6aff2f08594f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 15:32:50 +0100</pubDate>
-    </item>
-    <item>
-      <title>Valetudo</title>
-      <link>https://homey.app/a/name.fox.mads.valetudo</link>
-      <description>Smart multi-floor control for your Valetudo robot vacuum. This app is an unofficial integration and is not affiliated with or endorsed by the Valetudo project.</description>
-      <author>noreply@homey.app (Mads Fox)</author>
-      <guid isPermaLink="false">https://homey.app/a/name.fox.mads.valetudo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/name.fox.mads.valetudo/5/dad76dd4-7628-4304-a747-4b3b3adbca34/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 11:21:43 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genvex Connect</title>
-      <link>https://homey.app/a/com.genvex.connect</link>
-      <description>Monitor and control your Genvex ventilation system with heat recovery directly from Homey</description>
-      <author>noreply@homey.app (Anders Dissing)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.genvex.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.genvex.connect/1/c0ca0010-ebb0-4438-85cf-6f1a0e3cd249/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 13:22:01 +0100</pubDate>
-    </item>
     <item>
       <title>Open AIR Mini</title>
       <link>https://homey.app/a/com.remingtondev.open-air-mini</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.lightningdetector</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lightningdetector/9/203d3877-a7fe-4977-92be-a2f3c10efcfc/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Volcano Monitor</title>
+      <link>https://homey.app/a/com.volcanomonitor</link>
+      <description>Global volcanic eruption monitoring powered by GDACS</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.volcanomonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.volcanomonitor/4/9d657cf2-19e1-4692-9f93-09194d84568b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aurora Monitor</title>
+      <link>https://homey.app/a/com.auroramonitor</link>
+      <description>Aurora borealis monitoring powered by NOAA</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.auroramonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.auroramonitor/2/13af30d8-8f3c-4b59-90d9-ee6488eb2d52/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
+    </item>
+    <item>
+      <title>Studio Clock</title>
+      <link>https://homey.app/a/com.studioclock</link>
+      <description>Broadcast studio clock widget with animated LED seconds ring</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.studioclock</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.studioclock/2/034b1af7-7e21-40bf-9279-183ac79debf5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
     </item>
   </channel>
 </rss>
