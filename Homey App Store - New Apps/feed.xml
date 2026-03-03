@@ -12,80 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 14:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:17:15 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HEMS Controller</title>
-      <link>https://homey.app/a/com.hems.controller</link>
-      <description>Optimize your battery based on electricity prices</description>
-      <author>noreply@homey.app (Andreas Kjörk)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.hems.controller</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.hems.controller/5/fc3304e1-ca48-4093-9e61-86937763e951/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Feb 2026 11:17:23 +0100</pubDate>
-    </item>
-    <item>
-      <title>Aquaro Smart Water Monitor</title>
-      <link>https://homey.app/a/com.aquaro</link>
-      <description>The Easiest Way to Save Water, One Drop at a Time.</description>
-      <author>noreply@homey.app (Bretislav Kubesa)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.aquaro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.aquaro/9/6fab5fb3-2685-4ddf-b5bf-bd4847088b0f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 07 Feb 2026 11:08:14 +0100</pubDate>
-    </item>
-    <item>
-      <title>KOHLER DTV+</title>
-      <link>https://homey.app/a/com.kohler.dtv-plus</link>
-      <description>The perfect shower, every time</description>
-      <author>noreply@homey.app (Thomas Thaulow)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kohler.dtv-plus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kohler.dtv-plus/34/c5fd6151-bf8b-4298-9062-6751de95be2b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Maytronics Dolphin</title>
-      <link>https://homey.app/a/com.maytronics.dolphin</link>
-      <description>Control your Maytronics Dolphin robotic pool cleaner from Homey.</description>
-      <author>noreply@homey.app (Thomas Thaulow)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.maytronics.dolphin</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.maytronics.dolphin/4/63d1bc75-bed5-4785-abf0-0b24f698fd36/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Swiss Transport Monitor</title>
-      <link>https://homey.app/a/com.swisstransport.monitor</link>
-      <description>Beautiful Widgets for Swiss Public Transport.</description>
-      <author>noreply@homey.app (Beat Ineichen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.swisstransport.monitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.swisstransport.monitor/5/7f3ab6f2-fe16-4352-959a-070db20279b4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kraken Energy</title>
-      <link>https://homey.app/a/com.kraken.energy</link>
-      <description>Monitor the live use of energy using an Octopus Home Mini</description>
-      <author>noreply@homey.app (David Piper)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kraken.energy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kraken.energy/39/d7c0088f-55d7-4f63-84f9-24549bf3242d/assets/images/kraken_energy_monitoring_medium.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Feb 2026 11:27:05 +0100</pubDate>
-    </item>
-    <item>
-      <title>Petlibro</title>
-      <link>https://homey.app/a/com.petlibro.petlibro</link>
-      <description>Smart pet feeding and hydration, controlled from your Homey</description>
-      <author>noreply@homey.app (Thomas Thaulow)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.petlibro.petlibro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.petlibro.petlibro/6/3c7d1a15-88bd-4eb8-83d9-8b58fd25c7af/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 13:24:03 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vistapool &amp; Hayward</title>
-      <link>https://homey.app/a/com.vistapool.vistapool-sugarvalley-hayward</link>
-      <description>Your pool, always connected to Homey</description>
-      <author>noreply@homey.app (Thomas Thaulow)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.vistapool.vistapool-sugarvalley-hayward</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.vistapool.vistapool-sugarvalley-hayward/11/43066ea2-d3bd-4fb2-b041-0061d8319540/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 13:24:03 +0100</pubDate>
-    </item>
     <item>
       <title>Flexit GO</title>
       <link>https://homey.app/a/com.barelysufficient.flexit</link>
@@ -463,6 +391,78 @@
       <guid isPermaLink="false">https://homey.app/a/com.dimapp.wabot</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dimapp.wabot/2/71d10376-4f36-4014-a29d-ef4e39a97ded/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 02 Mar 2026 15:20:37 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kliko Calendar</title>
+      <link>https://homey.app/a/nl.klikokalender</link>
+      <description>Get notified which trash containers are collected today and tomorrow</description>
+      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.klikokalender</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.klikokalender/5/779fa39b-0f63-45da-8646-5a7336a9f0ba/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ajax Systems</title>
+      <link>https://homey.app/a/com.ajaxsystems.ajax</link>
+      <description>Control and monitor your Ajax security system from Homey</description>
+      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ajaxsystems.ajax</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ajaxsystems.ajax/30/0de7132c-9284-4186-af4c-9828cac93d5e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tailwind</title>
+      <link>https://homey.app/a/com.dn.tailwind</link>
+      <description>Unofficial local control for your Tailwind iQ3 garage door opener — no cloud required</description>
+      <author>noreply@homey.app (John Vernon)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dn.tailwind</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dn.tailwind/4/bfc5ae47-a3c6-4c4e-9b17-5e5cf3c73264/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sunsa</title>
+      <link>https://homey.app/a/com.sunsahomes</link>
+      <description>Smart Blinds, Simplified</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sunsahomes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sunsahomes/10/8d11f26f-e725-470d-abd9-8e7a3229836d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>QR Codes</title>
+      <link>https://homey.app/a/nl.dypodex.qrcode</link>
+      <description>Add QR codes to your Dashboards</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.qrcode</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.qrcode/4/7e313580-dae0-46f5-a2d9-00a876f15869/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Calendar-cloud</title>
+      <link>https://homey.app/a/com.calendar.cloud</link>
+      <description>Elegant calendar widget for your Dashboard (iCloud, Google, Outlook)</description>
+      <author>noreply@homey.app (Olivier Friedrich)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.calendar.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.calendar.cloud/1/ab322796-35ea-4da3-8df9-0ecf3655aa74/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Earthquake Detector</title>
+      <link>https://homey.app/a/com.seismicdetector</link>
+      <description>Real-time earthquake detection powered by EMSC SeismicPortal</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.seismicdetector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.seismicdetector/7/9aa096b7-b533-45cc-a615-932107c9ca0f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lightning Detector</title>
+      <link>https://homey.app/a/com.lightningdetector</link>
+      <description>Real-time lightning detection powered by the Blitzortung network</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lightningdetector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lightningdetector/9/203d3877-a7fe-4977-92be-a2f3c10efcfc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
     </item>
   </channel>
 </rss>
