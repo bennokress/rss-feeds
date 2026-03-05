@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 12:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 14:20:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Eaton xComfort</title>
-      <link>https://homey.app/a/eaton.xcomfort.bridge</link>
-      <description>Seamless Eaton xComfort control for lights, shades, and heating.</description>
-      <author>noreply@homey.app (Mike Taselaar)</author>
-      <guid isPermaLink="false">https://homey.app/a/eaton.xcomfort.bridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eaton.xcomfort.bridge/4/4e337e1c-632e-4ee9-91c0-036f90a39704/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Feb 2026 13:19:21 +0100</pubDate>
-    </item>
-    <item>
-      <title>Schneider EcoStruxure</title>
-      <link>https://homey.app/a/com.schneider.ecostruxure</link>
-      <description>Monitor your Schneider EcoStruxure devices in Homey</description>
-      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.schneider.ecostruxure</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.schneider.ecostruxure/6/91461272-f311-4010-99ae-44d067b08e80/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Feb 2026 13:19:21 +0100</pubDate>
-    </item>
     <item>
       <title>JBL Synthesis</title>
       <link>https://homey.app/a/com.jbl.synthesis</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/no.arnab.norwegian.public.transport</guid>
       <enclosure url="https://apps.homeycdn.net/app/no.arnab.norwegian.public.transport/3/d685d8ee-1f41-49ea-8fa6-59a39c802bbd/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 13:17:18 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dreame</title>
+      <link>https://homey.app/a/com.dreame.vacuum.cloud</link>
+      <description>Smart Robot Vacuum Control</description>
+      <author>noreply@homey.app (Pjotr Grootkop)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dreame.vacuum.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dreame.vacuum.cloud/1/6d2d0a85-ebf1-4741-8dd8-9c86eece9c84/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 15:20:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Anker Solix</title>
+      <link>https://homey.app/a/de.tilwegener.ankersolix</link>
+      <description>Power your home. Own your energy.</description>
+      <author>noreply@homey.app (Til Wegener)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.tilwegener.ankersolix</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.tilwegener.ankersolix/6/a30b4328-6087-44d7-9dd2-14002fda62f1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 15:20:49 +0100</pubDate>
     </item>
   </channel>
 </rss>
