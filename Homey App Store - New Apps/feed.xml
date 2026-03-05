@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 12:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 12:17:19 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Open AIR Mini</title>
-      <link>https://homey.app/a/com.remingtondev.open-air-mini</link>
-      <description>Breathe smarter with Open AIR Mini</description>
-      <author>noreply@homey.app (Julien Moysens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.remingtondev.open-air-mini</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.remingtondev.open-air-mini/2/cecf7dc5-5449-4611-a70c-a72b5de5c691/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Feb 2026 15:28:04 +0100</pubDate>
-    </item>
     <item>
       <title>Eaton xComfort</title>
       <link>https://homey.app/a/eaton.xcomfort.bridge</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.studioclock</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.studioclock/2/034b1af7-7e21-40bf-9279-183ac79debf5/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
+    </item>
+    <item>
+      <title>Norwegian Public Transport</title>
+      <link>https://homey.app/a/no.arnab.norwegian.public.transport</link>
+      <description>Monitor real-time departures from any stop place in Norway</description>
+      <author>noreply@homey.app (Arnab Datta)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.arnab.norwegian.public.transport</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.arnab.norwegian.public.transport/3/d685d8ee-1f41-49ea-8fa6-59a39c802bbd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Mar 2026 13:17:18 +0100</pubDate>
     </item>
   </channel>
 </rss>
