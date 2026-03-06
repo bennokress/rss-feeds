@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Mar 2026 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 08:16:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV punktet in München</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-punktet-in-M%C3%BCnchen-_naid,4206.html</link>
-      <description>Die Augsburger Panther haben das dritte Derby der Saison in der PENNY DEL gegen den EHC Red Bull München verloren. Der AEV zeigte im letzten Spiel des Jahres 2025 aber erneut tolle Moral und holte nach einem 0:2-Rückstand noch einen verdienten Punkt, unterlag am Ende aber nach Verlängerung mit 2:3. Die Treffer für die Panther erzielten T.J. Trevelyan (37.) und Anthony Louis (56.). Für München waren Markus Eisenschmid (28.), Brady Ferguson (34.) und Ryan Murphy (65.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-punktet-in-M%C3%BCnchen-_naid,4206.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7237_1_org_muc3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 30 Dec 2025 22:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Busdeker fehlt Panthern voraussichtlich 2-3 Wochen</title>
       <link>https://www.aev-panther.de/panther/news_news,-Busdeker-fehlt-Panthern-voraussichtlich-2-3-Wochen-_naid,4207.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-DJ-Busdeker-im-Interview-_naid,4255.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7288_1_org_20251219_FRAAEV_Goldberg_114.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther empfangen die Eislöwen</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-empfangen-die-Eisl%C3%B6wen-_naid,4256.html</link>
+      <description>Die Augsburger Panther erwarten am Freitagabend die Dresdner Eislöwen im ausverkauften Curt-Frenzel-Stadion, Spielbeginn ist um 19:30 Uhr. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-empfangen-die-Eisl%C3%B6wen-_naid,4256.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7289_1_org_cp_SP46_AEV_RBM26_075k.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 08:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
