@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Mar 2026 08:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:11:34 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Busdeker fehlt Panthern voraussichtlich 2-3 Wochen</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Busdeker-fehlt-Panthern-voraussichtlich-2-3-Wochen-_naid,4207.html</link>
-      <description>Kurzzeitig konnte das Trainerteam der Augsburger Panther personell aus dem Vollen schöpfen, nun hat sich aber D.J. Busdeker verletzt und wird seinem Team im Kampf um Platz 10 rund zwei bis drei Wochen nicht zur Verfügung stehen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Busdeker-fehlt-Panthern-voraussichtlich-2-3-Wochen-_naid,4207.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7238_1_org_20251212_AEVERC_Goldberg_107.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 09:45:00 +0100</pubDate>
-    </item>
     <item>
       <title>Auf ins Jahr 2026</title>
       <link>https://www.aev-panther.de/panther/news_news,-Auf-ins-Jahr-2026-_naid,4202.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-empfangen-die-Eisl%C3%B6wen-_naid,4256.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7289_1_org_cp_SP46_AEV_RBM26_075k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 08:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hoffnung lebt dank Busdeker-Gala</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Hoffnung-lebt-dank-Busdeker-Gala-_naid,4257.html</link>
+      <description>Die Augsburger Panther haben ihre Position im Kampf um die Playoffs durch einen deutlichen Sieg gegen die Dresdner Löwen wieder deutlich verbessert. Dank einer überragenden D.J. Busdeker, der an allen sechs Toren beteiligt war, siegte der AEV mit 6:3. Die Treffer für die Panther erzielten Riley Damiani (11.), Thomas Schemitsch (27.), Busdeker (34., 44., 52.) und Cody Kunyk (38.). Für die Sachsen waren Sebastian Gorcik (5.), Lance Bouma (9.) und Austin Ortega (58.) erfolgreich. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Hoffnung-lebt-dank-Busdeker-Gala-_naid,4257.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7290_1_org_dre4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 22:07:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
