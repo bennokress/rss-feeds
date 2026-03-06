@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 14:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 10:13:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>JBL Synthesis</title>
-      <link>https://homey.app/a/com.jbl.synthesis</link>
-      <description>Award-winning sound at home</description>
-      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jbl.synthesis</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jbl.synthesis/5/d1409879-73d5-4ee9-b2d4-4a04f84c72a4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Feb 2026 15:24:44 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dreame Matter Cleaner</title>
-      <link>https://homey.app/a/com.dreame.cleaner.pro</link>
-      <description>Advanced local Matter control for Dreame X50 Ultra and other robot vacuums.</description>
-      <author>noreply@homey.app (Beat Ineichen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dreame.cleaner.pro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dreame.cleaner.pro/2/b3e5451c-9fca-4171-bf75-b154d7639e9d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 13:15:58 +0100</pubDate>
-    </item>
     <item>
       <title>Enertek</title>
       <link>https://homey.app/a/no.enertek.app</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/de.tilwegener.ankersolix</guid>
       <enclosure url="https://apps.homeycdn.net/app/de.tilwegener.ankersolix/6/a30b4328-6087-44d7-9dd2-14002fda62f1/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Mar 2026 15:20:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>SmallData</title>
+      <link>https://homey.app/a/com.marcel.smalldata</link>
+      <description>Store and display custom data and camera snapshots in widgets.</description>
+      <author>noreply@homey.app (Marcel Sauer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.marcel.smalldata</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.marcel.smalldata/1/3cac6c88-cd6b-42f2-af98-de6b6dbc538f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 11:13:34 +0100</pubDate>
+    </item>
+    <item>
+      <title>HR-energy</title>
+      <link>https://homey.app/a/com.hr-energy.qube</link>
+      <description>Control your Qube heatpump from Homey</description>
+      <author>noreply@homey.app (Robert Coemans)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hr-energy.qube</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hr-energy.qube/3/a8063c7e-218c-497f-a617-5201b0927fad/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 11:13:34 +0100</pubDate>
     </item>
   </channel>
 </rss>
