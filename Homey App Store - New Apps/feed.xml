@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 12:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:33:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Meterportal</title>
-      <link>https://homey.app/a/eu.meterportal.app</link>
-      <description>Track your consumption data in Homey</description>
-      <author>noreply@homey.app (Meterportal ApS)</author>
-      <guid isPermaLink="false">https://homey.app/a/eu.meterportal.app</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eu.meterportal.app/3/fd3a55bf-8832-46b0-9c26-94d04fe7a74a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Feb 2026 15:20:24 +0100</pubDate>
-    </item>
     <item>
       <title>Liftmaster myQ</title>
       <link>https://homey.app/a/com.liftmaster.myq</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/dev.devfle.dashy</guid>
       <enclosure url="https://apps.homeycdn.net/app/dev.devfle.dashy/2/1d43e128-fe12-4052-ad6c-38c95ccb7475/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 13:14:56 +0100</pubDate>
+    </item>
+    <item>
+      <title>Eltako</title>
+      <link>https://homey.app/a/com.eltako</link>
+      <description>Switching on the future</description>
+      <author>noreply@homey.app (ELTAKO GmbH)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.eltako</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.eltako/10/a325da2c-4af4-4f0f-b398-636f3ea2cb10/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 01:33:45 +0100</pubDate>
     </item>
   </channel>
 </rss>
