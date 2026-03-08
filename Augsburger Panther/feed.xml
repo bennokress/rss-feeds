@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Mar 2026 22:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 22:09:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Auf ins Jahr 2026</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Auf-ins-Jahr-2026-_naid,4202.html</link>
-      <description>Die Augsburger Panther bedanken sich bei allen Fans, Sponsoren und Partnern für die herausragende Unterstützung im Jahr 2025! […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Auf-ins-Jahr-2026-_naid,4202.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7233_1_org_IMG_3717.JPG" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 31 Dec 2025 16:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Zum Jahresauftakt gegen Schwenningen</title>
       <link>https://www.aev-panther.de/panther/news_news,-Zum-Jahresauftakt-gegen-Schwenningen-_naid,4208.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Hoffnung-lebt-dank-Busdeker-Gala-_naid,4257.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7290_1_org_dre4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Mar 2026 22:07:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kaum noch Chancen auf die Playoffs</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Kaum-noch-Chancen-auf-die-Playoffs-_naid,4258.html</link>
+      <description>Die Playoffs in der Saison 2025-26 in der PENNY DEL werden fast sicher ohne die Augsburger Panther stattfinden. Nach der knappen 1:2-Niederlage bei den Schwenninger Wild Wings hat der AEV nur noch theoretische Chancen auf Platz zehn. Den einzigen Treffer im Schwarzwald für die Panther erzielte Alexandre Grenier (26.). Für die Wild Wings waren Daniel O'Regan (13.) und Tyson Spink (29.) erfolgreich. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Kaum-noch-Chancen-auf-die-Playoffs-_naid,4258.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7291_1_org_serc4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Mar 2026 21:22:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
