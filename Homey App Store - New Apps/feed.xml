@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:17:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Liftmaster myQ</title>
-      <link>https://homey.app/a/com.liftmaster.myq</link>
-      <description>Open, close, and automate your myQ garage doors, gates, and lamps</description>
-      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.liftmaster.myq</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.liftmaster.myq/4/1fa8db76-2159-466f-87c9-61a97df4649b/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Feb 2026 11:23:15 +0100</pubDate>
-    </item>
-    <item>
-      <title>9to5Google</title>
-      <link>https://homey.app/a/com.9to5google</link>
-      <description>The latest Google news</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.9to5google</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.9to5google/1/2494fd46-c99f-4695-8b96-a6d43d07bf78/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Feb 2026 15:21:39 +0100</pubDate>
-    </item>
     <item>
       <title>Swimming Water</title>
       <link>https://homey.app/a/nl.zwemwater</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.eltako</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.eltako/10/a325da2c-4af4-4f0f-b398-636f3ea2cb10/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 01:33:45 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sun Times</title>
+      <link>https://homey.app/a/io.borgh.sunevent</link>
+      <description>Adds support and widgets for sun-events, like sunrise and sunset</description>
+      <author>noreply@homey.app (Andreas Borgh)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.borgh.sunevent</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.borgh.sunevent/1/2aab1da1-2764-4395-b764-525a139447a5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 09:17:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>PalGate Control</title>
+      <link>https://homey.app/a/com.pal-es</link>
+      <description>Control PalGate gates from Homey</description>
+      <author>noreply@homey.app (Idan Bush)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pal-es</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pal-es/3/b85c1c5c-7b87-4dd6-b22f-7727ffbc506b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 09:17:49 +0100</pubDate>
     </item>
   </channel>
 </rss>
