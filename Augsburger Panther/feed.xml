@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Mar 2026 22:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:13:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Zum Jahresauftakt gegen Schwenningen</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Zum-Jahresauftakt-gegen-Schwenningen-_naid,4208.html</link>
-      <description>Die Augsburger Panther eröffnen ihr Eishockeyjahr 2026 mit einem Heimspiel. Am Freitagabend sind um 19:30 Uhr die Schwenninger Wild Wings zu Gast im Curt-Frenzel-Stadion. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Zum-Jahresauftakt-gegen-Schwenningen-_naid,4208.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7239_1_org_20251102_AEVSERC_Goldberg_172.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 02 Jan 2026 09:45:00 +0100</pubDate>
-    </item>
     <item>
       <title>4:0, 5:5, 7:6! AEV gewinnt irres Spektakel gegen Wild Wings</title>
       <link>https://www.aev-panther.de/panther/news_news,-40-55-76-AEV-gewinnt-irres-Spektakel-gegen-Wild-Wings-_naid,4209.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Kaum-noch-Chancen-auf-die-Playoffs-_naid,4258.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7291_1_org_serc4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Mar 2026 21:22:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Madison Bowey für ein Spiel gesperrt</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Madison-Bowey-f%C3%BCr-ein-Spiel-gesperrt-_naid,4259.html</link>
+      <description>Die Augsburger Panther müssen am Freitag in Ingolstadt aufgrund einer Sperre auf Madison Bowey verzichten. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Madison-Bowey-f%C3%BCr-ein-Spiel-gesperrt-_naid,4259.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7294_1_org_bowey.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
