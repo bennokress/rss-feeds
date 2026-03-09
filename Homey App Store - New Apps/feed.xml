@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 10:20:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Swimming Water</title>
-      <link>https://homey.app/a/nl.zwemwater</link>
-      <description>Know before you go — live water temperature and swim safety</description>
-      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.zwemwater</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.zwemwater/2/1fcba2bb-4ee1-40a6-b18b-4e7c350b7332/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Feb 2026 15:21:39 +0100</pubDate>
-    </item>
     <item>
       <title>Mercedes-Benz</title>
       <link>https://homey.app/a/com.mercedes.mbapi</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.pal-es</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.pal-es/3/b85c1c5c-7b87-4dd6-b22f-7727ffbc506b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 09:17:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Canon</title>
+      <link>https://homey.app/a/canon.global</link>
+      <description>Printing has never been smarter</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/canon.global</guid>
+      <enclosure url="https://apps.homeycdn.net/app/canon.global/4/978a853f-e44a-4d40-9332-6a41d4b1c00d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 11:20:42 +0100</pubDate>
     </item>
   </channel>
 </rss>
