@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 10:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 14:23:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Mercedes-Benz</title>
-      <link>https://homey.app/a/com.mercedes.mbapi</link>
-      <description>Stay connected to your Mercedes-Benz, wherever you are</description>
-      <author>noreply@homey.app (Anders Dissing)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mercedes.mbapi</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mercedes.mbapi/9/51c4698e-bc80-44b4-bebc-16a6cbc0dd47/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Feb 2026 19:15:59 +0100</pubDate>
-    </item>
     <item>
       <title>Stellantis Vehicles</title>
       <link>https://homey.app/a/com.martech.stellantisvehicles</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/canon.global</guid>
       <enclosure url="https://apps.homeycdn.net/app/canon.global/4/978a853f-e44a-4d40-9332-6a41d4b1c00d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 11:20:42 +0100</pubDate>
+    </item>
+    <item>
+      <title>Flient Smart Lock</title>
+      <link>https://homey.app/a/net.flient.smartlock</link>
+      <description>Control your Flient smart locks with Homey</description>
+      <author>noreply@homey.app (Hans Marra)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.flient.smartlock</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.flient.smartlock/6/87e8f7e2-f638-4f7d-88d9-b7ac8830fd70/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Mar 2026 15:23:52 +0100</pubDate>
     </item>
   </channel>
 </rss>
