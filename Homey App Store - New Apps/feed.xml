@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 18:20:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ember+ Provider</title>
-      <link>https://homey.app/a/com.emberplus.provider</link>
-      <description>Bridge your smart home to professional broadcast control</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.emberplus.provider</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.emberplus.provider/3/0f3b1729-5962-4557-a585-517b14cf4a8a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Feb 2026 11:20:03 +0100</pubDate>
-    </item>
     <item>
       <title>Fronius GEN24 (Local)</title>
       <link>https://homey.app/a/com.pascalnohl.froniusgen24</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.volttime.chargers</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.volttime.chargers/10/f1361209-f70d-46d1-9a54-e1e61259ad42/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Mar 2026 13:17:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Flexit Fans</title>
+      <link>https://homey.app/a/no.flexit.fans</link>
+      <description>Seamless local smart home integration for your ventilation.</description>
+      <author>noreply@homey.app (Oddvar Rasmussen)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.flexit.fans</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.flexit.fans/7/bcdc9c15-cf65-4282-bbd9-8c4229e5ef30/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Mar 2026 19:20:31 +0100</pubDate>
     </item>
   </channel>
 </rss>
