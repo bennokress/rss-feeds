@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 14:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:17:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Stellantis Vehicles</title>
-      <link>https://homey.app/a/com.martech.stellantisvehicles</link>
-      <description>Connect your Stellantis car and give insight to you</description>
-      <author>noreply@homey.app (Martijn de Bont)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.martech.stellantisvehicles</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.martech.stellantisvehicles/7/6d15a9ff-0185-40ea-9a93-7c42291f8390/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Feb 2026 11:21:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Stream Deck</title>
-      <link>https://homey.app/a/nl.stefanrenne.streamdeck</link>
-      <description>Control Homey from your Stream Deck</description>
-      <author>noreply@homey.app (Stefan Renne)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.stefanrenne.streamdeck</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.stefanrenne.streamdeck/2/1501bb9d-aaa8-4b51-b026-f02502da49e7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Feb 2026 11:20:03 +0100</pubDate>
-    </item>
     <item>
       <title>Ember+ Provider</title>
       <link>https://homey.app/a/com.emberplus.provider</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/net.flient.smartlock</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.flient.smartlock/6/87e8f7e2-f638-4f7d-88d9-b7ac8830fd70/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Mar 2026 15:23:52 +0100</pubDate>
+    </item>
+    <item>
+      <title>My EDF Tempo</title>
+      <link>https://homey.app/a/com.edf.tempo</link>
+      <description>Track EDF Tempo prices and colors.</description>
+      <author>noreply@homey.app (Olivier Friedrich)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.edf.tempo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.edf.tempo/16/e19b3eb9-cf9b-424c-a440-c38ea509dd44/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Mar 2026 13:17:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Volt Time Chargers</title>
+      <link>https://homey.app/a/com.volttime.chargers</link>
+      <description>Smart EV charging automation for your Volt Time charger.</description>
+      <author>noreply@homey.app (Robert Coemans)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.volttime.chargers</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.volttime.chargers/10/f1361209-f70d-46d1-9a54-e1e61259ad42/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Mar 2026 13:17:01 +0100</pubDate>
     </item>
   </channel>
 </rss>
