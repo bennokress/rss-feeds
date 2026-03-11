@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 10:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:16:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bridgekeeper</title>
-      <link>https://homey.app/a/com.github.rtyle.bridgekeeper</link>
-      <description>Shield your devices from automation (manual override) and more</description>
-      <author>noreply@homey.app (Ross Tyler)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.github.rtyle.bridgekeeper</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.github.rtyle.bridgekeeper/4/126ae998-84ad-4b55-af76-358954afecd9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 11:19:41 +0100</pubDate>
-    </item>
     <item>
       <title>Laddel EV Charging</title>
       <link>https://homey.app/a/com.laddel</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.9it-full-service.http-device</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.9it-full-service.http-device/3/702ee575-2943-4b8c-9ae1-cf3d6a183d88/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 11:17:22 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dashboard Studio</title>
+      <link>https://homey.app/a/com.satoer.dashboardstudio</link>
+      <description>Visualize your home, exactly how you imagine it.</description>
+      <author>noreply@homey.app (Michel Satoer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.satoer.dashboardstudio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.satoer.dashboardstudio/11/5db349e4-459d-4c76-a2b5-b6d73d34f5e0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Mar 2026 13:16:55 +0100</pubDate>
     </item>
   </channel>
 </rss>
