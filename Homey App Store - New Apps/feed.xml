@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 10:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:26:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>LinknLink</title>
-      <link>https://homey.app/a/ady.linknlink</link>
-      <description>Powering your smart home with LinknLink.</description>
-      <author>noreply@homey.app (Adrian Rockall)</author>
-      <guid isPermaLink="false">https://homey.app/a/ady.linknlink</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ady.linknlink/4/e4b514e1-d386-4bd2-b962-0701853e3dca/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Feb 2026 09:18:57 +0100</pubDate>
-    </item>
     <item>
       <title>Music Assistant</title>
       <link>https://homey.app/a/com.cyrilhendriks.musicassistant</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/io.jak.givenergy</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.jak.givenergy/3/8f899cac-777c-4f6b-8cde-d7531144d02a/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Mar 2026 11:17:39 +0100</pubDate>
+    </item>
+    <item>
+      <title>IOmeter</title>
+      <link>https://homey.app/a/de.iometer</link>
+      <description>Your electricity counts</description>
+      <author>noreply@homey.app (Torben Schmidt)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.iometer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.iometer/3/8337f76e-233d-47b5-9c88-3ab9bc8fcfa4/assets/images/largex500x350.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 17:26:56 +0100</pubDate>
     </item>
   </channel>
 </rss>
