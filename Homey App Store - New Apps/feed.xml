@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:17:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Laddel EV Charging</title>
-      <link>https://homey.app/a/com.laddel</link>
-      <description>Control and monitor your EV charger</description>
-      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.laddel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.laddel/2/03d7b59d-8514-4ced-9f04-49061598790e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Feb 2026 09:18:57 +0100</pubDate>
-    </item>
     <item>
       <title>LinknLink</title>
       <link>https://homey.app/a/ady.linknlink</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.satoer.dashboardstudio</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.satoer.dashboardstudio/11/5db349e4-459d-4c76-a2b5-b6d73d34f5e0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 13:16:55 +0100</pubDate>
+    </item>
+    <item>
+      <title>GivEnergy</title>
+      <link>https://homey.app/a/io.jak.givenergy</link>
+      <description>Monitor and control your solar energy system locally</description>
+      <author>noreply@homey.app (Jak Spalding)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.jak.givenergy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.jak.givenergy/3/8f899cac-777c-4f6b-8cde-d7531144d02a/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Mar 2026 11:17:39 +0100</pubDate>
     </item>
   </channel>
 </rss>
