@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 16:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:20:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Music Assistant</title>
-      <link>https://homey.app/a/com.cyrilhendriks.musicassistant</link>
-      <description>Manage all your smart speakers with Music Assistant and Homey.</description>
-      <author>noreply@homey.app (Cyril Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.cyrilhendriks.musicassistant</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.cyrilhendriks.musicassistant/3/3c4ed43f-f755-46c6-a98a-902a9c5c882c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Feb 2026 09:18:57 +0100</pubDate>
-    </item>
     <item>
       <title>HomeKit Device Bridge</title>
       <link>https://homey.app/a/com.homekit.devicebridge</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/de.iometer</guid>
       <enclosure url="https://apps.homeycdn.net/app/de.iometer/3/8337f76e-233d-47b5-9c88-3ab9bc8fcfa4/assets/images/largex500x350.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Mar 2026 17:26:56 +0100</pubDate>
+    </item>
+    <item>
+      <title>Audioflow</title>
+      <link>https://homey.app/a/com.audioflow.myapp</link>
+      <description>Control Audioflow speaker switches</description>
+      <author>noreply@homey.app (Efficient Technology Ltd)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.audioflow.myapp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.audioflow.myapp/6/13f30f94-583a-49a2-b8f4-c0b976d2da66/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 15:20:07 +0100</pubDate>
     </item>
   </channel>
 </rss>
