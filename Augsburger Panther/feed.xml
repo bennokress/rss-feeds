@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Mar 2026 14:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:41:38 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther trennen sich von Florian Elias</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-trennen-sich-von-Florian-Elias-_naid,4210.html</link>
-      <description>Florian Elias wird nicht mehr für die Augsburger Panther auflaufen. Der Stürmer ist aus disziplinarischen Gründen seit Neujahr vom Trainings- und Spielbetrieb freigestellt, eine Rückkehr in den Kader des PENNY DEL-Clubs ist ausgeschlossen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-trennen-sich-von-Florian-Elias-_naid,4210.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7240_1_org_cp_SP21_AEV_RBM25_213.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 03 Jan 2026 13:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Keine Punkte beim Meister</title>
       <link>https://www.aev-panther.de/panther/news_news,-Keine-Punkte-beim-Meister-_naid,4211.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Auslastung-der-14-Arenen-liegt-%C3%BCber-93-Prozent-_naid,4260.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7298_1_org_cp_SP46_AEV_RBM26_164k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Mar 2026 15:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AEV verpasst Playoffs</title>
+      <link>https://www.aev-panther.de/panther/news_news,-AEV-verpasst-Playoffs-_naid,4261.html</link>
+      <description>Die Augsburger Panther haben die Playoffs in der Saison 2025-26 in der PENNY DEL verpasst. Am vorletzten Spieltag unterlag der AEV trotz ansprechender Leistung beim ERC Ingolstadt mit 4:7 und hat somit keine Chance mehr, auf einem der ersten zehn Plätze zu landen. Augsburg wird die Spielzeit als Elfter beenden. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verpasst-Playoffs-_naid,4261.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7299_1_org_ERC4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 23:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
