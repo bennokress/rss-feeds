@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Mar 2026 10:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 08:17:42 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Scheppach präsentiert sich im Rampenlicht</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Scheppach-pr%C3%A4sentiert-sich-im-Rampenlicht-_naid,4212.html</link>
-      <description>Bereits seit vielen Jahren unterstützt die Scheppach GmbH die Augsburger Panther als Sponsor. Am Dreikönigstag präsentiert sich der Top-Partner des PENNY DEL-Clubs mit seinem Unternehmenslogo auf der Brust der Spieltrikots „Im Rampenlicht". […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Scheppach-pr%C3%A4sentiert-sich-im-Rampenlicht-_naid,4212.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7243_1_org_ap_top_partner_scheppach_mini_bagger.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Am Dreikönigstag gegen Iserlohn</title>
       <link>https://www.aev-panther.de/panther/news_news,-Am-Dreik%C3%B6nigstag-gegen-Iserlohn-_naid,4213.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clublegende-TJ-Trevelyan-beendet-seine-aktive-Karriere-_naid,4262.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7300_1_org_cp_d4_Retro_AEVvNIT23_3611.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 09:35:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Der letzte Tanz von Legende T.J. Trevelyan</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Der-letzte-Tanz-von-Legende-TJ-Trevelyan-_naid,4263.html</link>
+      <description>Die Augsburger Panther erwarten im letzten Spiel ihrer Saison 2025-26 die Grizzlys Wolfsburg im ausverkauften Curt-Frenzel-Stadion, Eröffnungsbully ist um 14:00 Uhr. Die Clublegende T.J. Trevelyan wird nach 15 gemeinsamen Jahren heute letztmalig für den AEV auflaufen, ehe seine Nummer 24 aus Respekt vor seinen Leistungen, seiner Hingabe und Loyalität nie mehr vergeben wird. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Der-letzte-Tanz-von-Legende-TJ-Trevelyan-_naid,4263.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7301_1_org_20260306_AEVDRE_Goldberg_237.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 07:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
