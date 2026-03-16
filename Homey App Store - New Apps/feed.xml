@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:27:10 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HomeKit Device Bridge</title>
-      <link>https://homey.app/a/com.homekit.devicebridge</link>
-      <description>Universal bridge to bring Smart TVs, Air Purifiers and Climate devices into Apple HomeKit.</description>
-      <author>noreply@homey.app (Uğur Benek)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.homekit.devicebridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.homekit.devicebridge/5/c34206c5-9416-4210-89a2-a966f387ab8e/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Feb 2026 11:22:32 +0100</pubDate>
-    </item>
     <item>
       <title>Insteon</title>
       <link>https://homey.app/a/com.insteon</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.audioflow.myapp</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.audioflow.myapp/6/13f30f94-583a-49a2-b8f4-c0b976d2da66/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Mar 2026 15:20:07 +0100</pubDate>
+    </item>
+    <item>
+      <title>Red Alert Israel</title>
+      <link>https://homey.app/a/il.co.tzevaadom</link>
+      <description>Civil defense alert automations for Israel</description>
+      <author>noreply@homey.app (Idan Bush)</author>
+      <guid isPermaLink="false">https://homey.app/a/il.co.tzevaadom</guid>
+      <enclosure url="https://apps.homeycdn.net/app/il.co.tzevaadom/7/1a4e5a0d-6700-4a93-b363-4b4b1bc553e6/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 11:27:09 +0100</pubDate>
     </item>
   </channel>
 </rss>
