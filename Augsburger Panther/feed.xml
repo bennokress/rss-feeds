@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Mar 2026 18:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:29:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV verspielt Sieg gegen Roosters</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-verspielt-Sieg-gegen-Roosters-_naid,4214.html</link>
-      <description>Die Augsburger Panther haben trotz einer 2:0-Führung nur einen Punkt zu Hause gegen die Iserlohn Roosters geholt. Der AEV unterlag am Ende mit 2:3 nach Penaltyschießen. Die Treffer für die Panther erzielten Alexander Blank (10.) und Moritz Elias (11.). Für die Roosters waren Julian Napravnik (33.), Daniel Neumann (34.) und Daniel Fischbuch (66.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verspielt-Sieg-gegen-Roosters-_naid,4214.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7246_1_org_iec3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 06 Jan 2026 21:41:00 +0100</pubDate>
-    </item>
     <item>
       <title>Topscorer Alex Blank im Interview</title>
       <link>https://www.aev-panther.de/panther/news_news,-Topscorer-Alex-Blank-im-Interview-_naid,4215.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Trevelyan-sagt-Servus-mit-Tor-zwei-Assists-_naid,4264.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7302_1_org_Trev.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 17:54:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther verabschieden sich am 20. März von ihren Fans</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-verabschieden-sich-am-20-M%C3%A4rz-von-ihren-Fans-_naid,4265.html</link>
+      <description>Die PENNY DEL-Saison 2025-26 endete am gestrigen Sonntag für die Augsburger Panther mit einem emotionalen Heimspiel im einmal mehr ausverkauften Curt-Frenzel-Stadion. Bereits am Freitag, 20. März verabschiedet sich das Team im Rahmen des traditionellen Saisonabschluss von seinen treuen Fans. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verabschieden-sich-am-20-M%C3%A4rz-von-ihren-Fans-_naid,4265.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7303_1_org_20260315_AEVWOB_Goldberg_168.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Mar 2026 10:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
