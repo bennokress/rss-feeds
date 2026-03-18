@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:19:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Hoymiles Wi-Fi Solar Panel</title>
-      <link>https://homey.app/a/gpm.hoymiles.solarpanel</link>
-      <description>Local integration for Hoymiles microinverters via DTU over TCP. Provides real-time solar production data without requiring cloud connectivity.</description>
-      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
-      <guid isPermaLink="false">https://homey.app/a/gpm.hoymiles.solarpanel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/gpm.hoymiles.solarpanel/1/9acc1139-dbe5-4d08-9f2d-74be63267a14/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Feb 2026 17:26:47 +0100</pubDate>
-    </item>
     <item>
       <title>Haier hOn</title>
       <link>https://homey.app/a/com.haier.hon.airco</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.weatherflow.tempest</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.weatherflow.tempest/14/6c9b2ce0-a4e8-49c2-934a-00946154c3d3/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Mar 2026 11:20:44 +0100</pubDate>
+    </item>
+    <item>
+      <title>NL Alert</title>
+      <link>https://homey.app/a/com.basmilius.nlalert</link>
+      <description>Get notified when an NL Alert affects your location.</description>
+      <author>noreply@homey.app (Bas Milius)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.basmilius.nlalert</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.nlalert/1/db79a7aa-7b53-4136-8386-4997e45f5d6f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 09:19:19 +0100</pubDate>
     </item>
   </channel>
 </rss>
