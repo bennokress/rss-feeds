@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:23:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Haier hOn</title>
-      <link>https://homey.app/a/com.haier.hon.airco</link>
-      <description>Smart Climate Control</description>
-      <author>noreply@homey.app (Pjotr Grootkop)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.haier.hon.airco</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.haier.hon.airco/6/b6ae274a-4643-4f63-bee9-861c1bbce923/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Feb 2026 09:18:50 +0100</pubDate>
-    </item>
-    <item>
-      <title>Syslog client</title>
-      <link>https://homey.app/a/se.oxiecloud.syslog</link>
-      <description>Syslog made simple</description>
-      <author>noreply@homey.app (Mats Knuts)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.oxiecloud.syslog</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.oxiecloud.syslog/4/ea67db47-155c-44cc-b67e-845935eb9b25/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Feb 2026 09:18:50 +0100</pubDate>
-    </item>
     <item>
       <title>Nissan Connect</title>
       <link>https://homey.app/a/com.nissan.connect</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.basmilius.nlalert</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.basmilius.nlalert/1/db79a7aa-7b53-4136-8386-4997e45f5d6f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 09:19:19 +0100</pubDate>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>https://homey.app/a/com.basmilius.claude</link>
+      <description>Bring Claude AI by Anthropic into your Homey flows.</description>
+      <author>noreply@homey.app (Bas Milius)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.basmilius.claude</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.claude/3/6e9e732b-4034-4885-9bba-590862091f93/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 11:23:06 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ping Monitor</title>
+      <link>https://homey.app/a/com.byluto.pingmonitor</link>
+      <description>Track network device availability and automate actions when they go online or offline.</description>
+      <author>noreply@homey.app (MR Luto)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.byluto.pingmonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.byluto.pingmonitor/1/8cb833d1-01ab-4924-8f6f-e61dfbc139c0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Mar 2026 11:23:06 +0100</pubDate>
     </item>
   </channel>
 </rss>
