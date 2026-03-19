@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 10:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:17:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Nissan Connect</title>
-      <link>https://homey.app/a/com.nissan.connect</link>
-      <description>Control your Nissan electric vehicle from Homey</description>
-      <author>noreply@homey.app (Steffen Fridtjofsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.nissan.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.nissan.connect/4/8d4c74e8-e399-4658-a08c-19c7644b82ad/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 09:17:59 +0100</pubDate>
-    </item>
     <item>
       <title>AMBEO Soundbar</title>
       <link>https://homey.app/a/com.bas.ambeo</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.byluto.pingmonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.byluto.pingmonitor/1/8cb833d1-01ab-4924-8f6f-e61dfbc139c0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 11:23:06 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vitrum Design Air</title>
+      <link>https://homey.app/a/com.vitrum.air</link>
+      <description>Discover the balance between design and technological innovation</description>
+      <author>noreply@homey.app (Mattia Calió)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.vitrum.air</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.vitrum.air/3/0b840b19-2f98-4d10-9124-0b82f0b0771d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Mar 2026 11:17:52 +0100</pubDate>
     </item>
   </channel>
 </rss>
