@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 14:28:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Deye Inverter (Local - Solarman V5)</title>
-      <link>https://homey.app/a/gpm.deye.solarpanel.tcp</link>
-      <description>Local integration for Deye inverters using Solarman V5 protocol (port 8899)</description>
-      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
-      <guid isPermaLink="false">https://homey.app/a/gpm.deye.solarpanel.tcp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/gpm.deye.solarpanel.tcp/1/c3ec6d76-7318-4d3f-9081-3b6fba05a8a4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sea Sparkle Predictor</title>
-      <link>https://homey.app/a/nl.zeevonk.predictor</link>
-      <description>Sea sparkle (zeevonk) bioluminescence prediction powered by Open-Meteo</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.zeevonk.predictor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.zeevonk.predictor/2/4776748c-4e8a-4c91-a3e7-ff1ca3dcfb3d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
-    </item>
     <item>
       <title>YAWSEE</title>
       <link>https://homey.app/a/com.wled.slideeffect</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.pollenmonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.pollenmonitor/5/da140f1c-197c-48eb-ac05-9493779bd7d2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
+    </item>
+    <item>
+      <title>Arteco</title>
+      <link>https://homey.app/a/com.arteco</link>
+      <description>Monitor your plants' soil moisture, temperature, humidity, and light with the Arteco ZS-301Z Zigbee sensor.</description>
+      <author>noreply@homey.app (Philip Østli)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.arteco</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.arteco/1/a901d449-488c-456c-bc5f-b163f385495c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 15:28:34 +0100</pubDate>
+    </item>
+    <item>
+      <title>Flow Version History</title>
+      <link>https://homey.app/a/nl.dypodex.versionhistory</link>
+      <description>Made a mistake? No problem!</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.versionhistory</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.versionhistory/5/ca7e3604-e9ee-4d72-b105-cacae9bb8857/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 15:28:34 +0100</pubDate>
     </item>
   </channel>
 </rss>
