@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:25:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AMBEO Soundbar</title>
-      <link>https://homey.app/a/com.bas.ambeo</link>
-      <description>Bring immersive AMBEO sound into your Homey smart home.</description>
-      <author>noreply@homey.app (Bas Slob)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.bas.ambeo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.bas.ambeo/4/030d00c3-4f6e-4697-9b06-4782846501f7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 09:17:59 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ugreen NAS</title>
-      <link>https://homey.app/a/com.ugreen.nas</link>
-      <description>Manage your Ugreen NAS from Homey</description>
-      <author>noreply@homey.app (Guray Kircuvaloglu)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ugreen.nas</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ugreen.nas/8/86a112b2-2b73-4498-8da1-166af73ccb4a/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 09:17:59 +0100</pubDate>
-    </item>
-    <item>
-      <title>Adaptive Lighting</title>
-      <link>https://homey.app/a/tv.waldoandfriends.adaptive-lighting</link>
-      <description>Light that follows your natural rhythm</description>
-      <author>noreply@homey.app (Wouter Janson-Korhorn)</author>
-      <guid isPermaLink="false">https://homey.app/a/tv.waldoandfriends.adaptive-lighting</guid>
-      <enclosure url="https://apps.homeycdn.net/app/tv.waldoandfriends.adaptive-lighting/15/ef0cf513-9059-4ca4-8a4a-1867485cf797/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 11:20:25 +0100</pubDate>
-    </item>
-    <item>
-      <title>Chronoflow</title>
-      <link>https://homey.app/a/com.pascalnohl.chronoflow</link>
-      <description>Automate the precise moments of your life</description>
-      <author>noreply@homey.app (Pascal Nohl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.chronoflow</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.chronoflow/1/6a28f9cf-e749-4362-a3db-dd284b71df39/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 11:20:25 +0100</pubDate>
-    </item>
-    <item>
-      <title>Midea Vacuum</title>
-      <link>https://homey.app/a/com.midea.vacuum</link>
-      <description>Control Midea vacuum via cloud API</description>
-      <author>noreply@homey.app (Alex Godijn)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.midea.vacuum</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.midea.vacuum/6/093e7f69-70b0-4670-94b0-8ed3e356d2ef/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Feb 2026 11:15:55 +0100</pubDate>
-    </item>
     <item>
       <title>Deye Inverter (Local - Solarman V5)</title>
       <link>https://homey.app/a/gpm.deye.solarpanel.tcp</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.vitrum.air</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.vitrum.air/3/0b840b19-2f98-4d10-9124-0b82f0b0771d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Mar 2026 11:17:52 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lutron RA2 Bridge CE</title>
+      <link>https://homey.app/a/com.ra2.bridge.ce</link>
+      <description>Control Lutron RadioRA2 lights, shades, and fans via RA2 Bridge</description>
+      <author>noreply@homey.app (Fred Graf)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ra2.bridge.ce</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ra2.bridge.ce/2/d0270b9b-6c25-4a7c-b494-184e22e1c6b2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tailscale Connect</title>
+      <link>https://homey.app/a/com.danielmiguel.tailscale</link>
+      <description>Secure remote access and Tailscale control for Homey Pro.</description>
+      <author>noreply@homey.app (Daniel Miguel Tejedor)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.danielmiguel.tailscale</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.danielmiguel.tailscale/1/1ce7d78d-b88c-407b-a0df-96de66f377d5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
+    </item>
+    <item>
+      <title>Skoda</title>
+      <link>https://homey.app/a/be.functor.skoda</link>
+      <description>Simply clever — your Škoda, at home in your smart home</description>
+      <author>noreply@homey.app (Kenny Moens)</author>
+      <guid isPermaLink="false">https://homey.app/a/be.functor.skoda</guid>
+      <enclosure url="https://apps.homeycdn.net/app/be.functor.skoda/3/f347742d-2ff3-4e1b-9e30-bbd18ce5f9ac/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
+    </item>
+    <item>
+      <title>CEZ Distribution</title>
+      <link>https://homey.app/a/cz.kamilsykora.cezdistribuce</link>
+      <description>CEZ Distribution portal</description>
+      <author>noreply@homey.app (Kamil Sýkora)</author>
+      <guid isPermaLink="false">https://homey.app/a/cz.kamilsykora.cezdistribuce</guid>
+      <enclosure url="https://apps.homeycdn.net/app/cz.kamilsykora.cezdistribuce/1/eb97d81e-f5a9-4945-a08c-594564065f20/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pollen Monitor</title>
+      <link>https://homey.app/a/com.pollenmonitor</link>
+      <description>Pollen forecast and hay fever alerts for the Netherlands (Buienradar)</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pollenmonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pollenmonitor/5/da140f1c-197c-48eb-ac05-9493779bd7d2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
     </item>
   </channel>
 </rss>
