@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 08:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:22:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>hOn SmartHome</title>
-      <link>https://homey.app/a/com.dimapp.hon</link>
-      <description>Your laundry, smarter than ever</description>
-      <author>noreply@homey.app (Simone Di Maio)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dimapp.hon</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.hon/5/c27cdae1-cc98-4f44-8df0-d3abdceb4aa4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>Trivia</title>
-      <link>https://homey.app/a/com.aos.trivia</link>
-      <description>Play trivia rounds directly from your Homey dashboard widget.</description>
-      <author>noreply@homey.app (Arnt Soløy)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.aos.trivia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.aos.trivia/4/c3342ee9-f6eb-4ba0-a937-3c253e8b6262/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 11:20:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>Espressif ZigBee</title>
-      <link>https://homey.app/a/com.espressif</link>
-      <description>Use the ESP32C6 and ESP32H2 example projects in Homey</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.espressif</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.espressif/3/6de3c831-5577-474a-84bc-35f471ffb556/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Mar 2026 13:16:51 +0100</pubDate>
-    </item>
     <item>
       <title>WhatsApp Bot</title>
       <link>https://homey.app/a/com.dimapp.wabot</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.michel.ai-hub</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.michel.ai-hub/1/0b4bbc5f-4f4b-47fb-937c-1e04242aa3bb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 09:19:51 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ohme</title>
+      <link>https://homey.app/a/io.jak.ohme</link>
+      <description>Smart EV charging that saves you money while you sleep.</description>
+      <author>noreply@homey.app (Jak Spalding)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.jak.ohme</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.jak.ohme/5/d957abbd-55ad-4f40-afb5-453530cf5a06/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gazelle Connect</title>
+      <link>https://homey.app/a/nl.gazelle.connect</link>
+      <description>Classic Dutch cycling meets modern smart home technology, giving Piet Pelle endless possibilities.</description>
+      <author>noreply@homey.app (Niels Rozeboom)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.gazelle.connect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.gazelle.connect/3/35e938d0-b50e-4d44-a0e2-596bd0f096df/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
+    </item>
+    <item>
+      <title>ZoneLight Pro</title>
+      <link>https://homey.app/a/com.todoit.zonelightpro</link>
+      <description>Fully automatic zone-based adaptive lighting with profiles, circadian control, overrides, and ML predictions.</description>
+      <author>noreply@homey.app (Kasper Christensen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.todoit.zonelightpro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.todoit.zonelightpro/39/e1f448d6-fb3d-4c79-8b85-5862ab4670f5/assets/app_icon.large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
     </item>
   </channel>
 </rss>
