@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 12:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 14:31:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ajax Systems</title>
-      <link>https://homey.app/a/com.ajaxsystems.ajax</link>
-      <description>Control and monitor your Ajax security system from Homey</description>
-      <author>noreply@homey.app (Thomas Thaulow Stöcklin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ajaxsystems.ajax</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ajaxsystems.ajax/30/0de7132c-9284-4186-af4c-9828cac93d5e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>Tailwind</title>
       <link>https://homey.app/a/com.dn.tailwind</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.winbigfox.moodfade</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.winbigfox.moodfade/1/8c1415d3-c876-4159-a477-dcee04c314b7/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 13:21:28 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hail Protection Switzerland</title>
+      <link>https://homey.app/a/ch.hagelschutz.homey</link>
+      <description>Hail protection for your blinds – automatic warning via REST API</description>
+      <author>noreply@homey.app (Andi Wirz)</author>
+      <guid isPermaLink="false">https://homey.app/a/ch.hagelschutz.homey</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ch.hagelschutz.homey/4/42dd1637-4538-4dad-8256-cac2ab724e48/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 15:31:06 +0100</pubDate>
     </item>
   </channel>
 </rss>
