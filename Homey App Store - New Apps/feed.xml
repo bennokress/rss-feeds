@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 14:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 12:21:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Kliko Calendar</title>
-      <link>https://homey.app/a/nl.klikokalender</link>
-      <description>Get notified which trash containers are collected today and tomorrow</description>
-      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.klikokalender</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.klikokalender/5/779fa39b-0f63-45da-8646-5a7336a9f0ba/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>Ajax Systems</title>
       <link>https://homey.app/a/com.ajaxsystems.ajax</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/gpm.linked.switches</guid>
       <enclosure url="https://apps.homeycdn.net/app/gpm.linked.switches/5/3e14b370-4139-463b-9697-a852505d1a92/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Mar 2026 15:31:06 +0100</pubDate>
+    </item>
+    <item>
+      <title>MoodFade</title>
+      <link>https://homey.app/a/com.winbigfox.moodfade</link>
+      <description>Fades lights smoothly to a mood.</description>
+      <author>noreply@homey.app (Adrian Buck)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.winbigfox.moodfade</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.winbigfox.moodfade/1/8c1415d3-c876-4159-a477-dcee04c314b7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Mar 2026 13:21:28 +0100</pubDate>
     </item>
   </channel>
 </rss>
