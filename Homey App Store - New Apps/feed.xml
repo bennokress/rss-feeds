@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 14:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:23:37 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tailwind</title>
-      <link>https://homey.app/a/com.dn.tailwind</link>
-      <description>Unofficial local control for your Tailwind iQ3 garage door opener — no cloud required</description>
-      <author>noreply@homey.app (John Vernon)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dn.tailwind</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dn.tailwind/4/bfc5ae47-a3c6-4c4e-9b17-5e5cf3c73264/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>Sunsa</title>
       <link>https://homey.app/a/com.sunsahomes</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/ch.hagelschutz.homey</guid>
       <enclosure url="https://apps.homeycdn.net/app/ch.hagelschutz.homey/4/42dd1637-4538-4dad-8256-cac2ab724e48/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 15:31:06 +0100</pubDate>
+    </item>
+    <item>
+      <title>elekeeper</title>
+      <link>https://homey.app/a/be.telenut.elekeeper</link>
+      <description>Bring your SAJ eSolar inverter into Homey and automate your home with real-time solar data.</description>
+      <author>noreply@homey.app (Steven Algoet)</author>
+      <guid isPermaLink="false">https://homey.app/a/be.telenut.elekeeper</guid>
+      <enclosure url="https://apps.homeycdn.net/app/be.telenut.elekeeper/10/2d907b62-3f9f-455c-b368-fd6c9c446698/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Mar 2026 11:23:35 +0100</pubDate>
     </item>
   </channel>
 </rss>
