@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Mar 2026 08:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:26:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ausverkauftes CFS gegen Frankfurt</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Ausverkauftes-CFS-gegen-Frankfurt-_naid,4220.html</link>
-      <description>Die Augsburger Panther freuen sich im 21. Heimspiel über das 16. ausverkaufte Curt-Frenzel-Stadion der PENNY DEL-Saison 2025-26. Auch für die danach noch fünf verbleibenden Hauptrunde-Spiele im CFS ist die Ticketnachfrage unverändert hoch und größtenteils sind nur noch Stehplätze erhältlich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Ausverkauftes-CFS-gegen-Frankfurt-_naid,4220.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7252_1_org_20260106_AEVISR_Goldberg_195.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>We stick together!</title>
       <link>https://www.aev-panther.de/panther/news_news,-We-stick-together-_naid,4221.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Dolak-verl%C3%A4sst-die-Panther-Endras-und-Schelenz-bleiben-_naid,4269.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7307_1_org_cp_SP36_EBB_AEV26_182k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 08:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>5 Sterne für den AEV-Nachwuchs</title>
+      <link>https://www.aev-panther.de/panther/news_news,-5-Sterne-f%C3%BCr-den-AEV-Nachwuchs-_naid,4270.html</link>
+      <description>Der Deutsche Eishockey-Bund, die Deutsche Eishockey Liga und die DEL2 haben ihre alljährliche Vereins-Zertifizierung im Rahmen des "5-Sterne-Nachwuchsprogramms" abgeschlossen und die Clubs sowie ihre Stammvereine über die jeweiligen Ergebnisse informiert. Der Augsburger Eislaufverein e.V. wurde dabei für seine gute Nachwuchsarbeit erneut mit fünf Sternen eingestuft. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-5-Sterne-f%C3%BCr-den-AEV-Nachwuchs-_naid,4270.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7308_1_org_20260306_AEVDRE_Goldberg_185.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
