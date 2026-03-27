@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:19:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sunsa</title>
-      <link>https://homey.app/a/com.sunsahomes</link>
-      <description>Smart Blinds, Simplified</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.sunsahomes</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.sunsahomes/10/8d11f26f-e725-470d-abd9-8e7a3229836d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>QR Codes</title>
       <link>https://homey.app/a/nl.dypodex.qrcode</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/be.telenut.elekeeper</guid>
       <enclosure url="https://apps.homeycdn.net/app/be.telenut.elekeeper/10/2d907b62-3f9f-455c-b368-fd6c9c446698/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 11:23:35 +0100</pubDate>
+    </item>
+    <item>
+      <title>Formula 1 Live Timing</title>
+      <link>https://homey.app/a/nl.monkeysoft.f1</link>
+      <description>Bring Formula 1 live data into your Homey automations.</description>
+      <author>noreply@homey.app (Stèphan Eizinga (MonkeySoft))</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.f1</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.f1/4/151f86b0-5123-46fc-8929-6b2db7c79c71/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 11:19:39 +0100</pubDate>
     </item>
   </channel>
 </rss>
