@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:23:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>We stick together!</title>
-      <link>https://www.aev-panther.de/panther/news_news,-We-stick-together-_naid,4221.html</link>
-      <description>In den ersten drei Vierteln der laufenden Hauptrunde konnten wir in 22 von 39 Partien punkten und sind somit vor einem spannenden Hauptrunden-Finale in Schlagdistanz zu Platz 10. Nach sechs langen Jahren ohne Playoff-Qualifikation dürfen wir zumindest von einer Endrunden-Teilnahme träumen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-We-stick-together-_naid,4221.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7253_1_org_ex25_09_aev_wob_076k.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Augsburg erwartet Frankfurt im ausverkauften CFS</title>
       <link>https://www.aev-panther.de/panther/news_news,-Augsburg-erwartet-Frankfurt-im-ausverkauften-CFS-_naid,4222.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-5-Sterne-f%C3%BCr-den-AEV-Nachwuchs-_naid,4270.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7308_1_org_20260306_AEVDRE_Goldberg_185.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Liron Pellizzari für die U18-Nationalmannschaft nominiert</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%BCr-die-U18-Nationalmannschaft-nominiert-_naid,4271.html</link>
+      <description>Liron Pellizzari darf sich berechtigte Hoffnungen auf die Nominierung zur U18-Weltmeisterschaft in der Slowakei machen. Bundestrainer Andreas Becherer hat den erst 17-jährigen Verteidiger in die DEB-Auswahl für Phase I der WM-Vorbereitung berufen. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%BCr-die-U18-Nationalmannschaft-nominiert-_naid,4271.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7309_1_org_ex25_13_aev_fra_089k.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
