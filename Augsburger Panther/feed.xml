@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:19:14 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Augsburg erwartet Frankfurt im ausverkauften CFS</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Augsburg-erwartet-Frankfurt-im-ausverkauften-CFS-_naid,4222.html</link>
-      <description>Am Freitagabend nehmen es die Panther im ausverkauften Curt-Frenzel-Stadion mit den Löwen auf. Eröffnungsbully in der Partie des 40. Spieltags zwischen Augsburg und Frankfurt ist um 19:30 Uhr. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Augsburg-erwartet-Frankfurt-im-ausverkauften-CFS-_naid,4222.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7254_1_org_ex25_13_aev_fra_056k.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Wichtiger Heimsieg gegen Frankfurt</title>
       <link>https://www.aev-panther.de/panther/news_news,-Wichtiger-Heimsieg-gegen-Frankfurt-_naid,4223.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%BCr-die-U18-Nationalmannschaft-nominiert-_naid,4271.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7309_1_org_ex25_13_aev_fra_089k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Großer Sponsorenabend im Pantherclub</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Gro%C3%9Fer-Sponsorenabend-im-Pantherclub-_naid,4272.html</link>
+      <description>Am Donnerstagabend luden die Augsburger Panther ihre Partner zu einem großen Sponsorenabend in den Pantherclub des Curt-Frenzel-Stadions ein. Geschäftsführer Maximilian Horber und Sportdirektor Larry Mitchell ließen die Saison 2025-26 Revue passieren und wagten auch einen ersten Blick auf die kommende Spielzeit in der Deutschen Eishockey Liga. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Gro%C3%9Fer-Sponsorenabend-im-Pantherclub-_naid,4272.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7310_1_org_20260326_AEVSponsoren_Goldberg_148.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 28 Mar 2026 11:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
