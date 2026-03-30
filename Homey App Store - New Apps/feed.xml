@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:25:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Earthquake Detector</title>
-      <link>https://homey.app/a/com.seismicdetector</link>
-      <description>Real-time earthquake detection powered by EMSC SeismicPortal</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.seismicdetector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.seismicdetector/7/9aa096b7-b533-45cc-a615-932107c9ca0f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
-    <item>
-      <title>Lightning Detector</title>
-      <link>https://homey.app/a/com.lightningdetector</link>
-      <description>Real-time lightning detection powered by the Blitzortung network</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lightningdetector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lightningdetector/9/203d3877-a7fe-4977-92be-a2f3c10efcfc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>Volcano Monitor</title>
       <link>https://homey.app/a/com.volcanomonitor</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.refoss.energymonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.refoss.energymonitor/4/3fe231da-1660-4f4a-808a-c5dd30b06fc8/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 12:33:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Luxtronik Heat Pump Manager</title>
+      <link>https://homey.app/a/com.luxtronik.heatpump</link>
+      <description>Control and monitor your Luxtronik 2.0 heat pump</description>
+      <author>noreply@homey.app (Andi Wirz)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.luxtronik.heatpump</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.luxtronik.heatpump/18/7824ad54-31a4-43bc-9de1-ef2ff2e15f47/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 14:25:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Power Guard</title>
+      <link>https://homey.app/a/no.powerguard</link>
+      <description>Keep your home within its power limit — automatically</description>
+      <author>noreply@homey.app (Finn Cato Andersen)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.powerguard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.powerguard/65/59acf353-2ea4-4619-92fd-b6c2f3a0fa05/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 14:25:14 +0200</pubDate>
     </item>
   </channel>
 </rss>
