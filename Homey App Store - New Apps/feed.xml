@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:33:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Calendar-cloud</title>
-      <link>https://homey.app/a/com.calendar.cloud</link>
-      <description>Elegant calendar widget for your Dashboard (iCloud, Google, Outlook)</description>
-      <author>noreply@homey.app (Olivier Friedrich)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.calendar.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.calendar.cloud/1/ab322796-35ea-4da3-8df9-0ecf3655aa74/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 11:17:09 +0100</pubDate>
-    </item>
     <item>
       <title>Earthquake Detector</title>
       <link>https://homey.app/a/com.seismicdetector</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.vinnie.smart-calc</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.vinnie.smart-calc/1/e19e334d-1bc5-44b3-aae8-ab2d98b291e4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 10:37:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Refoss Energy Monitor</title>
+      <link>https://homey.app/a/com.refoss.energymonitor</link>
+      <description>Local network integration for Refoss energy monitoring devices (EM01P, EM06P, EM16P).</description>
+      <author>noreply@homey.app (Naresh Kodali)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.refoss.energymonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.refoss.energymonitor/4/3fe231da-1660-4f4a-808a-c5dd30b06fc8/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Mar 2026 12:33:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
