@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:35:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Dreame</title>
-      <link>https://homey.app/a/com.dreame.vacuum.cloud</link>
-      <description>Smart Robot Vacuum Control</description>
-      <author>noreply@homey.app (Pjotr Grootkop)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dreame.vacuum.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dreame.vacuum.cloud/1/6d2d0a85-ebf1-4741-8dd8-9c86eece9c84/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 15:20:49 +0100</pubDate>
-    </item>
     <item>
       <title>Anker Solix</title>
       <link>https://homey.app/a/de.tilwegener.ankersolix</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.basmilius.changelogs</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.basmilius.changelogs/1/1aba1fff-2bd6-4427-b98b-65c48313500f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smartlink Automation</title>
+      <link>https://homey.app/a/smartlinkautomation.com</link>
+      <description>Control Smartlink Z-Wave Smart Switches</description>
+      <author>noreply@homey.app (Smartlink Automation Team)</author>
+      <guid isPermaLink="false">https://homey.app/a/smartlinkautomation.com</guid>
+      <enclosure url="https://apps.homeycdn.net/app/smartlinkautomation.com/2/8387f788-2025-42cb-9aea-83a3bba5b2aa/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 16:35:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
