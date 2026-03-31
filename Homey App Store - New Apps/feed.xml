@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:17:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Anker Solix</title>
-      <link>https://homey.app/a/de.tilwegener.ankersolix</link>
-      <description>Power your home. Own your energy.</description>
-      <author>noreply@homey.app (Til Wegener)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.tilwegener.ankersolix</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.tilwegener.ankersolix/6/a30b4328-6087-44d7-9dd2-14002fda62f1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 15:20:49 +0100</pubDate>
-    </item>
     <item>
       <title>SmallData</title>
       <link>https://homey.app/a/com.marcel.smalldata</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/smartlinkautomation.com</guid>
       <enclosure url="https://apps.homeycdn.net/app/smartlinkautomation.com/2/8387f788-2025-42cb-9aea-83a3bba5b2aa/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 16:35:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hörmann Garagedoor</title>
+      <link>https://homey.app/a/com.skycoders.hoermann-mqtt</link>
+      <description>Garagedoor support through Hörmann HCPBridgeMQTT</description>
+      <author>noreply@homey.app (Konrad Hübner)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.skycoders.hoermann-mqtt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.skycoders.hoermann-mqtt/1/efaf4371-eef6-466f-b20b-ccdee06ccbb9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 22:17:05 +0200</pubDate>
     </item>
   </channel>
 </rss>
