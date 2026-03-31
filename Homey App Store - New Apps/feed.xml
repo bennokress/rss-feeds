@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:25:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Aurora Monitor</title>
-      <link>https://homey.app/a/com.auroramonitor</link>
-      <description>Aurora borealis monitoring powered by NOAA</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.auroramonitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.auroramonitor/2/13af30d8-8f3c-4b59-90d9-ee6488eb2d52/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
-    </item>
-    <item>
-      <title>Studio Clock</title>
-      <link>https://homey.app/a/com.studioclock</link>
-      <description>Broadcast studio clock widget with animated LED seconds ring</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.studioclock</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.studioclock/2/034b1af7-7e21-40bf-9279-183ac79debf5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Mar 2026 13:16:21 +0100</pubDate>
-    </item>
-    <item>
-      <title>Norwegian Public Transport</title>
-      <link>https://homey.app/a/no.arnab.norwegian.public.transport</link>
-      <description>Monitor real-time departures from any stop place in Norway</description>
-      <author>noreply@homey.app (Arnab Datta)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.arnab.norwegian.public.transport</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.arnab.norwegian.public.transport/3/d685d8ee-1f41-49ea-8fa6-59a39c802bbd/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Mar 2026 13:17:18 +0100</pubDate>
-    </item>
     <item>
       <title>Dreame</title>
       <link>https://homey.app/a/com.dreame.vacuum.cloud</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.cyrilhendriks.boschindego</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.cyrilhendriks.boschindego/3/6d826c99-ae4c-4894-b69d-69fe9f6e30cb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Mar 2026 16:36:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>MCZ Maestro Pellet Stove</title>
+      <link>https://homey.app/a/com.mcz.pelletstove</link>
+      <description>Control your MCZ Maestro pellet stove via the MCZ cloud.</description>
+      <author>noreply@homey.app (Gerrit Scherpenzeel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mcz.pelletstove</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mcz.pelletstove/8/bb940d75-00a5-4015-b972-b486bca1748f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smart heating</title>
+      <link>https://homey.app/a/com.chhv.smartheating</link>
+      <description>Predictive heating control for Homey using weather forecasts and zone-based intelligence for stable comfort and lower energy use.</description>
+      <author>noreply@homey.app (Christian Hvolby)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.chhv.smartheating</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.chhv.smartheating/5/ac0ebf0d-045e-47b0-9ca1-8d17f0c82662/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Changelogs</title>
+      <link>https://homey.app/a/com.basmilius.changelogs</link>
+      <description>Track updates of your installed Homey apps and get notified with changelogs.</description>
+      <author>noreply@homey.app (Bas Milius)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.basmilius.changelogs</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.changelogs/1/1aba1fff-2bd6-4427-b98b-65c48313500f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
     </item>
   </channel>
 </rss>
