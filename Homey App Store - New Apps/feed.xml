@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 20:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:32:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SmallData</title>
-      <link>https://homey.app/a/com.marcel.smalldata</link>
-      <description>Store and display custom data and camera snapshots in widgets.</description>
-      <author>noreply@homey.app (Marcel Sauer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.marcel.smalldata</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.marcel.smalldata/1/3cac6c88-cd6b-42f2-af98-de6b6dbc538f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 11:13:34 +0100</pubDate>
-    </item>
     <item>
       <title>HR-energy</title>
       <link>https://homey.app/a/com.hr-energy.qube</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.skycoders.hoermann-mqtt</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.skycoders.hoermann-mqtt/1/efaf4371-eef6-466f-b20b-ccdee06ccbb9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 22:17:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kaisai Modbus AWHP</title>
+      <link>https://homey.app/a/com.kaoh.kaisaimodbus</link>
+      <description>Control your Kaisai AWHP using local Modbus protocol.</description>
+      <author>noreply@homey.app (Vincent Boer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kaoh.kaisaimodbus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.kaisaimodbus/3/1d58470a-eca3-4cbf-9240-59c76482947a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Apr 2026 10:32:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
