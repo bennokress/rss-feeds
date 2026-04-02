@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:25:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Canon</title>
-      <link>https://homey.app/a/canon.global</link>
-      <description>Printing has never been smarter</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/canon.global</guid>
-      <enclosure url="https://apps.homeycdn.net/app/canon.global/4/978a853f-e44a-4d40-9332-6a41d4b1c00d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 11:20:42 +0100</pubDate>
-    </item>
-    <item>
-      <title>Flient Smart Lock</title>
-      <link>https://homey.app/a/net.flient.smartlock</link>
-      <description>Control your Flient smart locks with Homey</description>
-      <author>noreply@homey.app (Hans Marra)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.flient.smartlock</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.flient.smartlock/6/87e8f7e2-f638-4f7d-88d9-b7ac8830fd70/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 15:23:52 +0100</pubDate>
-    </item>
     <item>
       <title>My EDF Tempo</title>
       <link>https://homey.app/a/com.edf.tempo</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.nielsdeklerk.BraviaTheaterQuad/3/1c7473e0-bac1-4900-bb01-0a289c4aedcc/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Remeha</title>
+      <link>https://homey.app/a/community.remeha.modbus-tcp</link>
+      <description>Make your heat pump work smarter, not harder</description>
+      <author>noreply@homey.app (Paul Vermeulen)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.remeha.modbus-tcp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.remeha.modbus-tcp/4/6818182b-e669-497b-bf85-7af902567c90/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 14:24:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>HeatMeister</title>
+      <link>https://homey.app/a/community.heatmeister.tcp</link>
+      <description>Smarter radiator fans for a warmer home</description>
+      <author>noreply@homey.app (Paul Vermeulen)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.heatmeister.tcp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.heatmeister.tcp/2/a1aaa93e-36c0-4dd1-8347-82f9211f59a4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 14:24:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
