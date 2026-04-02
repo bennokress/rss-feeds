@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:23:54 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HR-energy</title>
-      <link>https://homey.app/a/com.hr-energy.qube</link>
-      <description>Control your Qube heatpump from Homey</description>
-      <author>noreply@homey.app (Robert Coemans)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.hr-energy.qube</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.hr-energy.qube/3/a8063c7e-218c-497f-a617-5201b0927fad/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 11:13:34 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dashy</title>
-      <link>https://homey.app/a/dev.devfle.dashy</link>
-      <description>Elevate your dashboard with modern aesthetics and a personal touch.</description>
-      <author>noreply@homey.app (Daniel Flesch)</author>
-      <guid isPermaLink="false">https://homey.app/a/dev.devfle.dashy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dev.devfle.dashy/2/1d43e128-fe12-4052-ad6c-38c95ccb7475/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 13:14:56 +0100</pubDate>
-    </item>
-    <item>
-      <title>Eltako</title>
-      <link>https://homey.app/a/com.eltako</link>
-      <description>Switching on the future</description>
-      <author>noreply@homey.app (ELTAKO GmbH)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.eltako</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.eltako/10/a325da2c-4af4-4f0f-b398-636f3ea2cb10/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 01:33:45 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sun Times</title>
-      <link>https://homey.app/a/io.borgh.sunevent</link>
-      <description>Adds support and widgets for sun-events, like sunrise and sunset</description>
-      <author>noreply@homey.app (Andreas Borgh)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.borgh.sunevent</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.borgh.sunevent/1/2aab1da1-2764-4395-b764-525a139447a5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 09:17:49 +0100</pubDate>
-    </item>
-    <item>
-      <title>PalGate Control</title>
-      <link>https://homey.app/a/com.pal-es</link>
-      <description>Control PalGate gates from Homey</description>
-      <author>noreply@homey.app (Idan Bush)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pal-es</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pal-es/3/b85c1c5c-7b87-4dd6-b22f-7727ffbc506b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 09:17:49 +0100</pubDate>
-    </item>
     <item>
       <title>Canon</title>
       <link>https://homey.app/a/canon.global</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.kaoh.kaisaimodbus</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kaoh.kaisaimodbus/3/1d58470a-eca3-4cbf-9240-59c76482947a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 10:32:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Swiss Weather</title>
+      <link>https://homey.app/a/ch.meteoswiss</link>
+      <description>Forecasts, maps and warnings powered by MeteoSwiss</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/ch.meteoswiss</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ch.meteoswiss/12/d271ef93-b866-46ec-8a08-5bd88b91a095/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Power Profiler</title>
+      <link>https://homey.app/a/net.dongen.power-profiler</link>
+      <description>Learn appliance consumption profiles and schedule the cheapest run times</description>
+      <author>noreply@homey.app (Andy van Dongen)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.dongen.power-profiler</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.dongen.power-profiler/10/699df4dd-aba8-42e4-ba53-b1847de4f58f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mister Thermostat</title>
+      <link>https://homey.app/a/com.mister.thermostat</link>
+      <description>The real DIY virtual thermostat.</description>
+      <author>noreply@homey.app (Mattia Calió)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mister.thermostat</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mister.thermostat/2/d8f0c522-5027-4ce6-81ea-6efe22cba05c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Widget Forge</title>
+      <link>https://homey.app/a/com.pascalnohl.widgetforge</link>
+      <description>Flow- and tag-driven independent widgets</description>
+      <author>noreply@homey.app (Pascal Nohl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.widgetforge</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.widgetforge/4/29c7cf3a-7fda-4196-870a-38cde866ef22/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sony Bravia Theater Quad</title>
+      <link>https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</link>
+      <description>Your Sony Bravia Theater Quad — now smarter and fully integrated with Homey.</description>
+      <author>noreply@homey.app (Niels de Klerk)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.nielsdeklerk.BraviaTheaterQuad/3/1c7473e0-bac1-4900-bb01-0a289c4aedcc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
