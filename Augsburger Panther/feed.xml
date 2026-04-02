@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Apr 2026 10:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:30:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther halten Goalie Peyton Jones</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-halten-Goalie-Peyton-Jones-_naid,4227.html</link>
-      <description>Die Augsburger Panther haben den Vertrag mit Torwart Peyton Jones verlängert. Der 29-jährige Deutsch-Amerikaner wechselte zur laufenden Spielzeit von den Vienna Capitals in die Fuggerstadt und konnte die in ihn gesetzten Erwartungen erfüllen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-halten-Goalie-Peyton-Jones-_naid,4227.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7258_1_org_20251023_AEVERC_Goldberg_203.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 20 Jan 2026 10:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Heimspiele gegen Bremerhaven &amp; München sind ausverkauft</title>
       <link>https://www.aev-panther.de/panther/news_news,-Heimspiele-gegen-Bremerhaven-M%C3%BCnchen-sind-ausverkauft-_naid,4228.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Jersey53-bleibt-Trikothersteller-von-Panthern-AEV-_naid,4275.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7313_1_org_ex25_5_aev_kec_053k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther &amp; AEV vertrauen auf Schanner Eishockeyartikel</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-AEV-vertrauen-auf-Schanner-Eishockeyartikel-_naid,4276.html</link>
+      <description>Die Augsburger Panther und die Schanner Eishockeyartikel GmbH + Co. KG setzen ihre erfolgreiche Zusammenarbeit fort. Beide Partner haben sich auf eine langfristige Verlängerung des bestehenden Ausrüstervertrags verständigt. Künftig wird die Partnerschaft, die bereits seit den 1990er-Jahren besteht, auch um eine Integration des Nachwuchses des Augsburger Eislaufvereins erweitert. Panther und AEV bekennen sich damit klar zu Kontinuität, Qualität und Vertrauen. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-AEV-vertrauen-auf-Schanner-Eishockeyartikel-_naid,4276.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7314_1_org_ap_partnerschaft_schanner_eishockeyartikel.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
