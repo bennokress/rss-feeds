@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Apr 2026 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:15:55 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sebastian Zwickl bleibt ein Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Sebastian-Zwickl-bleibt-ein-Panther-_naid,4229.html</link>
-      <description>ebastian Zwickl bleibt auch in der Saison 2026-27 ein Augsburger Panther. Am vergangenen Wochenende hatte der 18-jährige Stürmer bei dünner Personaldecke im Sturm mit guten Leistungen auf sich aufmerksam gemacht und gezeigt, dass in der Zukunft mit ihm zu rechnen sein wird. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Sebastian-Zwickl-bleibt-ein-Panther-_naid,4229.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7261_1_org_20251023_AEVERC_Goldberg_225.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Jan 2026 10:40:00 +0100</pubDate>
-    </item>
     <item>
       <title>AEV verliert in Nürnberg</title>
       <link>https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-N%C3%BCrnberg-_naid,4230.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Im-Gespr%C3%A4ch-mit-Thomas-Holzamnn-_naid,4278.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7317_1_org_20260326_AEVSponsoren_Goldberg_133.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mobilitätsumfrage der Augsburger Panther</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Mobilit%C3%A4tsumfrage-der-Augsburger-Panther-_naid,4277.html</link>
+      <description>Die Augsburger Panther brauchen nach zwei Jahren wieder die Hilfe ihrer treuen Fans. In Kooperation mit der Uni Bayreuth und einem Bachelorstudenten des dortigen Studiengangs der Sportökonomie wollen wir erneut mehr über euer Anreiseverhalten zu unseren Heimspielen im Curt-Frenzel-Stadion erfahren. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mobilit%C3%A4tsumfrage-der-Augsburger-Panther-_naid,4277.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7315_1_org_20251204_AEVDRE_Goldberg_159.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Apr 2026 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
