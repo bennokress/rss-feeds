@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 12:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 14:38:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HTTP Device</title>
-      <link>https://homey.app/a/com.9it-full-service.http-device</link>
-      <description>Virtual device with buttons that trigger HTTP requests via flows</description>
-      <author>noreply@homey.app (Rüdiger Küpper)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.9it-full-service.http-device</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.9it-full-service.http-device/3/702ee575-2943-4b8c-9ae1-cf3d6a183d88/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Mar 2026 11:17:22 +0100</pubDate>
-    </item>
     <item>
       <title>Dashboard Studio</title>
       <link>https://homey.app/a/com.satoer.dashboardstudio</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.konnected.security</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.konnected.security/14/f52705a6-a8df-4dc4-bf32-61a444c5a137/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Apr 2026 14:25:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>Reolink</title>
+      <link>https://homey.app/a/com.reolink</link>
+      <description>Be Prepared, Be Ahead.</description>
+      <author>noreply@homey.app (Koktail software development)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.reolink</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.reolink/21/e2145e7d-44bc-407b-a603-2c19e247d39d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Apr 2026 16:38:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
