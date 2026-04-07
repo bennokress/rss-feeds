@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 12:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 10:25:52 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>My EDF Tempo</title>
-      <link>https://homey.app/a/com.edf.tempo</link>
-      <description>Track EDF Tempo prices and colors.</description>
-      <author>noreply@homey.app (Olivier Friedrich)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.edf.tempo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.edf.tempo/16/e19b3eb9-cf9b-424c-a440-c38ea509dd44/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 13:17:01 +0100</pubDate>
-    </item>
     <item>
       <title>Volt Time Chargers</title>
       <link>https://homey.app/a/com.volttime.chargers</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/community.heatmeister.tcp</guid>
       <enclosure url="https://apps.homeycdn.net/app/community.heatmeister.tcp/2/a1aaa93e-36c0-4dd1-8347-82f9211f59a4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 14:24:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>Izypower</title>
+      <link>https://homey.app/a/net.franceweb.izypower</link>
+      <description>The sun offers its energy, Izypower tames it.</description>
+      <author>noreply@homey.app (Serge PALUMBO)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.franceweb.izypower</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.franceweb.izypower/3/8732ee92-3d3d-45c4-885a-6c42c4240019/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Apr 2026 12:25:51 +0200</pubDate>
     </item>
   </channel>
 </rss>
