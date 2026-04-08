@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 04 Apr 2026 10:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 10:29:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV verliert in Nürnberg</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-N%C3%BCrnberg-_naid,4230.html</link>
-      <description>Die Augsburger Panther haben auch das vierte Duell in der PENNY DEL gegen die Nürnberg Ice Tigers verloren. Dieses Mal unterlag der AEV verdient mit 1:3. Den einzigen Treffer für die Panther erzielte D.J. Busdeker (9.). Für Nürnberg waren Samuel Dove-McFalls (34.), Tyler Spezia (37.) und Charlie Gerard (52.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verliert-in-N%C3%BCrnberg-_naid,4230.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7262_1_org_nit4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 23 Jan 2026 22:24:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther treffen auf Fischtown Pinguins</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-Fischtown-Pinguins-_naid,4231.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mobilit%C3%A4tsumfrage-der-Augsburger-Panther-_naid,4277.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7315_1_org_20251204_AEVDRE_Goldberg_159.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther treffen am 21. August auf Kometa Brno</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-am-21-August-auf-Kometa-Brno-_naid,4279.html</link>
+      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups in der Würtharena im italienischen Neumarkt statt. Als vierter Teilnehmer nach dem EV Zug, den Eisbären Berlin und den Augsburger Panthern steht jetzt auch Kometa Brno fest. Das Team aus der Tschechischen Republik wird am Freitag, 21. August um 20:00 Uhr auch der erste Panther-Gegner der Vorbereitung auf die PENNY DEL-Saison 2026-27 sein. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-treffen-am-21-August-auf-Kometa-Brno-_naid,4279.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7320_1_org_KER00099_12_08_22.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Apr 2026 11:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
