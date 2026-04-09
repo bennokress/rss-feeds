@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:43:28 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther treffen auf Fischtown Pinguins</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-Fischtown-Pinguins-_naid,4231.html</link>
-      <description>Am Sonntagnachmittag um 14:00 Uhr steht für die Augsburger Panther das nächste Heimspiel an. Zu Gast im ausverkauften Curt-Frenzel-Stadion sind die Fischtown Pinguins aus Bremerhaven. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-treffen-auf-Fischtown-Pinguins-_naid,4231.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7263_1_org_20260116_AEVFRA_Goldberg_227.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jan 2026 08:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Späte Niederlage gegen Bremerhaven</title>
       <link>https://www.aev-panther.de/panther/news_news,-Sp%C3%A4te-Niederlage-gegen-Bremerhaven-_naid,4232.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-treffen-am-21-August-auf-Kometa-Brno-_naid,4279.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7320_1_org_KER00099_12_08_22.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 11:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther verpflichten Cameron Wright</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Cameron-Wright-_naid,4280.html</link>
+      <description>Die Augsburger Panther haben sich für die PENNY DEL-Saison 2026-27 die Dienste von Cameron Wright gesichert. Der kanadische Außenstürmer wechselt von HPK aus der finnischen Liiga in die Fuggerstadt. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Cameron-Wright-_naid,4280.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7321_1_org_260219_HPK_KAL_67.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 16:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
