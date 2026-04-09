@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:38:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>GivEnergy</title>
-      <link>https://homey.app/a/io.jak.givenergy</link>
-      <description>Monitor and control your solar energy system locally</description>
-      <author>noreply@homey.app (Jak Spalding)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.jak.givenergy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.jak.givenergy/3/8f899cac-777c-4f6b-8cde-d7531144d02a/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Mar 2026 11:17:39 +0100</pubDate>
-    </item>
     <item>
       <title>IOmeter</title>
       <link>https://homey.app/a/de.iometer</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.divoom.pixoo64</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.divoom.pixoo64/4/a77a46e0-ff28-42ee-9cf3-d164baa92275/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 10:30:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>Computer</title>
+      <link>https://homey.app/a/no.kallerud.computer</link>
+      <description>Wake, monitor, and power down your computer from Homey.</description>
+      <author>noreply@homey.app (Ole Kallerud)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.kallerud.computer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.kallerud.computer/4/4b2f2edd-3edc-476a-8cf9-7e5c723582be/assets/images/power_button@500px.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Apr 2026 08:38:03 +0200</pubDate>
     </item>
   </channel>
 </rss>
