@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Apr 2026 14:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 14:29:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Späte Niederlage gegen Bremerhaven</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Sp%C3%A4te-Niederlage-gegen-Bremerhaven-_naid,4232.html</link>
-      <description>Rückschlag für die Augsburger Panther im Kampf um die Playoffs. Gegen die Fischtown Pinguins kassierte der AEV eine 1:2-Niederlage, wobei der Siegtreffer der Norddeutschen erst 69 Sekunden vor Schluss fiel. Den Treffer für die Panther erzielte Tim Wohlgemuth (22.). Für Bremerhaven waren Ziga Jeglic (9.) und Nino Kinder erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Sp%C3%A4te-Niederlage-gegen-Bremerhaven-_naid,4232.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7264_1_org_BHV4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Jan 2026 17:13:00 +0100</pubDate>
-    </item>
     <item>
       <title>Top-Partner Pharmpur im Rampenlicht</title>
       <link>https://www.aev-panther.de/panther/news_news,-Top-Partner-Pharmpur-im-Rampenlicht-_naid,4234.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Cameron-Wright-_naid,4280.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7321_1_org_260219_HPK_KAL_67.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 16:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Blank &amp; Pilu für Nationalmannschaft nominiert</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Blank-Pilu-f%C3%BCr-Nationalmannschaft-nominiert-_naid,4281.html</link>
+      <description>Das Aufgebot der Männer-Nationalmannschaft für den Auftakt der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat insgesamt 25 Spieler nominiert, die in der ersten Phase der WM-Vorbereitung zwei Länderspiele gegen Tschechien bestreiten. Im DEB-Aufgebot stehen mit Verteidiger Fabrizio Pilu und Stürmer Alexander Blank auch zwei Spieler der Augsburger Panther. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Blank-Pilu-f%C3%BCr-Nationalmannschaft-nominiert-_naid,4281.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7322_1_org_blank_pilu.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Apr 2026 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
