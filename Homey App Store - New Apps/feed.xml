@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 10:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:37:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Red Alert Israel</title>
-      <link>https://homey.app/a/il.co.tzevaadom</link>
-      <description>Civil defense alert automations for Israel</description>
-      <author>noreply@homey.app (Idan Bush)</author>
-      <guid isPermaLink="false">https://homey.app/a/il.co.tzevaadom</guid>
-      <enclosure url="https://apps.homeycdn.net/app/il.co.tzevaadom/7/1a4e5a0d-6700-4a93-b363-4b4b1bc553e6/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Mar 2026 11:27:09 +0100</pubDate>
-    </item>
-    <item>
-      <title>Water Level NL</title>
-      <link>https://homey.app/a/nl.watermonitor</link>
-      <description>Live Dutch water levels powered by Rijkswaterstaat</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.watermonitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.watermonitor/4/0c1a65ce-e3cc-49e6-a04f-acba676392ff/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 11:20:44 +0100</pubDate>
-    </item>
-    <item>
-      <title>Somfy Protect Integration</title>
-      <link>https://homey.app/a/com.somfyprotect.integration</link>
-      <description>Smart protection at home with Somfy alarm control and live security status in Homey.</description>
-      <author>noreply@homey.app (Senne - Admin Van Mol)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.somfyprotect.integration</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.somfyprotect.integration/2/169e51a0-5f64-461f-a5e6-26c46e378c88/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 11:20:44 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tempest WeatherFlow Widget</title>
-      <link>https://homey.app/a/com.weatherflow.tempest</link>
-      <description>Real-time weather &amp; stunning dashboard widgets for WeatherFlow Tempest</description>
-      <author>noreply@homey.app (Beat Ineichen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.weatherflow.tempest</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.weatherflow.tempest/14/6c9b2ce0-a4e8-49c2-934a-00946154c3d3/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 11:20:44 +0100</pubDate>
-    </item>
     <item>
       <title>NL Alert</title>
       <link>https://homey.app/a/com.basmilius.nlalert</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.huawei.fusionsolar</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.huawei.fusionsolar/22/45b4c2f0-0f78-4130-97d9-865b6d1b49ec/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 12:29:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>Todo4you</title>
+      <link>https://homey.app/a/com.todo4you</link>
+      <description>Connect Todo4you ticket events to Homey flows.</description>
+      <author>noreply@homey.app (Jorden Chamid)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.todo4you</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.todo4you/3/88345b05-2a25-44c7-950a-87700107eaf0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mail Hook</title>
+      <link>https://homey.app/a/mail.hook</link>
+      <description>Trigger Flows when a new email arrives via IMAP. Use flow tokens for the sender, subject and body.</description>
+      <author>noreply@homey.app (Elmar Kouwenhoven)</author>
+      <guid isPermaLink="false">https://homey.app/a/mail.hook</guid>
+      <enclosure url="https://apps.homeycdn.net/app/mail.hook/2/1f5cb673-d568-425b-85bd-708894b3469d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panasonic Comfort Cloud</title>
+      <link>https://homey.app/a/community.panasonic.comfortcloud</link>
+      <description>Full control of your Panasonic heat pump</description>
+      <author>noreply@homey.app (Johnny Espesete)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.panasonic.comfortcloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.panasonic.comfortcloud/7/41e53b65-3cf7-4307-bb2b-a166b7a2d5cf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Unreal Battery</title>
+      <link>https://homey.app/a/com.unreal.battery</link>
+      <description>Emulates a Home Battery device for the Homey Energy Tab</description>
+      <author>noreply@homey.app (David Piper)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.unreal.battery</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.unreal.battery/3/4ba0bd1a-8f91-4bed-9f4f-2f2becc4d2d4/assets/images/app_large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
     </item>
   </channel>
 </rss>
