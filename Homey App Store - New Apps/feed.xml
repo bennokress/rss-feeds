@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:32:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Claude</title>
-      <link>https://homey.app/a/com.basmilius.claude</link>
-      <description>Bring Claude AI by Anthropic into your Homey flows.</description>
-      <author>noreply@homey.app (Bas Milius)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.basmilius.claude</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.claude/3/6e9e732b-4034-4885-9bba-590862091f93/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 11:23:06 +0100</pubDate>
-    </item>
     <item>
       <title>Ping Monitor</title>
       <link>https://homey.app/a/com.byluto.pingmonitor</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.diagral</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.diagral/1/40ca57ad-3a89-4bbd-a5ed-65c9099206ef/assets/store/app-large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 14:29:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Brændstofpriser DK</title>
+      <link>https://homey.app/a/dk.braendstofpriser.nf</link>
+      <description>Keep an eye on Danish fuel prices from your chosen stations.</description>
+      <author>noreply@homey.app (Peter Piilgaard)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.braendstofpriser.nf</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.braendstofpriser.nf/2/1f66f27f-d60b-4d5d-8259-06378e677b13/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 18:31:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
