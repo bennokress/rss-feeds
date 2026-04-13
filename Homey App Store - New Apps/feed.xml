@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 10:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:29:37 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>NL Alert</title>
-      <link>https://homey.app/a/com.basmilius.nlalert</link>
-      <description>Get notified when an NL Alert affects your location.</description>
-      <author>noreply@homey.app (Bas Milius)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.basmilius.nlalert</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.nlalert/1/db79a7aa-7b53-4136-8386-4997e45f5d6f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 09:19:19 +0100</pubDate>
-    </item>
     <item>
       <title>Claude</title>
       <link>https://homey.app/a/com.basmilius.claude</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.unreal.battery</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.unreal.battery/3/4ba0bd1a-8f91-4bed-9f4f-2f2becc4d2d4/assets/images/app_large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diagral</title>
+      <link>https://homey.app/a/com.diagral</link>
+      <description>Smart protection, always within reach</description>
+      <author>noreply@homey.app (Luca Amoroso)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.diagral</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.diagral/1/40ca57ad-3a89-4bbd-a5ed-65c9099206ef/assets/store/app-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Apr 2026 14:29:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
