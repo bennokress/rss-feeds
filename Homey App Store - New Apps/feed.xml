@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 12:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:29:47 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Lutron RA2 Bridge CE</title>
-      <link>https://homey.app/a/com.ra2.bridge.ce</link>
-      <description>Control Lutron RadioRA2 lights, shades, and fans via RA2 Bridge</description>
-      <author>noreply@homey.app (Fred Graf)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ra2.bridge.ce</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ra2.bridge.ce/2/d0270b9b-6c25-4a7c-b494-184e22e1c6b2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
-    </item>
     <item>
       <title>Tailscale Connect</title>
       <link>https://homey.app/a/com.danielmiguel.tailscale</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.revc.charger</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.revc.charger/3/647897bf-956f-4438-b97a-7e5a2af6ed75/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 14:27:52 +0200</pubDate>
+    </item>
+    <item>
+      <title>ConnectLife</title>
+      <link>https://homey.app/a/io.smart</link>
+      <description>Experience a new way of smartliving.</description>
+      <author>noreply@homey.app (Hisense Group Co.,Ltd.)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.smart</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.smart/15/3c70c518-e8ea-4a8c-9cc6-8fa654e8534a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 18:29:46 +0200</pubDate>
     </item>
   </channel>
 </rss>
