@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:27:54 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ping Monitor</title>
-      <link>https://homey.app/a/com.byluto.pingmonitor</link>
-      <description>Track network device availability and automate actions when they go online or offline.</description>
-      <author>noreply@homey.app (MR Luto)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.byluto.pingmonitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.byluto.pingmonitor/1/8cb833d1-01ab-4924-8f6f-e61dfbc139c0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Mar 2026 11:23:06 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vitrum Design Air</title>
-      <link>https://homey.app/a/com.vitrum.air</link>
-      <description>Discover the balance between design and technological innovation</description>
-      <author>noreply@homey.app (Mattia Calió)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.vitrum.air</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.vitrum.air/3/0b840b19-2f98-4d10-9124-0b82f0b0771d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 11:17:52 +0100</pubDate>
-    </item>
     <item>
       <title>Lutron RA2 Bridge CE</title>
       <link>https://homey.app/a/com.ra2.bridge.ce</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/dk.braendstofpriser.nf</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.braendstofpriser.nf/2/1f66f27f-d60b-4d5d-8259-06378e677b13/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 18:31:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Home State</title>
+      <link>https://homey.app/a/com.chhv.homecontrol</link>
+      <description>House and music state engine for Homey</description>
+      <author>noreply@homey.app (Christian Hvolby)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.chhv.homecontrol</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.chhv.homecontrol/4/45b933ad-2f47-4c3c-8849-6f465cd67ce4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 14:27:52 +0200</pubDate>
+    </item>
+    <item>
+      <title>R-EVC Charger</title>
+      <link>https://homey.app/a/com.revc.charger</link>
+      <description>Local control and monitoring for R-EVC EcoVolter chargers.</description>
+      <author>noreply@homey.app (Rastislav Hubočan)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.revc.charger</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.revc.charger/3/647897bf-956f-4438-b97a-7e5a2af6ed75/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 14:27:52 +0200</pubDate>
     </item>
   </channel>
 </rss>
