@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Apr 2026 12:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:43:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther erwarten Eisbären Berlin</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-erwarten-Eisb%C3%A4ren-Berlin-_naid,4233.html</link>
-      <description>Für die Augsburger Panther steht am Dienstagabend das letzte Spiel vor der langen Olympiapause auf dem Spielplan. Zu Gast im Curt-Frenzel-Stadion ist der amtierende Meister Eisbären Berlin, Spielbeginn ist um 19:30 Uhr. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-erwarten-Eisb%C3%A4ren-Berlin-_naid,4233.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7265_1_org_DSC_9404.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 27 Jan 2026 09:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther mit wichtigem Dreier in die Olympiapause</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-mit-wichtigem-Dreier-in-die-Olympiapause-_naid,4235.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-60000-Euro-durch-das-Spiel-der-Herzen-powered-by-LEW-_naid,4282.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7323_1_org_ap_spiel_der_herzen_60.000.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 12:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Liron Pellizzari fährt zur U18-Weltmeisterschaft</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%A4hrt-zur-U18-Weltmeisterschaft-_naid,4283.html</link>
+      <description>U18-Bundestrainer Andreas Becherer hat den finalen Kader für die IIHF U18-Weltmeisterschaft 2026 nominiert. Mit im Aufgebot steht auch Liron Pellizzari. Die WM findet vom 22. April bis 02. Mai in der Slowakei (Trenčín und Bratislava) statt. Nach Phase 1 der WM-Vorbereitung in Füssen, inklusive des Vorbereitungsspiels gegen die Schweiz, das die DEB-Nachwuchsauswahl mit 5:1 für sich entscheiden konnte, hat sich nun ein 25-köpfiger Kader für die bevorstehende Weltmeisterschaft empfohlen. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%A4hrt-zur-U18-Weltmeisterschaft-_naid,4283.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7332_1_org_20260315_AEVWOB_Goldberg_194.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
