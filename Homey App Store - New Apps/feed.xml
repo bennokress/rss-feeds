@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 16:29:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:39:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tailscale Connect</title>
-      <link>https://homey.app/a/com.danielmiguel.tailscale</link>
-      <description>Secure remote access and Tailscale control for Homey Pro.</description>
-      <author>noreply@homey.app (Daniel Miguel Tejedor)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.danielmiguel.tailscale</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.danielmiguel.tailscale/1/1ce7d78d-b88c-407b-a0df-96de66f377d5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
-    </item>
-    <item>
-      <title>Skoda</title>
-      <link>https://homey.app/a/be.functor.skoda</link>
-      <description>Simply clever — your Škoda, at home in your smart home</description>
-      <author>noreply@homey.app (Kenny Moens)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.functor.skoda</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.functor.skoda/3/f347742d-2ff3-4e1b-9e30-bbd18ce5f9ac/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
-    </item>
-    <item>
-      <title>CEZ Distribution</title>
-      <link>https://homey.app/a/cz.kamilsykora.cezdistribuce</link>
-      <description>CEZ Distribution portal</description>
-      <author>noreply@homey.app (Kamil Sýkora)</author>
-      <guid isPermaLink="false">https://homey.app/a/cz.kamilsykora.cezdistribuce</guid>
-      <enclosure url="https://apps.homeycdn.net/app/cz.kamilsykora.cezdistribuce/1/eb97d81e-f5a9-4945-a08c-594564065f20/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 11:25:27 +0100</pubDate>
-    </item>
     <item>
       <title>Pollen Monitor</title>
       <link>https://homey.app/a/com.pollenmonitor</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/io.smart</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.smart/15/3c70c518-e8ea-4a8c-9cc6-8fa654e8534a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 18:29:46 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wavin Sentio</title>
+      <link>https://homey.app/a/com.wavin.sentio</link>
+      <description>Manage all zones of your Wavin Sentio underfloor heating from Homey.</description>
+      <author>noreply@homey.app (Jaimy de Ruijter)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wavin.sentio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wavin.sentio/1/a0d033d0-4e0d-4727-b9a3-5e15e202a975/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 10:39:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>Arr Video Suite</title>
+      <link>https://homey.app/a/net.ladenius.arr</link>
+      <description>Add support for Sonarr and Radarr server devices.</description>
+      <author>noreply@homey.app (Jurjen Ladenius)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.ladenius.arr</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.arr/5/b4e3a9b0-d137-4cf3-bbb7-b62714e3e4b9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 10:39:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>Elaway</title>
+      <link>https://homey.app/a/se.liamlofgren.elaway</link>
+      <description>EV charging for housing communities</description>
+      <author>noreply@homey.app (Liam Löfgren)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.liamlofgren.elaway</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.liamlofgren.elaway/2/949d0fc5-fda3-4f31-9868-dad485f8f535/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 10:39:16 +0200</pubDate>
     </item>
   </channel>
 </rss>
