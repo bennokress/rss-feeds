@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:29:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Flow Version History</title>
-      <link>https://homey.app/a/nl.dypodex.versionhistory</link>
-      <description>Made a mistake? No problem!</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.versionhistory</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.versionhistory/5/ca7e3604-e9ee-4d72-b105-cacae9bb8857/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Mar 2026 15:28:34 +0100</pubDate>
-    </item>
     <item>
       <title>AI Hub</title>
       <link>https://homey.app/a/com.michel.ai-hub</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/eu.edwinsmulders.salus</guid>
       <enclosure url="https://apps.homeycdn.net/app/eu.edwinsmulders.salus/6/0edbf8bf-04ea-4de1-9e95-12bdd6ae1075/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 16:38:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>energieleser.</title>
+      <link>https://homey.app/a/de.energieleser</link>
+      <description>Your energy, made readable. Smart metering for electricity, gas and water — transparent, at a glance.</description>
+      <author>noreply@homey.app (nineti GmbH)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.energieleser</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.energieleser/1/682837b6-eb74-4887-b74b-ff70f8dddf59/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Apr 2026 20:29:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
