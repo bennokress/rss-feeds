@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:32:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ohme</title>
-      <link>https://homey.app/a/io.jak.ohme</link>
-      <description>Smart EV charging that saves you money while you sleep.</description>
-      <author>noreply@homey.app (Jak Spalding)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.jak.ohme</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.jak.ohme/5/d957abbd-55ad-4f40-afb5-453530cf5a06/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
-    </item>
-    <item>
-      <title>Gazelle Connect</title>
-      <link>https://homey.app/a/nl.gazelle.connect</link>
-      <description>Classic Dutch cycling meets modern smart home technology, giving Piet Pelle endless possibilities.</description>
-      <author>noreply@homey.app (Niels Rozeboom)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.gazelle.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.gazelle.connect/3/35e938d0-b50e-4d44-a0e2-596bd0f096df/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
-    </item>
     <item>
       <title>ZoneLight Pro</title>
       <link>https://homey.app/a/com.todoit.zonelightpro</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.peblar</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.peblar/5/bcb395e6-a696-4e68-a99a-e9e536d04659/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 10:39:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>TP-Link Omada</title>
+      <link>https://homey.app/a/com.omadanetworks</link>
+      <description>Networks Empower Business</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.omadanetworks</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.omadanetworks/9/01e8c566-4e97-4368-9012-44e32673c775/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 12:32:50 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bluesky</title>
+      <link>https://homey.app/a/app.bsky</link>
+      <description>Stay up to date on what's happening online - anytime, anywhere.</description>
+      <author>noreply@homey.app (Tomáš Pryl)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.bsky</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.bsky/4/69f23fc8-a5f6-4919-ace4-e75bd8cff01f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 12:32:50 +0200</pubDate>
     </item>
   </channel>
 </rss>
