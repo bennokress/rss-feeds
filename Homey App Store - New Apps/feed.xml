@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:39:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Hub</title>
-      <link>https://homey.app/a/com.michel.ai-hub</link>
-      <description>Use Claude, OpenAI, and Ollama AI directly in your Homey Flows.</description>
-      <author>noreply@homey.app (Michel Helsdingen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.michel.ai-hub</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.michel.ai-hub/1/0b4bbc5f-4f4b-47fb-937c-1e04242aa3bb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 09:19:51 +0100</pubDate>
-    </item>
     <item>
       <title>Ohme</title>
       <link>https://homey.app/a/io.jak.ohme</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/de.energieleser</guid>
       <enclosure url="https://apps.homeycdn.net/app/de.energieleser/1/682837b6-eb74-4887-b74b-ff70f8dddf59/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 20:29:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Peblar</title>
+      <link>https://homey.app/a/com.peblar</link>
+      <description>Go and explore while we build your future.</description>
+      <author>noreply@homey.app (Webed Solutions)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.peblar</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.peblar/5/bcb395e6-a696-4e68-a99a-e9e536d04659/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Apr 2026 10:39:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
