@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:26:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Hail Protection Switzerland</title>
-      <link>https://homey.app/a/ch.hagelschutz.homey</link>
-      <description>Hail protection for your blinds – automatic warning via REST API</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/ch.hagelschutz.homey</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ch.hagelschutz.homey/4/42dd1637-4538-4dad-8256-cac2ab724e48/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 15:31:06 +0100</pubDate>
-    </item>
     <item>
       <title>elekeeper</title>
       <link>https://homey.app/a/be.telenut.elekeeper</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.alpinelakes</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.alpinelakes/1/2ac5e57d-8eb8-44d3-9337-70dcb63b9cfe/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tasmota</title>
+      <link>https://homey.app/a/com.tasmota</link>
+      <description>Open source firmware for ESP devices</description>
+      <author>noreply@homey.app (Rian Brooks-Kane)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.tasmota</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.tasmota/3/2b9ee863-a0c2-4796-b72b-d6327f35160a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 14:26:32 +0200</pubDate>
     </item>
   </channel>
 </rss>
