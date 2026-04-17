@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:29:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ZoneLight Pro</title>
-      <link>https://homey.app/a/com.todoit.zonelightpro</link>
-      <description>Fully automatic zone-based adaptive lighting with profiles, circadian control, overrides, and ML predictions.</description>
-      <author>noreply@homey.app (Kasper Christensen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.todoit.zonelightpro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.todoit.zonelightpro/39/e1f448d6-fb3d-4c79-8b85-5862ab4670f5/assets/app_icon.large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 13:22:20 +0100</pubDate>
-    </item>
-    <item>
-      <title>Linked Switches</title>
-      <link>https://homey.app/a/gpm.linked.switches</link>
-      <description>Link and synchronize ON/OFF switches in groups</description>
-      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
-      <guid isPermaLink="false">https://homey.app/a/gpm.linked.switches</guid>
-      <enclosure url="https://apps.homeycdn.net/app/gpm.linked.switches/5/3e14b370-4139-463b-9697-a852505d1a92/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Mar 2026 15:31:06 +0100</pubDate>
-    </item>
-    <item>
-      <title>MoodFade</title>
-      <link>https://homey.app/a/com.winbigfox.moodfade</link>
-      <description>Fades lights smoothly to a mood.</description>
-      <author>noreply@homey.app (Adrian Buck)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.winbigfox.moodfade</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.winbigfox.moodfade/1/8c1415d3-c876-4159-a477-dcee04c314b7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Mar 2026 13:21:28 +0100</pubDate>
-    </item>
     <item>
       <title>Hail Protection Switzerland</title>
       <link>https://homey.app/a/ch.hagelschutz.homey</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/app.bsky</guid>
       <enclosure url="https://apps.homeycdn.net/app/app.bsky/4/69f23fc8-a5f6-4919-ace4-e75bd8cff01f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 12:32:50 +0200</pubDate>
+    </item>
+    <item>
+      <title>Navimow</title>
+      <link>https://homey.app/a/nl.tomcoonen.navimow</link>
+      <description>Control and monitor your Segway Navimow robotic mower from Homey.</description>
+      <author>noreply@homey.app (Tom Coonen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.tomcoonen.navimow</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.tomcoonen.navimow/3/7872a586-f7ad-4f8d-8147-82aa95bb5e1b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tautulli</title>
+      <link>https://homey.app/a/net.ladenius.tautulli</link>
+      <description>Monitor your Plex Media Server</description>
+      <author>noreply@homey.app (Jurjen Ladenius)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.ladenius.tautulli</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.tautulli/2/d789d81b-6dc3-43b4-8f97-a566d927e384/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alpine Lakes</title>
+      <link>https://homey.app/a/com.alpinelakes</link>
+      <description>Live lake temperatures and swim conditions across the Alps, powered by Eawag simulations</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.alpinelakes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.alpinelakes/1/2ac5e57d-8eb8-44d3-9337-70dcb63b9cfe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
