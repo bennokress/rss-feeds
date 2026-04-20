@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:38:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>elekeeper</title>
-      <link>https://homey.app/a/be.telenut.elekeeper</link>
-      <description>Bring your SAJ eSolar inverter into Homey and automate your home with real-time solar data.</description>
-      <author>noreply@homey.app (Steven Algoet)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.telenut.elekeeper</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.telenut.elekeeper/10/2d907b62-3f9f-455c-b368-fd6c9c446698/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Mar 2026 11:23:35 +0100</pubDate>
-    </item>
     <item>
       <title>Formula 1 Live Timing</title>
       <link>https://homey.app/a/nl.monkeysoft.f1</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.tasmota</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.tasmota/3/2b9ee863-a0c2-4796-b72b-d6327f35160a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Apr 2026 14:26:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Elegoo 3D Printers</title>
+      <link>https://homey.app/a/com.elegoo.sdcp</link>
+      <description>Integrating Elegoo 3D Printers effortlessly into your smart home via the local SDCP protocol.</description>
+      <author>noreply@homey.app (Thomas Veivåg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.elegoo.sdcp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.elegoo.sdcp/10/f7a4b924-5380-4d3f-ba49-fb88c6a39a75/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Apr 2026 12:38:07 +0200</pubDate>
     </item>
   </channel>
 </rss>
