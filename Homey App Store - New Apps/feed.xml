@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:42:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Refoss Energy Monitor</title>
-      <link>https://homey.app/a/com.refoss.energymonitor</link>
-      <description>Local network integration for Refoss energy monitoring devices (EM01P, EM06P, EM16P).</description>
-      <author>noreply@homey.app (Naresh Kodali)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.refoss.energymonitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.refoss.energymonitor/4/3fe231da-1660-4f4a-808a-c5dd30b06fc8/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 12:33:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Luxtronik Heat Pump Manager</title>
-      <link>https://homey.app/a/com.luxtronik.heatpump</link>
-      <description>Control and monitor your Luxtronik 2.0 heat pump</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.luxtronik.heatpump</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.luxtronik.heatpump/18/7824ad54-31a4-43bc-9de1-ef2ff2e15f47/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 14:25:14 +0200</pubDate>
-    </item>
-    <item>
-      <title>Power Guard</title>
-      <link>https://homey.app/a/no.powerguard</link>
-      <description>Keep your home within its power limit — automatically</description>
-      <author>noreply@homey.app (Finn Cato Andersen)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.powerguard</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.powerguard/65/59acf353-2ea4-4619-92fd-b6c2f3a0fa05/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 14:25:14 +0200</pubDate>
-    </item>
     <item>
       <title>Bosch Indego</title>
       <link>https://homey.app/a/com.cyrilhendriks.boschindego</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.shrdzm.smartmeter</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.shrdzm.smartmeter/1/a43130fb-28d2-4c15-9556-1c420e0f99c4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Apr 2026 14:32:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>SmartHomeShop</title>
+      <link>https://homey.app/a/smarthomeshop.cyclone-software.com</link>
+      <description>Where your smart home truly comes to life!</description>
+      <author>noreply@homey.app (Marcel Timmermans)</author>
+      <guid isPermaLink="false">https://homey.app/a/smarthomeshop.cyclone-software.com</guid>
+      <enclosure url="https://apps.homeycdn.net/app/smarthomeshop.cyclone-software.com/5/012a9c27-7b46-42c9-bc11-e95437029ff9/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Starlink</title>
+      <link>https://homey.app/a/com.starlink.dish</link>
+      <description>Monitor your Starlink dish locally</description>
+      <author>noreply@homey.app (Gerrit Scherpenzeel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.starlink.dish</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.starlink.dish/4/83dbe526-3689-4394-8d21-ec0fab981b39/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>BITUO TECHNIK</title>
+      <link>https://homey.app/a/com.bituotechnik.iot</link>
+      <description>Empower the safe and efficient use of electricity</description>
+      <author>noreply@homey.app (BITUO TECHNIK)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.bituotechnik.iot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.bituotechnik.iot/2/d2c577cc-2f34-41d2-8daa-9f7c367a0ac1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
