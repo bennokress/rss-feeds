@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:41:01 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bosch Indego</title>
-      <link>https://homey.app/a/com.cyrilhendriks.boschindego</link>
-      <description>Connect Bosch Indego robot mowers to Homey.</description>
-      <author>noreply@homey.app (Cyril Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.cyrilhendriks.boschindego</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.cyrilhendriks.boschindego/3/6d826c99-ae4c-4894-b69d-69fe9f6e30cb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Mar 2026 16:36:18 +0200</pubDate>
-    </item>
     <item>
       <title>MCZ Maestro Pellet Stove</title>
       <link>https://homey.app/a/com.mcz.pelletstove</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.bituotechnik.iot</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.bituotechnik.iot/2/d2c577cc-2f34-41d2-8daa-9f7c367a0ac1/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fronius Wattpilot</title>
+      <link>https://homey.app/a/com.wattpilot</link>
+      <description>Local EV charger control with solar power tracking</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wattpilot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wattpilot/18/dee052bd-00dc-46c9-9614-2450b9292779/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 10:41:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
