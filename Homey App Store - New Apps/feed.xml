@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 08:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 12:28:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MCZ Maestro Pellet Stove</title>
-      <link>https://homey.app/a/com.mcz.pelletstove</link>
-      <description>Control your MCZ Maestro pellet stove via the MCZ cloud.</description>
-      <author>noreply@homey.app (Gerrit Scherpenzeel)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mcz.pelletstove</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mcz.pelletstove/8/bb940d75-00a5-4015-b972-b486bca1748f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
-    </item>
     <item>
       <title>Smart heating</title>
       <link>https://homey.app/a/com.chhv.smartheating</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.wattpilot</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.wattpilot/18/dee052bd-00dc-46c9-9614-2450b9292779/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Apr 2026 10:41:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mistral AI</title>
+      <link>https://homey.app/a/com.mistral.ai</link>
+      <description>Harness the power of Mistral AI LLMs directly in your Homey flows.</description>
+      <author>noreply@homey.app (Thibaud Liégeois)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mistral.ai</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mistral.ai/1/2475fbe7-f076-4931-8e68-96464418d08c/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 14:27:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
