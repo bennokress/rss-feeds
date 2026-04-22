@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 12:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:38:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Smart heating</title>
-      <link>https://homey.app/a/com.chhv.smartheating</link>
-      <description>Predictive heating control for Homey using weather forecasts and zone-based intelligence for stable comfort and lower energy use.</description>
-      <author>noreply@homey.app (Christian Hvolby)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.chhv.smartheating</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.chhv.smartheating/5/ac0ebf0d-045e-47b0-9ca1-8d17f0c82662/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
-    </item>
     <item>
       <title>Changelogs</title>
       <link>https://homey.app/a/com.basmilius.changelogs</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.mistral.ai</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.mistral.ai/1/2475fbe7-f076-4931-8e68-96464418d08c/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Apr 2026 14:27:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rabot Energy</title>
+      <link>https://homey.app/a/com.rabot</link>
+      <description>Automate your home with real-time dynamic electricity prices.</description>
+      <author>noreply@homey.app (Rabot Energy)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rabot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rabot/3/210885f8-a703-4ae3-bb51-236a95a38c1c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Apr 2026 16:37:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
