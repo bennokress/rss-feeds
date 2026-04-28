@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:44:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Smartlink Automation</title>
-      <link>https://homey.app/a/smartlinkautomation.com</link>
-      <description>Control Smartlink Z-Wave Smart Switches</description>
-      <author>noreply@homey.app (Smartlink Automation Team)</author>
-      <guid isPermaLink="false">https://homey.app/a/smartlinkautomation.com</guid>
-      <enclosure url="https://apps.homeycdn.net/app/smartlinkautomation.com/2/8387f788-2025-42cb-9aea-83a3bba5b2aa/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 16:35:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hörmann Garagedoor</title>
-      <link>https://homey.app/a/com.skycoders.hoermann-mqtt</link>
-      <description>Garagedoor support through Hörmann HCPBridgeMQTT</description>
-      <author>noreply@homey.app (Konrad Hübner)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.skycoders.hoermann-mqtt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.skycoders.hoermann-mqtt/1/efaf4371-eef6-466f-b20b-ccdee06ccbb9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 22:17:05 +0200</pubDate>
-    </item>
     <item>
       <title>Kaisai Modbus AWHP</title>
       <link>https://homey.app/a/com.kaoh.kaisaimodbus</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.wolters.dab</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.wolters.dab/4/e1900076-a532-43dd-84b8-7905b72e5645/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 10:54:51 +0200</pubDate>
+    </item>
+    <item>
+      <title>CameConnect</title>
+      <link>https://homey.app/a/net.cameconnect.app</link>
+      <description>Adds support for CameConnect</description>
+      <author>noreply@homey.app (Kim Kokholm)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.cameconnect.app</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.cameconnect.app/6/888d524c-fe90-4481-bba5-f0bf2ecce77d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 12:44:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Delta Dore Tydom</title>
+      <link>https://homey.app/a/com.jogoossens.tydom</link>
+      <description>Native, local Tydom heating in your Homey flows.</description>
+      <author>noreply@homey.app (Jo Goossens)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.jogoossens.tydom</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.jogoossens.tydom/4/b680b20f-92b2-4261-8a71-cdee55c66634/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 12:44:09 +0200</pubDate>
     </item>
   </channel>
 </rss>
