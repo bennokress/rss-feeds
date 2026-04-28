@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:54:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Changelogs</title>
-      <link>https://homey.app/a/com.basmilius.changelogs</link>
-      <description>Track updates of your installed Homey apps and get notified with changelogs.</description>
-      <author>noreply@homey.app (Bas Milius)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.basmilius.changelogs</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.changelogs/1/1aba1fff-2bd6-4427-b98b-65c48313500f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 31 Mar 2026 12:25:21 +0200</pubDate>
-    </item>
     <item>
       <title>Smartlink Automation</title>
       <link>https://homey.app/a/smartlinkautomation.com</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.rabot</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rabot/3/210885f8-a703-4ae3-bb51-236a95a38c1c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Apr 2026 16:37:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>DAB Pump</title>
+      <link>https://homey.app/a/com.wolters.dab</link>
+      <description>Making Water Easy</description>
+      <author>noreply@homey.app (H. Wolters)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wolters.dab</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wolters.dab/4/e1900076-a532-43dd-84b8-7905b72e5645/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Apr 2026 10:54:51 +0200</pubDate>
     </item>
   </channel>
 </rss>
