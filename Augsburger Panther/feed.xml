@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:42:39 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>1878 SHOP in der Olympia-Pause</title>
-      <link>https://www.aev-panther.de/panther/news_news,-1878-SHOP-in-der-Olympia-Pause-_naid,4241.html</link>
-      <description>Der 1878 SHOP im Südfoyer des Curt-Frenzel-Stadions ist während der Olympia-Pause geschlossen. Unser Fanshop-Team ist erst ab Dienstag, 24. Februar 2026 wieder persönlich im CFS anzutreffen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-1878-SHOP-in-der-Olympia-Pause-_naid,4241.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7273_1_org_20251204_AEVDRE_Goldberg_155.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Feb 2026 11:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther melden ausverkauft für verbleibende Heimspiele</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Blank-weiter-im-deutschen-Aufgebot-_naid,4289.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7340_1_org_cp_WMV_DEB_SLO26_306k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mediengruppe Pressedruck wird Exklusivpartner</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Mediengruppe-Pressedruck-wird-Exklusivpartner-_naid,4290.html</link>
+      <description>Zur Saison 2026-27 baut die Mediengruppe Pressedruck ihr Engagement bei den Augsburger Panthern aus: Die Augsburger Allgemeine, HITRADIO RT.1 und der regionale TV-Sender a.tv steigen in die Riege der Exklusivpartner des traditionsreichen DEL-Clubs auf. Damit festigt die Mediengruppe Pressedruck ihre Position als einer der größten Unterstützer des Augsburger Eishockeys. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mediengruppe-Pressedruck-wird-Exklusivpartner-_naid,4290.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7341_1_org_ap_exklusivpartner_mediengruppe_pressedruck.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 11:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
