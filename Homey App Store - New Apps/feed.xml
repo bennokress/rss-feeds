@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:55:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Swiss Weather</title>
-      <link>https://homey.app/a/ch.meteoswiss</link>
-      <description>Forecasts, maps and warnings powered by MeteoSwiss</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/ch.meteoswiss</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ch.meteoswiss/12/d271ef93-b866-46ec-8a08-5bd88b91a095/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
-    </item>
     <item>
       <title>Power Profiler</title>
       <link>https://homey.app/a/net.dongen.power-profiler</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.bicycle</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.bicycle/1/f2134b3f-7fdb-47d0-a2ed-33075499cfb9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2026 05:11:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Virtual Drivers</title>
+      <link>https://homey.app/a/com.msd.virtual.driver</link>
+      <description>Virtual drivers help monitor custom values from other devices.</description>
+      <author>noreply@homey.app (Michal Stráník)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.msd.virtual.driver</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.msd.virtual.driver/1/bd128bc2-47f5-4d62-a768-80f1da1bd45f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 08:55:53 +0200</pubDate>
     </item>
   </channel>
 </rss>
