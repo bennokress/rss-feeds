@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:51:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Power Profiler</title>
-      <link>https://homey.app/a/net.dongen.power-profiler</link>
-      <description>Learn appliance consumption profiles and schedule the cheapest run times</description>
-      <author>noreply@homey.app (Andy van Dongen)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.dongen.power-profiler</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.dongen.power-profiler/10/699df4dd-aba8-42e4-ba53-b1847de4f58f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mister Thermostat</title>
-      <link>https://homey.app/a/com.mister.thermostat</link>
-      <description>The real DIY virtual thermostat.</description>
-      <author>noreply@homey.app (Mattia Calió)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mister.thermostat</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mister.thermostat/2/d8f0c522-5027-4ce6-81ea-6efe22cba05c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Widget Forge</title>
-      <link>https://homey.app/a/com.pascalnohl.widgetforge</link>
-      <description>Flow- and tag-driven independent widgets</description>
-      <author>noreply@homey.app (Pascal Nohl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.widgetforge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.widgetforge/4/29c7cf3a-7fda-4196-870a-38cde866ef22/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
-    </item>
     <item>
       <title>Sony Bravia Theater Quad</title>
       <link>https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.msd.virtual.driver</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.msd.virtual.driver/1/bd128bc2-47f5-4d62-a768-80f1da1bd45f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2026 08:55:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>BenQ Network Projector</title>
+      <link>https://homey.app/a/com.fredhill.benq-projector</link>
+      <description>Control your BenQ network projector from Homey over your local network — no extra hardware required.</description>
+      <author>noreply@homey.app (Danny Dehaze)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.fredhill.benq-projector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.fredhill.benq-projector/2/35bf50ab-c31b-4845-9756-d94eef7bf507/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Energy KPI Monitor</title>
+      <link>https://homey.app/a/dk.chhv.energykpi</link>
+      <description>Understand your home's energy use by zone, cost and trend.</description>
+      <author>noreply@homey.app (Christian Hvolby)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.chhv.energykpi</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.chhv.energykpi/2/4d95c328-fadc-4301-a415-7002c0d58e8c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>ThirdReality Hub</title>
+      <link>https://homey.app/a/com.3reality.cloud</link>
+      <description>Add ThirdReality devices via the hub</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.3reality.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.3reality.cloud/4/462b717c-7db4-4ecb-9e9b-582ce844b884/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
