@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:11:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Kaisai Modbus AWHP</title>
-      <link>https://homey.app/a/com.kaoh.kaisaimodbus</link>
-      <description>Control your Kaisai AWHP using local Modbus protocol.</description>
-      <author>noreply@homey.app (Vincent Boer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kaoh.kaisaimodbus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.kaisaimodbus/3/1d58470a-eca3-4cbf-9240-59c76482947a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Apr 2026 10:32:58 +0200</pubDate>
-    </item>
     <item>
       <title>Swiss Weather</title>
       <link>https://homey.app/a/ch.meteoswiss</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.jogoossens.tydom</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.jogoossens.tydom/4/b680b20f-92b2-4261-8a71-cdee55c66634/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 12:44:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Seoul Bicycle Ttareungi</title>
+      <link>https://homey.app/a/com.yuji.bicycle</link>
+      <description>Real-time Seoul public bicycle Ttareungi rental information</description>
+      <author>noreply@homey.app (yuji yuji)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.bicycle</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.bicycle/1/f2134b3f-7fdb-47d0-a2ed-33075499cfb9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 05:11:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
