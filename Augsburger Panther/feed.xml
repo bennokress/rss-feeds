@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:41:39 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther melden ausverkauft für verbleibende Heimspiele</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</link>
-      <description>PENNY DEL-Rekord egalisiert! Nachdem mittlerweile alle Tickets für die noch drei verbleibenden Hauptrunden-Partien im Curt-Frenzel-Stadion vergriffen sind, stehen die Augsburger Panther in der Saison 2025-26 bei 21 ausverkauften Heimspielen und ziehen in dieser Wertung damit mit den Eisbären Berlin gleich, die in der Hauptrunde 2024-25 ebenfalls 21-mal ausverkauft melden durften. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-melden-ausverkauft-f%C3%BCr-verbleibende-Heimspiele-_naid,4242.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7274_1_org_20251204_AEVDRE_Goldberg_172.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Feb 2026 12:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Berufsinfoveranstaltung der HWK für AEV &amp; FCA</title>
       <link>https://www.aev-panther.de/panther/news_news,-Berufsinfoveranstaltung-der-HWK-f%C3%BCr-AEV-FCA-_naid,4243.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mediengruppe-Pressedruck-wird-Exklusivpartner-_naid,4290.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7341_1_org_ap_exklusivpartner_mediengruppe_pressedruck.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2026 11:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther verpflichten Goalie Tobias Ancicka</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Goalie-Tobias-Ancicka-_naid,4291.html</link>
+      <description>Die Augsburger Panther können die Verpflichtung von Tobias Ancicka offiziell bestätigen. Der 25-jährige Torwart wechselt vom Hauptrundensieger Kölner Haie in die Fuggerstadt und bildet dort künftig mit Peyton Jones das deutsche Torwartduo des PENNY DEL-Clubs. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Goalie-Tobias-Ancicka-_naid,4291.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7342_1_org_AEVKEC_Goldberg_123.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Apr 2026 11:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
