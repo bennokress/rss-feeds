@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:38:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HeatMeister</title>
-      <link>https://homey.app/a/community.heatmeister.tcp</link>
-      <description>Smarter radiator fans for a warmer home</description>
-      <author>noreply@homey.app (Paul Vermeulen)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.heatmeister.tcp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.heatmeister.tcp/2/a1aaa93e-36c0-4dd1-8347-82f9211f59a4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 14:24:59 +0200</pubDate>
-    </item>
     <item>
       <title>Izypower</title>
       <link>https://homey.app/a/net.franceweb.izypower</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.urbanarrow.connect</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.urbanarrow.connect/3/ad677784-8e5f-4d04-a603-fc960e0f71b2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Apr 2026 10:51:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Korean Oil Price</title>
+      <link>https://homey.app/a/com.yuji.oil</link>
+      <description>Real-time fuel price information from Korean gas stations via OPINET.</description>
+      <author>noreply@homey.app (yuji yuji)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.oil</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.oil/4/9e4510d7-b58c-4cb0-9460-b7f86d02cd4b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Apr 2026 12:38:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
