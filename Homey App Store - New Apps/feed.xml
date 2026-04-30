@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:51:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sony Bravia Theater Quad</title>
-      <link>https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</link>
-      <description>Your Sony Bravia Theater Quad — now smarter and fully integrated with Homey.</description>
-      <author>noreply@homey.app (Niels de Klerk)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.nielsdeklerk.BraviaTheaterQuad</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.nielsdeklerk.BraviaTheaterQuad/3/1c7473e0-bac1-4900-bb01-0a289c4aedcc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 12:23:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Remeha</title>
-      <link>https://homey.app/a/community.remeha.modbus-tcp</link>
-      <description>Make your heat pump work smarter, not harder</description>
-      <author>noreply@homey.app (Paul Vermeulen)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.remeha.modbus-tcp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.remeha.modbus-tcp/4/6818182b-e669-497b-bf85-7af902567c90/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 14:24:59 +0200</pubDate>
-    </item>
     <item>
       <title>HeatMeister</title>
       <link>https://homey.app/a/community.heatmeister.tcp</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.3reality.cloud</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.3reality.cloud/4/462b717c-7db4-4ecb-9e9b-582ce844b884/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kalkhoff Connect</title>
+      <link>https://homey.app/a/com.kalkhoff-bikes.connect</link>
+      <description>Effortless e-bike cruising meets modern smart home technology, for a daily commute that runs perfectly on autopilot.</description>
+      <author>noreply@homey.app (Niels Rozeboom)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kalkhoff-bikes.connect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kalkhoff-bikes.connect/3/edc7cbfe-cb95-475b-a172-ac53d77dbf38/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Apr 2026 10:51:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Urban Arrow Connect</title>
+      <link>https://homey.app/a/com.urbanarrow.connect</link>
+      <description>The ultimate urban cargo bike meets modern smart home technology, letting your automations do the heavy lifting.</description>
+      <author>noreply@homey.app (Niels Rozeboom)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.urbanarrow.connect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.urbanarrow.connect/3/ad677784-8e5f-4d04-a603-fc960e0f71b2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Apr 2026 10:51:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
