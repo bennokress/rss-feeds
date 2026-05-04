@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 08:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:38:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Huawei FusionSolar Manager</title>
-      <link>https://homey.app/a/com.huawei.fusionsolar</link>
-      <description>Take control of your solar energy — via Kiosk, OpenAPI or Modbus.</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.huawei.fusionsolar</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.huawei.fusionsolar/22/45b4c2f0-0f78-4130-97d9-865b6d1b49ec/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 12:29:29 +0200</pubDate>
-    </item>
     <item>
       <title>Todo4you</title>
       <link>https://homey.app/a/com.todo4you</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.bus</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.bus/2/1d06c50d-d2fc-48b3-a248-639985b69de1/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 May 2026 10:55:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>ZinVolt</title>
+      <link>https://homey.app/a/com.zinvolt</link>
+      <description>Get more out of your energy with a smart home battery</description>
+      <author>noreply@homey.app (‎ ‎ZinVolt)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.zinvolt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.zinvolt/5/cac14e12-d607-4ad7-9def-8e6549bd82e7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 May 2026 18:38:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
