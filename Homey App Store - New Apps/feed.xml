@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 16:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:50:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Todo4you</title>
-      <link>https://homey.app/a/com.todo4you</link>
-      <description>Connect Todo4you ticket events to Homey flows.</description>
-      <author>noreply@homey.app (Jorden Chamid)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.todo4you</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.todo4you/3/88345b05-2a25-44c7-950a-87700107eaf0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mail Hook</title>
-      <link>https://homey.app/a/mail.hook</link>
-      <description>Trigger Flows when a new email arrives via IMAP. Use flow tokens for the sender, subject and body.</description>
-      <author>noreply@homey.app (Elmar Kouwenhoven)</author>
-      <guid isPermaLink="false">https://homey.app/a/mail.hook</guid>
-      <enclosure url="https://apps.homeycdn.net/app/mail.hook/2/1f5cb673-d568-425b-85bd-708894b3469d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 12:37:02 +0200</pubDate>
-    </item>
     <item>
       <title>Panasonic Comfort Cloud</title>
       <link>https://homey.app/a/community.panasonic.comfortcloud</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.zinvolt</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.zinvolt/5/cac14e12-d607-4ad7-9def-8e6549bd82e7/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 May 2026 18:38:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Toshiba Estia</title>
+      <link>https://homey.app/a/com.goossens.toshibaestia</link>
+      <description>Local Modbus control of your Toshiba Estia heat pump — requires a BMS-IFMB0UEW-E (or similar) interface and a Modbus TCP gateway.</description>
+      <author>noreply@homey.app (Jo Goossens)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.goossens.toshibaestia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.goossens.toshibaestia/18/5636c054-2294-48bb-9487-63c9fe0373f2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 10:50:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>Seoul Bus</title>
+      <link>https://homey.app/a/com.cykendo.seoulbus</link>
+      <description>Displays arriving buses and their arrival times for Seoul bus stops.</description>
+      <author>noreply@homey.app (Carl Jung)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.cykendo.seoulbus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.cykendo.seoulbus/2/d3a3f855-bffa-4a29-8891-74716320d52b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 May 2026 10:50:25 +0200</pubDate>
     </item>
   </channel>
 </rss>
