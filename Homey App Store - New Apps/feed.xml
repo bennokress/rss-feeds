@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 10:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:58:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Home State</title>
-      <link>https://homey.app/a/com.chhv.homecontrol</link>
-      <description>House and music state engine for Homey</description>
-      <author>noreply@homey.app (Christian Hvolby)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.chhv.homecontrol</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.chhv.homecontrol/4/45b933ad-2f47-4c3c-8849-6f465cd67ce4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 14:27:52 +0200</pubDate>
-    </item>
     <item>
       <title>R-EVC Charger</title>
       <link>https://homey.app/a/com.revc.charger</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.hellohyuk.homeclaw</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.hellohyuk.homeclaw/5/c0f1c355-c186-459f-a5f6-fc9189268ea3/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 12:44:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>ECOVACS GOAT</title>
+      <link>https://homey.app/a/com.sverre.ecovacs</link>
+      <description>Ultimate hands-free lawn care, from setup to mow.</description>
+      <author>noreply@homey.app (Sverre L. Petersen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sverre.ecovacs</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sverre.ecovacs/6/ef080658-7bed-4248-a6db-1779decc414c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 May 2026 16:58:06 +0200</pubDate>
     </item>
   </channel>
 </rss>
