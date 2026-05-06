@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 07:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:44:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Diagral</title>
-      <link>https://homey.app/a/com.diagral</link>
-      <description>Smart protection, always within reach</description>
-      <author>noreply@homey.app (Luca Amoroso)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.diagral</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.diagral/1/40ca57ad-3a89-4bbd-a5ed-65c9099206ef/assets/store/app-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 14:29:36 +0200</pubDate>
-    </item>
-    <item>
-      <title>Brændstofpriser DK</title>
-      <link>https://homey.app/a/dk.braendstofpriser.nf</link>
-      <description>Keep an eye on Danish fuel prices from your chosen stations.</description>
-      <author>noreply@homey.app (Peter Piilgaard)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.braendstofpriser.nf</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.braendstofpriser.nf/2/1f66f27f-d60b-4d5d-8259-06378e677b13/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Apr 2026 18:31:58 +0200</pubDate>
-    </item>
     <item>
       <title>Home State</title>
       <link>https://homey.app/a/com.chhv.homecontrol</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.neis.meal</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.neis.meal/6/1d6aca79-4ea2-4192-99e9-7463f718a2c9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 09:01:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>Korea Exchange Rate</title>
+      <link>https://homey.app/a/com.yuji.exchange</link>
+      <description>Real-time exchange rate monitoring via Korea Eximbank API</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.exchange</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.exchange/3/494b2bbf-0e91-432e-b15e-aad3301e35e1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 May 2026 12:44:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Home Claw</title>
+      <link>https://homey.app/a/com.hellohyuk.homeclaw</link>
+      <description>Turn chats into reliable smart-home actions and schedules.</description>
+      <author>noreply@homey.app (Big Mac)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hellohyuk.homeclaw</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hellohyuk.homeclaw/5/c0f1c355-c186-459f-a5f6-fc9189268ea3/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 May 2026 12:44:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
