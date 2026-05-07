@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 06 May 2026 12:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:03:02 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Liron Pellizzari fehlt Panthern verletzt</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-fehlt-Panthern-verletzt-_naid,4245.html</link>
-      <description>Liron Pellizzari wird im Hauptrunden-Endspurt der PENNY DEL nicht für die Augsburger Panther auflaufen können. Der junge Verteidiger verletzte sich im Einsatz für die deutsche U18-Nationalmannschaft am Oberkörper und muss vorerst pausieren. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-fehlt-Panthern-verletzt-_naid,4245.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7277_1_org_AEVLINZ_Goldberg_106.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Feb 2026 09:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther nehmen am Dolomitencup 2026 teil</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-nehmen-am-Dolomitencup-2026-teil-_naid,4246.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Alexander-Blank-geh%C3%B6rt-weiter-zum-Aufgebot-des-DEB-Teams-_naid,4294.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7345_1_org_cp_WMV_DEB_AUT26_075k.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 13:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>PENNY DEL erreicht 2025-26 so viele TV-Zuschauer wie noch nie</title>
+      <link>https://www.aev-panther.de/panther/news_news,-PENNY-DEL-erreicht-2025-26-so-viele-TV-Zuschauer-wie-noch-nie-_naid,4295.html</link>
+      <description>Die Spiele der Saison 2025-26 in der Deutschen Eishockey Liga (PENNY DEL) haben so viele Fernsehzuschauer wie noch nie zuvor in der Geschichte der Liga erreicht. Insgesamt sahen in der abgelaufenen Spielzeit mehr als 36,5 Millionen Zuschauer die Live-Übertragungen der […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-PENNY-DEL-erreicht-2025-26-so-viele-TV-Zuschauer-wie-noch-nie-_naid,4295.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7346_1_org_20260102_AEVSERC_Goldberg_110.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
