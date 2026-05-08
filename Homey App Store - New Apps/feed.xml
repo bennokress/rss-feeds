@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 14:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:36:19 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>R-EVC Charger</title>
-      <link>https://homey.app/a/com.revc.charger</link>
-      <description>Local control and monitoring for R-EVC EcoVolter chargers.</description>
-      <author>noreply@homey.app (Rastislav Hubočan)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.revc.charger</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.revc.charger/3/647897bf-956f-4438-b97a-7e5a2af6ed75/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 14:27:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>ConnectLife</title>
-      <link>https://homey.app/a/io.smart</link>
-      <description>Experience a new way of smartliving.</description>
-      <author>noreply@homey.app (Hisense Group Co.,Ltd.)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.smart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.smart/15/3c70c518-e8ea-4a8c-9cc6-8fa654e8534a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 18:29:46 +0200</pubDate>
-    </item>
-    <item>
-      <title>Wavin Sentio</title>
-      <link>https://homey.app/a/com.wavin.sentio</link>
-      <description>Manage all zones of your Wavin Sentio underfloor heating from Homey.</description>
-      <author>noreply@homey.app (Jaimy de Ruijter)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wavin.sentio</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wavin.sentio/1/a0d033d0-4e0d-4727-b9a3-5e15e202a975/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 10:39:16 +0200</pubDate>
-    </item>
-    <item>
-      <title>Arr Video Suite</title>
-      <link>https://homey.app/a/net.ladenius.arr</link>
-      <description>Add support for Sonarr and Radarr server devices.</description>
-      <author>noreply@homey.app (Jurjen Ladenius)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ladenius.arr</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.arr/5/b4e3a9b0-d137-4cf3-bbb7-b62714e3e4b9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 10:39:16 +0200</pubDate>
-    </item>
     <item>
       <title>Elaway</title>
       <link>https://homey.app/a/se.liamlofgren.elaway</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.sverre.ecovacs</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.sverre.ecovacs/6/ef080658-7bed-4248-a6db-1779decc414c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 16:58:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Daikin One</title>
+      <link>https://homey.app/a/net.alistairs.daikinone</link>
+      <description>Control your Daikin One thermostats from Homey</description>
+      <author>noreply@homey.app (Alistair Galbraith)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.alistairs.daikinone</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.alistairs.daikinone/3/216349af-0ac0-415e-bb18-ade55d50fe51/assets/images/app_lg.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Seoul Realtime</title>
+      <link>https://homey.app/a/com.yuji.seoul</link>
+      <description>Real-time data for 121 places in Seoul (population, weather, traffic, air quality).</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.seoul</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.seoul/1/f38351c2-c14b-4c40-a325-e6be8acfe7f0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rabbit R1</title>
+      <link>https://homey.app/a/com.dimapp.rabbitr1</link>
+      <description>Experience the power of Homey on your Rabbit R1</description>
+      <author>noreply@homey.app (Simone Di Maio)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dimapp.rabbitr1</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.rabbitr1/2/442aca69-ace2-478e-a0b5-e175eac36525/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Qolsys IQ</title>
+      <link>https://homey.app/a/net.alistairs.homey.qolsys</link>
+      <description>Integrates with Qolsys IQ Panel alarm systems via the IQ Remote protocol</description>
+      <author>noreply@homey.app (Alistair Galbraith)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.alistairs.homey.qolsys</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.alistairs.homey.qolsys/1/3409819d-0b81-4adb-84a9-2f2a0a12d2a7/assets/images/image_lg.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
