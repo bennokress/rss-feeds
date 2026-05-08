@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 07 May 2026 15:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:39:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther nehmen am Dolomitencup 2026 teil</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-nehmen-am-Dolomitencup-2026-teil-_naid,4246.html</link>
-      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups im italienischen Neumarkt statt. Als dritter Teilnehmer nach dem EV Zug und den Eisbären Berlin stehen jetzt rund sechs Monate vor Turnierbeginn auch die Augsburger Panther offiziell fest. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-nehmen-am-Dolomitencup-2026-teil-_naid,4246.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7278_1_org_KER00689_20_08_23.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Feb 2026 11:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Markus Keller ist ab sofort spielberechtigt</title>
       <link>https://www.aev-panther.de/panther/news_news,-Markus-Keller-ist-ab-sofort-spielberechtigt-_naid,4247.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-PENNY-DEL-erreicht-2025-26-so-viele-TV-Zuschauer-wie-noch-nie-_naid,4295.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7346_1_org_20260102_AEVSERC_Goldberg_110.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther testen in Villach</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Villach-_naid,4293.html</link>
+      <description>Der Teilnahme beim Dolomitencup und zwei Heimspielen im Curt-Frenzel-stadion folgt ein weiterer Testspiel-Termin in der Vorbereitung auf die PENNY DEL-Saison 2026-27. Am Freitag, 11. September 2026 treffen die Augsburger Panther in der Stadthalle Villach auf den gastgebenden EC VSV. Spielbeginn ist um 19:15 Uhr. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Villach-_naid,4293.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7344_1_org_AEVVSV_Goldberg_162.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
