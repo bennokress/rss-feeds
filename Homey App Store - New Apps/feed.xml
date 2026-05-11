@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 07:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:16:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Salus Smart Home</title>
-      <link>https://homey.app/a/eu.edwinsmulders.salus</link>
-      <description>Smarter comfort in every room.</description>
-      <author>noreply@homey.app (Edwin Smulders)</author>
-      <guid isPermaLink="false">https://homey.app/a/eu.edwinsmulders.salus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eu.edwinsmulders.salus/6/0edbf8bf-04ea-4de1-9e95-12bdd6ae1075/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 16:38:07 +0200</pubDate>
-    </item>
-    <item>
-      <title>energieleser.</title>
-      <link>https://homey.app/a/de.energieleser</link>
-      <description>Your energy, made readable. Smart metering for electricity, gas and water — transparent, at a glance.</description>
-      <author>noreply@homey.app (nineti GmbH)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.energieleser</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.energieleser/1/682837b6-eb74-4887-b74b-ff70f8dddf59/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 20:29:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>Peblar</title>
-      <link>https://homey.app/a/com.peblar</link>
-      <description>Go and explore while we build your future.</description>
-      <author>noreply@homey.app (Webed Solutions)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.peblar</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.peblar/5/bcb395e6-a696-4e68-a99a-e9e536d04659/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Apr 2026 10:39:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>TP-Link Omada</title>
-      <link>https://homey.app/a/com.omadanetworks</link>
-      <description>Networks Empower Business</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.omadanetworks</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.omadanetworks/9/01e8c566-4e97-4368-9012-44e32673c775/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Apr 2026 12:32:50 +0200</pubDate>
-    </item>
     <item>
       <title>Bluesky</title>
       <link>https://homey.app/a/app.bsky</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.timdebruin.undok</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.timdebruin.undok/5/5279e13f-5bee-43e2-94be-7b71f748bebb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 09:20:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>hOn Haier Smart</title>
+      <link>https://homey.app/a/com.lucaamo.hon</link>
+      <description>Control Haier HWD washer dryers and HWO ovens with Homey.</description>
+      <author>noreply@homey.app (Luca Amoroso)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lucaamo.hon</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lucaamo.hon/5/f6591fca-6df6-47da-8dae-5c8f8f3175ba/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
+    </item>
+    <item>
+      <title>MOVA &amp; Dreame Mower</title>
+      <link>https://homey.app/a/com.mova-dreame.mower</link>
+      <description>Bring your MOVA &amp; Dreame lawn mower into your smart home automations</description>
+      <author>noreply@homey.app (Andi Wirz)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mova-dreame.mower</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mova-dreame.mower/16/210b1fe4-8b6e-4353-8073-00804823920d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
+    </item>
+    <item>
+      <title>App Insights for Developers</title>
+      <link>https://homey.app/a/codes.lucasvdh.developer-tools</link>
+      <description>Track your Homey apps</description>
+      <author>noreply@homey.app (Lucas van der Have)</author>
+      <guid isPermaLink="false">https://homey.app/a/codes.lucasvdh.developer-tools</guid>
+      <enclosure url="https://apps.homeycdn.net/app/codes.lucasvdh.developer-tools/4/7c46979f-56d6-4509-8517-81941c48585e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dutch Railways</title>
+      <link>https://homey.app/a/codes.lucasvdh.ns</link>
+      <description>Dutch Railways (NS) departures, trip planning and disruptions</description>
+      <author>noreply@homey.app (Lucas van der Have)</author>
+      <guid isPermaLink="false">https://homey.app/a/codes.lucasvdh.ns</guid>
+      <enclosure url="https://apps.homeycdn.net/app/codes.lucasvdh.ns/3/cb210f9b-8167-4521-9ab2-1629222a0426/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
     </item>
   </channel>
 </rss>
