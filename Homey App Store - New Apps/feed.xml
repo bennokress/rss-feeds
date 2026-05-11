@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 13:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 15:07:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Navimow</title>
-      <link>https://homey.app/a/nl.tomcoonen.navimow</link>
-      <description>Control and monitor your Segway Navimow robotic mower from Homey.</description>
-      <author>noreply@homey.app (Tom Coonen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.tomcoonen.navimow</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.tomcoonen.navimow/3/7872a586-f7ad-4f8d-8147-82aa95bb5e1b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
-    </item>
     <item>
       <title>Tautulli</title>
       <link>https://homey.app/a/net.ladenius.tautulli</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/net.ladenius.sabnzbd</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.ladenius.sabnzbd/2/9eff2ce8-9e5c-4113-ab36-0126bc31060e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 15:07:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>BTicino Living Control</title>
+      <link>https://homey.app/a/com.lucaamoroso.bticino-home-control</link>
+      <description>Bring BTicino Living Now lights, shutters, loads, scenarios and energy data into Homey.</description>
+      <author>noreply@homey.app (Luca Amoroso)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lucaamoroso.bticino-home-control</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lucaamoroso.bticino-home-control/5/27a2b168-63e7-47b3-93af-81d433f2feda/assets/store/app-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 May 2026 17:07:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
