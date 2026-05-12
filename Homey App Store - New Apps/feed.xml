@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 15:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:05:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tautulli</title>
-      <link>https://homey.app/a/net.ladenius.tautulli</link>
-      <description>Monitor your Plex Media Server</description>
-      <author>noreply@homey.app (Jurjen Ladenius)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ladenius.tautulli</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.tautulli/2/d789d81b-6dc3-43b4-8f97-a566d927e384/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
-    </item>
     <item>
       <title>Alpine Lakes</title>
       <link>https://homey.app/a/com.alpinelakes</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.lucaamoroso.bticino-home-control</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lucaamoroso.bticino-home-control/5/27a2b168-63e7-47b3-93af-81d433f2feda/assets/store/app-large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 17:07:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sheets Log Dispatcher</title>
+      <link>https://homey.app/a/com.pascalnohl.sheetslogdispatcher</link>
+      <description>Queue structured Homey log entries and dispatch them one by one for Google Sheets flows.</description>
+      <author>noreply@homey.app (Pascal Nohl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.sheetslogdispatcher</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.sheetslogdispatcher/2/740d727d-5d05-4b37-b655-fd774cea363f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 09:05:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
