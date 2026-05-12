@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 11 May 2026 13:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:53:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Die Termine für die Playoffs 2026</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Die-Termine-f%C3%BCr-die-Playoffs-2026-_naid,4248.html</link>
-      <description>Die Hauptrunde der Deutschen Eishockey Liga (PENNY DEL) geht nach der  Olympia-Pause am 25. Februar 2026 mit den letzten acht Spieltagen in die  entscheidende Phase. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Die-Termine-f%C3%BCr-die-Playoffs-2026-_naid,4248.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7281_1_org_cp_d2_F2_EBB_BHV24_022.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Feb 2026 17:50:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther siegen in Mannheim</title>
       <link>https://www.aev-panther.de/panther/news_news,-Panther-siegen-in-Mannheim-_naid,4249.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-JAKO-bleibt-Off-Ice-Ausstatter-_naid,4296.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7347_1_org_ap_Partnerschaft_JAKO.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 14:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Testspiel gegen den SC Bern</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Testspiel-gegen-den-SC-Bern-_naid,4297.html</link>
+      <description>Auch das sechste von insgesamt sieben geplanten Testspielen der Vorbereitung 2026 ist nun fix. Am Dienstag, 01. September 2026, treffen die Augsburger Panther in der Eishalle Schoren in Langenthal auf den SC Bern. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Testspiel-gegen-den-SC-Bern-_naid,4297.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7348_1_org_SIA_5386.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
