@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 07:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:03:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Alpine Lakes</title>
-      <link>https://homey.app/a/com.alpinelakes</link>
-      <description>Live lake temperatures and swim conditions across the Alps, powered by Eawag simulations</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.alpinelakes</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.alpinelakes/1/2ac5e57d-8eb8-44d3-9337-70dcb63b9cfe/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 12:29:55 +0200</pubDate>
-    </item>
     <item>
       <title>Tasmota</title>
       <link>https://homey.app/a/com.tasmota</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.sheetslogdispatcher</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.sheetslogdispatcher/2/740d727d-5d05-4b37-b655-fd774cea363f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 May 2026 09:05:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Portainer</title>
+      <link>https://homey.app/a/com.robnordkamp.portainer</link>
+      <description>Docker container monitoring and control, right inside Homey.</description>
+      <author>noreply@homey.app (Rob Nordkamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.robnordkamp.portainer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.robnordkamp.portainer/2/e24f69f9-8532-4833-9a66-4981c658da20/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 May 2026 11:03:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
