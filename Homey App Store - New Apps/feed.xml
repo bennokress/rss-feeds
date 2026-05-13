@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 12:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:05:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Elegoo 3D Printers</title>
-      <link>https://homey.app/a/com.elegoo.sdcp</link>
-      <description>Integrating Elegoo 3D Printers effortlessly into your smart home via the local SDCP protocol.</description>
-      <author>noreply@homey.app (Thomas Veivåg)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.elegoo.sdcp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.elegoo.sdcp/10/f7a4b924-5380-4d3f-ba49-fb88c6a39a75/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Apr 2026 12:38:07 +0200</pubDate>
-    </item>
     <item>
       <title>Awair Bridge</title>
       <link>https://homey.app/a/com.bridgelabs.awairbridge</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/io.quatt.battery</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.quatt.battery/5/19773c3b-9455-42a1-808a-1a23af9b33eb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 May 2026 14:50:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Intex PureSpa</title>
+      <link>https://homey.app/a/com.intex.spa</link>
+      <description>Relax, your spa is connected</description>
+      <author>noreply@homey.app (M. Meijerink)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.intex.spa</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.intex.spa/7/e37808b3-e1d4-487d-869c-9fd67fe06a2a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 17:05:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
