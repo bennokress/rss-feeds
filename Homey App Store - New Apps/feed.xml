@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 09:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:50:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tasmota</title>
-      <link>https://homey.app/a/com.tasmota</link>
-      <description>Open source firmware for ESP devices</description>
-      <author>noreply@homey.app (Rian Brooks-Kane)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.tasmota</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.tasmota/3/2b9ee863-a0c2-4796-b72b-d6327f35160a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Apr 2026 14:26:32 +0200</pubDate>
-    </item>
     <item>
       <title>Elegoo 3D Printers</title>
       <link>https://homey.app/a/com.elegoo.sdcp</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.robnordkamp.portainer</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.robnordkamp.portainer/2/e24f69f9-8532-4833-9a66-4981c658da20/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 May 2026 11:03:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>Quatt Home Battery</title>
+      <link>https://homey.app/a/io.quatt.battery</link>
+      <description>Track, automate and maximise savings from your Quatt Home Battery.</description>
+      <author>noreply@homey.app (Sylvester Mussche)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.quatt.battery</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.quatt.battery/5/19773c3b-9455-42a1-808a-1a23af9b33eb/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 May 2026 14:50:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
