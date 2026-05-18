@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 11:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:22:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SHRDZM Smartmeter</title>
-      <link>https://homey.app/a/com.shrdzm.smartmeter</link>
-      <description>Real-time energy monitoring and GD28 dashboard control.</description>
-      <author>noreply@homey.app (Markus Haselböck)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.shrdzm.smartmeter</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.shrdzm.smartmeter/1/a43130fb-28d2-4c15-9556-1c420e0f99c4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Apr 2026 14:32:06 +0200</pubDate>
-    </item>
-    <item>
-      <title>SmartHomeShop</title>
-      <link>https://homey.app/a/smarthomeshop.cyclone-software.com</link>
-      <description>Where your smart home truly comes to life!</description>
-      <author>noreply@homey.app (Marcel Timmermans)</author>
-      <guid isPermaLink="false">https://homey.app/a/smarthomeshop.cyclone-software.com</guid>
-      <enclosure url="https://apps.homeycdn.net/app/smarthomeshop.cyclone-software.com/5/012a9c27-7b46-42c9-bc11-e95437029ff9/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Starlink</title>
-      <link>https://homey.app/a/com.starlink.dish</link>
-      <description>Monitor your Starlink dish locally</description>
-      <author>noreply@homey.app (Gerrit Scherpenzeel)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.starlink.dish</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.starlink.dish/4/83dbe526-3689-4394-8d21-ec0fab981b39/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>BITUO TECHNIK</title>
-      <link>https://homey.app/a/com.bituotechnik.iot</link>
-      <description>Empower the safe and efficient use of electricity</description>
-      <author>noreply@homey.app (BITUO TECHNIK)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.bituotechnik.iot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.bituotechnik.iot/2/d2c577cc-2f34-41d2-8daa-9f7c367a0ac1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 10:42:48 +0200</pubDate>
-    </item>
     <item>
       <title>Fronius Wattpilot</title>
       <link>https://homey.app/a/com.wattpilot</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.lottery</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.lottery/3/e8f66321-d8e4-40db-ba24-46ababde9a14/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 13:24:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fujitsu Airstage</title>
+      <link>https://homey.app/a/com.genx.fujitsu_airstage</link>
+      <description>Bring your Fujitsu Airstage AC into your smart home.</description>
+      <author>noreply@homey.app (Sam Serrien)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.genx.fujitsu_airstage</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.genx.fujitsu_airstage/17/5d639d3d-b047-4295-ab8e-f3eb94c6d154/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 15:22:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Burgernet</title>
+      <link>https://homey.app/a/nl.lrvdlinden.burgernet</link>
+      <description>Receive realtime Burgernet alerts in Homey.</description>
+      <author>noreply@homey.app (Léon van der Linden)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.burgernet</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.burgernet/1/19c04253-9c56-4835-b5a3-14ed0acbcd35/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 15:22:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Missing Persons</title>
+      <link>https://homey.app/a/nl.lrvdlinden.vermist</link>
+      <description>Receive realtime messages of missing persons in Homey.</description>
+      <author>noreply@homey.app (Léon van der Linden)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.vermist</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.vermist/1/6e70f210-8a23-4bdc-9df9-e7f5c087f42c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 15:22:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dyson Solarcycle Morph</title>
+      <link>https://homey.app/a/de.baschte.dyson-solarcycle</link>
+      <description>Bring the magic of your Dyson Solarcycle Morph to Homey Pro. Control brightness, color temperature, ambient-aware features, and smart lighting moods right from your flows and automations.</description>
+      <author>noreply@homey.app (Sebastian Richter)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.baschte.dyson-solarcycle</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.baschte.dyson-solarcycle/5/20e0eb89-60d6-44d4-b42d-bdc9f5adb32b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 15:22:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
