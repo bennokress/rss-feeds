@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 13:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:09:25 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Fronius Wattpilot</title>
-      <link>https://homey.app/a/com.wattpilot</link>
-      <description>Local EV charger control with solar power tracking</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wattpilot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wattpilot/18/dee052bd-00dc-46c9-9614-2450b9292779/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 10:41:00 +0200</pubDate>
-    </item>
     <item>
       <title>Mistral AI</title>
       <link>https://homey.app/a/com.mistral.ai</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/de.baschte.dyson-solarcycle</guid>
       <enclosure url="https://apps.homeycdn.net/app/de.baschte.dyson-solarcycle/5/20e0eb89-60d6-44d4-b42d-bdc9f5adb32b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 15:22:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Drayton Wiser</title>
+      <link>https://homey.app/a/dev.5to.wiser</link>
+      <description>Local control for your Drayton Wiser heating.</description>
+      <author>noreply@homey.app (Ben Lockey)</author>
+      <guid isPermaLink="false">https://homey.app/a/dev.5to.wiser</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dev.5to.wiser/1/93bd13ac-308a-40d9-8065-ad73b35fc2ce/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 May 2026 17:09:24 +0200</pubDate>
     </item>
   </channel>
 </rss>
