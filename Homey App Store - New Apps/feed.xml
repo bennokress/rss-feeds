@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 15:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:16:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Mistral AI</title>
-      <link>https://homey.app/a/com.mistral.ai</link>
-      <description>Harness the power of Mistral AI LLMs directly in your Homey flows.</description>
-      <author>noreply@homey.app (Thibaud Liégeois)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mistral.ai</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mistral.ai/1/2475fbe7-f076-4931-8e68-96464418d08c/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 14:27:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rabot Energy</title>
-      <link>https://homey.app/a/com.rabot</link>
-      <description>Automate your home with real-time dynamic electricity prices.</description>
-      <author>noreply@homey.app (Rabot Energy)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rabot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rabot/3/210885f8-a703-4ae3-bb51-236a95a38c1c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Apr 2026 16:37:59 +0200</pubDate>
-    </item>
     <item>
       <title>DAB Pump</title>
       <link>https://homey.app/a/com.wolters.dab</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/dev.5to.wiser</guid>
       <enclosure url="https://apps.homeycdn.net/app/dev.5to.wiser/1/93bd13ac-308a-40d9-8065-ad73b35fc2ce/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 May 2026 17:09:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>Flow Converter</title>
+      <link>https://homey.app/a/app.l4m.flowconverter</link>
+      <description>Fixes broken flow references after re-pairing or replacing Homey devices.</description>
+      <author>noreply@homey.app (Alejandro Carido-Marcussen)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.l4m.flowconverter</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.l4m.flowconverter/3/84f63e15-3d80-45c8-a790-f96373e43b47/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 11:16:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fast.com Speedtest</title>
+      <link>https://homey.app/a/com.fast</link>
+      <description>Run internet speed tests using Fast.com and use the results in your flows.</description>
+      <author>noreply@homey.app (Martijn Poppen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.fast</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.fast/5/4f4eb840-0f91-4ef4-a9ee-2636631633ff/assets/images/large.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 11:16:16 +0200</pubDate>
     </item>
   </channel>
 </rss>
