@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news.html</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 14 May 2026 09:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:26:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Clubs reichen Lizenzanträge ein</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Clubs-reichen-Lizenzantr%C3%A4ge-ein-_naid,4251.html</link>
-      <description>Die Augsburger Panther und die 13 anderen Clubs der Deutschen Eishockey Liga (PENNY DEL) haben ihre Anträge zur Teilnahme an der Lizenzprüfung für die kommende Saison fristgerecht beim Ligabüro in Neuss eingereicht. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clubs-reichen-Lizenzantr%C3%A4ge-ein-_naid,4251.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7284_1_org_20260116_AEVFRA_Goldberg_228.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
     <item>
       <title>Derby gegen München zur besten Eishockeyzeit</title>
       <link>https://www.aev-panther.de/panther/news_news,-Derby-gegen-M%C3%BCnchen-zur-besten-Eishockeyzeit-_naid,4250.html</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Maximilian-Gl%C3%B6tzl-_naid,4298.html</guid>
       <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7349_1_org_cp_HF5_EBB_KEC26_042.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 May 2026 09:50:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Madison Bowey verlässt die Panther</title>
+      <link>https://www.aev-panther.de/panther/news_news,-Madison-Bowey-verl%C3%A4sst-die-Panther-_naid,4299.html</link>
+      <description>Die letzte noch offene Personalie der Saison 2025-26 ist geklärt: Madison Bowey wird in der kommenden Spielzeit nicht mehr für die Augsburger Panther auflaufen. […]</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Madison-Bowey-verl%C3%A4sst-die-Panther-_naid,4299.html</guid>
+      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7350_1_org_bowey_quer.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 May 2026 08:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
