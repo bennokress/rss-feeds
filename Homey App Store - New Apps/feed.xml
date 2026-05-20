@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 09:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:59:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Seoul Bicycle Ttareungi</title>
-      <link>https://homey.app/a/com.yuji.bicycle</link>
-      <description>Real-time Seoul public bicycle Ttareungi rental information</description>
-      <author>noreply@homey.app (yuji yuji)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.bicycle</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.bicycle/1/f2134b3f-7fdb-47d0-a2ed-33075499cfb9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 05:11:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>Virtual Drivers</title>
-      <link>https://homey.app/a/com.msd.virtual.driver</link>
-      <description>Virtual drivers help monitor custom values from other devices.</description>
-      <author>noreply@homey.app (Michal Stráník)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.msd.virtual.driver</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.msd.virtual.driver/1/bd128bc2-47f5-4d62-a768-80f1da1bd45f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 08:55:53 +0200</pubDate>
-    </item>
     <item>
       <title>BenQ Network Projector</title>
       <link>https://homey.app/a/com.fredhill.benq-projector</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/net.ladenius.komga</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.ladenius.komga/2/9f2aac93-639c-4e7a-89db-b9683dff5ea0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 May 2026 11:14:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>DREO</title>
+      <link>https://homey.app/a/com.dreo.connect</link>
+      <description>Seamless and intuitive smart living.</description>
+      <author>noreply@homey.app (Dreo Corp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dreo.connect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dreo.connect/1/a53149df-c401-4ea2-863a-01e212e5773c/assets/images/app_banner_500x350.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 14:59:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Willow</title>
+      <link>https://homey.app/a/com.willow.app</link>
+      <description>Take the guesswork out of plant care</description>
+      <author>noreply@homey.app (Plant With Willow)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.willow.app</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.willow.app/13/1b345e50-298e-40cd-8da9-006905df3153/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 14:59:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
