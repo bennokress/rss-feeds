@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 11:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:14:12 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Delta Dore Tydom</title>
-      <link>https://homey.app/a/com.jogoossens.tydom</link>
-      <description>Native, local Tydom heating in your Homey flows.</description>
-      <author>noreply@homey.app (Jo Goossens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jogoossens.tydom</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jogoossens.tydom/4/b680b20f-92b2-4261-8a71-cdee55c66634/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Apr 2026 12:44:09 +0200</pubDate>
-    </item>
     <item>
       <title>Seoul Bicycle Ttareungi</title>
       <link>https://homey.app/a/com.yuji.bicycle</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.tuyalocal</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.tuyalocal/27/b95dcc3b-90ff-4006-995e-5e497209d14d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 13:07:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Komga</title>
+      <link>https://homey.app/a/net.ladenius.komga</link>
+      <description>Automate your digital comic and manga collection.</description>
+      <author>noreply@homey.app (Jurjen Ladenius)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.ladenius.komga</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.komga/2/9f2aac93-639c-4e7a-89db-b9683dff5ea0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 20 May 2026 11:14:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
