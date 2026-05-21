@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 12:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:15:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BenQ Network Projector</title>
-      <link>https://homey.app/a/com.fredhill.benq-projector</link>
-      <description>Control your BenQ network projector from Homey over your local network — no extra hardware required.</description>
-      <author>noreply@homey.app (Danny Dehaze)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.fredhill.benq-projector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.fredhill.benq-projector/2/35bf50ab-c31b-4845-9756-d94eef7bf507/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
-    </item>
     <item>
       <title>Energy KPI Monitor</title>
       <link>https://homey.app/a/dk.chhv.energykpi</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.willow.app</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.willow.app/13/1b345e50-298e-40cd-8da9-006905df3153/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 May 2026 14:59:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Korean Parking Info</title>
+      <link>https://homey.app/a/com.pthy.kparking</link>
+      <description>Find nearby parking lots, compare capacity, and track estimated parking cost with elapsed time.</description>
+      <author>noreply@homey.app (Patrick Yeon)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pthy.kparking</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pthy.kparking/5/5150ccce-b7de-426e-8821-5f8008b3f3bf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 May 2026 15:15:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
