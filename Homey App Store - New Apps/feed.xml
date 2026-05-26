@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 09:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:07:25 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Shelly Wall Display Dashboard</title>
-      <link>https://homey.app/a/com.walldisplay.dashboard</link>
-      <description>Your smart home, always in view</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.walldisplay.dashboard</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.walldisplay.dashboard/14/67c03364-5555-4d1f-a054-8743b42d3887/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 10:44:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>HomeyArcade</title>
-      <link>https://homey.app/a/com.doekse.arcade</link>
-      <description>Play msDOS games on Homey Dashboards</description>
-      <author>noreply@homey.app (Abe Haverkamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.doekse.arcade</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.doekse.arcade/3/e116bb96-b33b-41fc-a7b7-ca0b21289a97/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 10:44:39 +0200</pubDate>
-    </item>
     <item>
       <title>EV Charger Information Kr</title>
       <link>https://homey.app/a/com.yuji.ev</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.kaoh.tapelectric</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kaoh.tapelectric/5/564fd76e-d728-4ab9-84a5-fbaf7abdba76/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Is It BBQ Weather?</title>
+      <link>https://homey.app/a/nl.bbqaan.app</link>
+      <description>Never guess your BBQ weather again.</description>
+      <author>noreply@homey.app (Paul Vermeulen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.bbqaan.app</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.bbqaan.app/1/748e0efe-57ae-438c-8aab-15fd9871ba38/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 15:07:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mode Switch</title>
+      <link>https://homey.app/a/com.modeswitch</link>
+      <description>Switch devices per mode and automate lights, temperature and appliances with Flow triggers, zones, sensors, scheduling and automatic mode.</description>
+      <author>noreply@homey.app (Erik van Oosten)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.modeswitch</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.modeswitch/8/adb8f3c0-af9f-49c0-86bb-ebf6b78d0f85/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 15:07:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
