@@ -12,62 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 13:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:17:17 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Energy KPI Monitor</title>
-      <link>https://homey.app/a/dk.chhv.energykpi</link>
-      <description>Understand your home's energy use by zone, cost and trend.</description>
-      <author>noreply@homey.app (Christian Hvolby)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.chhv.energykpi</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.chhv.energykpi/2/4d95c328-fadc-4301-a415-7002c0d58e8c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>ThirdReality Hub</title>
-      <link>https://homey.app/a/com.3reality.cloud</link>
-      <description>Add ThirdReality devices via the hub</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.3reality.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.3reality.cloud/4/462b717c-7db4-4ecb-9e9b-582ce844b884/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Apr 2026 10:51:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kalkhoff Connect</title>
-      <link>https://homey.app/a/com.kalkhoff-bikes.connect</link>
-      <description>Effortless e-bike cruising meets modern smart home technology, for a daily commute that runs perfectly on autopilot.</description>
-      <author>noreply@homey.app (Niels Rozeboom)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kalkhoff-bikes.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kalkhoff-bikes.connect/3/edc7cbfe-cb95-475b-a172-ac53d77dbf38/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 10:51:23 +0200</pubDate>
-    </item>
-    <item>
-      <title>Urban Arrow Connect</title>
-      <link>https://homey.app/a/com.urbanarrow.connect</link>
-      <description>The ultimate urban cargo bike meets modern smart home technology, letting your automations do the heavy lifting.</description>
-      <author>noreply@homey.app (Niels Rozeboom)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.urbanarrow.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.urbanarrow.connect/3/ad677784-8e5f-4d04-a603-fc960e0f71b2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 10:51:23 +0200</pubDate>
-    </item>
-    <item>
-      <title>Korean Oil Price</title>
-      <link>https://homey.app/a/com.yuji.oil</link>
-      <description>Real-time fuel price information from Korean gas stations via OPINET.</description>
-      <author>noreply@homey.app (yuji yuji)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.oil</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.oil/4/9e4510d7-b58c-4cb0-9460-b7f86d02cd4b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 12:38:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>Adax with Power Estimation</title>
-      <link>https://homey.app/a/no.tjahnsen.adaxunofficial</link>
-      <description>Control Adax WiFi heaters with estimated power and energy insights</description>
-      <author>noreply@homey.app (Thomas Jahnsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.tjahnsen.adaxunofficial</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.tjahnsen.adaxunofficial/182/5a0d9bb1-7e5e-441b-bc82-4f43f6d4021d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 10:44:39 +0200</pubDate>
-    </item>
     <item>
       <title>Shelly Wall Display Dashboard</title>
       <link>https://homey.app/a/com.walldisplay.dashboard</link>
@@ -463,6 +409,60 @@
       <guid isPermaLink="false">https://homey.app/a/com.pthy.kparking</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.pthy.kparking/5/5150ccce-b7de-426e-8821-5f8008b3f3bf/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 21 May 2026 15:15:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>JetKVM Monitor</title>
+      <link>https://homey.app/a/com.guray.jetkvm</link>
+      <description>Monitor JetKVM devices with comprehensive metrics</description>
+      <author>noreply@homey.app (Guray Kircuvaloglu)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.guray.jetkvm</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.guray.jetkvm/1/835b14fa-4152-4215-a9e1-63822d29f12a/assets/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Voltie</title>
+      <link>https://homey.app/a/eu.voltie.charger</link>
+      <description>Smarter charging. Lower costs. Greener energy.</description>
+      <author>noreply@homey.app (Voltie Kft.)</author>
+      <guid isPermaLink="false">https://homey.app/a/eu.voltie.charger</guid>
+      <enclosure url="https://apps.homeycdn.net/app/eu.voltie.charger/1/8eccb5b1-4fec-4ff5-ae2b-a5c53f7a730c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>CoinOne Crypto</title>
+      <link>https://homey.app/a/com.yuji.coin</link>
+      <description>Track cryptocurrency market prices from CoinOne.</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.coin</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.coin/1/030e50fb-bbd5-49df-994f-f4e93e8a31b3/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>AirKing</title>
+      <link>https://homey.app/a/nl.air-king</link>
+      <description>Serious about air</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.air-king</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.air-king/2/ad0c2537-d08e-45ee-9800-ac9361ea326e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Indygo Pool</title>
+      <link>https://homey.app/a/com.myindygo.pool</link>
+      <description>Monitor and control your Indygo pool from Homey.</description>
+      <author>noreply@homey.app (Sander De Langhe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.myindygo.pool</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.myindygo.pool/1/c7ce7878-18f0-47a1-822f-d85fb0dac943/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tap Electric</title>
+      <link>https://homey.app/a/com.kaoh.tapelectric</link>
+      <description>Authorize and unauthorize charging sessions on your Tap Electric chargers from Homey flows.</description>
+      <author>noreply@homey.app (Vincent Boer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kaoh.tapelectric</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.tapelectric/5/564fd76e-d728-4ab9-84a5-fbaf7abdba76/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
