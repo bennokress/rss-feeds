@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 13:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:07:05 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>EV Charger Information Kr</title>
-      <link>https://homey.app/a/com.yuji.ev</link>
-      <description>Real-time EV charging station status in South Korea</description>
-      <author>noreply@homey.app (yuji yuji)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.ev</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.ev/4/e5ce13fb-5752-469f-9b45-2d499a35dba7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 10:55:17 +0200</pubDate>
-    </item>
-    <item>
-      <title>Planbord Bridge</title>
-      <link>https://homey.app/a/com.planbord.dashboardbridge</link>
-      <description>Keep your Planbord dashboard automatically up to date with Homey.</description>
-      <author>noreply@homey.app (Lingine Development)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.planbord.dashboardbridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.planbord.dashboardbridge/7/1fdaf804-9a10-4445-a5a3-8292620d17f5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 10:55:17 +0200</pubDate>
-    </item>
     <item>
       <title>KakaoTalk Send Me</title>
       <link>https://homey.app/a/com.yuji.kakaosendme</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.modeswitch</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.modeswitch/8/adb8f3c0-af9f-49c0-86bb-ebf6b78d0f85/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 15:07:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>M-Spa</title>
+      <link>https://homey.app/a/com.mspa.hot-tub</link>
+      <description>Warm water waiting, bubbles on demand</description>
+      <author>noreply@homey.app (Magnus Ternström)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mspa.hot-tub</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mspa.hot-tub/4/1e6f8dd8-336a-4910-90af-394eaf47b8b9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 17:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Enki / Lexman / Adeo</title>
+      <link>https://homey.app/a/community.adeo-zigbee</link>
+      <description>Affordable smart security for every home.</description>
+      <author>noreply@homey.app (anon 142384908290)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.adeo-zigbee</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.adeo-zigbee/5/4845c704-6386-4c2d-a33f-e85cdcf53d46/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 May 2026 17:07:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
