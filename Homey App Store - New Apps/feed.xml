@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 15:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:33:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>KakaoTalk Send Me</title>
-      <link>https://homey.app/a/com.yuji.kakaosendme</link>
-      <description>Send KakaoTalk messages to yourself via Homey flows.</description>
-      <author>noreply@homey.app (yuji yuji)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.kakaosendme</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.kakaosendme/1/8f0f2094-0f01-403a-b47f-77a50db91042/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 10:55:17 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bus Arrival</title>
-      <link>https://homey.app/a/com.yuji.bus</link>
-      <description>Real-time bus arrival information for all cities including Seoul</description>
-      <author>noreply@homey.app (yuji yuji)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.bus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.bus/2/1d06c50d-d2fc-48b3-a248-639985b69de1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 10:55:17 +0200</pubDate>
-    </item>
-    <item>
-      <title>ZinVolt</title>
-      <link>https://homey.app/a/com.zinvolt</link>
-      <description>Get more out of your energy with a smart home battery</description>
-      <author>noreply@homey.app (‎ ‎ZinVolt)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.zinvolt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.zinvolt/5/cac14e12-d607-4ad7-9def-8e6549bd82e7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 May 2026 18:38:23 +0200</pubDate>
-    </item>
-    <item>
-      <title>Toshiba Estia</title>
-      <link>https://homey.app/a/com.goossens.toshibaestia</link>
-      <description>Local Modbus control of your Toshiba Estia heat pump — requires a BMS-IFMB0UEW-E (or similar) interface and a Modbus TCP gateway.</description>
-      <author>noreply@homey.app (Jo Goossens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.goossens.toshibaestia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.goossens.toshibaestia/18/5636c054-2294-48bb-9487-63c9fe0373f2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 May 2026 10:50:25 +0200</pubDate>
-    </item>
     <item>
       <title>Seoul Bus</title>
       <link>https://homey.app/a/com.cykendo.seoulbus</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/community.adeo-zigbee</guid>
       <enclosure url="https://apps.homeycdn.net/app/community.adeo-zigbee/5/4845c704-6386-4c2d-a33f-e85cdcf53d46/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 17:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>ThermoPro</title>
+      <link>https://homey.app/a/de.ftedv.thermopro</link>
+      <description>Real-Time Temperature &amp; Humidity Monitoring</description>
+      <author>noreply@homey.app (Florian Trück)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.ftedv.thermopro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.thermopro/19/d9d932a3-5cf7-42aa-946a-5a4dfa08f6b9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vevor Weather Station</title>
+      <link>https://homey.app/a/de.vevor.weatherstation</link>
+      <description>All your Vevor YT60307 weather station data in Homey.</description>
+      <author>noreply@homey.app (René Hanebuth)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.vevor.weatherstation</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.vevor.weatherstation/3/9eff3048-2385-4c78-90d1-f99c79646c46/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lumina</title>
+      <link>https://homey.app/a/com.3cheesehigh.lumina</link>
+      <description>Cross-app sun-based color temperature and brightness control for lights paired through other Homey apps.</description>
+      <author>noreply@homey.app (Clemens Bott)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.3cheesehigh.lumina</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.3cheesehigh.lumina/3/d1098edb-b25d-4523-b3d0-8186526c2854/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>everHome</title>
+      <link>https://homey.app/a/cloud.everhome</link>
+      <description>Smart Home - For Smart Living</description>
+      <author>noreply@homey.app (everHome GmbH)</author>
+      <guid isPermaLink="false">https://homey.app/a/cloud.everhome</guid>
+      <enclosure url="https://apps.homeycdn.net/app/cloud.everhome/6/0965db64-8e26-4a19-97f7-c9844fcf0df7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
