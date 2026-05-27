@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 07:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:15:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Seoul Bus</title>
-      <link>https://homey.app/a/com.cykendo.seoulbus</link>
-      <description>Displays arriving buses and their arrival times for Seoul bus stops.</description>
-      <author>noreply@homey.app (Carl Jung)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.cykendo.seoulbus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.cykendo.seoulbus/2/d3a3f855-bffa-4a29-8891-74716320d52b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 May 2026 10:50:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>Seoul Subway</title>
-      <link>https://homey.app/a/com.yuji.subway</link>
-      <description>Check Seoul subway real-time arrival information.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.subway</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.subway/17/a56e3154-d603-48b9-88c2-62d2fc6af3a3/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 May 2026 09:01:16 +0200</pubDate>
-    </item>
     <item>
       <title>NEIS Meal</title>
       <link>https://homey.app/a/com.yuji.neis.meal</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/cloud.everhome</guid>
       <enclosure url="https://apps.homeycdn.net/app/cloud.everhome/6/0965db64-8e26-4a19-97f7-c9844fcf0df7/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>https://homey.app/a/nl.dypodex.profile-ac</link>
+      <description>Your air has never felt smarter</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.profile-ac</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.profile-ac/3/4d190c66-7709-44dc-811c-629f172b7030/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 11:15:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Freestyle Libre</title>
+      <link>https://homey.app/a/de.ftedv.librecgm</link>
+      <description>Meet the FreeStyle Libre 3 Plus sensor</description>
+      <author>noreply@homey.app (Florian Trück)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.ftedv.librecgm</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.librecgm/8/a984d61d-cb02-4941-8169-3c061e918e2b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 11:15:02 +0200</pubDate>
     </item>
   </channel>
 </rss>
