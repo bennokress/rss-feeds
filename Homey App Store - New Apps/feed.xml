@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 13:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:10:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Korea Exchange Rate</title>
-      <link>https://homey.app/a/com.yuji.exchange</link>
-      <description>Real-time exchange rate monitoring via Korea Eximbank API</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.exchange</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.exchange/3/494b2bbf-0e91-432e-b15e-aad3301e35e1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 May 2026 12:44:55 +0200</pubDate>
-    </item>
     <item>
       <title>Home Claw</title>
       <link>https://homey.app/a/com.hellohyuk.homeclaw</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.rivasmart</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rivasmart/3/514ce21c-aee6-450a-a095-d562d13af238/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 May 2026 15:18:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>myNexBlue</title>
+      <link>https://homey.app/a/com.nexblue</link>
+      <description>Smart charging control with my NexBlue App</description>
+      <author>noreply@homey.app (Nexblue AB)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.nexblue</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.nexblue/3/99e59aa9-e3c9-4afd-bc93-596f33300a99/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 May 2026 19:10:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
