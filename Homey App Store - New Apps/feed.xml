@@ -12,80 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 13:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 15:30:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Seoul Realtime</title>
-      <link>https://homey.app/a/com.yuji.seoul</link>
-      <description>Real-time data for 121 places in Seoul (population, weather, traffic, air quality).</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.seoul</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.seoul/1/f38351c2-c14b-4c40-a325-e6be8acfe7f0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rabbit R1</title>
-      <link>https://homey.app/a/com.dimapp.rabbitr1</link>
-      <description>Experience the power of Homey on your Rabbit R1</description>
-      <author>noreply@homey.app (Simone Di Maio)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dimapp.rabbitr1</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.rabbitr1/2/442aca69-ace2-478e-a0b5-e175eac36525/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Qolsys IQ</title>
-      <link>https://homey.app/a/net.alistairs.homey.qolsys</link>
-      <description>Integrates with Qolsys IQ Panel alarm systems via the IQ Remote protocol</description>
-      <author>noreply@homey.app (Alistair Galbraith)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.alistairs.homey.qolsys</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.alistairs.homey.qolsys/1/3409819d-0b81-4adb-84a9-2f2a0a12d2a7/assets/images/image_lg.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 12:36:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Relay.fm</title>
-      <link>https://homey.app/a/tv.waldoandfriends.relay</link>
-      <description>Keep up-to-date with Relay.fm podcasts</description>
-      <author>noreply@homey.app (Wouter Janson-Korhorn)</author>
-      <guid isPermaLink="false">https://homey.app/a/tv.waldoandfriends.relay</guid>
-      <enclosure url="https://apps.homeycdn.net/app/tv.waldoandfriends.relay/4/1f91e80c-f628-43a3-a5dc-ebcdfe34e9b9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 09:20:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>UNDOK internet radio</title>
-      <link>https://homey.app/a/com.timdebruin.undok</link>
-      <description>Listen smarter, automate your internet radio</description>
-      <author>noreply@homey.app (Tim de Bruin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.timdebruin.undok</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.timdebruin.undok/5/5279e13f-5bee-43e2-94be-7b71f748bebb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 09:20:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>hOn Haier Smart</title>
-      <link>https://homey.app/a/com.lucaamo.hon</link>
-      <description>Control Haier HWD washer dryers and HWO ovens with Homey.</description>
-      <author>noreply@homey.app (Luca Amoroso)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lucaamo.hon</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lucaamo.hon/5/f6591fca-6df6-47da-8dae-5c8f8f3175ba/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>MOVA &amp; Dreame Mower</title>
-      <link>https://homey.app/a/com.mova-dreame.mower</link>
-      <description>Bring your MOVA &amp; Dreame lawn mower into your smart home automations</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mova-dreame.mower</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mova-dreame.mower/16/210b1fe4-8b6e-4353-8073-00804823920d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>App Insights for Developers</title>
-      <link>https://homey.app/a/codes.lucasvdh.developer-tools</link>
-      <description>Track your Homey apps</description>
-      <author>noreply@homey.app (Lucas van der Have)</author>
-      <guid isPermaLink="false">https://homey.app/a/codes.lucasvdh.developer-tools</guid>
-      <enclosure url="https://apps.homeycdn.net/app/codes.lucasvdh.developer-tools/4/7c46979f-56d6-4509-8517-81941c48585e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
-    </item>
     <item>
       <title>Dutch Railways</title>
       <link>https://homey.app/a/codes.lucasvdh.ns</link>
@@ -463,6 +391,78 @@
       <guid isPermaLink="false">https://homey.app/a/com.teslemetry</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.teslemetry/16/d6223cfc-1218-4624-8453-cb5234082883/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 29 May 2026 15:13:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>De'Longhi Pinguino</title>
+      <link>https://homey.app/a/com.delonghi.pinguino-cloud</link>
+      <description>Portable cooling that follows your routines.</description>
+      <author>noreply@homey.app (JP D)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.delonghi.pinguino-cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.delonghi.pinguino-cloud/2/96abbc38-4db0-4d46-9d05-e963c0313981/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>Athan Times</title>
+      <link>https://homey.app/a/com.riyadh.athan</link>
+      <description>Never miss a prayer, wherever you are.</description>
+      <author>noreply@homey.app (Caesar NN)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.riyadh.athan</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.riyadh.athan/18/2c89501b-d944-4f8a-8e31-3f40296e79b9/assets/large.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>ANWB Energie</title>
+      <link>https://homey.app/a/nl.anwb.energie</link>
+      <description>Dynamic energy prices from ANWB Energie</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.anwb.energie</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.anwb.energie/7/1db9ed00-7156-47d0-b51e-8b7402436e4d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>Energie van Ons</title>
+      <link>https://homey.app/a/org.vanons.energie</link>
+      <description>Dynamic energy prices from Energie van Ons</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/org.vanons.energie</guid>
+      <enclosure url="https://apps.homeycdn.net/app/org.vanons.energie/9/5444227a-6748-4274-9c05-f4cf9b74c724/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>EnergyZero</title>
+      <link>https://homey.app/a/com.energyzero</link>
+      <description>Dynamic energy prices from EnergyZero</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.energyzero</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.energyzero/6/d276dbc3-b7ba-431e-a2cb-aa3decec049e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>GroeneStroomLokaal</title>
+      <link>https://homey.app/a/nl.groenestroomlokaal</link>
+      <description>Dynamic energy prices from GroeneStroomLokaal</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.groenestroomlokaal</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.groenestroomlokaal/6/5a599071-9019-4869-8ba0-dd02eda2614c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mijndomein Energie</title>
+      <link>https://homey.app/a/nl.mijndomein.energie</link>
+      <description>Dynamic energy prices from Mijndomein Energie</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.mijndomein.energie</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.mijndomein.energie/6/38df0828-ddff-484a-a93b-42e7b3e9de48/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>SamSam</title>
+      <link>https://homey.app/a/nu.samsam</link>
+      <description>Dynamic energy prices from SamSam</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/nu.samsam</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nu.samsam/7/a1c89b1e-348f-4763-a679-f8d5abc2586a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
     </item>
   </channel>
 </rss>
