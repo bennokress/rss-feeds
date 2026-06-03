@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 11:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 15:39:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sheets Log Dispatcher</title>
-      <link>https://homey.app/a/com.pascalnohl.sheetslogdispatcher</link>
-      <description>Queue structured Homey log entries and dispatch them one by one for Google Sheets flows.</description>
-      <author>noreply@homey.app (Pascal Nohl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.sheetslogdispatcher</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.sheetslogdispatcher/2/740d727d-5d05-4b37-b655-fd774cea363f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 May 2026 09:05:20 +0200</pubDate>
-    </item>
     <item>
       <title>Portainer</title>
       <link>https://homey.app/a/com.robnordkamp.portainer</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.watts.visionplus</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.watts.visionplus/6/5f9cb87b-a069-4b4a-8e6d-6e6d0d3a6fa2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 13:41:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Enphase Controller</title>
+      <link>https://homey.app/a/nl.creitive.enlighten</link>
+      <description>Locally monitor real-time solar production, view panel status, and control PV power generation with installer-level overrides.</description>
+      <author>noreply@homey.app (Bram Tops)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.creitive.enlighten</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.creitive.enlighten/3/88d5705e-0a6e-42cd-a316-1e97f2b2b431/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:39:05 +0200</pubDate>
     </item>
   </channel>
 </rss>
