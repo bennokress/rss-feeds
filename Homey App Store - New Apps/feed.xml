@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 15:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:43:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Dutch Railways</title>
-      <link>https://homey.app/a/codes.lucasvdh.ns</link>
-      <description>Dutch Railways (NS) departures, trip planning and disruptions</description>
-      <author>noreply@homey.app (Lucas van der Have)</author>
-      <guid isPermaLink="false">https://homey.app/a/codes.lucasvdh.ns</guid>
-      <enclosure url="https://apps.homeycdn.net/app/codes.lucasvdh.ns/3/cb210f9b-8167-4521-9ab2-1629222a0426/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 11:16:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>SABnzbd</title>
-      <link>https://homey.app/a/net.ladenius.sabnzbd</link>
-      <description>Manage usenet downloads with SABnzbd</description>
-      <author>noreply@homey.app (Jurjen Ladenius)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ladenius.sabnzbd</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.sabnzbd/2/9eff2ce8-9e5c-4113-ab36-0126bc31060e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 15:07:23 +0200</pubDate>
-    </item>
     <item>
       <title>BTicino Living Control</title>
       <link>https://homey.app/a/com.lucaamoroso.bticino-home-control</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nu.samsam</guid>
       <enclosure url="https://apps.homeycdn.net/app/nu.samsam/7/a1c89b1e-348f-4763-a679-f8d5abc2586a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>AirKorea</title>
+      <link>https://homey.app/a/com.yuji.air</link>
+      <description>Monitor outdoor air quality from AirKorea.</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.air</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.air/1/e3d17853-283a-4377-87da-eb3581c44491/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 11:43:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Birdie</title>
+      <link>https://homey.app/a/design.birdie</link>
+      <description>Get a Healthier Indoor Climate</description>
+      <author>noreply@homey.app (Birdie Scandinavia ApS.)</author>
+      <guid isPermaLink="false">https://homey.app/a/design.birdie</guid>
+      <enclosure url="https://apps.homeycdn.net/app/design.birdie/4/daaf7e97-5a1c-4be6-8fb1-7ec314217d8b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 11:43:06 +0200</pubDate>
     </item>
   </channel>
 </rss>
