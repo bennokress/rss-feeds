@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 09:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 11:41:15 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BTicino Living Control</title>
-      <link>https://homey.app/a/com.lucaamoroso.bticino-home-control</link>
-      <description>Bring BTicino Living Now lights, shutters, loads, scenarios and energy data into Homey.</description>
-      <author>noreply@homey.app (Luca Amoroso)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lucaamoroso.bticino-home-control</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lucaamoroso.bticino-home-control/5/27a2b168-63e7-47b3-93af-81d433f2feda/assets/store/app-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 17:07:20 +0200</pubDate>
-    </item>
     <item>
       <title>Sheets Log Dispatcher</title>
       <link>https://homey.app/a/com.pascalnohl.sheetslogdispatcher</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/design.birdie</guid>
       <enclosure url="https://apps.homeycdn.net/app/design.birdie/4/daaf7e97-5a1c-4be6-8fb1-7ec314217d8b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 11:43:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Watts Vision+</title>
+      <link>https://homey.app/a/com.watts.visionplus</link>
+      <description>Smart heating and cooling control with Watts Vision+.</description>
+      <author>noreply@homey.app (Watts Water Technologies)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.watts.visionplus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.watts.visionplus/6/5f9cb87b-a069-4b4a-8e6d-6e6d0d3a6fa2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 13:41:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
