@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:25:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Portainer</title>
-      <link>https://homey.app/a/com.robnordkamp.portainer</link>
-      <description>Docker container monitoring and control, right inside Homey.</description>
-      <author>noreply@homey.app (Rob Nordkamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.robnordkamp.portainer</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.robnordkamp.portainer/2/e24f69f9-8532-4833-9a66-4981c658da20/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 May 2026 11:03:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>Quatt Home Battery</title>
-      <link>https://homey.app/a/io.quatt.battery</link>
-      <description>Track, automate and maximise savings from your Quatt Home Battery.</description>
-      <author>noreply@homey.app (Sylvester Mussche)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.quatt.battery</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.quatt.battery/5/19773c3b-9455-42a1-808a-1a23af9b33eb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 14:50:44 +0200</pubDate>
-    </item>
     <item>
       <title>Intex PureSpa</title>
       <link>https://homey.app/a/com.intex.spa</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.creitive.enlighten</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.creitive.enlighten/3/88d5705e-0a6e-42cd-a316-1e97f2b2b431/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 03 Jun 2026 17:39:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Flow Gadgets</title>
+      <link>https://homey.app/a/com.pascalnohl.flowgadgets</link>
+      <description>Generic helper cards for Homey Advanced Flows.</description>
+      <author>noreply@homey.app (Pascal Nohl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.flowgadgets</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.flowgadgets/3/feb9386c-d6a7-41c9-b67d-4cc627dc6e54/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 11:24:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Greenheiss Solar</title>
+      <link>https://homey.app/a/com.greenheiss.solar</link>
+      <description>See your solar generation, household consumption and grid flow at a glance, and put your surplus to work.</description>
+      <author>noreply@homey.app (Fernando Lopez)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.greenheiss.solar</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.greenheiss.solar/4/8f4e2b05-d6bb-45e9-9299-0ecedc8ed9db/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 11:24:57 +0200</pubDate>
     </item>
   </channel>
 </rss>
