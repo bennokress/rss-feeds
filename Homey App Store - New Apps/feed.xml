@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:08:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Intex PureSpa</title>
-      <link>https://homey.app/a/com.intex.spa</link>
-      <description>Relax, your spa is connected</description>
-      <author>noreply@homey.app (M. Meijerink)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.intex.spa</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.intex.spa/7/e37808b3-e1d4-487d-869c-9fd67fe06a2a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 May 2026 17:05:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lotto 6/45</title>
-      <link>https://homey.app/a/com.yuji.lottery</link>
-      <description>Get Korean Lotto 6/45 winning numbers automatically every Saturday.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.lottery</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.lottery/3/e8f66321-d8e4-40db-ba24-46ababde9a14/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 13:24:35 +0200</pubDate>
-    </item>
     <item>
       <title>Fujitsu Airstage</title>
       <link>https://homey.app/a/com.genx.fujitsu_airstage</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.greenheiss.solar</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.greenheiss.solar/4/8f4e2b05-d6bb-45e9-9299-0ecedc8ed9db/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Jun 2026 11:24:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dockhand</title>
+      <link>https://homey.app/a/com.robnordkamp.dockhand</link>
+      <description>Docker container monitoring and control via Dockhand, right inside Homey.</description>
+      <author>noreply@homey.app (Rob Nordkamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.robnordkamp.dockhand</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.robnordkamp.dockhand/2/3fe1a9a6-025a-4a40-b481-729c95737604/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 13:08:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>FireAngel</title>
+      <link>https://homey.app/a/uk.co.fireangel</link>
+      <description>Smart solutions for safer homes.</description>
+      <author>noreply@homey.app (Abe Haverkamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/uk.co.fireangel</guid>
+      <enclosure url="https://apps.homeycdn.net/app/uk.co.fireangel/6/071113f3-c097-4280-b2b6-d7b846b4e360/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Jun 2026 13:08:16 +0200</pubDate>
     </item>
   </channel>
 </rss>
