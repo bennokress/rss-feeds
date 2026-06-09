@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:14:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:07:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Flow Converter</title>
-      <link>https://homey.app/a/app.l4m.flowconverter</link>
-      <description>Fixes broken flow references after re-pairing or replacing Homey devices.</description>
-      <author>noreply@homey.app (Alejandro Carido-Marcussen)</author>
-      <guid isPermaLink="false">https://homey.app/a/app.l4m.flowconverter</guid>
-      <enclosure url="https://apps.homeycdn.net/app/app.l4m.flowconverter/3/84f63e15-3d80-45c8-a790-f96373e43b47/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 11:16:16 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fast.com Speedtest</title>
-      <link>https://homey.app/a/com.fast</link>
-      <description>Run internet speed tests using Fast.com and use the results in your flows.</description>
-      <author>noreply@homey.app (Martijn Poppen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.fast</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.fast/5/4f4eb840-0f91-4ef4-a9ee-2636631633ff/assets/images/large.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 11:16:16 +0200</pubDate>
-    </item>
     <item>
       <title>One2Track</title>
       <link>https://homey.app/a/com.one2track.app</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.cuchen</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.cuchen/10/851bec80-9d5e-4fb5-b958-d3545c6ab716/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 11:14:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>HT Bridge</title>
+      <link>https://homey.app/a/com.ht.dlab</link>
+      <description>Complete Your Smart Life with HT</description>
+      <author>noreply@homey.app (HT Access)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ht.dlab</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ht.dlab/19/5010c9d0-0217-4b99-9863-0f71b3194efc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 13:07:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cooldown Manager</title>
+      <link>https://homey.app/a/us.jamisonbennett.apps.cooldown-manager</link>
+      <description>Keep Flows from triggering too often with reusable cooldowns, multi-run limits, block-count alerts, and manual override cards.</description>
+      <author>noreply@homey.app (Jamison Bennett)</author>
+      <guid isPermaLink="false">https://homey.app/a/us.jamisonbennett.apps.cooldown-manager</guid>
+      <enclosure url="https://apps.homeycdn.net/app/us.jamisonbennett.apps.cooldown-manager/1/a6aa3965-5771-47aa-b592-16e253e71815/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 13:07:19 +0200</pubDate>
     </item>
   </channel>
 </rss>
