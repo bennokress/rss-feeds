@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:06:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>One2Track</title>
-      <link>https://homey.app/a/com.one2track.app</link>
-      <description>Track your One2Track watch in Homey Pro with live location, messages and safety alerts.</description>
-      <author>noreply@homey.app (MR Luto)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.one2track.app</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.one2track.app/10/ebd58275-b595-466a-a2d0-754f08c7a6d7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 13:07:57 +0200</pubDate>
-    </item>
     <item>
       <title>Tuya Local</title>
       <link>https://homey.app/a/com.tuyalocal</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/us.jamisonbennett.apps.cooldown-manager</guid>
       <enclosure url="https://apps.homeycdn.net/app/us.jamisonbennett.apps.cooldown-manager/1/a6aa3965-5771-47aa-b592-16e253e71815/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 13:07:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>Tavily Search</title>
+      <link>https://homey.app/a/com.yuji.tavily</link>
+      <description>Tavily journeys across the web to bring back the answers you need.</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.tavily</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.tavily/2/b88e8df1-c2d5-4e39-a50e-226395a3e1e5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 15:06:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
