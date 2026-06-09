@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 15:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:14:35 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Drayton Wiser</title>
-      <link>https://homey.app/a/dev.5to.wiser</link>
-      <description>Local control for your Drayton Wiser heating.</description>
-      <author>noreply@homey.app (Ben Lockey)</author>
-      <guid isPermaLink="false">https://homey.app/a/dev.5to.wiser</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dev.5to.wiser/1/93bd13ac-308a-40d9-8065-ad73b35fc2ce/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 17:09:24 +0200</pubDate>
-    </item>
     <item>
       <title>Flow Converter</title>
       <link>https://homey.app/a/app.l4m.flowconverter</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/community.mcp-ai-bridge</guid>
       <enclosure url="https://apps.homeycdn.net/app/community.mcp-ai-bridge/6/305f00df-b9cc-488e-8364-6f2a140ce909/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Jun 2026 17:12:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cuchen</title>
+      <link>https://homey.app/a/com.cuchen</link>
+      <description>Smarter living with Cuchen food disposers</description>
+      <author>noreply@homey.app (co.kr cuchen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.cuchen</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.cuchen/10/851bec80-9d5e-4fb5-b958-d3545c6ab716/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 11:14:34 +0200</pubDate>
     </item>
   </channel>
 </rss>
