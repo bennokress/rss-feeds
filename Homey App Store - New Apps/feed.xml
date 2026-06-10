@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 13:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:36:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tuya Local</title>
-      <link>https://homey.app/a/com.tuyalocal</link>
-      <description>Control Tuya-based devices over local LAN</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.tuyalocal</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.tuyalocal/27/b95dcc3b-90ff-4006-995e-5e497209d14d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 13:07:57 +0200</pubDate>
-    </item>
     <item>
       <title>Komga</title>
       <link>https://homey.app/a/net.ladenius.komga</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.tavily</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.tavily/2/b88e8df1-c2d5-4e39-a50e-226395a3e1e5/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 15:06:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Keypad Code Reader</title>
+      <link>https://homey.app/a/com.frient.keypad.coderead</link>
+      <description>Reads PIN codes entered on a Frient or Develco Intelligent Keypad</description>
+      <author>noreply@homey.app (Vincent van Dam)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.frient.keypad.coderead</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.frient.keypad.coderead/6/6d4830c2-b595-4e54-8dd4-71581960bc2f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jun 2026 09:36:31 +0200</pubDate>
     </item>
   </channel>
 </rss>
