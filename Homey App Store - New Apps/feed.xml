@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 09:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:19:35 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>DREO</title>
-      <link>https://homey.app/a/com.dreo.connect</link>
-      <description>Seamless and intuitive smart living.</description>
-      <author>noreply@homey.app (Dreo Corp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dreo.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dreo.connect/1/a53149df-c401-4ea2-863a-01e212e5773c/assets/images/app_banner_500x350.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 14:59:44 +0200</pubDate>
-    </item>
     <item>
       <title>Willow</title>
       <link>https://homey.app/a/com.willow.app</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.conditionalimagewidget</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.conditionalimagewidget/3/9c92fdd9-f4a1-48c1-9797-acd0f41ff0d0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Jun 2026 11:20:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Garage Gateway</title>
+      <link>https://homey.app/a/com.fredhill.garage-gateway</link>
+      <description>Control iSmartGate and GogoGate2 garage doors locally — no cloud required.</description>
+      <author>noreply@homey.app (Fred Hill)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.fredhill.garage-gateway</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.fredhill.garage-gateway/3/090eb158-3ae1-4525-8a02-6ae9240c7054/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jun 2026 13:19:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
