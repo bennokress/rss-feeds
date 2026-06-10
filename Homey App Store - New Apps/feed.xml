@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 07:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:20:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Komga</title>
-      <link>https://homey.app/a/net.ladenius.komga</link>
-      <description>Automate your digital comic and manga collection.</description>
-      <author>noreply@homey.app (Jurjen Ladenius)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ladenius.komga</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.komga/2/9f2aac93-639c-4e7a-89db-b9683dff5ea0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 11:14:11 +0200</pubDate>
-    </item>
     <item>
       <title>DREO</title>
       <link>https://homey.app/a/com.dreo.connect</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.frient.keypad.coderead</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.frient.keypad.coderead/6/6d4830c2-b595-4e54-8dd4-71581960bc2f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Jun 2026 09:36:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Conditional Image Widget</title>
+      <link>https://homey.app/a/com.conditionalimagewidget</link>
+      <description>Dashboard widget that shows a different local image based on a boolean Homey sensor.</description>
+      <author>noreply@homey.app (Olivier Friedrich)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.conditionalimagewidget</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.conditionalimagewidget/3/9c92fdd9-f4a1-48c1-9797-acd0f41ff0d0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Jun 2026 11:20:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
