@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:30:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Willow</title>
-      <link>https://homey.app/a/com.willow.app</link>
-      <description>Take the guesswork out of plant care</description>
-      <author>noreply@homey.app (Plant With Willow)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.willow.app</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.willow.app/13/1b345e50-298e-40cd-8da9-006905df3153/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 May 2026 14:59:44 +0200</pubDate>
-    </item>
     <item>
       <title>Korean Parking Info</title>
       <link>https://homey.app/a/com.pthy.kparking</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.fredhill.garage-gateway</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.fredhill.garage-gateway/3/090eb158-3ae1-4525-8a02-6ae9240c7054/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Jun 2026 13:19:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smart EVSE via MQTT</title>
+      <link>https://homey.app/a/com.sortedbits.smartevse</link>
+      <description>Full support for Smart EVSE via MQTT</description>
+      <author>noreply@homey.app (Wim Haanstra)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sortedbits.smartevse</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sortedbits.smartevse/5/bbc4142e-f053-4194-b8dc-86711786cd94/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 11:30:32 +0200</pubDate>
     </item>
   </channel>
 </rss>
