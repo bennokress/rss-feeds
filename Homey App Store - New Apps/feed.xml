@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 09:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:10:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Korean Parking Info</title>
-      <link>https://homey.app/a/com.pthy.kparking</link>
-      <description>Find nearby parking lots, compare capacity, and track estimated parking cost with elapsed time.</description>
-      <author>noreply@homey.app (Patrick Yeon)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pthy.kparking</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pthy.kparking/5/5150ccce-b7de-426e-8821-5f8008b3f3bf/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 May 2026 15:15:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>JetKVM Monitor</title>
-      <link>https://homey.app/a/com.guray.jetkvm</link>
-      <description>Monitor JetKVM devices with comprehensive metrics</description>
-      <author>noreply@homey.app (Guray Kircuvaloglu)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.guray.jetkvm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.guray.jetkvm/1/835b14fa-4152-4215-a9e1-63822d29f12a/assets/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
     <item>
       <title>Voltie</title>
       <link>https://homey.app/a/eu.voltie.charger</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.sortedbits.smartevse</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.sortedbits.smartevse/5/bbc4142e-f053-4194-b8dc-86711786cd94/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Jun 2026 11:30:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Frient Keypad Code Reader</title>
+      <link>https://homey.app/a/nl.webbuilds.frient.keypad</link>
+      <description>Reads PIN codes entered on a Frient/Develco KEPZB-110 Intelligent Keypad</description>
+      <author>noreply@homey.app (Dennis Smink)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.webbuilds.frient.keypad</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.webbuilds.frient.keypad/2/1b5689b0-72de-4548-bb57-2ec3370f050a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jun 2026 10:10:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Habity</title>
+      <link>https://homey.app/a/io.olae.habity</link>
+      <description>Habity - Less scrolling, more dreaming. A bedside clock designed to stop late-night scrolling.</description>
+      <author>noreply@homey.app (Ola Eriksson)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.olae.habity</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.olae.habity/4/72afb1ee-bd56-494f-bdb2-0ea1813c6250/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jun 2026 10:10:14 +0200</pubDate>
     </item>
   </channel>
 </rss>
