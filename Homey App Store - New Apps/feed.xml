@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:07:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Voltie</title>
-      <link>https://homey.app/a/eu.voltie.charger</link>
-      <description>Smarter charging. Lower costs. Greener energy.</description>
-      <author>noreply@homey.app (Voltie Kft.)</author>
-      <guid isPermaLink="false">https://homey.app/a/eu.voltie.charger</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eu.voltie.charger/1/8eccb5b1-4fec-4ff5-ae2b-a5c53f7a730c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
     <item>
       <title>CoinOne Crypto</title>
       <link>https://homey.app/a/com.yuji.coin</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/io.olae.habity</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.olae.habity/4/72afb1ee-bd56-494f-bdb2-0ea1813c6250/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Jun 2026 10:10:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Korean Domestic Flight Monitor</title>
+      <link>https://homey.app/a/com.yuji.airroute</link>
+      <description>Connect the next takeoff signal from Korea's domestic sky routes to Homey automations.</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.airroute</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.airroute/4/934079e8-1f66-423d-acdf-feb154f99eb7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 10:07:32 +0200</pubDate>
     </item>
   </channel>
 </rss>
