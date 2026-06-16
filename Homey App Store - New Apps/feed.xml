@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:49:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>CoinOne Crypto</title>
-      <link>https://homey.app/a/com.yuji.coin</link>
-      <description>Track cryptocurrency market prices from CoinOne.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.coin</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.coin/1/030e50fb-bbd5-49df-994f-f4e93e8a31b3/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>AirKing</title>
-      <link>https://homey.app/a/nl.air-king</link>
-      <description>Serious about air</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.air-king</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.air-king/2/ad0c2537-d08e-45ee-9800-ac9361ea326e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>Indygo Pool</title>
-      <link>https://homey.app/a/com.myindygo.pool</link>
-      <description>Monitor and control your Indygo pool from Homey.</description>
-      <author>noreply@homey.app (Sander De Langhe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.myindygo.pool</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.myindygo.pool/1/c7ce7878-18f0-47a1-822f-d85fb0dac943/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tap Electric</title>
-      <link>https://homey.app/a/com.kaoh.tapelectric</link>
-      <description>Authorize and unauthorize charging sessions on your Tap Electric chargers from Homey flows.</description>
-      <author>noreply@homey.app (Vincent Boer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kaoh.tapelectric</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.tapelectric/5/564fd76e-d728-4ab9-84a5-fbaf7abdba76/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 11:17:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>Is It BBQ Weather?</title>
-      <link>https://homey.app/a/nl.bbqaan.app</link>
-      <description>Never guess your BBQ weather again.</description>
-      <author>noreply@homey.app (Paul Vermeulen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.bbqaan.app</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.bbqaan.app/1/748e0efe-57ae-438c-8aab-15fd9871ba38/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 15:07:23 +0200</pubDate>
-    </item>
     <item>
       <title>Mode Switch</title>
       <link>https://homey.app/a/com.modeswitch</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.airroute</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.airroute/4/934079e8-1f66-423d-acdf-feb154f99eb7/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Jun 2026 10:07:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ajax Security System</title>
+      <link>https://homey.app/a/com.ajax.security</link>
+      <description>Make Ajax alarms part of your smart home</description>
+      <author>noreply@homey.app (Mike Taselaar)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ajax.security</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ajax.security/88/0021555c-c235-439a-8b71-dcfeef909c30/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
+    </item>
+    <item>
+      <title>OCPP Server</title>
+      <link>https://homey.app/a/com.dnetlabs.ocpp</link>
+      <description>Run any OCPP 1.6 EV charger from Homey.</description>
+      <author>noreply@homey.app (DnetLabs BV)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dnetlabs.ocpp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dnetlabs.ocpp/4/6540f7e5-79c5-4f07-a891-cd0f2c70cc1f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
+    </item>
+    <item>
+      <title>TerraMow</title>
+      <link>https://homey.app/a/at.dsnet.terramow</link>
+      <description>The Innovation Behind Effortless Mowing.</description>
+      <author>noreply@homey.app (David Schoefberger)</author>
+      <guid isPermaLink="false">https://homey.app/a/at.dsnet.terramow</guid>
+      <enclosure url="https://apps.homeycdn.net/app/at.dsnet.terramow/6/485a1957-b43f-4287-89b2-e6af9d1d9396/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
+    </item>
+    <item>
+      <title>AI Flow Builder</title>
+      <link>https://homey.app/a/nl.byhim.aiflowbuilder</link>
+      <description>Describe an automation in plain language. AI builds the Advanced Flow for you.</description>
+      <author>noreply@homey.app (Mark Keulen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.byhim.aiflowbuilder</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.byhim.aiflowbuilder/2/62663d23-62fe-4d37-9396-e5677ef40e0f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
+    </item>
+    <item>
+      <title>myAudi</title>
+      <link>https://homey.app/a/com.audi.etron</link>
+      <description>Smart Audi, smarter home</description>
+      <author>noreply@homey.app (Andi Wirz)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.audi.etron</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.audi.etron/54/309e4abc-d134-4c23-8524-784ca5608a93/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
     </item>
   </channel>
 </rss>
