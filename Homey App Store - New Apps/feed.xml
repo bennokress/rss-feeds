@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 07:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:49:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>M-Spa</title>
-      <link>https://homey.app/a/com.mspa.hot-tub</link>
-      <description>Warm water waiting, bubbles on demand</description>
-      <author>noreply@homey.app (Magnus Ternström)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mspa.hot-tub</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mspa.hot-tub/4/1e6f8dd8-336a-4910-90af-394eaf47b8b9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 17:07:00 +0200</pubDate>
-    </item>
     <item>
       <title>Enki / Lexman / Adeo</title>
       <link>https://homey.app/a/community.adeo-zigbee</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.kaoh.smartems</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kaoh.smartems/6/8ee1e173-e817-4e59-bad8-864903410ae9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Jun 2026 09:58:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Axle VPP</title>
+      <link>https://homey.app/a/energy.axle.vpp</link>
+      <description>Earn from your home battery by automating responses to Axle Energy grid events.</description>
+      <author>noreply@homey.app (Jonathan Draper)</author>
+      <guid isPermaLink="false">https://homey.app/a/energy.axle.vpp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/energy.axle.vpp/11/27381876-3406-476d-b077-a4d2002fbf54/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Jun 2026 11:49:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
