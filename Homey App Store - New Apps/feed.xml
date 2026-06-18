@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:16:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ThermoPro</title>
-      <link>https://homey.app/a/de.ftedv.thermopro</link>
-      <description>Real-Time Temperature &amp; Humidity Monitoring</description>
-      <author>noreply@homey.app (Florian Trück)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.ftedv.thermopro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.thermopro/19/d9d932a3-5cf7-42aa-946a-5a4dfa08f6b9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
-    </item>
     <item>
       <title>Vevor Weather Station</title>
       <link>https://homey.app/a/de.vevor.weatherstation</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.hyundaiht.cloud</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.hyundaiht.cloud/5/173a6ed7-60a6-42a5-8c47-e02d304fb149/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 18 Jun 2026 09:48:39 +0200</pubDate>
+    </item>
+    <item>
+      <title>Immich</title>
+      <link>https://homey.app/a/net.ladenius.immich</link>
+      <description>React to changes in and/or control Immich</description>
+      <author>noreply@homey.app (Jurjen Ladenius)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.ladenius.immich</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.immich/4/f16a7e83-5e50-49d0-81e6-13e11721e1da/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 15:16:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
