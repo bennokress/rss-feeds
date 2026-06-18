@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 09:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:48:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Enki / Lexman / Adeo</title>
-      <link>https://homey.app/a/community.adeo-zigbee</link>
-      <description>Affordable smart security for every home.</description>
-      <author>noreply@homey.app (anon 142384908290)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.adeo-zigbee</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.adeo-zigbee/5/4845c704-6386-4c2d-a33f-e85cdcf53d46/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 17:07:00 +0200</pubDate>
-    </item>
     <item>
       <title>ThermoPro</title>
       <link>https://homey.app/a/de.ftedv.thermopro</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/energy.axle.vpp</guid>
       <enclosure url="https://apps.homeycdn.net/app/energy.axle.vpp/11/27381876-3406-476d-b077-a4d2002fbf54/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Jun 2026 11:49:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>HT Cloud</title>
+      <link>https://homey.app/a/com.hyundaiht.cloud</link>
+      <description>Complete Your Smart Life with HT</description>
+      <author>noreply@homey.app (hyundai HT)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hyundaiht.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hyundaiht.cloud/5/173a6ed7-60a6-42a5-8c47-e02d304fb149/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 09:48:39 +0200</pubDate>
     </item>
   </channel>
 </rss>
