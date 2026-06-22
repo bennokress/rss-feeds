@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:04:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Vevor Weather Station</title>
-      <link>https://homey.app/a/de.vevor.weatherstation</link>
-      <description>All your Vevor YT60307 weather station data in Homey.</description>
-      <author>noreply@homey.app (René Hanebuth)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.vevor.weatherstation</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.vevor.weatherstation/3/9eff3048-2385-4c78-90d1-f99c79646c46/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lumina</title>
-      <link>https://homey.app/a/com.3cheesehigh.lumina</link>
-      <description>Cross-app sun-based color temperature and brightness control for lights paired through other Homey apps.</description>
-      <author>noreply@homey.app (Clemens Bott)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.3cheesehigh.lumina</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.3cheesehigh.lumina/3/d1098edb-b25d-4523-b3d0-8186526c2854/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
-    </item>
     <item>
       <title>everHome</title>
       <link>https://homey.app/a/cloud.everhome</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/net.ladenius.immich</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.ladenius.immich/4/f16a7e83-5e50-49d0-81e6-13e11721e1da/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 18 Jun 2026 15:16:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>free@home Local</title>
+      <link>https://homey.app/a/com.wvell.freeathome</link>
+      <description>Switch and dim your free@home lights locally from Homey.</description>
+      <author>noreply@homey.app (Wytse Vellema)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wvell.freeathome</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wvell.freeathome/1/1af3306b-ec6e-4565-8f0c-989556ae3c13/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 14:04:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>FireBoard</title>
+      <link>https://homey.app/a/com.wolters.fireboard</link>
+      <description>The Complete Package.</description>
+      <author>noreply@homey.app (H. Wolters)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wolters.fireboard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wolters.fireboard/3/b46ee259-e1fb-40d3-9b87-2a2caffa15dc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 14:04:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
