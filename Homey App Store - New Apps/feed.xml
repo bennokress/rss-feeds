@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:42:55 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>everHome</title>
-      <link>https://homey.app/a/cloud.everhome</link>
-      <description>Smart Home - For Smart Living</description>
-      <author>noreply@homey.app (everHome GmbH)</author>
-      <guid isPermaLink="false">https://homey.app/a/cloud.everhome</guid>
-      <enclosure url="https://apps.homeycdn.net/app/cloud.everhome/6/0965db64-8e26-4a19-97f7-c9844fcf0df7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 09:33:36 +0200</pubDate>
-    </item>
     <item>
       <title>Profile</title>
       <link>https://homey.app/a/nl.dypodex.profile-ac</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.wolters.fireboard</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.wolters.fireboard/3/b46ee259-e1fb-40d3-9b87-2a2caffa15dc/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Jun 2026 14:04:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vestaboard</title>
+      <link>https://homey.app/a/com.vestaboard</link>
+      <description>Inspire from anywhere</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.vestaboard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.vestaboard/1/5d220863-14d6-4ed8-bec7-adbdf102c554/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:42:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
