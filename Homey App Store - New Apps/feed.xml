@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:51:20 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Freestyle Libre</title>
-      <link>https://homey.app/a/de.ftedv.librecgm</link>
-      <description>Meet the FreeStyle Libre 3 Plus sensor</description>
-      <author>noreply@homey.app (Florian Trück)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.ftedv.librecgm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.librecgm/8/a984d61d-cb02-4941-8169-3c061e918e2b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 11:15:02 +0200</pubDate>
-    </item>
     <item>
       <title>RiVa Smart</title>
       <link>https://homey.app/a/com.rivasmart</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.ultimate.ems</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ultimate.ems/12/0ede1af0-af72-432a-ac90-28295903d655/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Jun 2026 11:12:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>Waterguard</title>
+      <link>https://homey.app/a/org.barelysufficient.waterguard</link>
+      <description>Protects against water damage</description>
+      <author>noreply@homey.app (Ole Markus With)</author>
+      <guid isPermaLink="false">https://homey.app/a/org.barelysufficient.waterguard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/org.barelysufficient.waterguard/2/8d949fcf-4061-45cc-8eff-bb6a9bd4a02b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 14:51:19 +0200</pubDate>
     </item>
   </channel>
 </rss>
