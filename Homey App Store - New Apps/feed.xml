@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:03:35 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>RiVa Smart</title>
-      <link>https://homey.app/a/com.rivasmart</link>
-      <description>Every Indian home will be a Smart Home.</description>
-      <author>noreply@homey.app (RiVa Smart)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rivasmart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rivasmart/3/514ce21c-aee6-450a-a095-d562d13af238/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 15:18:23 +0200</pubDate>
-    </item>
     <item>
       <title>myNexBlue</title>
       <link>https://homey.app/a/com.nexblue</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/org.barelysufficient.waterguard</guid>
       <enclosure url="https://apps.homeycdn.net/app/org.barelysufficient.waterguard/2/8d949fcf-4061-45cc-8eff-bb6a9bd4a02b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Jun 2026 14:51:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>Eight Sleep</title>
+      <link>https://homey.app/a/com.eightsleep</link>
+      <description>Dial in the perfect temperature for every night's sleep.</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.eightsleep</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.eightsleep/4/156ae0e8-b935-4d6d-a10f-7e9eb91ab6f5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 17:03:34 +0200</pubDate>
     </item>
   </channel>
 </rss>
