@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 15:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:19:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>myNexBlue</title>
-      <link>https://homey.app/a/com.nexblue</link>
-      <description>Smart charging control with my NexBlue App</description>
-      <author>noreply@homey.app (Nexblue AB)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.nexblue</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.nexblue/3/99e59aa9-e3c9-4afd-bc93-596f33300a99/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 19:10:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>SoundTouch Bridge</title>
-      <link>https://homey.app/a/com.codingmammoth.soundtouchbridge</link>
-      <description>Local preset and stream bridge for Bose SoundTouch speakers.</description>
-      <author>noreply@homey.app (Jelle De Laender)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.codingmammoth.soundtouchbridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.codingmammoth.soundtouchbridge/8/c8f15ab8-bc23-4002-890d-e31ae6ffb147/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 13:10:36 +0200</pubDate>
-    </item>
     <item>
       <title>OpenUV</title>
       <link>https://homey.app/a/com.yuji.uv</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.eightsleep</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.eightsleep/4/156ae0e8-b935-4d6d-a10f-7e9eb91ab6f5/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Jun 2026 17:03:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Salus Controls</title>
+      <link>https://homey.app/a/uk.co.zarb.salusit600</link>
+      <description>Comfort in every room</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.salusit600</guid>
+      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.salusit600/5/f21d5e1c-b461-4d87-966a-b074fa8b50ef/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 09:18:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Octopus Energy</title>
+      <link>https://homey.app/a/uk.co.zarb.octopusenergy</link>
+      <description>Power your home when energy is cheapest and greenest.</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.octopusenergy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.octopusenergy/7/e3cc4c77-ff13-4f62-9191-4aa6f41b8c36/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 09:18:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
