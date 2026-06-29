@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 07:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:05:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OpenUV</title>
-      <link>https://homey.app/a/com.yuji.uv</link>
-      <description>Adds OpenUV UV index readings by location.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.uv</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.uv/4/46d523be-93a0-44fa-bd06-bc1fa87f4920/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 13:10:36 +0200</pubDate>
-    </item>
     <item>
       <title>Teslemetry</title>
       <link>https://homey.app/a/com.teslemetry</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.octopusenergy</guid>
       <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.octopusenergy/7/e3cc4c77-ff13-4f62-9191-4aa6f41b8c36/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Jun 2026 09:18:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>Go-e</title>
+      <link>https://homey.app/a/com.go-e</link>
+      <description>Simply Charge Smart.</description>
+      <author>noreply@homey.app (Complus Ky)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.go-e</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.go-e/18/46c9925c-0e87-4410-a567-1f1dec539308/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 19:05:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
