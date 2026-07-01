@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 15:03:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Athan Times</title>
-      <link>https://homey.app/a/com.riyadh.athan</link>
-      <description>Never miss a prayer, wherever you are.</description>
-      <author>noreply@homey.app (Caesar NN)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.riyadh.athan</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.riyadh.athan/18/2c89501b-d944-4f8a-8e31-3f40296e79b9/assets/large.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
     <item>
       <title>ANWB Energie</title>
       <link>https://homey.app/a/nl.anwb.energie</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.vwgroup.vehicledata</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.vwgroup.vehicledata/20/a10b8087-743e-4f22-89e0-5e7fd5c35466/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Jul 2026 15:02:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hue Doorbell</title>
+      <link>https://homey.app/a/ai.g3n3s1s.huedoorbell</link>
+      <description>Never miss a visitor at your Philips Hue video doorbell.</description>
+      <author>noreply@homey.app (Tim Riegman)</author>
+      <guid isPermaLink="false">https://homey.app/a/ai.g3n3s1s.huedoorbell</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ai.g3n3s1s.huedoorbell/5/82e2f918-a86a-44e8-a518-cd7b75821de0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 17:03:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
