@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 14:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:49:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Energie van Ons</title>
-      <link>https://homey.app/a/org.vanons.energie</link>
-      <description>Dynamic energy prices from Energie van Ons</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/org.vanons.energie</guid>
-      <enclosure url="https://apps.homeycdn.net/app/org.vanons.energie/9/5444227a-6748-4274-9c05-f4cf9b74c724/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
     <item>
       <title>EnergyZero</title>
       <link>https://homey.app/a/com.energyzero</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/net.tornbloms.mammotion</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.tornbloms.mammotion/32/b2d27bd5-f313-4227-84ed-7bbef3603a86/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 16:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wear OS Controller</title>
+      <link>https://homey.app/a/com.kaoh.wearoscontroller</link>
+      <description>Your smart home, right on your wrist.</description>
+      <author>noreply@homey.app (Vincent Boer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kaoh.wearoscontroller</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.wearoscontroller/1/880b3db9-74d8-4d4b-bf65-1bb80359ffeb/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 19:49:12 +0200</pubDate>
     </item>
   </channel>
 </rss>
