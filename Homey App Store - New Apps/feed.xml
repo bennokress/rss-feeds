@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 15:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:03:01 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ANWB Energie</title>
-      <link>https://homey.app/a/nl.anwb.energie</link>
-      <description>Dynamic energy prices from ANWB Energie</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.anwb.energie</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.anwb.energie/7/1db9ed00-7156-47d0-b51e-8b7402436e4d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
     <item>
       <title>Energie van Ons</title>
       <link>https://homey.app/a/org.vanons.energie</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/ai.g3n3s1s.huedoorbell</guid>
       <enclosure url="https://apps.homeycdn.net/app/ai.g3n3s1s.huedoorbell/5/82e2f918-a86a-44e8-a518-cd7b75821de0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Jul 2026 17:03:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mammotion</title>
+      <link>https://homey.app/a/net.tornbloms.mammotion</link>
+      <description>Your lawn, perfectly cut, without lifting a finger</description>
+      <author>noreply@homey.app (Mathias Törnblom)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.tornbloms.mammotion</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.tornbloms.mammotion/32/b2d27bd5-f313-4227-84ed-7bbef3603a86/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
