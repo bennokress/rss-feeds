@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:51:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>EnergyZero</title>
-      <link>https://homey.app/a/com.energyzero</link>
-      <description>Dynamic energy prices from EnergyZero</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.energyzero</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.energyzero/6/d276dbc3-b7ba-431e-a2cb-aa3decec049e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
     <item>
       <title>GroeneStroomLokaal</title>
       <link>https://homey.app/a/nl.groenestroomlokaal</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.kaoh.wearoscontroller</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kaoh.wearoscontroller/1/880b3db9-74d8-4d4b-bf65-1bb80359ffeb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 19:49:12 +0200</pubDate>
+    </item>
+    <item>
+      <title>McCallister Guard</title>
+      <link>https://homey.app/a/com.ekdahl.mccallister-guard</link>
+      <description>Home Alone inspired smart security: psychological deterrence for intruders.</description>
+      <author>noreply@homey.app (Thomas Ekdahl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ekdahl.mccallister-guard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ekdahl.mccallister-guard/4/ab93e949-6fbb-431f-aad1-76fd42f260a0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 18:51:45 +0200</pubDate>
     </item>
   </channel>
 </rss>
