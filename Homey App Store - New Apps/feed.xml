@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 07:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:57:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SamSam</title>
-      <link>https://homey.app/a/nu.samsam</link>
-      <description>Dynamic energy prices from SamSam</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/nu.samsam</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nu.samsam/7/a1c89b1e-348f-4763-a679-f8d5abc2586a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
-    <item>
-      <title>AirKorea</title>
-      <link>https://homey.app/a/com.yuji.air</link>
-      <description>Monitor outdoor air quality from AirKorea.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.air</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.air/1/e3d17853-283a-4377-87da-eb3581c44491/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 11:43:06 +0200</pubDate>
-    </item>
-    <item>
-      <title>Birdie</title>
-      <link>https://homey.app/a/design.birdie</link>
-      <description>Get a Healthier Indoor Climate</description>
-      <author>noreply@homey.app (Birdie Scandinavia ApS.)</author>
-      <guid isPermaLink="false">https://homey.app/a/design.birdie</guid>
-      <enclosure url="https://apps.homeycdn.net/app/design.birdie/4/daaf7e97-5a1c-4be6-8fb1-7ec314217d8b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 11:43:06 +0200</pubDate>
-    </item>
-    <item>
-      <title>Watts Vision+</title>
-      <link>https://homey.app/a/com.watts.visionplus</link>
-      <description>Smart heating and cooling control with Watts Vision+.</description>
-      <author>noreply@homey.app (Watts Water Technologies)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.watts.visionplus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.watts.visionplus/6/5f9cb87b-a069-4b4a-8e6d-6e6d0d3a6fa2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 13:41:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Enphase Controller</title>
-      <link>https://homey.app/a/nl.creitive.enlighten</link>
-      <description>Locally monitor real-time solar production, view panel status, and control PV power generation with installer-level overrides.</description>
-      <author>noreply@homey.app (Bram Tops)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.creitive.enlighten</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.creitive.enlighten/3/88d5705e-0a6e-42cd-a316-1e97f2b2b431/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 17:39:05 +0200</pubDate>
-    </item>
     <item>
       <title>Flow Gadgets</title>
       <link>https://homey.app/a/com.pascalnohl.flowgadgets</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.asairhome</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.asairhome/4/8e573f32-b43c-4809-a78c-b3c8db975699/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 09:39:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>AquaCell</title>
+      <link>https://homey.app/a/com.aquacell.waterontharder</link>
+      <description>Monitor your AquaCell water softener</description>
+      <author>noreply@homey.app (Sander Jacobsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aquacell.waterontharder</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aquacell.waterontharder/3/e77a0bcf-95c6-4961-b2ac-2553edd899db/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smartstuff</title>
+      <link>https://homey.app/a/nl.smartstuff</link>
+      <description>Take charge of your own energy at home</description>
+      <author>noreply@homey.app (Martijn Hendriks)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.smartstuff</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.smartstuff/9/ae82940f-697b-4586-adc4-12cac9c557aa/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smart</title>
+      <link>https://homey.app/a/com.smart.hashtag</link>
+      <description>Bring your Smart #1, #3 and #5 into your home</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.smart.hashtag</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.smart.hashtag/2/51c09026-5581-4797-89c3-e16cb078c094/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>iDotMatrix</title>
+      <link>https://homey.app/a/com.idotmatrix</link>
+      <description>Your pixel displays, animated with Homey.</description>
+      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.idotmatrix</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.idotmatrix/13/49fead75-d64c-433c-a214-54d1e634065d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Google Photos Slideshow</title>
+      <link>https://homey.app/a/com.seyedjafari.albumslider</link>
+      <description>Slideshow any public Google Photos album on your dashboard — just paste a shared link.</description>
+      <author>noreply@homey.app (Seyed Jafari)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.seyedjafari.albumslider</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.seyedjafari.albumslider/2/32529eae-323f-4f66-ac2d-1a287ae09389/assets/images/banner-v2-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
     </item>
   </channel>
 </rss>
