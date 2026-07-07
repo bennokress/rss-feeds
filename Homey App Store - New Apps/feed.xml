@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 16:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:39:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>GroeneStroomLokaal</title>
-      <link>https://homey.app/a/nl.groenestroomlokaal</link>
-      <description>Dynamic energy prices from GroeneStroomLokaal</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.groenestroomlokaal</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.groenestroomlokaal/6/5a599071-9019-4869-8ba0-dd02eda2614c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mijndomein Energie</title>
-      <link>https://homey.app/a/nl.mijndomein.energie</link>
-      <description>Dynamic energy prices from Mijndomein Energie</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.mijndomein.energie</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.mijndomein.energie/6/38df0828-ddff-484a-a93b-42e7b3e9de48/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Jun 2026 17:29:56 +0200</pubDate>
-    </item>
     <item>
       <title>SamSam</title>
       <link>https://homey.app/a/nu.samsam</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.ekdahl.mccallister-guard</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ekdahl.mccallister-guard/4/ab93e949-6fbb-431f-aad1-76fd42f260a0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jul 2026 18:51:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>Trane Home</title>
+      <link>https://homey.app/a/com.mynexia</link>
+      <description>It's Hard To Stop A Trane</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mynexia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mynexia/8/a5b6d182-6059-4cf0-ab64-3fa10c66a49d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 09:39:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>American Standard Home</title>
+      <link>https://homey.app/a/com.asairhome</link>
+      <description>Built To A Higher Standard</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.asairhome</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.asairhome/4/8e573f32-b43c-4809-a78c-b3c8db975699/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 09:39:19 +0200</pubDate>
     </item>
   </channel>
 </rss>
