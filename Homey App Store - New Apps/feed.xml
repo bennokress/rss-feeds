@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:36:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Flow Gadgets</title>
-      <link>https://homey.app/a/com.pascalnohl.flowgadgets</link>
-      <description>Generic helper cards for Homey Advanced Flows.</description>
-      <author>noreply@homey.app (Pascal Nohl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.pascalnohl.flowgadgets</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.pascalnohl.flowgadgets/3/feb9386c-d6a7-41c9-b67d-4cc627dc6e54/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jun 2026 11:24:57 +0200</pubDate>
-    </item>
     <item>
       <title>Greenheiss Solar</title>
       <link>https://homey.app/a/com.greenheiss.solar</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.seyedjafari.albumslider</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.seyedjafari.albumslider/2/32529eae-323f-4f66-ac2d-1a287ae09389/assets/images/banner-v2-large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jullix</title>
+      <link>https://homey.app/a/com.satugi.jullix</link>
+      <description>See every watt, save every euro</description>
+      <author>noreply@homey.app (Stijn Flater)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.satugi.jullix</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.satugi.jullix/4/2006cff2-91f4-4afa-a93b-c671833bbe1c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 16:36:30 +0200</pubDate>
     </item>
   </channel>
 </rss>
