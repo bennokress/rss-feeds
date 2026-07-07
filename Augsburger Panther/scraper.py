@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Scraper for Augsburger Panther news.
-Generates an RSS feed from https://www.aev-panther.de/panther/news.html
+Generates an RSS feed from https://www.aev-panther.de/panther/news
 """
 
 import argparse
 import csv
+import html as html_module
 import os
-import re
 import sys
 import time
 from datetime import datetime
@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
 BASE_URL = "https://www.aev-panther.de"
-NEWS_URL = f"{BASE_URL}/panther/news.html"
+NEWS_URL = f"{BASE_URL}/panther/news"
 SCRIPT_DIR = Path(__file__).parent
 ARTICLES_FILE = SCRIPT_DIR / "articles.tsv"
 FEED_FILE = SCRIPT_DIR / "feed.xml"
@@ -44,17 +44,6 @@ def parse_html(html: str) -> BeautifulSoup:
     return BeautifulSoup(html, "html.parser")
 
 
-def german_date_to_iso(date_str: str) -> str:
-    """Convert DD.MM.YYYY to YYYY-MM-DD."""
-    if not date_str:
-        return ""
-    parts = date_str.split(".")
-    if len(parts) == 3:
-        day, month, year = parts
-        return f"{year}-{month}-{day}"
-    return date_str
-
-
 def parse_news_items(html: str, existing_urls: set[str]) -> list[tuple[str, str, str, str]]:
     """
     Parse news items one by one from top to bottom.
@@ -64,12 +53,10 @@ def parse_news_items(html: str, existing_urls: set[str]) -> list[tuple[str, str,
     soup = parse_html(html)
     articles = []
 
-    for item in soup.select("div.news-item"):
-        link = item.select_one("a")
-        if not link:
+    for item in soup.select("a.archive-item"):
+        url = item.get("href", "")
+        if not url:
             continue
-
-        url = link.get("href", "")
         if not url.startswith("http"):
             url = BASE_URL + url
 
@@ -78,23 +65,20 @@ def parse_news_items(html: str, existing_urls: set[str]) -> list[tuple[str, str,
             print(f"Found known article, stopping parse")
             break
 
-        # Get all spans inside the news item link
-        spans = item.select("div.newsitem_link span")
-        if len(spans) >= 2:
-            date_text = spans[0].get_text(strip=True)
-            title = spans[1].get_text(strip=True)
-        else:
-            date_text = ""
-            title = ""
+        title_el = item.select_one(".archive-item__title")
+        title = title_el.get_text(strip=True) if title_el else ""
 
-        # Parse "DD.MM.YYYY | HH:MM Uhr" and convert to ISO date
-        date_match = re.match(r"(\d{2}\.\d{2}\.\d{4})\s*\|\s*(\d{2}:\d{2})", date_text)
-        if date_match:
-            date_str = german_date_to_iso(date_match.group(1))
-            time_str = date_match.group(2)
-        else:
-            date_str = ""
-            time_str = ""
+        # Timestamp is provided as ISO 8601 in a data attribute
+        date_str = ""
+        time_str = ""
+        time_el = item.select_one("span[data-time-date-value]")
+        if time_el:
+            try:
+                dt = datetime.fromisoformat(time_el["data-time-date-value"])
+                date_str = dt.strftime("%Y-%m-%d")
+                time_str = dt.strftime("%H:%M")
+            except ValueError:
+                pass
 
         if title and url:
             articles.append((date_str, time_str, title, url))
@@ -147,36 +131,23 @@ def save_articles(articles: list[dict]) -> None:
 
 def fetch_article_content(url: str) -> tuple[str, str]:
     """
-    Fetch article teaser (first paragraph) and image.
+    Fetch article teaser and image from OpenGraph meta tags.
+    The site truncates og:description to ~200 chars and appends "…" itself.
     Returns (teaser_text, image_url). Both empty string if not found.
     """
     html = fetch_html(url)
     soup = parse_html(html)
 
-    # Extract first paragraph as teaser
     text = ""
-    content_area = soup.select_one("div.contentarea")
-    if content_area:
-        first_p = content_area.select_one("p")
-        if first_p:
-            # Get text up to first <br> or <strong> (section header)
-            parts = []
-            for child in first_p.children:
-                if child.name in ("br", "strong"):
-                    break
-                if hasattr(child, "get_text"):
-                    parts.append(child.get_text())
-                else:
-                    parts.append(str(child))
-            text = "".join(parts).strip()
-            if text:
-                text += " […]"
+    desc = soup.find("meta", attrs={"property": "og:description"})
+    if desc:
+        # Older articles contain raw HTML entities in og:description
+        text = html_module.unescape(desc.get("content", "")).strip()
 
-    # Extract main image from article
     image_url = ""
-    img = soup.select_one("div.article_image img")
+    img = soup.find("meta", attrs={"property": "og:image"})
     if img:
-        src = img.get("src", "")
+        src = img.get("content", "")
         if src:
             if not src.startswith("http"):
                 src = BASE_URL + src

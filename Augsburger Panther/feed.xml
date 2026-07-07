@@ -2,417 +2,409 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Augsburger Panther</title>
-    <link>https://www.aev-panther.de/panther/news.html</link>
+    <link>https://www.aev-panther.de/panther/news</link>
     <description>Aktuelle News der Augsburger Panther. Inoffizieller RSS Feed der Website.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://raw.githubusercontent.com/bennokress/rss-feeds/main/Augsburger%20Panther/channel-icon.png</url>
       <title>Augsburger Panther</title>
-      <link>https://www.aev-panther.de/panther/news.html</link>
+      <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:58:44 +0000</lastBuildDate>
     <ttl>120</ttl>
     <item>
-      <title>Hoffnung lebt dank Busdeker-Gala</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Hoffnung-lebt-dank-Busdeker-Gala-_naid,4257.html</link>
-      <description>Die Augsburger Panther haben ihre Position im Kampf um die Playoffs durch einen deutlichen Sieg gegen die Dresdner Löwen wieder deutlich verbessert. Dank einer überragenden D.J. Busdeker, der an allen sechs Toren beteiligt war, siegte der AEV mit 6:3. Die Treffer für die Panther erzielten Riley Damiani (11.), Thomas Schemitsch (27.), Busdeker (34., 44., 52.) und Cody Kunyk (38.). Für die Sachsen waren Sebastian Gorcik (5.), Lance Bouma (9.) und Austin Ortega (58.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Hoffnung-lebt-dank-Busdeker-Gala-_naid,4257.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7290_1_org_dre4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Mar 2026 22:07:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kaum noch Chancen auf die Playoffs</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Kaum-noch-Chancen-auf-die-Playoffs-_naid,4258.html</link>
-      <description>Die Playoffs in der Saison 2025-26 in der PENNY DEL werden fast sicher ohne die Augsburger Panther stattfinden. Nach der knappen 1:2-Niederlage bei den Schwenninger Wild Wings hat der AEV nur noch theoretische Chancen auf Platz zehn. Den einzigen Treffer im Schwarzwald für die Panther erzielte Alexandre Grenier (26.). Für die Wild Wings waren Daniel O'Regan (13.) und Tyson Spink (29.) erfolgreich. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Kaum-noch-Chancen-auf-die-Playoffs-_naid,4258.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7291_1_org_serc4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Mar 2026 21:22:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Madison Bowey für ein Spiel gesperrt</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Madison-Bowey-f%C3%BCr-ein-Spiel-gesperrt-_naid,4259.html</link>
-      <description>Die Augsburger Panther müssen am Freitag in Ingolstadt aufgrund einer Sperre auf Madison Bowey verzichten. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Madison-Bowey-f%C3%BCr-ein-Spiel-gesperrt-_naid,4259.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7294_1_org_bowey.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Mar 2026 20:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Auslastung der 14 Arenen liegt über 93 Prozent</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Auslastung-der-14-Arenen-liegt-%C3%BCber-93-Prozent-_naid,4260.html</link>
-      <description>Mit den beiden letzten Spieltagen vor dem Start in die Playoffs geht am kommenden Wochenende die Hauptrunde der Saison 2025-26 in der Deutschen Eishockey Liga (PENNY DEL) zu Ende. Doch schon jetzt gibt es die ersten Erfolgsmeldungen. Mit einer Auslastung von mehr als 93 Prozent waren die 14 Arenen so gut gefüllt wie noch niemals zuvor in der mehr als 30-jährigen Geschichte der Liga. „Eine Zuschauer-Auslastung von mehr als 93 Prozent ist natürlich ein unglaublicher Wert, auf den wir und vor allem unsere Clubs sehr stolz sein können", sagte Gernot Tripcke, Geschäftsführer der PENNY DEL, heute im Rahmen einer Pressekonferenz. „Es ist für uns ein Ansporn, das zu halten, und zugleich schwer, diesen Wert noch weiter auszubauen. Aber das ist natürlich ein Luxusproblem." […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Auslastung-der-14-Arenen-liegt-%C3%BCber-93-Prozent-_naid,4260.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7298_1_org_cp_SP46_AEV_RBM26_164k.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Mar 2026 15:15:00 +0100</pubDate>
-    </item>
-    <item>
       <title>AEV verpasst Playoffs</title>
-      <link>https://www.aev-panther.de/panther/news_news,-AEV-verpasst-Playoffs-_naid,4261.html</link>
-      <description>Die Augsburger Panther haben die Playoffs in der Saison 2025-26 in der PENNY DEL verpasst. Am vorletzten Spieltag unterlag der AEV trotz ansprechender Leistung beim ERC Ingolstadt mit 4:7 und hat somit keine Chance mehr, auf einem der ersten zehn Plätze zu landen. Augsburg wird die Spielzeit als Elfter beenden. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-AEV-verpasst-Playoffs-_naid,4261.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7299_1_org_ERC4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 23:15:00 +0100</pubDate>
+      <link>https://www.aev-panther.de/artikel/aev-verpasst-playoffs/019d4f65-aaf4-765f-a8c9-20c18ef8e828</link>
+      <description>Die Augsburger Panther haben die Playoffs in der Saison 2025-26 in der PENNY DEL verpasst. Am vorletzten Spieltag unterlag der AEV trotz ansprechender Leistung beim ERC Ingolstadt mit 4:7 und hat somi…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verpasst-playoffs/019d4f65-aaf4-765f-a8c9-20c18ef8e828</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-aaf4-765f-a8c9-20c18ef8e828.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Mar 2026 18:49:00 +0100</pubDate>
     </item>
     <item>
       <title>Clublegende T.J. Trevelyan beendet seine aktive Karriere</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Clublegende-TJ-Trevelyan-beendet-seine-aktive-Karriere-_naid,4262.html</link>
-      <description>Es war klar, dass dieser emotionale Tag kommen wird. T.J. Trevelyan, seit über einem Jahrzehnt das Gesicht der Augsburger Panther, verlässt die ganz große Eishockeybühne. Der 42-jährige Deutschkanadier hat sich entschieden, seine eindrucksvolle Laufbahn zu beenden. Am Sonntagnachmittag wird sich Trevelyan letztmalig das Trikot seines AEV in der Deutschen Eishockey Liga überziehen und im ausverkauften Curt-Frenzel-Stadion unter sicher grenzenlosem Jubel einlaufen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clublegende-TJ-Trevelyan-beendet-seine-aktive-Karriere-_naid,4262.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7300_1_org_cp_d4_Retro_AEVvNIT23_3611.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/clublegende-t-j-trevelyan-beendet-seine-aktive-karriere/019d4f65-ab7b-7a3b-b309-78326752fe5d</link>
+      <description>Es war klar, dass dieser emotionale Tag kommen wird. T.J. Trevelyan, seit über einem Jahrzehnt das Gesicht der Augsburger Panther, verlässt die ganz große Eishockeybühne. Der 42-j…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/clublegende-t-j-trevelyan-beendet-seine-aktive-karriere/019d4f65-ab7b-7a3b-b309-78326752fe5d</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ab7b-7a3b-b309-78326752fe5d.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 14 Mar 2026 09:35:00 +0100</pubDate>
     </item>
     <item>
       <title>Der letzte Tanz von Legende T.J. Trevelyan</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Der-letzte-Tanz-von-Legende-TJ-Trevelyan-_naid,4263.html</link>
-      <description>Die Augsburger Panther erwarten im letzten Spiel ihrer Saison 2025-26 die Grizzlys Wolfsburg im ausverkauften Curt-Frenzel-Stadion, Eröffnungsbully ist um 14:00 Uhr. Die Clublegende T.J. Trevelyan wird nach 15 gemeinsamen Jahren heute letztmalig für den AEV auflaufen, ehe seine Nummer 24 aus Respekt vor seinen Leistungen, seiner Hingabe und Loyalität nie mehr vergeben wird. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Der-letzte-Tanz-von-Legende-TJ-Trevelyan-_naid,4263.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7301_1_org_20260306_AEVDRE_Goldberg_237.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/der-letzte-tanz-von-legende-t-j-trevelyan/019d4f65-ac04-7a1d-8cfe-88fb678d6f31</link>
+      <description>Die Augsburger Panther erwarten im letzten Spiel ihrer Saison 2025-26 die Grizzlys Wolfsburg im ausverkauften Curt-Frenzel-Stadion, Eröffnungsbully ist um 14:00 Uhr. Die Clublegende T.J. Trevelya…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/der-letzte-tanz-von-legende-t-j-trevelyan/019d4f65-ac04-7a1d-8cfe-88fb678d6f31</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ac04-7a1d-8cfe-88fb678d6f31.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 15 Mar 2026 07:45:00 +0100</pubDate>
     </item>
     <item>
       <title>Trevelyan sagt Servus mit Tor &amp; zwei Assists</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Trevelyan-sagt-Servus-mit-Tor-zwei-Assists-_naid,4264.html</link>
-      <description>Die Augsburger Panther haben das letzte Vorrundenspiel der Spielzeit 2025-26 in der PENNY DEL verloren. Beim Abschied von Klublegende T.J. Trevelyan, der mit drei Scorerpunkten 'Good Bye' sagte, zeigte der AEV erst tolle Moral und kassierte erst Sekunden vor Schluss den Ausgleich. Am Ende unterlag man gegen die Wolfsburg Grizzyls schließlich mit 5:6 nach Penaltyschießen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Trevelyan-sagt-Servus-mit-Tor-zwei-Assists-_naid,4264.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7302_1_org_Trev.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 17:54:00 +0100</pubDate>
+      <link>https://www.aev-panther.de/artikel/trevelyan-sagt-servus-mit-tor-zwei-assists/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7</link>
+      <description>Die Augsburger Panther haben das letzte Vorrundenspiel der Spielzeit 2025-26 in der PENNY DEL verloren. Beim Abschied von Klublegende T.J. Trevelyan, der mit drei Scorerpunkten 'Good Bye' sagte, zeigt…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/trevelyan-sagt-servus-mit-tor-zwei-assists/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 15 Mar 2026 12:54:00 +0100</pubDate>
     </item>
     <item>
       <title>Panther verabschieden sich am 20. März von ihren Fans</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verabschieden-sich-am-20-M%C3%A4rz-von-ihren-Fans-_naid,4265.html</link>
-      <description>Die PENNY DEL-Saison 2025-26 endete am gestrigen Sonntag für die Augsburger Panther mit einem emotionalen Heimspiel im einmal mehr ausverkauften Curt-Frenzel-Stadion. Bereits am Freitag, 20. März verabschiedet sich das Team im Rahmen des traditionellen Saisonabschluss von seinen treuen Fans. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verabschieden-sich-am-20-M%C3%A4rz-von-ihren-Fans-_naid,4265.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7303_1_org_20260315_AEVWOB_Goldberg_168.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-verabschieden-sich-am-20-maerz-von-ihren-fans/019d4f65-ad10-77b8-b5b0-8515cd15760b</link>
+      <description>Die PENNY DEL-Saison 2025-26 endete am gestrigen Sonntag für die Augsburger Panther mit einem emotionalen Heimspiel im einmal mehr ausverkauften Curt-Frenzel-Stadion. Bereits am Freitag, 20. M&amp;au…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verabschieden-sich-am-20-maerz-von-ihren-fans/019d4f65-ad10-77b8-b5b0-8515cd15760b</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ad10-77b8-b5b0-8515cd15760b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 10:45:00 +0100</pubDate>
     </item>
     <item>
       <title>Neuer Zuschauerrekord für die Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Neuer-Zuschauerrekord-f%C3%BCr-die-Panther-_naid,4266.html</link>
-      <description>Die 32. Saison der Augsburger Panther in der Deutschen Eishockey Liga ist seit Sonntag Geschichte. Endlich wieder ein frühzeitiger Klassenerhalt, Platz 10 bis kurz vor Hauptrunden-Ende möglich und ein hochemotionales letztes Karrierespiel von T.J. Trevelyan am letzten Spieltag – es bleiben denkwürdige Momente. Mit dem treuen Rückhalt ihrer Fans wollen die Panther kommende Spielzeit sportlich den nächsten Schritt gehen und nach langer Pause wieder in die Playoffs einziehen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Neuer-Zuschauerrekord-f%C3%BCr-die-Panther-_naid,4266.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7304_1_org_20260315_AEVWOB_Goldberg_414.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/neuer-zuschauerrekord-fuer-die-panther/019d4f65-ada0-783e-8f35-6ac7328f72da</link>
+      <description>Die 32. Saison der Augsburger Panther in der Deutschen Eishockey Liga ist seit Sonntag Geschichte. Endlich wieder ein frühzeitiger Klassenerhalt, Platz 10 bis kurz vor Hauptrunden-Ende mögli…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/neuer-zuschauerrekord-fuer-die-panther/019d4f65-ada0-783e-8f35-6ac7328f72da</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ada0-783e-8f35-6ac7328f72da.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Mar 2026 10:15:00 +0100</pubDate>
     </item>
     <item>
       <title>Clubs bestätigen ihren Aufsichtsrat für vier weitere Jahre</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Clubs-best%C3%A4tigen-ihren-Aufsichtsrat-f%C3%BCr-vier-weitere-Jahre-_naid,4267.html</link>
-      <description>Die 14 Clubs der Deutschen Eishockey Liga (PENNY DEL) setzen an der Spitze der Liga auf Kontuinität. Im Rahmen der Gesellschafterversammlung in Köln wurde der Aufsichtsrat in der bisherigen Besetzung wiedergewählt. Jürgen Arnold (Vorsitzender, Ingolstadt), Daniel Hopp (stellvertretender Vorsitzender, Mannheim), Lothar Sigl (Augsburg) und Wolfgang Brück (Iserlohn) werden damit bis zum 30. April 2030 die Geschicke der PENNY DEL lenken. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Clubs-best%C3%A4tigen-ihren-Aufsichtsrat-f%C3%BCr-vier-weitere-Jahre-_naid,4267.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7305_1_org_ex25_02_aev_man_008k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/clubs-bestaetigen-ihren-aufsichtsrat-fuer-vier-weitere-jahre/019d4f65-ae24-7123-b7d0-ab453c68b8be</link>
+      <description>Die 14 Clubs der Deutschen Eishockey Liga (PENNY DEL) setzen an der Spitze der Liga auf Kontuinität. Im Rahmen der Gesellschafterversammlung in Köln wurde der Aufsichtsrat in der bisherigen …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/clubs-bestaetigen-ihren-aufsichtsrat-fuer-vier-weitere-jahre/019d4f65-ae24-7123-b7d0-ab453c68b8be</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ae24-7123-b7d0-ab453c68b8be.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Mar 2026 10:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Das Gesichter der Panther wird sich weiter verändern</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Das-Gesichter-der-Panther-wird-sich-weiter-ver%C3%A4ndern-_naid,4268.html</link>
-      <description>Unmittelbar nach dem Hauptrunden-Ende standen für das Management und die sportliche Leitung die traditionellen Exit Meetings mit allen Spielern des Teams der Saison 2025-26 auf der Agenda. Während einige Spieler sich bereits anderen Clubs angeschlossen haben, wurden andere Akteure abschließend informiert, dass sie in der Fuggerstadt keine Zukunft haben werden. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Das-Gesichter-der-Panther-wird-sich-weiter-ver%C3%A4ndern-_naid,4268.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7306_1_org_20260227_AEVRBM_Goldberg_113.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Mar 2026 15:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Das Gesicht der Panther wird sich weiter verändern</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Das-Gesicht-der-Panther-wird-sich-weiter-ver%C3%A4ndern-_naid,4268.html</link>
-      <description>Unmittelbar nach dem Hauptrunden-Ende standen für das Management und die sportliche Leitung die traditionellen Exit Meetings mit allen Spielern des Teams der Saison 2025-26 auf der Agenda. Während einige Spieler sich bereits anderen Clubs angeschlossen haben, wurden andere Akteure abschließend informiert, dass sie in der Fuggerstadt keine Zukunft haben werden. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Das-Gesicht-der-Panther-wird-sich-weiter-ver%C3%A4ndern-_naid,4268.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7306_1_org_20260227_AEVRBM_Goldberg_113.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/das-gesicht-der-panther-wird-sich-weiter-veraendern/019d4f65-aead-7188-a479-db0a51a05358</link>
+      <description>Unmittelbar nach dem Hauptrunden-Ende standen für das Management und die sportliche Leitung die traditionellen Exit Meetings mit allen Spielern des Teams der Saison 2025-26 auf der Agenda. Wä…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/das-gesicht-der-panther-wird-sich-weiter-veraendern/019d4f65-aead-7188-a479-db0a51a05358</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-aead-7188-a479-db0a51a05358.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Dolak verlässt die Panther - Endras und Schelenz bleiben</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Dolak-verl%C3%A4sst-die-Panther-Endras-und-Schelenz-bleiben-_naid,4269.html</link>
-      <description>Weitere Personalentscheidungen sind getroffen. Während Torwarttrainer Dennis Endras und Athletiktrainer Adrian Schelenz auch in der Saison 2026-27 wichtige Bestandteile des Trainerteams bleiben, wird Thomas Dolak den PENNY DEL-Club nach zwei gemeinsamen Spielzeiten verlassen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Dolak-verl%C3%A4sst-die-Panther-Endras-und-Schelenz-bleiben-_naid,4269.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7307_1_org_cp_SP36_EBB_AEV26_182k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/dolak-verlaesst-die-panther-endras-und-schelenz-bleiben/019d4f45-2535-7494-9ffb-58d42fcc8ab0</link>
+      <description>Weitere Personalentscheidungen sind getroffen. Während Torwarttrainer Dennis Endras und Athletiktrainer Adrian Schelenz auch in der Saison 2026-27 wichtige Bestandteile des Trainerteams bleiben, …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/dolak-verlaesst-die-panther-endras-und-schelenz-bleiben/019d4f45-2535-7494-9ffb-58d42fcc8ab0</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-2535-7494-9ffb-58d42fcc8ab0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Mar 2026 08:45:00 +0100</pubDate>
     </item>
     <item>
       <title>5 Sterne für den AEV-Nachwuchs</title>
-      <link>https://www.aev-panther.de/panther/news_news,-5-Sterne-f%C3%BCr-den-AEV-Nachwuchs-_naid,4270.html</link>
-      <description>Der Deutsche Eishockey-Bund, die Deutsche Eishockey Liga und die DEL2 haben ihre alljährliche Vereins-Zertifizierung im Rahmen des "5-Sterne-Nachwuchsprogramms" abgeschlossen und die Clubs sowie ihre Stammvereine über die jeweiligen Ergebnisse informiert. Der Augsburger Eislaufverein e.V. wurde dabei für seine gute Nachwuchsarbeit erneut mit fünf Sternen eingestuft. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-5-Sterne-f%C3%BCr-den-AEV-Nachwuchs-_naid,4270.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7308_1_org_20260306_AEVDRE_Goldberg_185.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/5-sterne-fuer-den-aev-nachwuchs/019d4f45-24a0-7727-83dd-26d650c3b25e</link>
+      <description>Der Deutsche Eishockey-Bund, die Deutsche Eishockey Liga und die DEL2 haben ihre alljährliche Vereins-Zertifizierung im Rahmen des "5-Sterne-Nachwuchsprogramms" abgeschlossen und die Clubs sowie …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/5-sterne-fuer-den-aev-nachwuchs/019d4f45-24a0-7727-83dd-26d650c3b25e</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-24a0-7727-83dd-26d650c3b25e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Mar 2026 10:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Liron Pellizzari für die U18-Nationalmannschaft nominiert</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%BCr-die-U18-Nationalmannschaft-nominiert-_naid,4271.html</link>
-      <description>Liron Pellizzari darf sich berechtigte Hoffnungen auf die Nominierung zur U18-Weltmeisterschaft in der Slowakei machen. Bundestrainer Andreas Becherer hat den erst 17-jährigen Verteidiger in die DEB-Auswahl für Phase I der WM-Vorbereitung berufen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%BCr-die-U18-Nationalmannschaft-nominiert-_naid,4271.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7309_1_org_ex25_13_aev_fra_089k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/liron-pellizzari-fuer-die-u18-nationalmannschaft-nominiert/019d4f45-2420-755d-a7e2-8df5d08e4eb9</link>
+      <description>Liron Pellizzari darf sich berechtigte Hoffnungen auf die Nominierung zur U18-Weltmeisterschaft in der Slowakei machen. Bundestrainer Andreas Becherer hat den erst 17-jährigen Verteidiger in die …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/liron-pellizzari-fuer-die-u18-nationalmannschaft-nominiert/019d4f45-2420-755d-a7e2-8df5d08e4eb9</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-2420-755d-a7e2-8df5d08e4eb9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Großer Sponsorenabend im Pantherclub</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Gro%C3%9Fer-Sponsorenabend-im-Pantherclub-_naid,4272.html</link>
-      <description>Am Donnerstagabend luden die Augsburger Panther ihre Partner zu einem großen Sponsorenabend in den Pantherclub des Curt-Frenzel-Stadions ein. Geschäftsführer Maximilian Horber und Sportdirektor Larry Mitchell ließen die Saison 2025-26 Revue passieren und wagten auch einen ersten Blick auf die kommende Spielzeit in der Deutschen Eishockey Liga. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Gro%C3%9Fer-Sponsorenabend-im-Pantherclub-_naid,4272.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7310_1_org_20260326_AEVSponsoren_Goldberg_148.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/grosser-sponsorenabend-im-pantherclub/019d4f45-2381-78f1-b722-c88b125489c4</link>
+      <description>Am Donnerstagabend luden die Augsburger Panther ihre Partner zu einem großen Sponsorenabend in den Pantherclub des Curt-Frenzel-Stadions ein. Geschäftsführer Maximilian Horber und Spor…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/grosser-sponsorenabend-im-pantherclub/019d4f45-2381-78f1-b722-c88b125489c4</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-2381-78f1-b722-c88b125489c4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 28 Mar 2026 11:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Panther verpflichten Trevor Parkes &amp; Alec McCrea</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Trevor-Parkes-Alec-McCrea-_naid,4273.html</link>
-      <description>Viel PENNY DEL-Erfahrung für die Panther. Von den Dresdner Eislöwen wechseln Stürmer Trevor Parkes und Verteidiger Alec McCrea in die Fuggerstadt und sind damit offiziell die ersten Neuzugänge für die kommende Spielzeit in der Deutschen Eishockey Liga. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Trevor-Parkes-Alec-McCrea-_naid,4273.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7311_1_org_mccrea_parkes.png" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-verpflichten-trevor-parkes-alec-mccrea/019d4f45-22c3-7b6d-b8b5-5378c609d513</link>
+      <description>Viel PENNY DEL-Erfahrung für die Panther. Von den Dresdner Eislöwen wechseln Stürmer Trevor Parkes und Verteidiger Alec McCrea in die Fuggerstadt und sind damit offiziell die ersten Neu…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-trevor-parkes-alec-mccrea/019d4f45-22c3-7b6d-b8b5-5378c609d513</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-22c3-7b6d-b8b5-5378c609d513.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 29 Mar 2026 10:15:00 +0200</pubDate>
     </item>
     <item>
       <title>Verteidiger Noel Hoefenmayer verstärkt die Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Verteidiger-Noel-Hoefenmayer-verst%C3%A4rkt-die-Panther-_naid,4274.html</link>
-      <description>Die Panther können einen weiteren Neuzugang vermelden. Noel Hoefenmayer wechselt von HK Sochi nach Augsburg und verstärkt in der Saison 2026-27 die Defensive des PENNY DEL-Clubs. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Verteidiger-Noel-Hoefenmayer-verst%C3%A4rkt-die-Panther-_naid,4274.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7312_1_org_imago1061585013.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/verteidiger-noel-hoefenmayer-verstaerkt-die-panther/019d4f45-2246-7943-b8c4-57de02da87de</link>
+      <description>Die Panther können einen weiteren Neuzugang vermelden. Noel Hoefenmayer wechselt von HK Sochi nach Augsburg und verstärkt in der Saison 2026-27 die Defensive des PENNY DEL-Clubs.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/verteidiger-noel-hoefenmayer-verstaerkt-die-panther/019d4f45-2246-7943-b8c4-57de02da87de</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-2246-7943-b8c4-57de02da87de.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Jersey53 bleibt Trikothersteller von Panthern &amp; AEV</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Jersey53-bleibt-Trikothersteller-von-Panthern-AEV-_naid,4275.html</link>
-      <description>Die Augsburger Panther und der Augsburger Eislaufverein e.V. arbeiten seit 2024 mit Jersey53 zusammen. Die Partnerschaft mit dem renommierten Trikothersteller wurde nun um drei weitere Jahre verlängert. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Jersey53-bleibt-Trikothersteller-von-Panthern-AEV-_naid,4275.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7313_1_org_ex25_5_aev_kec_053k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/jersey53-bleibt-trikothersteller-von-panthern-aev/019d4f45-21c6-7901-84e0-f03e6c1fe4ce</link>
+      <description>Die Augsburger Panther und der Augsburger Eislaufverein e.V. arbeiten seit 2024 mit Jersey53 zusammen. Die Partnerschaft mit dem renommierten Trikothersteller wurde nun um drei weitere Jahre verlä…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/jersey53-bleibt-trikothersteller-von-panthern-aev/019d4f45-21c6-7901-84e0-f03e6c1fe4ce</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-21c6-7901-84e0-f03e6c1fe4ce.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2026 11:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther &amp; AEV vertrauen auf Schanner Eishockeyartikel</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-AEV-vertrauen-auf-Schanner-Eishockeyartikel-_naid,4276.html</link>
-      <description>Die Augsburger Panther und die Schanner Eishockeyartikel GmbH + Co. KG setzen ihre erfolgreiche Zusammenarbeit fort. Beide Partner haben sich auf eine langfristige Verlängerung des bestehenden Ausrüstervertrags verständigt. Künftig wird die Partnerschaft, die bereits seit den 1990er-Jahren besteht, auch um eine Integration des Nachwuchses des Augsburger Eislaufvereins erweitert. Panther und AEV bekennen sich damit klar zu Kontinuität, Qualität und Vertrauen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-AEV-vertrauen-auf-Schanner-Eishockeyartikel-_naid,4276.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7314_1_org_ap_partnerschaft_schanner_eishockeyartikel.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-aev-vertrauen-auf-schanner-eishockeyartikel/019d4f45-210d-7074-aaa9-10d6a5f421ce</link>
+      <description>Die Augsburger Panther und die Schanner Eishockeyartikel GmbH + Co. KG setzen ihre erfolgreiche Zusammenarbeit fort. Beide Partner haben sich auf eine langfristige Verlängerung des bestehenden Au…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-aev-vertrauen-auf-schanner-eishockeyartikel/019d4f45-210d-7074-aaa9-10d6a5f421ce</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-210d-7074-aaa9-10d6a5f421ce.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Apr 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Im Gespräch mit Thomas Holzamnn</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Im-Gespr%C3%A4ch-mit-Thomas-Holzamnn-_naid,4278.html</link>
-      <description>Bei einem Sponsorenabend vor einigen Tagen zählte auch Thomas Holzmann zu den Talk-Gästen. Zwischen 2015 und 2021 trug Holzmann das Trikot der Augsburger Panther. Insgesamt bestritt er 555 Spiele in der Deutschen Eishockey Liga. In der vergangenen Saison trainierte Holzmann die U17 des Augsburger EV und gibt sein Wissen an junge Talente weiter. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Im-Gespr%C3%A4ch-mit-Thomas-Holzamnn-_naid,4278.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7317_1_org_20260326_AEVSponsoren_Goldberg_133.jpg" length="0" type="image/jpeg"/>
+      <title>Im Gespräch mit Thomas Holzmann</title>
+      <link>https://www.aev-panther.de/artikel/im-gespraech-mit-thomas-holzmann/019d4f65-b3bd-732e-a2a5-91196cfb4dbe</link>
+      <description>Bei einem Sponsorenabend vor einigen Tagen zählte auch Thomas Holzmann zu den Talk-Gästen. Zwischen 2015 und 2021 trug Holzmann das Trikot der Augsburger Panther. Insgesamt bestritt er 555 S…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/im-gespraech-mit-thomas-holzmann/019d4f65-b3bd-732e-a2a5-91196cfb4dbe</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-b3bd-732e-a2a5-91196cfb4dbe.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Apr 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Mobilitätsumfrage der Augsburger Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Mobilit%C3%A4tsumfrage-der-Augsburger-Panther-_naid,4277.html</link>
-      <description>Die Augsburger Panther brauchen nach zwei Jahren wieder die Hilfe ihrer treuen Fans. In Kooperation mit der Uni Bayreuth und einem Bachelorstudenten des dortigen Studiengangs der Sportökonomie wollen wir erneut mehr über euer Anreiseverhalten zu unseren Heimspielen im Curt-Frenzel-Stadion erfahren. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mobilit%C3%A4tsumfrage-der-Augsburger-Panther-_naid,4277.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7315_1_org_20251204_AEVDRE_Goldberg_159.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/mobilitaetsumfrage-der-augsburger-panther/019d4f65-b335-7386-9230-b4c7cdd464f2</link>
+      <description>Die Augsburger Panther brauchen nach zwei Jahren wieder die Hilfe ihrer treuen Fans. In Kooperation mit der Uni Bayreuth und einem Bachelorstudenten des dortigen Studiengangs der Sportökonomie wo…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/mobilitaetsumfrage-der-augsburger-panther/019d4f65-b335-7386-9230-b4c7cdd464f2</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-b335-7386-9230-b4c7cdd464f2.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 04 Apr 2026 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther treffen am 21. August auf Kometa Brno</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-treffen-am-21-August-auf-Kometa-Brno-_naid,4279.html</link>
-      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups in der Würtharena im italienischen Neumarkt statt. Als vierter Teilnehmer nach dem EV Zug, den Eisbären Berlin und den Augsburger Panthern steht jetzt auch Kometa Brno fest. Das Team aus der Tschechischen Republik wird am Freitag, 21. August um 20:00 Uhr auch der erste Panther-Gegner der Vorbereitung auf die PENNY DEL-Saison 2026-27 sein. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-treffen-am-21-August-auf-Kometa-Brno-_naid,4279.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7320_1_org_KER00099_12_08_22.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-treffen-am-21-august-auf-kometa-brno/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc</link>
+      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups in der Würtharena im italienischen Neumarkt statt. Als vierter Teilnehmer nach dem EV Zug, den Eisbären Berlin und den Au…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-treffen-am-21-august-auf-kometa-brno/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Apr 2026 11:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther verpflichten Cameron Wright</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Cameron-Wright-_naid,4280.html</link>
-      <description>Die Augsburger Panther haben sich für die PENNY DEL-Saison 2026-27 die Dienste von Cameron Wright gesichert. Der kanadische Außenstürmer wechselt von HPK aus der finnischen Liiga in die Fuggerstadt. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Cameron-Wright-_naid,4280.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7321_1_org_260219_HPK_KAL_67.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-verpflichten-cameron-wright/019da9ee-8ba9-774a-b046-2d1e6ea6d034</link>
+      <description>Die Augsburger Panther haben sich für die PENNY DEL-Saison 2026-27 die Dienste von Cameron Wright gesichert. Der kanadische Außenstürmer wechselt von HPK aus der finnischen Liiga in di…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-cameron-wright/019da9ee-8ba9-774a-b046-2d1e6ea6d034</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8ba9-774a-b046-2d1e6ea6d034.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Apr 2026 16:10:00 +0200</pubDate>
     </item>
     <item>
       <title>Blank &amp; Pilu für Nationalmannschaft nominiert</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Blank-Pilu-f%C3%BCr-Nationalmannschaft-nominiert-_naid,4281.html</link>
-      <description>Das Aufgebot der Männer-Nationalmannschaft für den Auftakt der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat insgesamt 25 Spieler nominiert, die in der ersten Phase der WM-Vorbereitung zwei Länderspiele gegen Tschechien bestreiten. Im DEB-Aufgebot stehen mit Verteidiger Fabrizio Pilu und Stürmer Alexander Blank auch zwei Spieler der Augsburger Panther. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Blank-Pilu-f%C3%BCr-Nationalmannschaft-nominiert-_naid,4281.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7322_1_org_blank_pilu.png" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/blank-pilu-fuer-nationalmannschaft-nominiert/019da9ee-8af6-762e-a39f-ec1d4d4060e8</link>
+      <description>Das Aufgebot der Männer-Nationalmannschaft für den Auftakt der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat ins…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/blank-pilu-fuer-nationalmannschaft-nominiert/019da9ee-8af6-762e-a39f-ec1d4d4060e8</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8af6-762e-a39f-ec1d4d4060e8.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Apr 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
       <title>60.000 Euro durch das Spiel der Herzen powered by LEW</title>
-      <link>https://www.aev-panther.de/panther/news_news,-60000-Euro-durch-das-Spiel-der-Herzen-powered-by-LEW-_naid,4282.html</link>
-      <description>Jetzt steht fest: Bei der sechsten Runde der Benefizaktion „Spiel der Herzen powered by LEW" kamen insgesamt 60.000 Euro für die gute Sache zusammen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-60000-Euro-durch-das-Spiel-der-Herzen-powered-by-LEW-_naid,4282.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7323_1_org_ap_spiel_der_herzen_60.000.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/60-000-euro-durch-das-spiel-der-herzen-powered-by-lew/019da9ee-8a5b-730c-8c73-72efe229936d</link>
+      <description>Jetzt steht fest: Bei der sechsten Runde der Benefizaktion „Spiel der Herzen powered by LEW" kamen insgesamt 60.000 Euro für die gute Sache zusammen.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/60-000-euro-durch-das-spiel-der-herzen-powered-by-lew/019da9ee-8a5b-730c-8c73-72efe229936d</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8a5b-730c-8c73-72efe229936d.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2026 12:45:00 +0200</pubDate>
     </item>
     <item>
       <title>Liron Pellizzari fährt zur U18-Weltmeisterschaft</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%A4hrt-zur-U18-Weltmeisterschaft-_naid,4283.html</link>
-      <description>U18-Bundestrainer Andreas Becherer hat den finalen Kader für die IIHF U18-Weltmeisterschaft 2026 nominiert. Mit im Aufgebot steht auch Liron Pellizzari. Die WM findet vom 22. April bis 02. Mai in der Slowakei (Trenčín und Bratislava) statt. Nach Phase 1 der WM-Vorbereitung in Füssen, inklusive des Vorbereitungsspiels gegen die Schweiz, das die DEB-Nachwuchsauswahl mit 5:1 für sich entscheiden konnte, hat sich nun ein 25-köpfiger Kader für die bevorstehende Weltmeisterschaft empfohlen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Liron-Pellizzari-f%C3%A4hrt-zur-U18-Weltmeisterschaft-_naid,4283.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7332_1_org_20260315_AEVWOB_Goldberg_194.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/liron-pellizzari-faehrt-zur-u18-weltmeisterschaft/019da9ee-89bb-793f-ad67-ab78e5413f34</link>
+      <description>U18-Bundestrainer Andreas Becherer hat den finalen Kader für die IIHF U18-Weltmeisterschaft 2026 nominiert. Mit im Aufgebot steht auch Liron Pellizzari. Die WM findet vom 22. April bis 02. Mai in…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/liron-pellizzari-faehrt-zur-u18-weltmeisterschaft/019da9ee-89bb-793f-ad67-ab78e5413f34</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-89bb-793f-ad67-ab78e5413f34.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 09:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Kloten und Frankfurt gastieren im CFS</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Kloten-und-Frankfurt-gastieren-im-CFS-_naid,4284.html</link>
-      <description>Die Augsburger Panther bestreiten in Vorbereitung auf die PENNY DEL-Hauptrunde 2026-27 zwei Testspiele im Curt-Frenzel-Stadion. Am 28. August gibt der EHC Kloten seine Visitenkarten in der Fuggerstadt ab, am 04. September kommt es zum Duell mit dem Ligarivalen Löwen Frankfurt. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Kloten-und-Frankfurt-gastieren-im-CFS-_naid,4284.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7333_1_org_AEVLINZ_Goldberg_155.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/kloten-und-frankfurt-gastieren-im-cfs/019da9ee-8920-7363-8ae6-28cecc4e5129</link>
+      <description>Die Augsburger Panther bestreiten in Vorbereitung auf die PENNY DEL-Hauptrunde 2026-27 zwei Testspiele im Curt-Frenzel-Stadion. Am 28. August gibt der EHC Kloten seine Visitenkarten in der Fuggerstadt…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/kloten-und-frankfurt-gastieren-im-cfs/019da9ee-8920-7363-8ae6-28cecc4e5129</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8920-7363-8ae6-28cecc4e5129.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2026 11:55:00 +0200</pubDate>
     </item>
     <item>
       <title>Pflichtpraktikum für Merchandising &amp; Nachhaltigkeit</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Pflichtpraktikum-f%C3%BCr-Merchandising-Nachhaltigkeit-_naid,4285.html</link>
-      <description>Die Augsburger Panther Eishockey GmbH sucht zum 01. oder 15. September 2026 einen/eine Pflichtpraktikant/in (m/w/d) für die Bereiche Merchandising &amp; Nachhaltigkeit. Die Praktikumsdauer beträgt sechs Monate. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Pflichtpraktikum-f%C3%BCr-Merchandising-Nachhaltigkeit-_naid,4285.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7336_1_org_20251228_AEVMAN_Goldberg_100.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/pflichtpraktikum-fuer-merchandising-nachhaltigkeit/019da9ee-885c-7a84-82c6-a4f6a4cd155a</link>
+      <description>Die Augsburger Panther Eishockey GmbH sucht zum 01. oder 15. September 2026 einen/eine Pflichtpraktikant/in (m/w/d) für die Bereiche Merchandising &amp; Nachhaltigkeit. Die Praktikumsdauer betr&amp;a…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/pflichtpraktikum-fuer-merchandising-nachhaltigkeit/019da9ee-885c-7a84-82c6-a4f6a4cd155a</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-885c-7a84-82c6-a4f6a4cd155a.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Apr 2026 12:20:00 +0200</pubDate>
     </item>
     <item>
       <title>Philipp Krauß wird ein Augsburger Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Philipp-Krau%C3%9F-wird-ein-Augsburger-Panther-_naid,4286.html</link>
-      <description>Die Augsburger Panther können die Verpflichtung von Philipp Krauß bestätigen. Der 25-jährige Nationalstürmer wechselt vom bayerischen Konkurrenten Ingolstadt innerhalb der PENNY DEL in die Fuggerstadt. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Philipp-Krau%C3%9F-wird-ein-Augsburger-Panther-_naid,4286.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7337_1_org_cp_VF5_RBM_ERC26_193.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/philipp-krauss-wird-ein-augsburger-panther/019da9ee-86f6-7acb-ac13-bebe93675bcd</link>
+      <description>Die Augsburger Panther können die Verpflichtung von Philipp Krauß bestätigen. Der 25-jährige Nationalstürmer wechselt vom bayerischen Konkurrenten Ingolstadt innerhalb der PE…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/philipp-krauss-wird-ein-augsburger-panther/019da9ee-86f6-7acb-ac13-bebe93675bcd</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-86f6-7acb-ac13-bebe93675bcd.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 19 Apr 2026 10:15:00 +0200</pubDate>
     </item>
     <item>
       <title>DEB-Aufgebot weiter mit Blank, Pilu &amp; Krauß</title>
-      <link>https://www.aev-panther.de/panther/news_news,-DEB-Aufgebot-weiter-mit-Blank-Pilu-Krau%C3%9F-_naid,4287.html</link>
-      <description>Das Aufgebot der Männer-Nationalmannschaft für die zweite Phase der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat 26 Spieler nominiert, die am heutigen Montag in Augsburg zusammenkommen und sich im Curt-Frenzel-Stadion auf die nächsten Aufgaben vorbereiten. Unverändert im deutschen Kader stehen auch die beiden Panther Fabrizio Pilu und Alexander Blank sowie der jüngste Neuzugang Philipp Krauss. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-DEB-Aufgebot-weiter-mit-Blank-Pilu-Krau%C3%9F-_naid,4287.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7338_1_org_cp_d4_DC_GERvAUT23_341.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Apr 2026 10:45:00 +0200</pubDate>
+      <link>https://www.aev-panther.de/artikel/deb-aufgebot-weiter-mit-blank-pilu-krauss/019daa85-0f8d-7285-9235-f4da6aeea79d</link>
+      <description>Das Aufgebot der Männer-Nationalmannschaft für die zweite Phase der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat 26 Spiel…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/deb-aufgebot-weiter-mit-blank-pilu-krauss/019daa85-0f8d-7285-9235-f4da6aeea79d</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019daa85-0f8d-7285-9235-f4da6aeea79d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Apr 2026 12:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Bill Peters bleibt Cheftrainer der Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Bill-Peters-bleibt-Cheftrainer-der-Panther-_naid,4288.html</link>
-      <description>Was schon länger mündlich vereinbart war, ist nun auch abschließend schriftlich fixiert. Bill Peters bleibt Cheftrainer der Augsburger Panther und geht in seine zweite Saison hinter der Bande des PENNY DEL-Clubs. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Bill-Peters-bleibt-Cheftrainer-der-Panther-_naid,4288.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7339_1_org_20260106_AEVISR_Goldberg_179.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/bill-peters-bleibt-cheftrainer-der-panther/019e06ee-c947-7a0a-b366-ccf65f18290a</link>
+      <description>Was schon länger mündlich vereinbart war, ist nun auch abschließend schriftlich fixiert. Bill Peters bleibt Cheftrainer der Augsburger Panther und geht in seine zweite Saison hinter de…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/bill-peters-bleibt-cheftrainer-der-panther/019e06ee-c947-7a0a-b366-ccf65f18290a</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c947-7a0a-b366-ccf65f18290a.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 26 Apr 2026 10:35:00 +0200</pubDate>
     </item>
     <item>
       <title>Blank weiter im deutschen Aufgebot</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Blank-weiter-im-deutschen-Aufgebot-_naid,4289.html</link>
-      <description>Für die Männer-Nationalmannschaft des Deutschen Eishockey-Bundes beginnt am morgigen Dienstag die dritte Woche der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz. Zum Aufgebot gehört dann auch weiterhin Pantherstürmer Alexander Blank. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Blank-weiter-im-deutschen-Aufgebot-_naid,4289.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7340_1_org_cp_WMV_DEB_SLO26_306k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/blank-weiter-im-deutschen-aufgebot/019e06ee-c8bc-7891-910d-08f17e1b0542</link>
+      <description>Für die Männer-Nationalmannschaft des Deutschen Eishockey-Bundes beginnt am morgigen Dienstag die dritte Woche der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz. Zum Aufgeb…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/blank-weiter-im-deutschen-aufgebot/019e06ee-c8bc-7891-910d-08f17e1b0542</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c8bc-7891-910d-08f17e1b0542.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 10:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Mediengruppe Pressedruck wird Exklusivpartner</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Mediengruppe-Pressedruck-wird-Exklusivpartner-_naid,4290.html</link>
-      <description>Zur Saison 2026-27 baut die Mediengruppe Pressedruck ihr Engagement bei den Augsburger Panthern aus: Die Augsburger Allgemeine, HITRADIO RT.1 und der regionale TV-Sender a.tv steigen in die Riege der Exklusivpartner des traditionsreichen DEL-Clubs auf. Damit festigt die Mediengruppe Pressedruck ihre Position als einer der größten Unterstützer des Augsburger Eishockeys. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Mediengruppe-Pressedruck-wird-Exklusivpartner-_naid,4290.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7341_1_org_ap_exklusivpartner_mediengruppe_pressedruck.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/mediengruppe-pressedruck-wird-exklusivpartner/019e06ee-c839-7df5-adcb-3ead7211bcec</link>
+      <description>Zur Saison 2026-27 baut die Mediengruppe Pressedruck ihr Engagement bei den Augsburger Panthern aus: Die Augsburger Allgemeine, HITRADIO RT.1 und der regionale TV-Sender a.tv steigen in die Riege der …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/mediengruppe-pressedruck-wird-exklusivpartner/019e06ee-c839-7df5-adcb-3ead7211bcec</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c839-7df5-adcb-3ead7211bcec.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2026 11:15:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther verpflichten Goalie Tobias Ancicka</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Goalie-Tobias-Ancicka-_naid,4291.html</link>
-      <description>Die Augsburger Panther können die Verpflichtung von Tobias Ancicka offiziell bestätigen. Der 25-jährige Torwart wechselt vom Hauptrundensieger Kölner Haie in die Fuggerstadt und bildet dort künftig mit Peyton Jones das deutsche Torwartduo des PENNY DEL-Clubs. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Goalie-Tobias-Ancicka-_naid,4291.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7342_1_org_AEVKEC_Goldberg_123.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-verpflichten-goalie-tobias-ancicka/019e06ee-c799-7361-9961-f346ca351a96</link>
+      <description>Die Augsburger Panther können die Verpflichtung von Tobias Ancicka offiziell bestätigen. Der 25-jährige Torwart wechselt vom Hauptrundensieger Kölner Haie in die Fuggerstadt und bildet dort künftig mi…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-goalie-tobias-ancicka/019e06ee-c799-7361-9961-f346ca351a96</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c799-7361-9961-f346ca351a96.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Apr 2026 11:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Jimmy Lambert wechselt in die Fuggerstadt</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Jimmy-Lambert-wechselt-in-die-Fuggerstadt-_naid,4292.html</link>
-      <description>Die Panther können den nächsten Neuzugang vermelden. Jimmy Lambert wechselt von den Grizzlys Wolfsburg in die Fuggerstadt und verstärkt in der PENNY DEL-Saison 2026-27 die Augsburger Offensive. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Jimmy-Lambert-wechselt-in-die-Fuggerstadt-_naid,4292.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7343_1_org_lambert_quer.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/jimmy-lambert-wechselt-in-die-fuggerstadt/019e06ee-c715-7e16-b72f-e71c9d68cfab</link>
+      <description>Die Panther können den nächsten Neuzugang vermelden. Jimmy Lambert wechselt von den Grizzlys Wolfsburg in die Fuggerstadt und verstärkt in der PENNY DEL-Saison 2026-27 die Augsburger Offensive.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/jimmy-lambert-wechselt-in-die-fuggerstadt/019e06ee-c715-7e16-b72f-e71c9d68cfab</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c715-7e16-b72f-e71c9d68cfab.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 03 May 2026 09:55:00 +0200</pubDate>
     </item>
     <item>
       <title>Alexander Blank gehört weiter zum Aufgebot des DEB-Teams</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Alexander-Blank-geh%C3%B6rt-weiter-zum-Aufgebot-des-DEB-Teams-_naid,4294.html</link>
-      <description>Für die Männer-Nationalmannschaft des Deutschen Eishockey-Bundes startet am heutigen Mittwoch die vierte und letzte Phase der Vorbereitung auf die IIHF Weltmeisterschaft 2026. Bundestrainer Harold Kreis hat insgesamt 28 Spieler nominiert, die sich in den kommenden Tagen in Mannheim auf das Länderspiel gegen die USA vorbereiten – den letzten Härtetest vor der Abreise in die Schweiz. Unverändert im deutschen Aufgebot steht mit Pantherstürmer Alexander Blank auch der punktbeste deutsche Spieler der vergangenen PENNY DEL-Hauptrunde. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Alexander-Blank-geh%C3%B6rt-weiter-zum-Aufgebot-des-DEB-Teams-_naid,4294.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7345_1_org_cp_WMV_DEB_AUT26_075k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/alexander-blank-gehoert-weiter-zum-aufgebot-des-deb-teams/019e06ee-c694-7196-bc06-1720ccc48dae</link>
+      <description>Für die Männer-Nationalmannschaft des Deutschen Eishockey-Bundes startet am heutigen Mittwoch die vierte und letzte Phase der Vorbereitung auf die IIHF Weltmeisterschaft 2026. Bundestrainer Harold Kre…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/alexander-blank-gehoert-weiter-zum-aufgebot-des-deb-teams/019e06ee-c694-7196-bc06-1720ccc48dae</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c694-7196-bc06-1720ccc48dae.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 13:00:00 +0200</pubDate>
     </item>
     <item>
       <title>PENNY DEL erreicht 2025-26 so viele TV-Zuschauer wie noch nie</title>
-      <link>https://www.aev-panther.de/panther/news_news,-PENNY-DEL-erreicht-2025-26-so-viele-TV-Zuschauer-wie-noch-nie-_naid,4295.html</link>
-      <description>Die Spiele der Saison 2025-26 in der Deutschen Eishockey Liga (PENNY DEL) haben so viele Fernsehzuschauer wie noch nie zuvor in der Geschichte der Liga erreicht. Insgesamt sahen in der abgelaufenen Spielzeit mehr als 36,5 Millionen Zuschauer die Live-Übertragungen der […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-PENNY-DEL-erreicht-2025-26-so-viele-TV-Zuschauer-wie-noch-nie-_naid,4295.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7346_1_org_20260102_AEVSERC_Goldberg_110.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/penny-del-erreicht-2025-26-so-viele-tv-zuschauer-wie-noch-nie/019e06ee-c60d-7682-ae20-177854553bfb</link>
+      <description>Die Spiele der Saison 2025-26 in der Deutschen Eishockey Liga (PENNY DEL) haben so viele Fernsehzuschauer wie noch nie zuvor in der Geschichte der Liga erreicht. Insgesamt sahen in der abgelaufenen Sp…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/penny-del-erreicht-2025-26-so-viele-tv-zuschauer-wie-noch-nie/019e06ee-c60d-7682-ae20-177854553bfb</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c60d-7682-ae20-177854553bfb.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther testen in Villach</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Villach-_naid,4293.html</link>
-      <description>Der Teilnahme beim Dolomitencup und zwei Heimspielen im Curt-Frenzel-stadion folgt ein weiterer Testspiel-Termin in der Vorbereitung auf die PENNY DEL-Saison 2026-27. Am Freitag, 11. September 2026 treffen die Augsburger Panther in der Stadthalle Villach auf den gastgebenden EC VSV. Spielbeginn ist um 19:15 Uhr. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Villach-_naid,4293.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7344_1_org_AEVVSV_Goldberg_162.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-testen-in-villach/019e06ee-c50c-7c86-863f-7cd6bb0cca44</link>
+      <description>Der Teilnahme beim Dolomitencup und zwei Heimspielen im Curt-Frenzel-stadion folgt ein weiterer Testspiel-Termin in der Vorbereitung auf die PENNY DEL-Saison 2026-27. Am Freitag, 11. September 2026 tr…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-testen-in-villach/019e06ee-c50c-7c86-863f-7cd6bb0cca44</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c50c-7c86-863f-7cd6bb0cca44.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 May 2026 11:00:00 +0200</pubDate>
     </item>
     <item>
       <title>JAKO bleibt Off-Ice-Ausstatter</title>
-      <link>https://www.aev-panther.de/panther/news_news,-JAKO-bleibt-Off-Ice-Ausstatter-_naid,4296.html</link>
-      <description>Die Augsburger Panther und der Augsburger Eislaufverein können bis mindestens 2029 auf erstklassige Off-Ice-Ausstattung aus dem Hause JAKO zählen. Der Ausrüstervertrag mit dem renommierten Teamsportausrüster aus Mulfingen wurde um drei Jahre verlängert und berücksichtigt neben der Ausstattung der Profiteams auch weiterhin den AEV-Nachwuchs über alle Altersklassen hinweg. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-JAKO-bleibt-Off-Ice-Ausstatter-_naid,4296.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7347_1_org_ap_Partnerschaft_JAKO.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/jako-bleibt-off-ice-ausstatter/019ecfb9-5912-7098-9053-8798bb383ac1</link>
+      <description>Die Augsburger Panther und der Augsburger Eislaufverein können bis mindestens 2029 auf erstklassige Off-Ice-Ausstattung aus dem Hause JAKO zählen. Der Ausrüstervertrag mit dem renommier…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/jako-bleibt-off-ice-ausstatter/019ecfb9-5912-7098-9053-8798bb383ac1</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5912-7098-9053-8798bb383ac1.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 14:20:00 +0200</pubDate>
     </item>
     <item>
       <title>Testspiel gegen den SC Bern</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Testspiel-gegen-den-SC-Bern-_naid,4297.html</link>
-      <description>Auch das sechste von insgesamt sieben geplanten Testspielen der Vorbereitung 2026 ist nun fix. Am Dienstag, 01. September 2026, treffen die Augsburger Panther in der Eishalle Schoren in Langenthal auf den SC Bern. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Testspiel-gegen-den-SC-Bern-_naid,4297.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7348_1_org_SIA_5386.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/testspiel-gegen-den-sc-bern/019ecfb9-5811-7a77-9994-4f7be69d10f9</link>
+      <description>Auch das sechste von insgesamt sieben geplanten Testspielen der Vorbereitung 2026 ist nun fix. Am Dienstag, 01. September 2026, treffen die Augsburger Panther in der Eishalle Schoren in Langenthal auf…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/testspiel-gegen-den-sc-bern/019ecfb9-5811-7a77-9994-4f7be69d10f9</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5811-7a77-9994-4f7be69d10f9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 May 2026 14:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther verpflichten Maximilian Glötzl</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Maximilian-Gl%C3%B6tzl-_naid,4298.html</link>
-      <description>Die Augsburger Panther können einen weiteren Neuzugang vermelden. In der Saison 2026-27 verstärkt Maximilian Glötzl die Defensive der Fuggerstädter. Der 24-jährige Verteidiger stand in den vergangenen sieben Spielzeiten im Kader der Kölner Haie. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-verpflichten-Maximilian-Gl%C3%B6tzl-_naid,4298.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7349_1_org_cp_HF5_EBB_KEC26_042.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-verpflichten-maximilian-gloetzl/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e</link>
+      <description>Die Augsburger Panther können einen weiteren Neuzugang vermelden. In der Saison 2026-27 verstärkt Maximilian Glötzl die Defensive der Fuggerstädter. Der 24-jährige Verteidiger stand in den vergangenen…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-maximilian-gloetzl/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 May 2026 09:50:00 +0200</pubDate>
     </item>
     <item>
       <title>Madison Bowey verlässt die Panther</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Madison-Bowey-verl%C3%A4sst-die-Panther-_naid,4299.html</link>
-      <description>Die letzte noch offene Personalie der Saison 2025-26 ist geklärt: Madison Bowey wird in der kommenden Spielzeit nicht mehr für die Augsburger Panther auflaufen. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Madison-Bowey-verl%C3%A4sst-die-Panther-_naid,4299.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7350_1_org_bowey_quer.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/madison-bowey-verlaesst-die-panther/019ecfb9-5457-7214-abdc-8447445a8e69</link>
+      <description>Die letzte noch offene Personalie der Saison 2025-26 ist geklärt: Madison Bowey wird in der kommenden Spielzeit nicht mehr für die Augsburger Panther auflaufen.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/madison-bowey-verlaesst-die-panther/019ecfb9-5457-7214-abdc-8447445a8e69</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5457-7214-abdc-8447445a8e69.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 08:50:00 +0200</pubDate>
     </item>
     <item>
-      <title>PENNY DEL: Panther haben Unterlagen fristgerecht eingereicht</title>
-      <link>https://www.aev-panther.de/panther/news_news,-PENNY-DEL-Panther-haben-Unterlagen-fristgerecht-eingereicht-_naid,4300.html</link>
-      <description>Alle 14 sportlich qualifizierten Clubs der PENNY DEL – darunter auch die Augsburger Panther Eishockey GmbH - reichen ihre Unterlagen für das Lizenzprüfungsverfahren der PENNY DEL-Saison 2026-27 fristgerecht ein. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-PENNY-DEL-Panther-haben-Unterlagen-fristgerecht-eingereicht-_naid,4300.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7351_1_org_20251228_AEVMAN_Goldberg_233.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 May 2026 15:19:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Panther haben Lizenz-Unterlagen fristgerecht eingereicht</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-haben-Lizenz-Unterlagen-fristgerecht-eingereicht-_naid,4300.html</link>
-      <description>Alle 14 sportlich qualifizierten Clubs der PENNY DEL – darunter auch die Augsburger Panther Eishockey GmbH - reichen ihre Unterlagen für das Lizenzprüfungsverfahren der PENNY DEL-Saison 2026-27 fristgerecht ein. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-haben-Lizenz-Unterlagen-fristgerecht-eingereicht-_naid,4300.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7351_1_org_20251228_AEVMAN_Goldberg_233.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-haben-lizenz-unterlagen-fristgerecht-eingereicht/019ecfb9-535f-737b-a1d7-453e965e4a76</link>
+      <description>Alle 14 sportlich qualifizierten Clubs der PENNY DEL – darunter auch die Augsburger Panther Eishockey GmbH - reichen ihre Unterlagen für das Lizenzprüfungsverfahren der PENNY DEL-Saiso…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-haben-lizenz-unterlagen-fristgerecht-eingereicht/019ecfb9-535f-737b-a1d7-453e965e4a76</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-535f-737b-a1d7-453e965e4a76.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 15:19:00 +0200</pubDate>
     </item>
     <item>
       <title>Nach GBS-Erkrankung - Peters macht Fortschritte bei der Rehabilitation</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Nach-GBS-Erkrankung-Peters-macht-Fortschritte-bei-der-Rehabilitation-_naid,4301.html</link>
-      <description>Bill Peters ist am Guillain-Barré-Syndrom (GBS) erkrankt und befindet sich deshalb seit dem 15. Mai in stationärer Behandlung. GBS ist eine Erkrankung, bei der das Immunsystem das Nervensystem angreift. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Nach-GBS-Erkrankung-Peters-macht-Fortschritte-bei-der-Rehabilitation-_naid,4301.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7352_1_org_20260315_AEVWOB_Goldberg_115.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/nach-gbs-erkrankung-peters-macht-fortschritte-bei-der-rehabilitation/019ecfb9-525e-7573-845d-22f9c66ba2a5</link>
+      <description>Bill Peters ist am Guillain-Barré-Syndrom (GBS) erkrankt und befindet sich deshalb seit dem 15. Mai in stationärer Behandlung. GBS ist eine Erkrankung, bei der das Immunsystem das Nervensy…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/nach-gbs-erkrankung-peters-macht-fortschritte-bei-der-rehabilitation/019ecfb9-525e-7573-845d-22f9c66ba2a5</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-525e-7573-845d-22f9c66ba2a5.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Jun 2026 15:45:00 +0200</pubDate>
     </item>
     <item>
       <title>Panther testen in Regensburg</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Regensburg-_naid,4303.html</link>
-      <description>Das Testspielprogramm der Augsburger Panther ist komplett. Am Sonntag, 30. August 2026 tritt das PENNY DEL-Team bei den Eisbären Regensburg in der Stadtwerk.Donau-Arena. Spielbeginn ist um 15:00 Uhr. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Panther-testen-in-Regensburg-_naid,4303.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7354_1_org_cp_d3_SP6_STR_AEV25_025k.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/panther-testen-in-regensburg/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d</link>
+      <description>Das Testspielprogramm der Augsburger Panther ist komplett. Am Sonntag, 30. August 2026 tritt das PENNY DEL-Team bei den Eisbären Regensburg in der Stadtwerk.Donau-Arena. Spielbeginn ist um 15:00 …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-testen-in-regensburg/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Jun 2026 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Das Panthercatering sucht einen Koch (m/w/d)</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Das-Panthercatering-sucht-einen-Koch-mwd-_naid,4302.html</link>
-      <description>Du liebst gutes Essen, kreative Küche und besondere Events? Dann komm zu uns ins Panthercatering und mache das Curt-Frenzel-Stadion zu deinem neuen Arbeitsplatz. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Das-Panthercatering-sucht-einen-Koch-mwd-_naid,4302.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7353_1_org_Steinhart_29.jpg" length="0" type="image/jpeg"/>
+      <link>https://www.aev-panther.de/artikel/das-panthercatering-sucht-einen-koch-m-w-d/019ecfb9-4f29-733b-b137-edcf1afdbafc</link>
+      <description>Du liebst gutes Essen, kreative Küche und besondere Events? Dann komm zu uns ins Panthercatering und mache das Curt-Frenzel-Stadion zu deinem neuen Arbeitsplatz.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/das-panthercatering-sucht-einen-koch-m-w-d/019ecfb9-4f29-733b-b137-edcf1afdbafc</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-4f29-733b-b137-edcf1afdbafc.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Jun 2026 09:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Wir suchen Verstärkung fürs Panther-Catering</title>
-      <link>https://www.aev-panther.de/panther/news_news,-Wir-suchen-Verst%C3%A4rkung-f%C3%BCrs-Panther-Catering-_naid,4304.html</link>
-      <description>Du liebst Eishockey, hast ein Herz für Gastfreundschaft und möchtest  unsere Heimspiele im Curt-Frenzel-Stadion aus einer ganz besonderen  Perspektive erleben? Dann suchen wir genau DICH! Die Augsburger Panther  suchen zur kommenden Saison engagierte, freundliche und volljährige  Mitarbeiter*innen (m/w/d) für ihr Stadion-Catering. […]</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/panther/news_news,-Wir-suchen-Verst%C3%A4rkung-f%C3%BCrs-Panther-Catering-_naid,4304.html</guid>
-      <enclosure url="https://www.aev-panther.de/cms_media/module_img/14/7356_1_org_20251204_AEVDRE_Goldberg_147.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 11:30:00 +0200</pubDate>
+      <link>https://www.aev-panther.de/artikel/wir-suchen-verstaerkung-fuers-panther-catering/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683</link>
+      <description>Du liebst Eishockey, hast ein Herz für Gastfreundschaft und möchtest unsere Heimspiele im Curt-Frenzel-Stadion aus einer ganz besonderen Perspektive erleben? Dann suchen wir genau DICH! Die Augsburger…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/wir-suchen-verstaerkung-fuers-panther-catering/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Jun 2026 13:16:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Alle 14 Clubs erhalten die Lizenz</title>
+      <link>https://www.aev-panther.de/artikel/alle-14-clubs-erhalten-die-lizenz/019efee4-2d8a-7ba8-8933-70d80ba0324a</link>
+      <description>Alle 13 sportlich qualifizierten Clubs aus der vergangenen Saison erhalten die Lizenz für die Saison 2026-27 in der Deutschen Eishockey Liga (PENNY DEL). Das ergab die Lizenzprüfung der Geschäftsführu…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/alle-14-clubs-erhalten-die-lizenz/019efee4-2d8a-7ba8-8933-70d80ba0324a</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019efee4-2d8a-7ba8-8933-70d80ba0324a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 15:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Der Hauptrunden-Spielplan ist da</title>
+      <link>https://www.aev-panther.de/artikel/der-hauptrunden-spielplan-ist-da/019f0322-d605-7e26-9429-67915f2167cc</link>
+      <description>Die 33. Saison der PENNY DEL wirft ihren Schatten voraus. Heute veröffentlichte die Deutsche Eishockey Liga den neuen Hauptrunden-Spielplan. Der 1. Spieltag der Panther Freitag, 18. September 2026. Wi…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/der-hauptrunden-spielplan-ist-da/019f0322-d605-7e26-9429-67915f2167cc</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f0322-d605-7e26-9429-67915f2167cc.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gerry Fleming wird Associate Coach</title>
+      <link>https://www.aev-panther.de/artikel/gerry-fleming-wird-associate-coach/019f1d21-4bef-7ea0-b0d5-91ded8a798c2</link>
+      <description>Die Augsburger Panther haben die offene Stelle in ihrem Trainerteam für die Saison 2026-27 mit Gerry Fleming besetzt. Der 59-jährige Kanadier wird beim PENNY DEL-Club künftig als Associate Coach fungi…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/gerry-fleming-wird-associate-coach/019f1d21-4bef-7ea0-b0d5-91ded8a798c2</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f1d21-4bef-7ea0-b0d5-91ded8a798c2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 12:05:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>DEB setzt bei Vereinsbetreuung künftig auf regionale Struktur</title>
+      <link>https://www.aev-panther.de/artikel/deb-setzt-bei-vereinsbetreuung-kuenftig-auf-regionale-struktur/019f21fd-495d-779f-ba0b-b64d6b9e57ee</link>
+      <description>Die Nachwuchsförderung im deutschen Eishockey wird neu strukturiert. Mit Wirkung zum heutigen 1. Juli 2026 stellt der Deutsche Eishockey Bund e.V. (DEB) die Vereinsbetreuung auf ein regionales Konzept…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/deb-setzt-bei-vereinsbetreuung-kuenftig-auf-regionale-struktur/019f21fd-495d-779f-ba0b-b64d6b9e57ee</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f21fd-495d-779f-ba0b-b64d6b9e57ee.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Die Dolomitencup 2026 rückt näher</title>
+      <link>https://www.aev-panther.de/artikel/die-dolomitencup-2026-rueckt-naeher/019f22fa-8b54-737e-9765-c6f1e5219281</link>
+      <description>Während sich der Sommer ausbreitet, rückt ein erstes großes Eishockey-Highlight der neuen Saison immer näher: In exakt 50 Tagen beginnt in Neumarkt/Südtirol die 20. Auflage des Dolomitencups.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/die-dolomitencup-2026-rueckt-naeher/019f22fa-8b54-737e-9765-c6f1e5219281</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f22fa-8b54-737e-9765-c6f1e5219281.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
