@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Jul 2026 21:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:04:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV verpasst Playoffs</title>
-      <link>https://www.aev-panther.de/artikel/aev-verpasst-playoffs/019d4f65-aaf4-765f-a8c9-20c18ef8e828</link>
-      <description>Die Augsburger Panther haben die Playoffs in der Saison 2025-26 in der PENNY DEL verpasst. Am vorletzten Spieltag unterlag der AEV trotz ansprechender Leistung beim ERC Ingolstadt mit 4:7 und hat somi…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verpasst-playoffs/019d4f65-aaf4-765f-a8c9-20c18ef8e828</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-aaf4-765f-a8c9-20c18ef8e828.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Mar 2026 18:49:00 +0100</pubDate>
-    </item>
     <item>
       <title>Clublegende T.J. Trevelyan beendet seine aktive Karriere</title>
       <link>https://www.aev-panther.de/artikel/clublegende-t-j-trevelyan-beendet-seine-aktive-karriere/019d4f65-ab7b-7a3b-b309-78326752fe5d</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-verteidiger-kyle-wood/019f26ef-d8f1-7abc-8ebc-17221ac6109a</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019f26ef-d8f1-7abc-8ebc-17221ac6109a.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Jul 2026 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther verstärken sich mit Sean Malone</title>
+      <link>https://www.aev-panther.de/artikel/panther-verstaerken-sich-mit-sean-malone/019f45bf-96e2-7036-b473-0e19ab7d6874</link>
+      <description>Die Augsburger Panther haben sich die Dienste eines umworbenen Mittelstürmers gesichert:Sean Maloneverstärkt in der Saison 2026-27 die Offensive des PENNY DEL-Clubs.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verstaerken-sich-mit-sean-malone/019f45bf-96e2-7036-b473-0e19ab7d6874</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f45bf-96e2-7036-b473-0e19ab7d6874.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
