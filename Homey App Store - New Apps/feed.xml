@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:00:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Greenheiss Solar</title>
-      <link>https://homey.app/a/com.greenheiss.solar</link>
-      <description>See your solar generation, household consumption and grid flow at a glance, and put your surplus to work.</description>
-      <author>noreply@homey.app (Fernando Lopez)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.greenheiss.solar</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.greenheiss.solar/4/8f4e2b05-d6bb-45e9-9299-0ecedc8ed9db/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jun 2026 11:24:57 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dockhand</title>
-      <link>https://homey.app/a/com.robnordkamp.dockhand</link>
-      <description>Docker container monitoring and control via Dockhand, right inside Homey.</description>
-      <author>noreply@homey.app (Rob Nordkamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.robnordkamp.dockhand</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.robnordkamp.dockhand/2/3fe1a9a6-025a-4a40-b481-729c95737604/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jun 2026 13:08:16 +0200</pubDate>
-    </item>
     <item>
       <title>FireAngel</title>
       <link>https://homey.app/a/uk.co.fireangel</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.satugi.jullix</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.satugi.jullix/4/2006cff2-91f4-4afa-a93b-c671833bbe1c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 16:36:30 +0200</pubDate>
+    </item>
+    <item>
+      <title>Senso4s</title>
+      <link>https://homey.app/a/com.senso.ble</link>
+      <description>Never run out of gas again.</description>
+      <author>noreply@homey.app (Bretislav Kubesa)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.senso.ble</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.senso.ble/7/9816959c-5876-463f-ae62-4d92ca3c38cb/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 13:00:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nightscout Monitor</title>
+      <link>https://homey.app/a/nl.bfvddikkenberg.nightscout</link>
+      <description>Your glucose data, always within reach.</description>
+      <author>noreply@homey.app (Bas van den Dikkenberg)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.bfvddikkenberg.nightscout</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.bfvddikkenberg.nightscout/3/bb155a6d-10a1-4285-a382-309988d59565/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 13:00:06 +0200</pubDate>
     </item>
   </channel>
 </rss>
