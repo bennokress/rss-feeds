@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:28:12 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>FireAngel</title>
-      <link>https://homey.app/a/uk.co.fireangel</link>
-      <description>Smart solutions for safer homes.</description>
-      <author>noreply@homey.app (Abe Haverkamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/uk.co.fireangel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/uk.co.fireangel/6/071113f3-c097-4280-b2b6-d7b846b4e360/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Jun 2026 13:08:16 +0200</pubDate>
-    </item>
     <item>
       <title>Waveshare Modbus Relay</title>
       <link>https://homey.app/a/net.ashtrees.waveshare-modbus-relay</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.bfvddikkenberg.nightscout</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.bfvddikkenberg.nightscout/3/bb155a6d-10a1-4285-a382-309988d59565/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Jul 2026 13:00:06 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aquatronica</title>
+      <link>https://homey.app/a/com.aquatronica</link>
+      <description>Monitor and control your aquarium</description>
+      <author>noreply@homey.app (Artur Łukowski)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aquatronica</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aquatronica/3/c0924084-4195-4dc3-ab16-d45297f624c7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 16:28:12 +0200</pubDate>
     </item>
   </channel>
 </rss>
