@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 14:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:55:10 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Waveshare Modbus Relay</title>
-      <link>https://homey.app/a/net.ashtrees.waveshare-modbus-relay</link>
-      <description>Smart relay control for Waveshare Modbus boards.</description>
-      <author>noreply@homey.app (Ian Hudson)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ashtrees.waveshare-modbus-relay</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ashtrees.waveshare-modbus-relay/5/2754de9a-0f68-41d9-b8e2-23d1ec5ca719/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 15:34:20 +0200</pubDate>
-    </item>
-    <item>
-      <title>Legrand with HomeKit Code</title>
-      <link>https://homey.app/a/com.legrand.homekit.local</link>
-      <description>Local, cloud-free Apple HomeKit HAP integration for Legrand Gateways and Smarther Thermostats</description>
-      <author>noreply@homey.app (Guray Kircuvaloglu)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.legrand.homekit.local</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.legrand.homekit.local/5/9d29295f-206d-440b-8b04-4fbda38e5e50/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 17:12:05 +0200</pubDate>
-    </item>
-    <item>
-      <title>Recycle België</title>
-      <link>https://homey.app/a/be.recycle</link>
-      <description>Belgian household waste pickup reminders for every address.</description>
-      <author>noreply@homey.app (Danny van Soerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.recycle</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.recycle/5/5ac05de1-ecde-4c09-bdaf-ca6a74619a22/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 17:12:05 +0200</pubDate>
-    </item>
-    <item>
-      <title>MCP AI Bridge</title>
-      <link>https://homey.app/a/community.mcp-ai-bridge</link>
-      <description>Your Homey Pro, powered by AI.</description>
-      <author>noreply@homey.app (Danny van Soerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.mcp-ai-bridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.mcp-ai-bridge/6/305f00df-b9cc-488e-8364-6f2a140ce909/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 17:12:05 +0200</pubDate>
-    </item>
     <item>
       <title>Cuchen</title>
       <link>https://homey.app/a/com.cuchen</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.aquatronica</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.aquatronica/3/c0924084-4195-4dc3-ab16-d45297f624c7/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 16:28:12 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jellycontrol</title>
+      <link>https://homey.app/a/com.frlrnzn.jellycontrol</link>
+      <description>Let your home react to what you're watching.</description>
+      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.frlrnzn.jellycontrol</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.frlrnzn.jellycontrol/4/c6418538-46f4-4a2d-946f-81b8e0194dc8/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>MOES</title>
+      <link>https://homey.app/a/net.franceweb.moes</link>
+      <description>Unlock full potential of your MOES Zigbee devices</description>
+      <author>noreply@homey.app (Serge PALUMBO)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.franceweb.moes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.franceweb.moes/6/e605edc6-9633-4bb2-aa6b-b45fc66294cc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Health Sync</title>
+      <link>https://homey.app/a/io.github.fbnlrz.healthsync</link>
+      <description>Your steps, heart rate, sleep and weight from Google Health on Homey</description>
+      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.github.fbnlrz.healthsync</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.github.fbnlrz.healthsync/17/f04f5a32-3086-42c9-abad-4a07329566fe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zigbee Insights</title>
+      <link>https://homey.app/a/com.all.zigbee</link>
+      <description>Monitor your Zigbee network and channel usage, view connected devices and their signal quality in real time.</description>
+      <author>noreply@homey.app (KM L)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.all.zigbee</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.all.zigbee/5/15f40e4d-52e0-479e-8642-49d05ec3850c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
     </item>
   </channel>
 </rss>
