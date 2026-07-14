@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:21:06 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Keypad Code Reader</title>
-      <link>https://homey.app/a/com.frient.keypad.coderead</link>
-      <description>Reads PIN codes entered on a Frient or Develco Intelligent Keypad</description>
-      <author>noreply@homey.app (Vincent van Dam)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.frient.keypad.coderead</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.frient.keypad.coderead/6/6d4830c2-b595-4e54-8dd4-71581960bc2f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 09:36:31 +0200</pubDate>
-    </item>
     <item>
       <title>Conditional Image Widget</title>
       <link>https://homey.app/a/com.conditionalimagewidget</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.anders.airport-airplay-detector</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.anders.airport-airplay-detector/1/90496518-51a2-4626-8e20-4fba103cf747/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>Link2Home</title>
+      <link>https://homey.app/a/com.link2home</link>
+      <description>Connect your Link2Home devices to Homey</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.link2home</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.link2home/3/1fc367fb-cf77-4814-b6c3-3d33e26c6689/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 21:21:04 +0200</pubDate>
     </item>
   </channel>
 </rss>
