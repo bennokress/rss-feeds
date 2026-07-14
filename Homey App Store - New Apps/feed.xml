@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 17:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:58:41 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Cuchen</title>
-      <link>https://homey.app/a/com.cuchen</link>
-      <description>Smarter living with Cuchen food disposers</description>
-      <author>noreply@homey.app (co.kr cuchen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.cuchen</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.cuchen/10/851bec80-9d5e-4fb5-b958-d3545c6ab716/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:14:34 +0200</pubDate>
-    </item>
-    <item>
-      <title>HT Bridge</title>
-      <link>https://homey.app/a/com.ht.dlab</link>
-      <description>Complete Your Smart Life with HT</description>
-      <author>noreply@homey.app (HT Access)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ht.dlab</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ht.dlab/19/5010c9d0-0217-4b99-9863-0f71b3194efc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 13:07:19 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cooldown Manager</title>
-      <link>https://homey.app/a/us.jamisonbennett.apps.cooldown-manager</link>
-      <description>Keep Flows from triggering too often with reusable cooldowns, multi-run limits, block-count alerts, and manual override cards.</description>
-      <author>noreply@homey.app (Jamison Bennett)</author>
-      <guid isPermaLink="false">https://homey.app/a/us.jamisonbennett.apps.cooldown-manager</guid>
-      <enclosure url="https://apps.homeycdn.net/app/us.jamisonbennett.apps.cooldown-manager/1/a6aa3965-5771-47aa-b592-16e253e71815/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 13:07:19 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tavily Search</title>
-      <link>https://homey.app/a/com.yuji.tavily</link>
-      <description>Tavily journeys across the web to bring back the answers you need.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.tavily</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.tavily/2/b88e8df1-c2d5-4e39-a50e-226395a3e1e5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 15:06:42 +0200</pubDate>
-    </item>
     <item>
       <title>Keypad Code Reader</title>
       <link>https://homey.app/a/com.frient.keypad.coderead</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.all.zigbee</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.all.zigbee/5/15f40e4d-52e0-479e-8642-49d05ec3850c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Shift Schedule</title>
+      <link>https://homey.app/a/nl.djordie.ploegendienst</link>
+      <description>Let your home adapt to every shift.</description>
+      <author>noreply@homey.app (Djordie Hendriks)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.djordie.ploegendienst</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.djordie.ploegendienst/1/fffb2b60-d0b5-4c9f-8c57-3bad3acf1536/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>Youtube Channel</title>
+      <link>https://homey.app/a/com.yuji.youtube</link>
+      <description>A quiet signal light for the channels you care about.</description>
+      <author>noreply@homey.app (Declan Rice)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.yuji.youtube</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.yuji.youtube/12/8217a169-127a-4f93-9728-01476ad2726e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>Python Script</title>
+      <link>https://homey.app/a/nl.hoeve.pythonscript</link>
+      <description>Run Python code from Advanced Flows</description>
+      <author>noreply@homey.app (Jacco Hoeve)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.hoeve.pythonscript</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.hoeve.pythonscript/6/3fc5e23c-a941-42ae-8399-b0a4e61cc0e0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
+    </item>
+    <item>
+      <title>Airport Airplay Detector</title>
+      <link>https://homey.app/a/com.anders.airport-airplay-detector</link>
+      <description>Let your classic AirPort Express trigger the right audio path automatically.</description>
+      <author>noreply@homey.app (Anders Pettersson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.anders.airport-airplay-detector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.anders.airport-airplay-detector/1/90496518-51a2-4626-8e20-4fba103cf747/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
     </item>
   </channel>
 </rss>
