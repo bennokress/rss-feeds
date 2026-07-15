@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Jul 2026 09:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:08:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Der letzte Tanz von Legende T.J. Trevelyan</title>
-      <link>https://www.aev-panther.de/artikel/der-letzte-tanz-von-legende-t-j-trevelyan/019d4f65-ac04-7a1d-8cfe-88fb678d6f31</link>
-      <description>Die Augsburger Panther erwarten im letzten Spiel ihrer Saison 2025-26 die Grizzlys Wolfsburg im ausverkauften Curt-Frenzel-Stadion, Eröffnungsbully ist um 14:00 Uhr. Die Clublegende T.J. Trevelya…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/der-letzte-tanz-von-legende-t-j-trevelyan/019d4f65-ac04-7a1d-8cfe-88fb678d6f31</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ac04-7a1d-8cfe-88fb678d6f31.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 07:45:00 +0100</pubDate>
-    </item>
     <item>
       <title>Trevelyan sagt Servus mit Tor &amp; zwei Assists</title>
       <link>https://www.aev-panther.de/artikel/trevelyan-sagt-servus-mit-tor-zwei-assists/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-luke-toporowski/019f4ae6-1ae6-7417-be35-0a374890c8be</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019f4ae6-1ae6-7417-be35-0a374890c8be.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 12 Jul 2026 09:40:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Felix Scheel wird ein Panther</title>
+      <link>https://www.aev-panther.de/artikel/felix-scheel-wird-ein-panther/019f650c-cee9-7dee-8f96-00f6eedd8833</link>
+      <description>Die Augsburger Panther können eine weitere Personalie bestätigen.Felix Scheelwechselt innerhalb der Deutschen Eishockey Liga von den Schwenninger Wild Wings in die Fuggerstadt. Der dänische Nationalsp…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/felix-scheel-wird-ein-panther/019f650c-cee9-7dee-8f96-00f6eedd8833</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f650c-cee9-7dee-8f96-00f6eedd8833.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
