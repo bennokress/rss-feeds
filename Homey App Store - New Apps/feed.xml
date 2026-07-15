@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 19:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:45:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Conditional Image Widget</title>
-      <link>https://homey.app/a/com.conditionalimagewidget</link>
-      <description>Dashboard widget that shows a different local image based on a boolean Homey sensor.</description>
-      <author>noreply@homey.app (Olivier Friedrich)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.conditionalimagewidget</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.conditionalimagewidget/3/9c92fdd9-f4a1-48c1-9797-acd0f41ff0d0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 11:20:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Garage Gateway</title>
-      <link>https://homey.app/a/com.fredhill.garage-gateway</link>
-      <description>Control iSmartGate and GogoGate2 garage doors locally — no cloud required.</description>
-      <author>noreply@homey.app (Fred Hill)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.fredhill.garage-gateway</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.fredhill.garage-gateway/3/090eb158-3ae1-4525-8a02-6ae9240c7054/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 13:19:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>Smart EVSE via MQTT</title>
-      <link>https://homey.app/a/com.sortedbits.smartevse</link>
-      <description>Full support for Smart EVSE via MQTT</description>
-      <author>noreply@homey.app (Wim Haanstra)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.sortedbits.smartevse</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.sortedbits.smartevse/5/bbc4142e-f053-4194-b8dc-86711786cd94/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 11:30:32 +0200</pubDate>
-    </item>
-    <item>
-      <title>Frient Keypad Code Reader</title>
-      <link>https://homey.app/a/nl.webbuilds.frient.keypad</link>
-      <description>Reads PIN codes entered on a Frient/Develco KEPZB-110 Intelligent Keypad</description>
-      <author>noreply@homey.app (Dennis Smink)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.webbuilds.frient.keypad</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.webbuilds.frient.keypad/2/1b5689b0-72de-4548-bb57-2ec3370f050a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:10:14 +0200</pubDate>
-    </item>
-    <item>
-      <title>Habity</title>
-      <link>https://homey.app/a/io.olae.habity</link>
-      <description>Habity - Less scrolling, more dreaming. A bedside clock designed to stop late-night scrolling.</description>
-      <author>noreply@homey.app (Ola Eriksson)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.olae.habity</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.olae.habity/4/72afb1ee-bd56-494f-bdb2-0ea1813c6250/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 10:10:14 +0200</pubDate>
-    </item>
     <item>
       <title>Korean Domestic Flight Monitor</title>
       <link>https://homey.app/a/com.yuji.airroute</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.link2home</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.link2home/3/1fc367fb-cf77-4814-b6c3-3d33e26c6689/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 21:21:04 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fjärås</title>
+      <link>https://homey.app/a/se.vandelay.fjaras</link>
+      <description>Control the fan and lighting of your Fjärås cooker hood separately over Bluetooth.</description>
+      <author>noreply@homey.app (Fredrik Wallström)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.vandelay.fjaras</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.vandelay.fjaras/7/c9ed3b71-7f14-4a36-8629-1e7959c3ebc5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Violet Pool Control</title>
+      <link>https://homey.app/a/de.neunbft.violet</link>
+      <description>Protects your pool's water balance — before problems start.</description>
+      <author>noreply@homey.app (Torsten Sturm)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.neunbft.violet</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.neunbft.violet/7/573a0965-244e-47dd-8e90-ac64fe447d0c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>HP iLO</title>
+      <link>https://homey.app/a/io.jak.hp-ilo</link>
+      <description>Manage and monitor HPE servers via the iLO Redfish API</description>
+      <author>noreply@homey.app (Jak Spalding)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.jak.hp-ilo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.jak.hp-ilo/5/424637af-4ec2-409e-a043-5e2dc3d60fea/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aigostar</title>
+      <link>https://homey.app/a/com.aigostar.unofficial</link>
+      <description>Set the right light in every room</description>
+      <author>noreply@homey.app (Angelantonio Maglio)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aigostar.unofficial</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aigostar.unofficial/7/a6f3dd70-b6ad-4dd9-bf2f-09529004824a/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mitsubishi Wifi AC</title>
+      <link>https://homey.app/a/au.com.cloudpixel.mitsubishi</link>
+      <description>Perfect climate comfort — fast, local and without a cloud account</description>
+      <author>noreply@homey.app (Keegan Cruickshank)</author>
+      <guid isPermaLink="false">https://homey.app/a/au.com.cloudpixel.mitsubishi</guid>
+      <enclosure url="https://apps.homeycdn.net/app/au.com.cloudpixel.mitsubishi/10/b7850a3c-f28c-4714-8af0-7b53c4d3b150/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
