@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:26:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Korean Domestic Flight Monitor</title>
-      <link>https://homey.app/a/com.yuji.airroute</link>
-      <description>Connect the next takeoff signal from Korea's domestic sky routes to Homey automations.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.airroute</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.airroute/4/934079e8-1f66-423d-acdf-feb154f99eb7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 10:07:32 +0200</pubDate>
-    </item>
     <item>
       <title>Ajax Security System</title>
       <link>https://homey.app/a/com.ajax.security</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/au.com.cloudpixel.mitsubishi</guid>
       <enclosure url="https://apps.homeycdn.net/app/au.com.cloudpixel.mitsubishi/10/b7850a3c-f28c-4714-8af0-7b53c4d3b150/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>AduroSmart ERIA</title>
+      <link>https://homey.app/a/com.adurosmart</link>
+      <description>Smarten Up Your Home</description>
+      <author>noreply@homey.app (Aduro Technologies)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.adurosmart</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.adurosmart/17/df0243b7-19fa-427a-a47b-ca4dbd133da6/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 17:26:16 +0200</pubDate>
     </item>
   </channel>
 </rss>
