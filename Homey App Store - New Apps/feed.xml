@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:07:15 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AI Flow Builder</title>
-      <link>https://homey.app/a/nl.byhim.aiflowbuilder</link>
-      <description>Describe an automation in plain language. AI builds the Advanced Flow for you.</description>
-      <author>noreply@homey.app (Mark Keulen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.byhim.aiflowbuilder</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.byhim.aiflowbuilder/2/62663d23-62fe-4d37-9396-e5677ef40e0f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
-    </item>
-    <item>
-      <title>myAudi</title>
-      <link>https://homey.app/a/com.audi.etron</link>
-      <description>Smart Audi, smarter home</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.audi.etron</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.audi.etron/54/309e4abc-d134-4c23-8524-784ca5608a93/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 13:49:27 +0200</pubDate>
-    </item>
-    <item>
-      <title>Smart EMS</title>
-      <link>https://homey.app/a/com.kaoh.smartems</link>
-      <description>Energy Management System with pluggable orchestrators for solar, battery, EV and managed loads.</description>
-      <author>noreply@homey.app (Vincent Boer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kaoh.smartems</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.smartems/6/8ee1e173-e817-4e59-bad8-864903410ae9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Jun 2026 09:58:58 +0200</pubDate>
-    </item>
     <item>
       <title>Axle VPP</title>
       <link>https://homey.app/a/energy.axle.vpp</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.acetec.evoair</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.acetec.evoair/1/7d5ec9a9-8379-4c8e-9536-f041e1c4f15e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 11:57:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>Thermia Online</title>
+      <link>https://homey.app/a/com.niklasjohansson.thermia</link>
+      <description>Smarter comfort from your heat pump.</description>
+      <author>noreply@homey.app (Niklas Johansson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.niklasjohansson.thermia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.niklasjohansson.thermia/2/96170714-a8e9-4105-bf22-003b1fd9a487/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Korea Electricity Bill Calculator</title>
+      <link>https://homey.app/a/com.lomohome.korea_elec_bill_cal</link>
+      <description>Know your electricity bill before it arrives</description>
+      <author>noreply@homey.app (Geunwon Mo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lomohome.korea_elec_bill_cal</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.korea_elec_bill_cal/9/1c2062bb-b919-46ac-b3fa-12a76933c001/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Android Automotive</title>
+      <link>https://homey.app/a/com.dimapp.aaos</link>
+      <description>Take your smart home on the road.</description>
+      <author>noreply@homey.app (Simone Di Maio)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dimapp.aaos</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dimapp.aaos/4/4e3cceb1-fa55-4126-b833-fd672142a2b6/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
