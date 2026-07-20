@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:04:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Axle VPP</title>
-      <link>https://homey.app/a/energy.axle.vpp</link>
-      <description>Earn from your home battery by automating responses to Axle Energy grid events.</description>
-      <author>noreply@homey.app (Jonathan Draper)</author>
-      <guid isPermaLink="false">https://homey.app/a/energy.axle.vpp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/energy.axle.vpp/11/27381876-3406-476d-b077-a4d2002fbf54/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Jun 2026 11:49:22 +0200</pubDate>
-    </item>
     <item>
       <title>HT Cloud</title>
       <link>https://homey.app/a/com.hyundaiht.cloud</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.dimapp.aaos</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dimapp.aaos/4/4e3cceb1-fa55-4126-b833-fd672142a2b6/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>EcoFlow STREAM Series</title>
+      <link>https://homey.app/a/uk.co.zarb.ecoflow</link>
+      <description>Turn balcony sunlight into smarter home energy</description>
+      <author>noreply@homey.app (Justin Zarb)</author>
+      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.ecoflow</guid>
+      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.ecoflow/13/020a23a0-8dc5-4ed5-837b-a812dd5489ca/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 20:04:17 +0200</pubDate>
     </item>
   </channel>
 </rss>
