@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 18:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:25:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HT Cloud</title>
-      <link>https://homey.app/a/com.hyundaiht.cloud</link>
-      <description>Complete Your Smart Life with HT</description>
-      <author>noreply@homey.app (hyundai HT)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.hyundaiht.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.hyundaiht.cloud/5/173a6ed7-60a6-42a5-8c47-e02d304fb149/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 09:48:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>Immich</title>
-      <link>https://homey.app/a/net.ladenius.immich</link>
-      <description>React to changes in and/or control Immich</description>
-      <author>noreply@homey.app (Jurjen Ladenius)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.ladenius.immich</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.ladenius.immich/4/f16a7e83-5e50-49d0-81e6-13e11721e1da/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 15:16:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>free@home Local</title>
-      <link>https://homey.app/a/com.wvell.freeathome</link>
-      <description>Switch and dim your free@home lights locally from Homey.</description>
-      <author>noreply@homey.app (Wytse Vellema)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wvell.freeathome</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wvell.freeathome/1/1af3306b-ec6e-4565-8f0c-989556ae3c13/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 14:04:15 +0200</pubDate>
-    </item>
     <item>
       <title>FireBoard</title>
       <link>https://homey.app/a/com.wolters.fireboard</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.ecoflow</guid>
       <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.ecoflow/13/020a23a0-8dc5-4ed5-837b-a812dd5489ca/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Jul 2026 20:04:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dexcom</title>
+      <link>https://homey.app/a/com.dexcom.share</link>
+      <description>Empowering people to take control of their diabetes.</description>
+      <author>noreply@homey.app (John Bothe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dexcom.share</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dexcom.share/1/f990168f-be66-4028-8e01-805a70b00d75/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>DeWarmte</title>
+      <link>https://homey.app/a/nl.davenelissen.dewarmte</link>
+      <description>Monitor your DeWarmte heat pump and use its status and temperatures in Flow.</description>
+      <author>noreply@homey.app (Dave Nelissen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.davenelissen.dewarmte</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.davenelissen.dewarmte/4/1efe39aa-aa34-49b6-abdb-abe7d38fc50f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>OSAIO</title>
+      <link>https://homey.app/a/net.osaio</link>
+      <description>Your Home. Safely in One Place.</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.osaio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.osaio/7/9dfd4ecc-c8f0-453f-a570-cf5e99c7ca60/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
     </item>
   </channel>
 </rss>
