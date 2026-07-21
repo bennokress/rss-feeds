@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Trevelyan sagt Servus mit Tor &amp; zwei Assists</title>
-      <link>https://www.aev-panther.de/artikel/trevelyan-sagt-servus-mit-tor-zwei-assists/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7</link>
-      <description>Die Augsburger Panther haben das letzte Vorrundenspiel der Spielzeit 2025-26 in der PENNY DEL verloren. Beim Abschied von Klublegende T.J. Trevelyan, der mit drei Scorerpunkten 'Good Bye' sagte, zeigt…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/trevelyan-sagt-servus-mit-tor-zwei-assists/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ac8a-7e7a-acff-3059a1d5d7d7.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Mar 2026 12:54:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther verabschieden sich am 20. März von ihren Fans</title>
       <link>https://www.aev-panther.de/artikel/panther-verabschieden-sich-am-20-maerz-von-ihren-fans/019d4f65-ad10-77b8-b5b0-8515cd15760b</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/felix-scheel-wird-ein-panther/019f650c-cee9-7dee-8f96-00f6eedd8833</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019f650c-cee9-7dee-8f96-00f6eedd8833.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vergünstigter Eintritt bei Tests gegen Kloten &amp; Frankfurt</title>
+      <link>https://www.aev-panther.de/artikel/verguenstigter-eintritt-bei-tests-gegen-kloten-frankfurt/019f84f1-9e25-7d59-b5fa-6e7391acbdac</link>
+      <description>Die Augsburger Panther bestreiten in Vorbereitung auf die PENNY DEL-Hauptrunde 2026-27 zwei Testspiele im Curt-Frenzel-Stadion. Am 28. August gibt der EHC Kloten seine Visitenkarten in der Fuggerstadt…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/verguenstigter-eintritt-bei-tests-gegen-kloten-frankfurt/019f84f1-9e25-7d59-b5fa-6e7391acbdac</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019f84f1-9e25-7d59-b5fa-6e7391acbdac.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
