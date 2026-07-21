@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:51:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>FireBoard</title>
-      <link>https://homey.app/a/com.wolters.fireboard</link>
-      <description>The Complete Package.</description>
-      <author>noreply@homey.app (H. Wolters)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wolters.fireboard</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wolters.fireboard/3/b46ee259-e1fb-40d3-9b87-2a2caffa15dc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 14:04:15 +0200</pubDate>
-    </item>
     <item>
       <title>Vestaboard</title>
       <link>https://homey.app/a/com.vestaboard</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/net.osaio</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.osaio/7/9dfd4ecc-c8f0-453f-a570-cf5e99c7ca60/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mennekes Amtron 4You</title>
+      <link>https://homey.app/a/mennekes4you.modbus</link>
+      <description>Charge your electric car on your own solar power</description>
+      <author>noreply@homey.app (Christiaan van Klinken)</author>
+      <guid isPermaLink="false">https://homey.app/a/mennekes4you.modbus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/mennekes4you.modbus/4/84b33ac4-7add-4e03-bd87-8abc0fe42602/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 15:51:56 +0200</pubDate>
     </item>
   </channel>
 </rss>
