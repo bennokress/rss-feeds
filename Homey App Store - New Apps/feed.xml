@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 10:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:56:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ultimate EMS</title>
-      <link>https://homey.app/a/com.ultimate.ems</link>
-      <description>Intelligent energy management for solar, battery, EV and heat pump</description>
-      <author>noreply@homey.app (Menno De Braak)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ultimate.ems</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ultimate.ems/12/0ede1af0-af72-432a-ac90-28295903d655/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 11:12:36 +0200</pubDate>
-    </item>
     <item>
       <title>Waterguard</title>
       <link>https://homey.app/a/org.barelysufficient.waterguard</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.airco.bridge</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.airco.bridge/2/9aec2e14-b315-4f2e-9e09-f058bfe938c1/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 12:25:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Matter Insights</title>
+      <link>https://homey.app/a/com.all.matter</link>
+      <description>Your Matter devices at a glance.</description>
+      <author>noreply@homey.app (KM L)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.all.matter</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.all.matter/3/a63b68ca-111f-49f6-a665-3c9804d5287e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 15:56:35 +0200</pubDate>
     </item>
   </channel>
 </rss>
