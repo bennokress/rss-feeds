@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:25:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Octopus Energy</title>
-      <link>https://homey.app/a/uk.co.zarb.octopusenergy</link>
-      <description>Power your home when energy is cheapest and greenest.</description>
-      <author>noreply@homey.app (Justin Zarb)</author>
-      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.octopusenergy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.octopusenergy/7/e3cc4c77-ff13-4f62-9191-4aa6f41b8c36/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 09:18:58 +0200</pubDate>
-    </item>
     <item>
       <title>Go-e</title>
       <link>https://homey.app/a/com.go-e</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.blankestijnict.imagecrop</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.blankestijnict.imagecrop/5/d9674946-4f9f-4235-b9db-adf5d4d31068/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 12:18:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>OSRAM SMART+</title>
+      <link>https://homey.app/a/com.osramsmart</link>
+      <description>Power through Light</description>
+      <author>noreply@homey.app (Ledvance GmbH)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.osramsmart</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.osramsmart/1/eb5247df-237e-445c-ab18-40747b5a8eec/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 17:25:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
