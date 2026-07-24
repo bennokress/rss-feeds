@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:18:42 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Eight Sleep</title>
-      <link>https://homey.app/a/com.eightsleep</link>
-      <description>Dial in the perfect temperature for every night's sleep.</description>
-      <author>noreply@homey.app (Justin Zarb)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.eightsleep</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.eightsleep/4/156ae0e8-b935-4d6d-a10f-7e9eb91ab6f5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 17:03:34 +0200</pubDate>
-    </item>
-    <item>
-      <title>Salus Controls</title>
-      <link>https://homey.app/a/uk.co.zarb.salusit600</link>
-      <description>Comfort in every room</description>
-      <author>noreply@homey.app (Justin Zarb)</author>
-      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.salusit600</guid>
-      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.salusit600/5/f21d5e1c-b461-4d87-966a-b074fa8b50ef/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 09:18:58 +0200</pubDate>
-    </item>
     <item>
       <title>Octopus Energy</title>
       <link>https://homey.app/a/uk.co.zarb.octopusenergy</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.evcc.io</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.evcc.io/6/fb23527d-5c7d-468b-95af-39d44ec5c143/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 21:21:01 +0200</pubDate>
+    </item>
+    <item>
+      <title>Media Store</title>
+      <link>https://homey.app/a/com.ekdahl.mediastore</link>
+      <description>Archive photos and log files from your Flows, with automatic cleanup.</description>
+      <author>noreply@homey.app (Thomas Ekdahl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ekdahl.mediastore</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ekdahl.mediastore/3/8a7b9d4b-6b07-4a96-a305-bfe6acbad750/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 12:18:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Image Crop</title>
+      <link>https://homey.app/a/nl.blankestijnict.imagecrop</link>
+      <description>Crop images inside a Homey flow.</description>
+      <author>noreply@homey.app (Joost Blankestijn)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.blankestijnict.imagecrop</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.blankestijnict.imagecrop/5/d9674946-4f9f-4235-b9db-adf5d4d31068/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 12:18:40 +0200</pubDate>
     </item>
   </channel>
 </rss>
