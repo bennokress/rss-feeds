@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:36:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>VW Group Vehicles</title>
-      <link>https://homey.app/a/com.vwgroup.vehicledata</link>
-      <description>Monitor your VW, Audi, Škoda, SEAT, Cupra or Bentley — battery, range, charging and more on your Homey.</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.vwgroup.vehicledata</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.vwgroup.vehicledata/20/a10b8087-743e-4f22-89e0-5e7fd5c35466/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 15:02:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hue Doorbell</title>
-      <link>https://homey.app/a/ai.g3n3s1s.huedoorbell</link>
-      <description>Never miss a visitor at your Philips Hue video doorbell.</description>
-      <author>noreply@homey.app (Tim Riegman)</author>
-      <guid isPermaLink="false">https://homey.app/a/ai.g3n3s1s.huedoorbell</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ai.g3n3s1s.huedoorbell/5/82e2f918-a86a-44e8-a518-cd7b75821de0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 17:03:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mammotion</title>
-      <link>https://homey.app/a/net.tornbloms.mammotion</link>
-      <description>Your lawn, perfectly cut, without lifting a finger</description>
-      <author>noreply@homey.app (Mathias Törnblom)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.tornbloms.mammotion</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.tornbloms.mammotion/32/b2d27bd5-f313-4227-84ed-7bbef3603a86/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 16:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Wear OS Controller</title>
-      <link>https://homey.app/a/com.kaoh.wearoscontroller</link>
-      <description>Your smart home, right on your wrist.</description>
-      <author>noreply@homey.app (Vincent Boer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kaoh.wearoscontroller</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kaoh.wearoscontroller/1/880b3db9-74d8-4d4b-bf65-1bb80359ffeb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 19:49:12 +0200</pubDate>
-    </item>
     <item>
       <title>McCallister Guard</title>
       <link>https://homey.app/a/com.ekdahl.mccallister-guard</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/nl.frontend-webdeveloper.irrigation-caddy</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.frontend-webdeveloper.irrigation-caddy/3/4752209b-14b3-443a-b54e-1d43b41e1acd/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 13:22:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>SwannOne</title>
+      <link>https://homey.app/a/com.gerald.swannonekeyfob</link>
+      <description>Control your home with a press of your key fob.</description>
+      <author>noreply@homey.app (Gerald Lankamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.gerald.swannonekeyfob</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.gerald.swannonekeyfob/8/c981b0bd-792a-4a90-b95a-cf94409d0922/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>BLE Mower MQTT</title>
+      <link>https://homey.app/a/com.gruijter.blemower</link>
+      <description>Mowing your lawn the bluetooth way!</description>
+      <author>noreply@homey.app (Robin de Gruijter)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.gruijter.blemower</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.gruijter.blemower/2/00f8a915-e0ed-4642-ab16-172523f1a16c/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hikvision AX PRO Alarm</title>
+      <link>https://homey.app/a/se.manvarg.hikvision-axpro</link>
+      <description>Your Hikvision AX PRO alarm, always in the loop.</description>
+      <author>noreply@homey.app (Ulf Holmström)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.manvarg.hikvision-axpro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.manvarg.hikvision-axpro/6/315ff478-1dec-4e38-b96b-66adeea7aef5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Video Doorbell and Lock</title>
+      <link>https://homey.app/a/com.lomohome.video_door_bell_lock</link>
+      <description>See who is at the door and unlock from anywhere</description>
+      <author>noreply@homey.app (Geunwon Mo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lomohome.video_door_bell_lock</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.video_door_bell_lock/6/3fc33203-de37-4f80-96bd-9c9c9ac745fc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
     </item>
   </channel>
 </rss>
