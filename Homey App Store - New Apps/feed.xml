@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:22:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Go-e</title>
-      <link>https://homey.app/a/com.go-e</link>
-      <description>Simply Charge Smart.</description>
-      <author>noreply@homey.app (Complus Ky)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.go-e</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.go-e/18/46c9925c-0e87-4410-a567-1f1dec539308/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 19:05:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>Motionblinds</title>
-      <link>https://homey.app/a/com.motionblinds</link>
-      <description>Smart blinds that move with your home.</description>
-      <author>noreply@homey.app (Coulisse B.V.)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.motionblinds</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.motionblinds/8/9e0a813a-0f24-491b-8ed6-267fbd08c14a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 15:02:48 +0200</pubDate>
-    </item>
     <item>
       <title>VW Group Vehicles</title>
       <link>https://homey.app/a/com.vwgroup.vehicledata</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.osramsmart</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.osramsmart/1/eb5247df-237e-445c-ab18-40747b5a8eec/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 17:25:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Linkind</title>
+      <link>https://homey.app/a/com.linkind.matter</link>
+      <description>Make every moment brighter with colorful, comfortable lighting</description>
+      <author>noreply@homey.app (Leedarson L)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.linkind.matter</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.linkind.matter/1/5069f37d-13b1-47c5-a483-399347c93a3a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:22:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Irrigation Caddy</title>
+      <link>https://homey.app/a/nl.frontend-webdeveloper.irrigation-caddy</link>
+      <description>Smart garden irrigation on autopilot.</description>
+      <author>noreply@homey.app (René Vianen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.frontend-webdeveloper.irrigation-caddy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.frontend-webdeveloper.irrigation-caddy/3/4752209b-14b3-443a-b54e-1d43b41e1acd/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:22:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
