@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:35:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>McCallister Guard</title>
-      <link>https://homey.app/a/com.ekdahl.mccallister-guard</link>
-      <description>Home Alone inspired smart security: psychological deterrence for intruders.</description>
-      <author>noreply@homey.app (Thomas Ekdahl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ekdahl.mccallister-guard</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ekdahl.mccallister-guard/4/ab93e949-6fbb-431f-aad1-76fd42f260a0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 18:51:45 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trane Home</title>
-      <link>https://homey.app/a/com.mynexia</link>
-      <description>It's Hard To Stop A Trane</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mynexia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mynexia/8/a5b6d182-6059-4cf0-ab64-3fa10c66a49d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 09:39:19 +0200</pubDate>
-    </item>
-    <item>
-      <title>American Standard Home</title>
-      <link>https://homey.app/a/com.asairhome</link>
-      <description>Built To A Higher Standard</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.asairhome</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.asairhome/4/8e573f32-b43c-4809-a78c-b3c8db975699/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 09:39:19 +0200</pubDate>
-    </item>
-    <item>
-      <title>AquaCell</title>
-      <link>https://homey.app/a/com.aquacell.waterontharder</link>
-      <description>Monitor your AquaCell water softener</description>
-      <author>noreply@homey.app (Sander Jacobsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.aquacell.waterontharder</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.aquacell.waterontharder/3/e77a0bcf-95c6-4961-b2ac-2553edd899db/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>Smartstuff</title>
-      <link>https://homey.app/a/nl.smartstuff</link>
-      <description>Take charge of your own energy at home</description>
-      <author>noreply@homey.app (Martijn Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.smartstuff</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.smartstuff/9/ae82940f-697b-4586-adc4-12cac9c557aa/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
-    </item>
     <item>
       <title>Smart</title>
       <link>https://homey.app/a/com.smart.hashtag</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.lomohome.video_door_bell_lock</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lomohome.video_door_bell_lock/6/3fc33203-de37-4f80-96bd-9c9c9ac745fc/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>Verisure Alarm</title>
+      <link>https://homey.app/a/com.evb.verisure</link>
+      <description>Protecting what matters most</description>
+      <author>noreply@homey.app (Evgeny Bugakov)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.evb.verisure</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.evb.verisure/3/6de89132-c070-47f3-8e1a-a26133448e6d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Owlet Care</title>
+      <link>https://homey.app/a/dev.miniatur.smartsock</link>
+      <description>Peace of mind, built into your smart home</description>
+      <author>noreply@homey.app (Moritz Clever)</author>
+      <guid isPermaLink="false">https://homey.app/a/dev.miniatur.smartsock</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dev.miniatur.smartsock/3/c2821535-f207-4081-b01f-eca734f1b6fe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Reachy Mini Controller</title>
+      <link>https://homey.app/a/co.hf.reachy</link>
+      <description>The eyes, ears, and voice for your Homey.</description>
+      <author>noreply@homey.app (Jeff Singleton)</author>
+      <guid isPermaLink="false">https://homey.app/a/co.hf.reachy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/co.hf.reachy/3/96d4cfb2-a989-46b5-bb3b-99647f8ec1cf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Device Watchdog</title>
+      <link>https://homey.app/a/com.rickd.devicewatchdog</link>
+      <description>Battery, connectivity, and data-freshness monitoring for all your Homey devices.</description>
+      <author>noreply@homey.app (Richard Dubs)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rickd.devicewatchdog</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rickd.devicewatchdog/14/b70e4055-0d8c-4b60-b690-186da5047247/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>ecobee Comfort</title>
+      <link>https://homey.app/a/com.dellarciprete.ecobee</link>
+      <description>Switch your ecobee between Home, Away, and Sleep — right from Homey.</description>
+      <author>noreply@homey.app (John DellArciprete)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dellarciprete.ecobee</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dellarciprete.ecobee/2/6f26affe-b30c-4925-9475-99d131439faf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
