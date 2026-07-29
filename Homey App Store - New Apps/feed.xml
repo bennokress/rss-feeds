@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:10:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>iDotMatrix</title>
-      <link>https://homey.app/a/com.idotmatrix</link>
-      <description>Your pixel displays, animated with Homey.</description>
-      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.idotmatrix</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.idotmatrix/13/49fead75-d64c-433c-a214-54d1e634065d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>Google Photos Slideshow</title>
-      <link>https://homey.app/a/com.seyedjafari.albumslider</link>
-      <description>Slideshow any public Google Photos album on your dashboard — just paste a shared link.</description>
-      <author>noreply@homey.app (Seyed Jafari)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.seyedjafari.albumslider</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.seyedjafari.albumslider/2/32529eae-323f-4f66-ac2d-1a287ae09389/assets/images/banner-v2-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
-    </item>
     <item>
       <title>Jullix</title>
       <link>https://homey.app/a/com.satugi.jullix</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/ai.porten.agents</guid>
       <enclosure url="https://apps.homeycdn.net/app/ai.porten.agents/4/b5377e42-d2d5-4050-9dfd-e83af2d18d3a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Jul 2026 12:39:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pet Feeder Connector</title>
+      <link>https://homey.app/a/nl.djordie.petfeederconnector</link>
+      <description>Make every mealtime smart, reliable and right on schedule.</description>
+      <author>noreply@homey.app (Djordie Hendriks)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.djordie.petfeederconnector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.djordie.petfeederconnector/6/dcb66f61-e12f-4670-beb6-1066c25308c2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 16:10:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>SR-201 Relay Controller</title>
+      <link>https://homey.app/a/com.rompa.sr201controller2</link>
+      <description>Keep your two-channel Ethernet relay in sync with Homey.</description>
+      <author>noreply@homey.app (John Bear)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rompa.sr201controller2</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rompa.sr201controller2/1/99cfed20-8ea0-4028-a781-423a35f82077/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 16:10:53 +0200</pubDate>
     </item>
   </channel>
 </rss>
