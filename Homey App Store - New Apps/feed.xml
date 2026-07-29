@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:39:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Smart</title>
-      <link>https://homey.app/a/com.smart.hashtag</link>
-      <description>Bring your Smart #1, #3 and #5 into your home</description>
-      <author>noreply@homey.app (Justin Zarb)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.smart.hashtag</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.smart.hashtag/2/51c09026-5581-4797-89c3-e16cb078c094/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 12:57:21 +0200</pubDate>
-    </item>
     <item>
       <title>iDotMatrix</title>
       <link>https://homey.app/a/com.idotmatrix</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.dellarciprete.ecobee</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dellarciprete.ecobee/2/6f26affe-b30c-4925-9475-99d131439faf/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Porten AI</title>
+      <link>https://homey.app/a/ai.porten.agents</link>
+      <description>AI agents for your flows — EU-sovereign inference on community GPUs</description>
+      <author>noreply@homey.app (Stefan Wärting)</author>
+      <guid isPermaLink="false">https://homey.app/a/ai.porten.agents</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ai.porten.agents/4/b5377e42-d2d5-4050-9dfd-e83af2d18d3a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 12:39:35 +0200</pubDate>
     </item>
   </channel>
 </rss>
