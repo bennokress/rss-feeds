@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:44:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Neuer Zuschauerrekord für die Panther</title>
-      <link>https://www.aev-panther.de/artikel/neuer-zuschauerrekord-fuer-die-panther/019d4f65-ada0-783e-8f35-6ac7328f72da</link>
-      <description>Die 32. Saison der Augsburger Panther in der Deutschen Eishockey Liga ist seit Sonntag Geschichte. Endlich wieder ein frühzeitiger Klassenerhalt, Platz 10 bis kurz vor Hauptrunden-Ende mögli…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/neuer-zuschauerrekord-fuer-die-panther/019d4f65-ada0-783e-8f35-6ac7328f72da</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-ada0-783e-8f35-6ac7328f72da.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Mar 2026 10:15:00 +0100</pubDate>
-    </item>
     <item>
       <title>Clubs bestätigen ihren Aufsichtsrat für vier weitere Jahre</title>
       <link>https://www.aev-panther.de/artikel/clubs-bestaetigen-ihren-aufsichtsrat-fuer-vier-weitere-jahre/019d4f65-ae24-7123-b7d0-ab453c68b8be</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/1-oeffentliches-eistraining-am-14-august/019f931f-7cec-773a-bb5a-085839086f11</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019f931f-7cec-773a-bb5a-085839086f11.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther &amp; AEV veröffentlichen dritten Nachhaltigkeitsbericht</title>
+      <link>https://www.aev-panther.de/artikel/panther-aev-veroeffentlichen-dritten-nachhaltigkeitsbericht/019fad5f-1122-7c39-9311-a4075a676370</link>
+      <description>Die Augsburger Panther und der Augsburger Eislaufverein e.V. haben ihren dritten gemeinsamen Nachhaltigkeitsbericht veröffentlicht. Auf 50 Seiten bietet der Bericht eine Übersicht über die Nachhaltigk…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-aev-veroeffentlichen-dritten-nachhaltigkeitsbericht/019fad5f-1122-7c39-9311-a4075a676370</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019fad5f-1122-7c39-9311-a4075a676370.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 12:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
