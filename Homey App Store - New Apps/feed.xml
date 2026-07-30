@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:24:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Jullix</title>
-      <link>https://homey.app/a/com.satugi.jullix</link>
-      <description>See every watt, save every euro</description>
-      <author>noreply@homey.app (Stijn Flater)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.satugi.jullix</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.satugi.jullix/4/2006cff2-91f4-4afa-a93b-c671833bbe1c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 16:36:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>Senso4s</title>
-      <link>https://homey.app/a/com.senso.ble</link>
-      <description>Never run out of gas again.</description>
-      <author>noreply@homey.app (Bretislav Kubesa)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.senso.ble</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.senso.ble/7/9816959c-5876-463f-ae62-4d92ca3c38cb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 13:00:06 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nightscout Monitor</title>
-      <link>https://homey.app/a/nl.bfvddikkenberg.nightscout</link>
-      <description>Your glucose data, always within reach.</description>
-      <author>noreply@homey.app (Bas van den Dikkenberg)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.bfvddikkenberg.nightscout</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.bfvddikkenberg.nightscout/3/bb155a6d-10a1-4285-a382-309988d59565/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 13:00:06 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aquatronica</title>
-      <link>https://homey.app/a/com.aquatronica</link>
-      <description>Monitor and control your aquarium</description>
-      <author>noreply@homey.app (Artur Łukowski)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.aquatronica</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.aquatronica/3/c0924084-4195-4dc3-ab16-d45297f624c7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 16:28:12 +0200</pubDate>
-    </item>
-    <item>
-      <title>Jellycontrol</title>
-      <link>https://homey.app/a/com.frlrnzn.jellycontrol</link>
-      <description>Let your home react to what you're watching.</description>
-      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.frlrnzn.jellycontrol</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.frlrnzn.jellycontrol/4/c6418538-46f4-4a2d-946f-81b8e0194dc8/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
-    </item>
     <item>
       <title>MOES</title>
       <link>https://homey.app/a/net.franceweb.moes</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.rompa.sr201controller2</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rompa.sr201controller2/1/99cfed20-8ea0-4028-a781-423a35f82077/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Jul 2026 16:10:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>TSUN Solar (Local)</title>
+      <link>https://homey.app/a/com.fieberit.tsun</link>
+      <description>Bring your TSUN balcony solar inverter's live power and yield straight into Homey — fully local, no cloud needed.</description>
+      <author>noreply@homey.app (Simon Fieber)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.fieberit.tsun</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.fieberit.tsun/6/5eb8c87b-edb4-4f07-8b68-00152c74f58a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>IMOU Life</title>
+      <link>https://homey.app/a/nl.robinpeters.imoulife</link>
+      <description>Keep an eye on your front door, wherever you are.</description>
+      <author>noreply@homey.app (Robin Peters)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.robinpeters.imoulife</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.robinpeters.imoulife/2/66203899-7099-49c9-8bb6-837fef26c584/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Yale Alarm System</title>
+      <link>https://homey.app/a/nl.dijkhuisdevelopment.yalesmartalarm</link>
+      <description>Keep your Yale Smart Alarm connected, visible and ready throughout your home.</description>
+      <author>noreply@homey.app (Dijkhuis Development)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dijkhuisdevelopment.yalesmartalarm</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dijkhuisdevelopment.yalesmartalarm/2/2bd04edd-8a96-40ed-9020-14abd36496ce/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>ecoMAX Controller</title>
+      <link>https://homey.app/a/io.github.peze78.ecomax</link>
+      <description>Your ecoMAX heating system, always in sight.</description>
+      <author>noreply@homey.app (Johan Hansson)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.github.peze78.ecomax</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.github.peze78.ecomax/10/d9bea216-4de0-408b-9970-d2a5b1d80840/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Maxitrol</title>
+      <link>https://homey.app/a/com.maxitrol.fireplace</link>
+      <description>Bring your G6R fireplace into the heart of your smart home.</description>
+      <author>noreply@homey.app (Michael D)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.maxitrol.fireplace</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.maxitrol.fireplace/1/2b12507d-d1f5-4e61-8777-1e8f9477de9e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
     </item>
   </channel>
 </rss>
