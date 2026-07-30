@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 10:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:03:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MOES</title>
-      <link>https://homey.app/a/net.franceweb.moes</link>
-      <description>Unlock full potential of your MOES Zigbee devices</description>
-      <author>noreply@homey.app (Serge PALUMBO)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.franceweb.moes</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.franceweb.moes/6/e605edc6-9633-4bb2-aa6b-b45fc66294cc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
-    </item>
     <item>
       <title>Health Sync</title>
       <link>https://homey.app/a/io.github.fbnlrz.healthsync</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.maxitrol.fireplace</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.maxitrol.fireplace/1/2b12507d-d1f5-4e61-8777-1e8f9477de9e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>SmartThings Local</title>
+      <link>https://homey.app/a/com.lomohome.localthings</link>
+      <description>Control Samsung appliances locally, with no cloud in between</description>
+      <author>noreply@homey.app (Geunwon Mo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lomohome.localthings</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.localthings/5/54241851-6b48-4583-8e49-ec1caf47053b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 16:03:21 +0200</pubDate>
     </item>
   </channel>
 </rss>
