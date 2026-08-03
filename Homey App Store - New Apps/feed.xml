@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:40:12 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Health Sync</title>
-      <link>https://homey.app/a/io.github.fbnlrz.healthsync</link>
-      <description>Your steps, heart rate, sleep and weight from Google Health on Homey</description>
-      <author>noreply@homey.app (Fabian-René Lorenzen)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.github.fbnlrz.healthsync</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.github.fbnlrz.healthsync/17/f04f5a32-3086-42c9-abad-4a07329566fe/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
-    </item>
-    <item>
-      <title>Zigbee Insights</title>
-      <link>https://homey.app/a/com.all.zigbee</link>
-      <description>Monitor your Zigbee network and channel usage, view connected devices and their signal quality in real time.</description>
-      <author>noreply@homey.app (KM L)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.all.zigbee</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.all.zigbee/5/15f40e4d-52e0-479e-8642-49d05ec3850c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 19:55:07 +0200</pubDate>
-    </item>
-    <item>
-      <title>Shift Schedule</title>
-      <link>https://homey.app/a/nl.djordie.ploegendienst</link>
-      <description>Let your home adapt to every shift.</description>
-      <author>noreply@homey.app (Djordie Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.djordie.ploegendienst</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.djordie.ploegendienst/1/fffb2b60-d0b5-4c9f-8c57-3bad3acf1536/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
-    </item>
     <item>
       <title>Youtube Channel</title>
       <link>https://homey.app/a/com.yuji.youtube</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.lomohome.localthings</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lomohome.localthings/5/54241851-6b48-4583-8e49-ec1caf47053b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 16:03:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panasonic Aquarea</title>
+      <link>https://homey.app/a/com.panasonic.aquarea.community</link>
+      <description>Your Aquarea heat pump, working smarter with Homey.</description>
+      <author>noreply@homey.app (Mathieu Chamois)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.panasonic.aquarea.community</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.panasonic.aquarea.community/9/095c5fff-79f2-40ee-ad29-05aab02d65a8/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 16:40:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Arylic</title>
+      <link>https://homey.app/a/com.rakoit.stream</link>
+      <description>Smart Wireless Audio: Flexible, Seamless, and Truly Yours</description>
+      <author>noreply@homey.app (Jason Liu)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rakoit.stream</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rakoit.stream/7/3be7ea24-97ce-4737-ad02-47eea8fcb2c3/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 16:40:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Envisalink for DSC</title>
+      <link>https://homey.app/a/com.michaelcurry.envisalink</link>
+      <description>Make every wired alarm sensor part of a smarter home.</description>
+      <author>noreply@homey.app (Michael Curry)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.michaelcurry.envisalink</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.michaelcurry.envisalink/2/cf50f4d0-4b50-4145-bd0c-e4c58ea5d9ed/assets/images/app-hero-v2-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 16:40:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
