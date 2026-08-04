@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:48:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Violet Pool Control</title>
-      <link>https://homey.app/a/de.neunbft.violet</link>
-      <description>Protects your pool's water balance — before problems start.</description>
-      <author>noreply@homey.app (Torsten Sturm)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.neunbft.violet</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.neunbft.violet/7/573a0965-244e-47dd-8e90-ac64fe447d0c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
-    </item>
     <item>
       <title>HP iLO</title>
       <link>https://homey.app/a/io.jak.hp-ilo</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.rompa.webos-plus-g4</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rompa.webos-plus-g4/1/bbce9c7c-57d4-4e51-ab64-7fff454d2952/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 16:13:01 +0200</pubDate>
+    </item>
+    <item>
+      <title>OV-Pay Balance</title>
+      <link>https://homey.app/a/net.derijke.ovpassaldo</link>
+      <description>Track the balance and status of your OV-pay card.</description>
+      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.derijke.ovpassaldo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.derijke.ovpassaldo/7/83e7581c-4c93-43d1-b210-d40b86f20033/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 19:48:57 +0200</pubDate>
     </item>
   </channel>
 </rss>
