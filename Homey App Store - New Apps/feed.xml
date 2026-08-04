@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 10:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:13:09 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Link2Home</title>
-      <link>https://homey.app/a/com.link2home</link>
-      <description>Connect your Link2Home devices to Homey</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.link2home</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.link2home/3/1fc367fb-cf77-4814-b6c3-3d33e26c6689/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 21:21:04 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fjärås</title>
-      <link>https://homey.app/a/se.vandelay.fjaras</link>
-      <description>Control the fan and lighting of your Fjärås cooker hood separately over Bluetooth.</description>
-      <author>noreply@homey.app (Fredrik Wallström)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.vandelay.fjaras</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.vandelay.fjaras/7/c9ed3b71-7f14-4a36-8629-1e7959c3ebc5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
-    </item>
     <item>
       <title>Violet Pool Control</title>
       <link>https://homey.app/a/de.neunbft.violet</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.cedric07.frenchholidays</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.cedric07.frenchholidays/5/78ec1ce8-8b0f-4eb1-997e-9144b9c0054a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 12:39:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Octopus Energy</title>
+      <link>https://homey.app/a/com.octopusenergy</link>
+      <description>Connect your Octopus Energy account to Homey for real-time energy price forecasts and price-based automation.</description>
+      <author>noreply@homey.app (WebArray Energy Apps)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.octopusenergy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.octopusenergy/3/eef3aa36-0a4b-4e1d-a071-7df4165836ec/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 16:13:01 +0200</pubDate>
+    </item>
+    <item>
+      <title>Local webOS TV Controller</title>
+      <link>https://homey.app/a/com.rompa.webos-plus-g4</link>
+      <description>Bring local television control into your everyday Flows</description>
+      <author>noreply@homey.app (John Bear)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rompa.webos-plus-g4</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rompa.webos-plus-g4/1/bbce9c7c-57d4-4e51-ab64-7fff454d2952/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 16:13:01 +0200</pubDate>
     </item>
   </channel>
 </rss>
