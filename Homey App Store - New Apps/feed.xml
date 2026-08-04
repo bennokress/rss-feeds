@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:39:52 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Youtube Channel</title>
-      <link>https://homey.app/a/com.yuji.youtube</link>
-      <description>A quiet signal light for the channels you care about.</description>
-      <author>noreply@homey.app (Declan Rice)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.yuji.youtube</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.yuji.youtube/12/8217a169-127a-4f93-9728-01476ad2726e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>Python Script</title>
-      <link>https://homey.app/a/nl.hoeve.pythonscript</link>
-      <description>Run Python code from Advanced Flows</description>
-      <author>noreply@homey.app (Jacco Hoeve)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.hoeve.pythonscript</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.hoeve.pythonscript/6/3fc5e23c-a941-42ae-8399-b0a4e61cc0e0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>Airport Airplay Detector</title>
-      <link>https://homey.app/a/com.anders.airport-airplay-detector</link>
-      <description>Let your classic AirPort Express trigger the right audio path automatically.</description>
-      <author>noreply@homey.app (Anders Pettersson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.anders.airport-airplay-detector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.anders.airport-airplay-detector/1/90496518-51a2-4626-8e20-4fba103cf747/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 11:58:38 +0200</pubDate>
-    </item>
     <item>
       <title>Link2Home</title>
       <link>https://homey.app/a/com.link2home</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.michaelcurry.envisalink</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.michaelcurry.envisalink/2/cf50f4d0-4b50-4145-bd0c-e4c58ea5d9ed/assets/images/app-hero-v2-large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Aug 2026 16:40:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Navien Smart Community</title>
+      <link>https://homey.app/a/com.lomohome.navien</link>
+      <description>Easily automate Navien AirOne ventilation, dehumidify and air purify</description>
+      <author>noreply@homey.app (Geunwon Mo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lomohome.navien</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.navien/11/37de7054-bd75-4364-9168-ccaa1fafcf0e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 12:39:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Brunner EAS3</title>
+      <link>https://homey.app/a/com.brunner.eas3</link>
+      <description>Bavarian passion.</description>
+      <author>noreply@homey.app (Christian Krone)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.brunner.eas3</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.brunner.eas3/3/871a7590-053a-4253-9f2c-c33a1754cca3/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 12:39:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>French School Holidays</title>
+      <link>https://homey.app/a/com.cedric07.frenchholidays</link>
+      <description>Automate your home around French school holidays</description>
+      <author>noreply@homey.app (Cédric Andrietti)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.cedric07.frenchholidays</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.cedric07.frenchholidays/5/78ec1ce8-8b0f-4eb1-997e-9144b9c0054a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 12:39:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
