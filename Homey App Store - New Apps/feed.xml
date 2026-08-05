@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:10:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>HP iLO</title>
-      <link>https://homey.app/a/io.jak.hp-ilo</link>
-      <description>Manage and monitor HPE servers via the iLO Redfish API</description>
-      <author>noreply@homey.app (Jak Spalding)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.jak.hp-ilo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.jak.hp-ilo/5/424637af-4ec2-409e-a043-5e2dc3d60fea/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 15:45:10 +0200</pubDate>
-    </item>
     <item>
       <title>Aigostar</title>
       <link>https://homey.app/a/com.aigostar.unofficial</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/net.derijke.ovpassaldo</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.derijke.ovpassaldo/7/83e7581c-4c93-43d1-b210-d40b86f20033/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 19:48:57 +0200</pubDate>
+    </item>
+    <item>
+      <title>NerdAxe Monitor</title>
+      <link>https://homey.app/a/com.guhlutions.nerdaxe-monitor</link>
+      <description>Keep your Bitcoin miners' performance, temperatures and availability in view.</description>
+      <author>noreply@homey.app (Jannis Guhl)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.guhlutions.nerdaxe-monitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.guhlutions.nerdaxe-monitor/8/bd2337fd-5d88-4abe-bb3f-2c1edf64bdc5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Aug 2026 16:10:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
