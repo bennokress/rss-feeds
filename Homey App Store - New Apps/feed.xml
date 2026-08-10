@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:21:59 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Acetec EvoAir FTX</title>
-      <link>https://homey.app/a/com.acetec.evoair</link>
-      <description>Control your FTX system locally for a healthier indoor climate.</description>
-      <author>noreply@homey.app (Fredrik Wallström)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.acetec.evoair</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.acetec.evoair/1/7d5ec9a9-8379-4c8e-9536-f041e1c4f15e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 11:57:24 +0200</pubDate>
-    </item>
-    <item>
-      <title>Thermia Online</title>
-      <link>https://homey.app/a/com.niklasjohansson.thermia</link>
-      <description>Smarter comfort from your heat pump.</description>
-      <author>noreply@homey.app (Niklas Johansson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.niklasjohansson.thermia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.niklasjohansson.thermia/2/96170714-a8e9-4105-bf22-003b1fd9a487/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>Korea Electricity Bill Calculator</title>
-      <link>https://homey.app/a/com.lomohome.korea_elec_bill_cal</link>
-      <description>Know your electricity bill before it arrives</description>
-      <author>noreply@homey.app (Geunwon Mo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lomohome.korea_elec_bill_cal</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.korea_elec_bill_cal/9/1c2062bb-b919-46ac-b3fa-12a76933c001/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 16:07:11 +0200</pubDate>
-    </item>
     <item>
       <title>Android Automotive</title>
       <link>https://homey.app/a/com.dimapp.aaos</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.magnumheating.wcontroller</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.magnumheating.wcontroller/7/308790ed-2289-4672-86ae-2dcce74048e5/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 06 Aug 2026 12:39:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panasonic AC (IR)</title>
+      <link>https://homey.app/a/dev.haugli.panasonicac</link>
+      <description>Smart climate control over infrared</description>
+      <author>noreply@homey.app (Jøran Haugli)</author>
+      <guid isPermaLink="false">https://homey.app/a/dev.haugli.panasonicac</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dev.haugli.panasonicac/2/94d02f77-88a5-4bb1-ac64-40c0b10cb690/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Arlo Connect</title>
+      <link>https://homey.app/a/com.creson.arlo</link>
+      <description>Bring Arlo cameras and base stations into your Homey Flows.</description>
+      <author>noreply@homey.app (Mikael Creson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.creson.arlo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.creson.arlo/7/16f57c7e-ff87-42d8-8a42-75cf7b1c0b92/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>PostNord Mail Delivery</title>
+      <link>https://homey.app/a/com.creson.postnord-delivery</link>
+      <description>Shows scheduled PostNord mail delivery days for a Swedish postal code.</description>
+      <author>noreply@homey.app (Mikael Creson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.creson.postnord-delivery</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.creson.postnord-delivery/2/4c033ded-a5ef-4070-80dd-62716d775d4e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
