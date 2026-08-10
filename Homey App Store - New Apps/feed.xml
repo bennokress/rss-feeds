@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:58:41 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>EcoFlow STREAM Series</title>
-      <link>https://homey.app/a/uk.co.zarb.ecoflow</link>
-      <description>Turn balcony sunlight into smarter home energy</description>
-      <author>noreply@homey.app (Justin Zarb)</author>
-      <guid isPermaLink="false">https://homey.app/a/uk.co.zarb.ecoflow</guid>
-      <enclosure url="https://apps.homeycdn.net/app/uk.co.zarb.ecoflow/13/020a23a0-8dc5-4ed5-837b-a812dd5489ca/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 20:04:17 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dexcom</title>
-      <link>https://homey.app/a/com.dexcom.share</link>
-      <description>Empowering people to take control of their diabetes.</description>
-      <author>noreply@homey.app (John Bothe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dexcom.share</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dexcom.share/1/f990168f-be66-4028-8e01-805a70b00d75/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
-    </item>
-    <item>
-      <title>DeWarmte</title>
-      <link>https://homey.app/a/nl.davenelissen.dewarmte</link>
-      <description>Monitor your DeWarmte heat pump and use its status and temperatures in Flow.</description>
-      <author>noreply@homey.app (Dave Nelissen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.davenelissen.dewarmte</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.davenelissen.dewarmte/4/1efe39aa-aa34-49b6-abdb-abe7d38fc50f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
-    </item>
-    <item>
-      <title>OSAIO</title>
-      <link>https://homey.app/a/net.osaio</link>
-      <description>Your Home. Safely in One Place.</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.osaio</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.osaio/7/9dfd4ecc-c8f0-453f-a570-cf5e99c7ca60/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 12:25:26 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mennekes Amtron 4You</title>
-      <link>https://homey.app/a/mennekes4you.modbus</link>
-      <description>Charge your electric car on your own solar power</description>
-      <author>noreply@homey.app (Christiaan van Klinken)</author>
-      <guid isPermaLink="false">https://homey.app/a/mennekes4you.modbus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/mennekes4you.modbus/4/84b33ac4-7add-4e03-bd87-8abc0fe42602/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 15:51:56 +0200</pubDate>
-    </item>
     <item>
       <title>Airco Bridge</title>
       <link>https://homey.app/a/com.airco.bridge</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.hyxi-cloud</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.hyxi-cloud/8/8cf64a48-f451-4e07-8f88-bda5109b6f66/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Aug 2026 15:08:50 +0200</pubDate>
+    </item>
+    <item>
+      <title>Innr Bridge</title>
+      <link>https://homey.app/a/com.innr.cloud</link>
+      <description>Connect Innr devices via the bridge</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.innr.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.innr.cloud/4/b602b266-b4c0-43be-b9c3-f36c4d57986b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>KPN TV+ Remote</title>
+      <link>https://homey.app/a/nl.robinpeters.mediaboxremote</link>
+      <description>Your KPN TV+ remote, always within reach.</description>
+      <author>noreply@homey.app (Robin Peters)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.robinpeters.mediaboxremote</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.robinpeters.mediaboxremote/3/dd1fd8d5-9603-4175-bc81-5d7f6cc4c501/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nordlux Smart Light</title>
+      <link>https://homey.app/a/com.nordlux</link>
+      <description>There's a perfect light for everyone</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.nordlux</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.nordlux/2/90405467-0c62-492a-93e1-094888e19744/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lotus Lantern</title>
+      <link>https://homey.app/a/com.elkble</link>
+      <description>Affordable Bluetooth LED strips</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.elkble</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.elkble/2/44d3b941-1d28-4538-84f6-4f54a71c8b4f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>duoCo Strip</title>
+      <link>https://homey.app/a/nl.dypodex.duoco-strip</link>
+      <description>LED strips for every mood</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.duoco-strip</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.duoco-strip/2/0b1dd86b-c7b6-43e6-91b8-b1c1beffaa43/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
