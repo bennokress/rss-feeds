@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:50:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:10:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Image Crop</title>
-      <link>https://homey.app/a/nl.blankestijnict.imagecrop</link>
-      <description>Crop images inside a Homey flow.</description>
-      <author>noreply@homey.app (Joost Blankestijn)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.blankestijnict.imagecrop</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.blankestijnict.imagecrop/5/d9674946-4f9f-4235-b9db-adf5d4d31068/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 12:18:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>OSRAM SMART+</title>
-      <link>https://homey.app/a/com.osramsmart</link>
-      <description>Power through Light</description>
-      <author>noreply@homey.app (Ledvance GmbH)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.osramsmart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.osramsmart/1/eb5247df-237e-445c-ab18-40747b5a8eec/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 17:25:47 +0200</pubDate>
-    </item>
     <item>
       <title>Linkind</title>
       <link>https://homey.app/a/com.linkind.matter</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.dypodex.lotuslampx</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.lotuslampx/2/3f935089-22eb-4eee-92ca-6b16241c5b04/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 12:50:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Custom Dash</title>
+      <link>https://homey.app/a/com.julianborghuis.customdash</link>
+      <description>Design modern custom dashboard cards with status, buttons, sliders and more.</description>
+      <author>noreply@homey.app (Julian Borghuis)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.julianborghuis.customdash</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.julianborghuis.customdash/23/24721d9f-9f68-49ed-8c85-05e45dcdab07/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 15:10:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jura Connect</title>
+      <link>https://homey.app/a/nl.brokebyte.juraconnect</link>
+      <description>Your Jura coffee machine, fully local — no cloud, no account.</description>
+      <author>noreply@homey.app (Wout Van der Aa)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.brokebyte.juraconnect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.brokebyte.juraconnect/12/4ed9b80b-f4ee-4f62-bb3a-57f44b7939d2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 15:10:15 +0200</pubDate>
     </item>
   </channel>
 </rss>
