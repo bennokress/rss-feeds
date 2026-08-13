@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:17:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Großer Sponsorenabend im Pantherclub</title>
-      <link>https://www.aev-panther.de/artikel/grosser-sponsorenabend-im-pantherclub/019d4f45-2381-78f1-b722-c88b125489c4</link>
-      <description>Am Donnerstagabend luden die Augsburger Panther ihre Partner zu einem großen Sponsorenabend in den Pantherclub des Curt-Frenzel-Stadions ein. Geschäftsführer Maximilian Horber und Spor…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/grosser-sponsorenabend-im-pantherclub/019d4f45-2381-78f1-b722-c88b125489c4</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-2381-78f1-b722-c88b125489c4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 28 Mar 2026 11:30:00 +0100</pubDate>
-    </item>
     <item>
       <title>Panther verpflichten Trevor Parkes &amp; Alec McCrea</title>
       <link>https://www.aev-panther.de/artikel/panther-verpflichten-trevor-parkes-alec-mccrea/019d4f45-22c3-7b6d-b8b5-5378c609d513</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/bargeldloses-bezahlen-im-panthercatering/019ff001-3e12-7bcc-801f-992927ab3afc</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019ff001-3e12-7bcc-801f-992927ab3afc.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Aug 2026 10:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ticketverkauf für Saison 2026-27 startet am 14. August</title>
+      <link>https://www.aev-panther.de/artikel/ticketverkauf-fuer-saison-2026-27-startet-am-14-august/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f</link>
+      <description>Mit großer Vorfreude blicken die Augsburger Panther auf die neue Eishockeysaison. Am Freitag, 14. August 2026 um 13 Uhr beginnt der Kartenvorverkauf für alle Heimspiele im Curt-Frenzel-Stadion. Fans k…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/ticketverkauf-fuer-saison-2026-27-startet-am-14-august/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 10:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
