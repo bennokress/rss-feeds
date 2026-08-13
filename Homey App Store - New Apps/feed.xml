@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:27:12 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Linkind</title>
-      <link>https://homey.app/a/com.linkind.matter</link>
-      <description>Make every moment brighter with colorful, comfortable lighting</description>
-      <author>noreply@homey.app (Leedarson L)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.linkind.matter</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.linkind.matter/1/5069f37d-13b1-47c5-a483-399347c93a3a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 13:22:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>Irrigation Caddy</title>
-      <link>https://homey.app/a/nl.frontend-webdeveloper.irrigation-caddy</link>
-      <description>Smart garden irrigation on autopilot.</description>
-      <author>noreply@homey.app (René Vianen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.frontend-webdeveloper.irrigation-caddy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.frontend-webdeveloper.irrigation-caddy/3/4752209b-14b3-443a-b54e-1d43b41e1acd/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 13:22:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>SwannOne</title>
-      <link>https://homey.app/a/com.gerald.swannonekeyfob</link>
-      <description>Control your home with a press of your key fob.</description>
-      <author>noreply@homey.app (Gerald Lankamp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.gerald.swannonekeyfob</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.gerald.swannonekeyfob/8/c981b0bd-792a-4a90-b95a-cf94409d0922/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
-    </item>
     <item>
       <title>BLE Mower MQTT</title>
       <link>https://homey.app/a/com.gruijter.blemower</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/nl.brokebyte.juraconnect</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.brokebyte.juraconnect/12/4ed9b80b-f4ee-4f62-bb3a-57f44b7939d2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Aug 2026 15:10:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Denkovi smartDEN</title>
+      <link>https://homey.app/a/com.denkovi.smartden</link>
+      <description>Every relay, switch and sensor, right inside your smart home</description>
+      <author>noreply@homey.app (Benny VanWynsberghe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.denkovi.smartden</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.denkovi.smartden/2/2e33dc08-72df-46f3-ada6-87ffb02a2b07/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>iParking Visitor Parking</title>
+      <link>https://homey.app/a/com.lomohome.iparking_members_community</link>
+      <description>Register and manage visitor parking at your apartment complex</description>
+      <author>noreply@homey.app (Geunwon Mo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lomohome.iparking_members_community</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.iparking_members_community/3/5c825f7b-ce52-4e36-8be5-c453c2c7f277/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Oklyn</title>
+      <link>https://homey.app/a/com.cedric07.oklyn</link>
+      <description>Integrate Oklyn pool controllers with Homey</description>
+      <author>noreply@homey.app (Cédric Andrietti)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.cedric07.oklyn</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.cedric07.oklyn/5/7d332c4a-0216-4018-be59-6f7c7b356757/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
