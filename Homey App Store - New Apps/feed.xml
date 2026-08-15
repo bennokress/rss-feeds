@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:29:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BLE Mower MQTT</title>
-      <link>https://homey.app/a/com.gruijter.blemower</link>
-      <description>Mowing your lawn the bluetooth way!</description>
-      <author>noreply@homey.app (Robin de Gruijter)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.gruijter.blemower</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.gruijter.blemower/2/00f8a915-e0ed-4642-ab16-172523f1a16c/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
-    </item>
     <item>
       <title>Hikvision AX PRO Alarm</title>
       <link>https://homey.app/a/se.manvarg.hikvision-axpro</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.cedric07.oklyn</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.cedric07.oklyn/5/7d332c4a-0216-4018-be59-6f7c7b356757/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nibe Live</title>
+      <link>https://homey.app/a/com.nibe.local</link>
+      <description>Local Nibe control, split into the devices you actually automate</description>
+      <author>noreply@homey.app (Love Thyresson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.nibe.local</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.nibe.local/11/a53533fb-b60b-4d04-b880-cd8c0e73d078/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 10:29:01 +0200</pubDate>
     </item>
   </channel>
 </rss>
