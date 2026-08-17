@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:55:02 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Trevor Parkes &amp; Alec McCrea</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-trevor-parkes-alec-mccrea/019d4f45-22c3-7b6d-b8b5-5378c609d513</link>
-      <description>Viel PENNY DEL-Erfahrung für die Panther. Von den Dresdner Eislöwen wechseln Stürmer Trevor Parkes und Verteidiger Alec McCrea in die Fuggerstadt und sind damit offiziell die ersten Neu…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-trevor-parkes-alec-mccrea/019d4f45-22c3-7b6d-b8b5-5378c609d513</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-22c3-7b6d-b8b5-5378c609d513.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 29 Mar 2026 10:15:00 +0200</pubDate>
-    </item>
     <item>
       <title>Verteidiger Noel Hoefenmayer verstärkt die Panther</title>
       <link>https://www.aev-panther.de/artikel/verteidiger-noel-hoefenmayer-verstaerkt-die-panther/019d4f45-2246-7943-b8c4-57de02da87de</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/ticketverkauf-fuer-saison-2026-27-startet-am-14-august/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Aug 2026 10:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther müssen vorerst auf Ryan Button verzichten</title>
+      <link>https://www.aev-panther.de/artikel/panther-muessen-vorerst-auf-ryan-button-verzichten/01a00f6b-4a52-7a2b-a6f8-f6cf6d6b7ffd</link>
+      <description>Die Augsburger Panther müssen vor den ersten Vorbereitungsspielen auf die Saison 2026-27 ihren ersten verletzungsbedingten Ausfall verkraften: VerteidigerRyan Buttonwird dem Team aufgrund einer Unterk…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-muessen-vorerst-auf-ryan-button-verzichten/01a00f6b-4a52-7a2b-a6f8-f6cf6d6b7ffd</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a00f6b-4a52-7a2b-a6f8-f6cf6d6b7ffd.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 13:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
