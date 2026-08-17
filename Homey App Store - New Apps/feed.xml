@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:56:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Hikvision AX PRO Alarm</title>
-      <link>https://homey.app/a/se.manvarg.hikvision-axpro</link>
-      <description>Your Hikvision AX PRO alarm, always in the loop.</description>
-      <author>noreply@homey.app (Ulf Holmström)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.manvarg.hikvision-axpro</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.manvarg.hikvision-axpro/6/315ff478-1dec-4e38-b96b-66adeea7aef5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
-    </item>
     <item>
       <title>Video Doorbell and Lock</title>
       <link>https://homey.app/a/com.lomohome.video_door_bell_lock</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.nibe.local</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.nibe.local/11/a53533fb-b60b-4d04-b880-cd8c0e73d078/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 15 Aug 2026 10:29:01 +0200</pubDate>
+    </item>
+    <item>
+      <title>Maledro</title>
+      <link>https://homey.app/a/com.maledro.tuya-zigbee-dimmer</link>
+      <description>Elegant smart control for every room.</description>
+      <author>noreply@homey.app (Maledro .NL)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.maledro.tuya-zigbee-dimmer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.maledro.tuya-zigbee-dimmer/4/35f38498-95c6-488d-a496-f70ed3d0a331/drivers/maledro_touch_dimmer/assets/app-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 08:56:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
