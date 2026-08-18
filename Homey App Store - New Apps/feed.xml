@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 02:55:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Video Doorbell and Lock</title>
-      <link>https://homey.app/a/com.lomohome.video_door_bell_lock</link>
-      <description>See who is at the door and unlock from anywhere</description>
-      <author>noreply@homey.app (Geunwon Mo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lomohome.video_door_bell_lock</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.video_door_bell_lock/6/3fc33203-de37-4f80-96bd-9c9c9ac745fc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 16:35:57 +0200</pubDate>
-    </item>
     <item>
       <title>Verisure Alarm</title>
       <link>https://homey.app/a/com.evb.verisure</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.maledro.tuya-zigbee-dimmer</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.maledro.tuya-zigbee-dimmer/4/35f38498-95c6-488d-a496-f70ed3d0a331/drivers/maledro_touch_dimmer/assets/app-large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 08:56:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>SmartHQ</title>
+      <link>https://homey.app/a/com.smarthq.community</link>
+      <description>One smart home for every SmartHQ appliance.</description>
+      <author>noreply@homey.app (Patrick Yeon)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.smarthq.community</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.smarthq.community/8/de521ff3-13b3-48f3-900f-874bc1ba8b24/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 04:55:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
