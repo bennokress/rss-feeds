@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 02:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:48:03 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Verisure Alarm</title>
-      <link>https://homey.app/a/com.evb.verisure</link>
-      <description>Protecting what matters most</description>
-      <author>noreply@homey.app (Evgeny Bugakov)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.evb.verisure</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.evb.verisure/3/6de89132-c070-47f3-8e1a-a26133448e6d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>Owlet Care</title>
-      <link>https://homey.app/a/dev.miniatur.smartsock</link>
-      <description>Peace of mind, built into your smart home</description>
-      <author>noreply@homey.app (Moritz Clever)</author>
-      <guid isPermaLink="false">https://homey.app/a/dev.miniatur.smartsock</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dev.miniatur.smartsock/3/c2821535-f207-4081-b01f-eca734f1b6fe/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
-    </item>
     <item>
       <title>Reachy Mini Controller</title>
       <link>https://homey.app/a/co.hf.reachy</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.smarthq.community</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.smarthq.community/8/de521ff3-13b3-48f3-900f-874bc1ba8b24/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 04:55:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>LINAK Bed</title>
+      <link>https://homey.app/a/com.thomastorp.linak-bed</link>
+      <description>Make your adjustable bed part of your smart home.</description>
+      <author>noreply@homey.app (Thomas Torp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.linak-bed</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.linak-bed/14/1fe932f1-8935-4e9a-ae9c-52818d2cb3dd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 14:47:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nest Protect</title>
+      <link>https://homey.app/a/com.thomastorp.nest-protect</link>
+      <description>Smoke, CO and heat alarms reach Homey the second they sound.</description>
+      <author>noreply@homey.app (Thomas Torp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.nest-protect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.nest-protect/7/dbe17d54-166f-4ddb-a50c-c833167f9696/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 14:47:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
