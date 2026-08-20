@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:30:30 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Reachy Mini Controller</title>
-      <link>https://homey.app/a/co.hf.reachy</link>
-      <description>The eyes, ears, and voice for your Homey.</description>
-      <author>noreply@homey.app (Jeff Singleton)</author>
-      <guid isPermaLink="false">https://homey.app/a/co.hf.reachy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/co.hf.reachy/3/96d4cfb2-a989-46b5-bb3b-99647f8ec1cf/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
-    </item>
     <item>
       <title>Device Watchdog</title>
       <link>https://homey.app/a/com.rickd.devicewatchdog</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.thomastorp.nest-protect</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.nest-protect/7/dbe17d54-166f-4ddb-a50c-c833167f9696/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 14:47:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mesh Mate</title>
+      <link>https://homey.app/a/app.jwk.meshmate</link>
+      <description>Expand your Homey's reach a hundredfold.</description>
+      <author>noreply@homey.app (Johan Vestlin Kajne)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.jwk.meshmate</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.jwk.meshmate/3/2cecd968-cefd-4294-8cd9-09495b2e15c9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 12:30:30 +0200</pubDate>
     </item>
   </channel>
 </rss>
