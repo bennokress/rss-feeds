@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:36:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SR-201 Relay Controller</title>
-      <link>https://homey.app/a/com.rompa.sr201controller2</link>
-      <description>Keep your two-channel Ethernet relay in sync with Homey.</description>
-      <author>noreply@homey.app (John Bear)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rompa.sr201controller2</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rompa.sr201controller2/1/99cfed20-8ea0-4028-a781-423a35f82077/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 16:10:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>TSUN Solar (Local)</title>
-      <link>https://homey.app/a/com.fieberit.tsun</link>
-      <description>Bring your TSUN balcony solar inverter's live power and yield straight into Homey — fully local, no cloud needed.</description>
-      <author>noreply@homey.app (Simon Fieber)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.fieberit.tsun</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.fieberit.tsun/6/5eb8c87b-edb4-4f07-8b68-00152c74f58a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>IMOU Life</title>
-      <link>https://homey.app/a/nl.robinpeters.imoulife</link>
-      <description>Keep an eye on your front door, wherever you are.</description>
-      <author>noreply@homey.app (Robin Peters)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.robinpeters.imoulife</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.robinpeters.imoulife/2/66203899-7099-49c9-8bb6-837fef26c584/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>Yale Alarm System</title>
-      <link>https://homey.app/a/nl.dijkhuisdevelopment.yalesmartalarm</link>
-      <description>Keep your Yale Smart Alarm connected, visible and ready throughout your home.</description>
-      <author>noreply@homey.app (Dijkhuis Development)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.dijkhuisdevelopment.yalesmartalarm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.dijkhuisdevelopment.yalesmartalarm/2/2bd04edd-8a96-40ed-9020-14abd36496ce/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>ecoMAX Controller</title>
-      <link>https://homey.app/a/io.github.peze78.ecomax</link>
-      <description>Your ecoMAX heating system, always in sight.</description>
-      <author>noreply@homey.app (Johan Hansson)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.github.peze78.ecomax</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.github.peze78.ecomax/10/d9bea216-4de0-408b-9970-d2a5b1d80840/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
-    </item>
     <item>
       <title>Maxitrol</title>
       <link>https://homey.app/a/com.maxitrol.fireplace</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/com.vektiva.smarwi</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.vektiva.smarwi/5/b9a84396-1415-40ff-b16b-5f9a28799944/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>AUX Airco</title>
+      <link>https://homey.app/a/com.zwegersit.auxairco</link>
+      <description>Freedom over your climate, automated</description>
+      <author>noreply@homey.app (Gijs Zwegers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.zwegersit.auxairco</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.zwegersit.auxairco/4/8c016f37-09c9-4046-8a37-98ba93fc2126/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Geberit AquaClean</title>
+      <link>https://homey.app/a/com.thomastorp.geberit-aquaclean</link>
+      <description>Shower, dryer, lid and every profile setting for your AquaClean — entirely on your own network.</description>
+      <author>noreply@homey.app (Thomas Torp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.geberit-aquaclean</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.geberit-aquaclean/16/089113c2-4de1-4057-a4ec-02ee436ae3a1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Withings Sleep</title>
+      <link>https://homey.app/a/com.thomastorp.withings-sleep</link>
+      <description>Let your home react when you get into bed and when you get up.</description>
+      <author>noreply@homey.app (Thomas Torp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.withings-sleep</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.withings-sleep/24/5d8b0d0b-d6c2-438d-97e3-aaab4935cc7b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>DEFA Power</title>
+      <link>https://homey.app/a/com.thomastorp.defa-power</link>
+      <description>Your DEFA charger, on your terms.</description>
+      <author>noreply@homey.app (Thomas Torp)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.defa-power</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.defa-power/12/40d813f2-fe33-47fa-ada6-76065e868d73/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>Obi Energy Tracker</title>
+      <link>https://homey.app/a/hull.software.obi-energy-tracker</link>
+      <description>Follow your electricity consumption and current load in Homey Energy.</description>
+      <author>noreply@homey.app (Jack Hull)</author>
+      <guid isPermaLink="false">https://homey.app/a/hull.software.obi-energy-tracker</guid>
+      <enclosure url="https://apps.homeycdn.net/app/hull.software.obi-energy-tracker/5/d00afb68-e08c-401b-8a8f-cadaeaeb6a73/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
     </item>
   </channel>
 </rss>
