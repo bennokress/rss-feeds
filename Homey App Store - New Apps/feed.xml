@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:50:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Device Watchdog</title>
-      <link>https://homey.app/a/com.rickd.devicewatchdog</link>
-      <description>Battery, connectivity, and data-freshness monitoring for all your Homey devices.</description>
-      <author>noreply@homey.app (Richard Dubs)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rickd.devicewatchdog</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rickd.devicewatchdog/14/b70e4055-0d8c-4b60-b690-186da5047247/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>ecobee Comfort</title>
-      <link>https://homey.app/a/com.dellarciprete.ecobee</link>
-      <description>Switch your ecobee between Home, Away, and Sleep — right from Homey.</description>
-      <author>noreply@homey.app (John DellArciprete)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dellarciprete.ecobee</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dellarciprete.ecobee/2/6f26affe-b30c-4925-9475-99d131439faf/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 12:35:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>Porten AI</title>
-      <link>https://homey.app/a/ai.porten.agents</link>
-      <description>AI agents for your flows — EU-sovereign inference on community GPUs</description>
-      <author>noreply@homey.app (Stefan Wärting)</author>
-      <guid isPermaLink="false">https://homey.app/a/ai.porten.agents</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ai.porten.agents/4/b5377e42-d2d5-4050-9dfd-e83af2d18d3a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 12:39:35 +0200</pubDate>
-    </item>
-    <item>
-      <title>Pet Feeder Connector</title>
-      <link>https://homey.app/a/nl.djordie.petfeederconnector</link>
-      <description>Make every mealtime smart, reliable and right on schedule.</description>
-      <author>noreply@homey.app (Djordie Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.djordie.petfeederconnector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.djordie.petfeederconnector/6/dcb66f61-e12f-4670-beb6-1066c25308c2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 16:10:53 +0200</pubDate>
-    </item>
     <item>
       <title>SR-201 Relay Controller</title>
       <link>https://homey.app/a/com.rompa.sr201controller2</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/app.jwk.meshmate</guid>
       <enclosure url="https://apps.homeycdn.net/app/app.jwk.meshmate/3/2cecd968-cefd-4294-8cd9-09495b2e15c9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 12:30:30 +0200</pubDate>
+    </item>
+    <item>
+      <title>SolarAccuOpMaat</title>
+      <link>https://homey.app/a/nl.solaraccuopmaat.homey</link>
+      <description>Let your home battery follow your household</description>
+      <author>noreply@homey.app (Finn Zut)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.solaraccuopmaat.homey</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.solaraccuopmaat.homey/1/8e438c20-9e8d-4b5c-a131-092609a3f789/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>Honeywell Galaxy</title>
+      <link>https://homey.app/a/com.selfmon.galaxy</link>
+      <description>Take full control of your security system</description>
+      <author>noreply@homey.app (SelfMon Ltd)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.selfmon.galaxy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.selfmon.galaxy/20/7d5b3147-e751-48fd-be03-3cae0bf1ec36/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>SmartGrill</title>
+      <link>https://homey.app/a/com.noctowl17.smartgrill</link>
+      <description>Keep every barbecue perfectly on temperature.</description>
+      <author>noreply@homey.app (Frank Gerritsen Mulkes)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.noctowl17.smartgrill</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.noctowl17.smartgrill/7/de736f75-8501-43ee-80cc-3f05479f809e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vektiva SMARWI</title>
+      <link>https://homey.app/a/com.vektiva.smarwi</link>
+      <description>Fresh air, exactly when your home needs it.</description>
+      <author>noreply@homey.app (Marian Lojka)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.vektiva.smarwi</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.vektiva.smarwi/5/b9a84396-1415-40ff-b16b-5f9a28799944/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
     </item>
   </channel>
 </rss>
