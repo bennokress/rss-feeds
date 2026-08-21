@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:30:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Maxitrol</title>
-      <link>https://homey.app/a/com.maxitrol.fireplace</link>
-      <description>Bring your G6R fireplace into the heart of your smart home.</description>
-      <author>noreply@homey.app (Michael D)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.maxitrol.fireplace</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.maxitrol.fireplace/1/2b12507d-d1f5-4e61-8777-1e8f9477de9e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 12:24:53 +0200</pubDate>
-    </item>
     <item>
       <title>SmartThings Local</title>
       <link>https://homey.app/a/com.lomohome.localthings</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/hull.software.obi-energy-tracker</guid>
       <enclosure url="https://apps.homeycdn.net/app/hull.software.obi-energy-tracker/5/d00afb68-e08c-401b-8a8f-cadaeaeb6a73/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
+    </item>
+    <item>
+      <title>OpenQuatt</title>
+      <link>https://homey.app/a/nl.openquatt</link>
+      <description>Your heat pump, live and local — no cloud required</description>
+      <author>noreply@homey.app (WebBuilds B.V.)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.openquatt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.openquatt/6/44616f90-f056-446f-a702-1b0c0aaeef87/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 12:30:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
