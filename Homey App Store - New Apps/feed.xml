@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:48:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SmartThings Local</title>
-      <link>https://homey.app/a/com.lomohome.localthings</link>
-      <description>Control Samsung appliances locally, with no cloud in between</description>
-      <author>noreply@homey.app (Geunwon Mo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lomohome.localthings</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.localthings/5/54241851-6b48-4583-8e49-ec1caf47053b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 16:03:21 +0200</pubDate>
-    </item>
-    <item>
-      <title>Panasonic Aquarea</title>
-      <link>https://homey.app/a/com.panasonic.aquarea.community</link>
-      <description>Your Aquarea heat pump, working smarter with Homey.</description>
-      <author>noreply@homey.app (Mathieu Chamois)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.panasonic.aquarea.community</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.panasonic.aquarea.community/9/095c5fff-79f2-40ee-ad29-05aab02d65a8/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 16:40:10 +0200</pubDate>
-    </item>
     <item>
       <title>Arylic</title>
       <link>https://homey.app/a/com.rakoit.stream</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.openquatt</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.openquatt/6/44616f90-f056-446f-a702-1b0c0aaeef87/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 12:30:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Scrypted</title>
+      <link>https://homey.app/a/com.dataweavelabs.scrypted</link>
+      <description>Every camera, under one roof</description>
+      <author>noreply@homey.app (vincent fresnel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.scrypted</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.scrypted/1/dff7e9e6-cf57-43ec-9362-9842ff17a630/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 14:48:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>OVO Energy</title>
+      <link>https://homey.app/a/com.rompa.ovoenergy</link>
+      <description>Understand your electricity use, half an hour at a time.</description>
+      <author>noreply@homey.app (John Bear)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rompa.ovoenergy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rompa.ovoenergy/2/f7e2aa3c-b712-4363-9bf2-1c0617616789/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 14:48:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
