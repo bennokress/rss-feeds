@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 22 Aug 2026 01:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:06:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther &amp; AEV vertrauen auf Schanner Eishockeyartikel</title>
-      <link>https://www.aev-panther.de/artikel/panther-aev-vertrauen-auf-schanner-eishockeyartikel/019d4f45-210d-7074-aaa9-10d6a5f421ce</link>
-      <description>Die Augsburger Panther und die Schanner Eishockeyartikel GmbH + Co. KG setzen ihre erfolgreiche Zusammenarbeit fort. Beide Partner haben sich auf eine langfristige Verlängerung des bestehenden Au…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-aev-vertrauen-auf-schanner-eishockeyartikel/019d4f45-210d-7074-aaa9-10d6a5f421ce</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f45-210d-7074-aaa9-10d6a5f421ce.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Apr 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Im Gespräch mit Thomas Holzmann</title>
       <link>https://www.aev-panther.de/artikel/im-gespraech-mit-thomas-holzmann/019d4f65-b3bd-732e-a2a5-91196cfb4dbe</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpassen-finale-beim-dolomitencup/01a02697-d590-7aaa-a945-4944ee9ad011</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a02697-d590-7aaa-a945-4944ee9ad011.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 01:09:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther gegen eiskalte Eisbären ohne Chance</title>
+      <link>https://www.aev-panther.de/artikel/panther-gegen-eiskalte-eisbaeren-ohne-chance/01a0308c-837e-7d90-874a-ebef688c8ab5</link>
+      <description>Die Augsburger Panther mussten sich beim Dolomitencup 2026 mit dem vierten und letzten Platz begnügen. Im Spiel um Platz drei unterlag der Rekordchampion den Eisbären Berlin deutlich mit 0:7. Die Tref…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gegen-eiskalte-eisbaeren-ohne-chance/01a0308c-837e-7d90-874a-ebef688c8ab5</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0308c-837e-7d90-874a-ebef688c8ab5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 23:23:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
