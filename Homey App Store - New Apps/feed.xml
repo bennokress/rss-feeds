@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:12:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OV-Pay Balance</title>
-      <link>https://homey.app/a/net.derijke.ovpassaldo</link>
-      <description>Track the balance and status of your OV-pay card.</description>
-      <author>noreply@homey.app (Jan-Kees de Rijke)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.derijke.ovpassaldo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.derijke.ovpassaldo/7/83e7581c-4c93-43d1-b210-d40b86f20033/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 19:48:57 +0200</pubDate>
-    </item>
     <item>
       <title>NerdAxe Monitor</title>
       <link>https://homey.app/a/com.guhlutions.nerdaxe-monitor</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/dk.fredskilde.dantherm</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.fredskilde.dantherm/2/1eef63b6-ad69-45f2-8a74-e8bd5fff7090/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 16:16:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Shelly Control</title>
+      <link>https://homey.app/a/cloud.shelly.control</link>
+      <description>Smart home automation is that easy!</description>
+      <author>noreply@homey.app (Allterco Robotics)</author>
+      <guid isPermaLink="false">https://homey.app/a/cloud.shelly.control</guid>
+      <enclosure url="https://apps.homeycdn.net/app/cloud.shelly.control/23/f3048607-b6e3-4548-9086-b9540e741947/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 18:12:28 +0200</pubDate>
     </item>
   </channel>
 </rss>
