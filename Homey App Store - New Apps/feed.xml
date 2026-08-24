@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:16:49 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Octopus Energy</title>
-      <link>https://homey.app/a/com.octopusenergy</link>
-      <description>Connect your Octopus Energy account to Homey for real-time energy price forecasts and price-based automation.</description>
-      <author>noreply@homey.app (WebArray Energy Apps)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.octopusenergy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.octopusenergy/3/eef3aa36-0a4b-4e1d-a071-7df4165836ec/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 16:13:01 +0200</pubDate>
-    </item>
-    <item>
-      <title>Local webOS TV Controller</title>
-      <link>https://homey.app/a/com.rompa.webos-plus-g4</link>
-      <description>Bring local television control into your everyday Flows</description>
-      <author>noreply@homey.app (John Bear)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rompa.webos-plus-g4</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rompa.webos-plus-g4/1/bbce9c7c-57d4-4e51-ab64-7fff454d2952/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 16:13:01 +0200</pubDate>
-    </item>
     <item>
       <title>OV-Pay Balance</title>
       <link>https://homey.app/a/net.derijke.ovpassaldo</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.truenas.manager</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.truenas.manager/2/6e539b29-1e50-421c-be8b-ecbefae07ffa/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 12:16:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>HomeFlux</title>
+      <link>https://homey.app/a/com.dashboard.homeflux</link>
+      <description>See where your energy goes.</description>
+      <author>noreply@homey.app (Davy Bert)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dashboard.homeflux</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dashboard.homeflux/26/1a054d36-6941-4ee8-9dc5-ffb6a3a3f488/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 16:16:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dantherm HCV</title>
+      <link>https://homey.app/a/dk.fredskilde.dantherm</link>
+      <description>Fresh air on autopilot — and free cooling all summer, in every Flow</description>
+      <author>noreply@homey.app (Mike Fredskilde)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.fredskilde.dantherm</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.fredskilde.dantherm/2/1eef63b6-ad69-45f2-8a74-e8bd5fff7090/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 16:16:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
