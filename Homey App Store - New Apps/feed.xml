@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:08:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>NerdAxe Monitor</title>
-      <link>https://homey.app/a/com.guhlutions.nerdaxe-monitor</link>
-      <description>Keep your Bitcoin miners' performance, temperatures and availability in view.</description>
-      <author>noreply@homey.app (Jannis Guhl)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.guhlutions.nerdaxe-monitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.guhlutions.nerdaxe-monitor/8/bd2337fd-5d88-4abe-bb3f-2c1edf64bdc5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 16:10:10 +0200</pubDate>
-    </item>
     <item>
       <title>Wing Climate Sensor</title>
       <link>https://homey.app/a/com.ycj.tnhsensor</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/cloud.shelly.control</guid>
       <enclosure url="https://apps.homeycdn.net/app/cloud.shelly.control/23/f3048607-b6e3-4548-9086-b9540e741947/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 18:12:28 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ecovacs Deebot</title>
+      <link>https://homey.app/a/com.ecovacs.deebot</link>
+      <description>You relax. DEEBOT delivers</description>
+      <author>noreply@homey.app (Ronny Winkler)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ecovacs.deebot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ecovacs.deebot/1/136e7930-ed2f-4fe9-81f3-60a5b8c20d25/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 22:08:35 +0200</pubDate>
     </item>
   </channel>
 </rss>
