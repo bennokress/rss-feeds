@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:19:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Im Gespräch mit Thomas Holzmann</title>
-      <link>https://www.aev-panther.de/artikel/im-gespraech-mit-thomas-holzmann/019d4f65-b3bd-732e-a2a5-91196cfb4dbe</link>
-      <description>Bei einem Sponsorenabend vor einigen Tagen zählte auch Thomas Holzmann zu den Talk-Gästen. Zwischen 2015 und 2021 trug Holzmann das Trikot der Augsburger Panther. Insgesamt bestritt er 555 S…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/im-gespraech-mit-thomas-holzmann/019d4f65-b3bd-732e-a2a5-91196cfb4dbe</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019d4f65-b3bd-732e-a2a5-91196cfb4dbe.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Apr 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Mobilitätsumfrage der Augsburger Panther</title>
       <link>https://www.aev-panther.de/artikel/mobilitaetsumfrage-der-augsburger-panther/019d4f65-b335-7386-9230-b4c7cdd464f2</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gegen-eiskalte-eisbaeren-ohne-chance/01a0308c-837e-7d90-874a-ebef688c8ab5</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0308c-837e-7d90-874a-ebef688c8ab5.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 23 Aug 2026 23:23:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aman &amp; Merkle neuer Partner der Panther</title>
+      <link>https://www.aev-panther.de/artikel/aman-merkle-neuer-partner-der-panther/01a03927-538d-7c5c-a8e2-0eab34b3f7bd</link>
+      <description>Die Augsburger Panther freuen sich über einen neuen Partner an ihrer Seite: Die Aman &amp; Merkle GmbH wird in der PENNY DEL-Saison 2026-27 im Curt-Frenzel-Stadion präsent sein.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aman-merkle-neuer-partner-der-panther/01a03927-538d-7c5c-a8e2-0eab34b3f7bd</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a03927-538d-7c5c-a8e2-0eab34b3f7bd.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
