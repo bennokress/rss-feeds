@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:11:12 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Wing Climate Sensor</title>
-      <link>https://homey.app/a/com.ycj.tnhsensor</link>
-      <description>Keep every room comfortable, degree by degree.</description>
-      <author>noreply@homey.app (Changjo Yu)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ycj.tnhsensor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ycj.tnhsensor/4/1a96f931-137c-45a8-8534-c39cd419211b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 19:38:03 +0200</pubDate>
-    </item>
-    <item>
-      <title>AI Voice Assistant</title>
-      <link>https://homey.app/a/no.arvebjoe.ai-voice-assistant</link>
-      <description>Ask anything. Control everything.</description>
-      <author>noreply@homey.app (Arve Bjørnerud)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.arvebjoe.ai-voice-assistant</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.arvebjoe.ai-voice-assistant/14/bc9ae54a-0023-4f66-b5ef-37b4b6425e49/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 19:38:03 +0200</pubDate>
-    </item>
     <item>
       <title>Storfamilien</title>
       <link>https://homey.app/a/com.storfamilien.app</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.ecovacs.deebot</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ecovacs.deebot/1/136e7930-ed2f-4fe9-81f3-60a5b8c20d25/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 22:08:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Thermostat</title>
+      <link>https://homey.app/a/com.dataweavelabs.adaptivethermostat</link>
+      <description>Turn any temperature sensor and any heater into a thermostat that actually regulates</description>
+      <author>noreply@homey.app (vincent fresnel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.adaptivethermostat</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.adaptivethermostat/7/f702a8cd-23cd-4cad-90d6-404b702950da/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 14:11:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Network Printer</title>
+      <link>https://homey.app/a/com.dataweavelabs.netprinter</link>
+      <description>Ink, toner and status for any network printer</description>
+      <author>noreply@homey.app (vincent fresnel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.netprinter</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.netprinter/24/771d68b2-7994-431b-8d37-5a2a2cdd09f4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 14:11:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
