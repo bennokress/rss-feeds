@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:16:37 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Storfamilien</title>
-      <link>https://homey.app/a/com.storfamilien.app</link>
-      <description>Let your smart home react to what happens in the Storfamilien family app, and let Homey flows update the app back.</description>
-      <author>noreply@homey.app (Jon Borgen Takle)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.storfamilien.app</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.storfamilien.app/9/28994f52-5546-4d14-912e-3a93339d05e7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 19:38:03 +0200</pubDate>
-    </item>
     <item>
       <title>Modern Forms</title>
       <link>https://homey.app/a/com.miguelcastro67.modernforms</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.netprinter</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.netprinter/24/771d68b2-7994-431b-8d37-5a2a2cdd09f4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 25 Aug 2026 14:11:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Growatt AURA</title>
+      <link>https://homey.app/a/com.marcorits.growattaura</link>
+      <description>See what your home battery is doing, from live power to stored energy.</description>
+      <author>noreply@homey.app (Marco Rits)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.marcorits.growattaura</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.marcorits.growattaura/2/c40a20a4-9d89-48dc-9402-3d210ee80c5b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 10:16:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
