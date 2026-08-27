@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:32:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther treffen am 21. August auf Kometa Brno</title>
-      <link>https://www.aev-panther.de/artikel/panther-treffen-am-21-august-auf-kometa-brno/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc</link>
-      <description>Vom 21. bis 23. August 2026 findet die 20. Ausgabe des Dolomitencups in der Würtharena im italienischen Neumarkt statt. Als vierter Teilnehmer nach dem EV Zug, den Eisbären Berlin und den Au…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-treffen-am-21-august-auf-kometa-brno/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8c37-7bf3-a88c-fabbb9fe61fc.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Apr 2026 11:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verpflichten Cameron Wright</title>
       <link>https://www.aev-panther.de/artikel/panther-verpflichten-cameron-wright/019da9ee-8ba9-774a-b046-2d1e6ea6d034</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/stadtsparkasse-augsburg-als-partner-des-eishockeys/01a03ced-a178-7f51-af0b-2e3f59a7bd3e</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a03ced-a178-7f51-af0b-2e3f59a7bd3e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 26 Aug 2026 09:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther eröffnen die Heimspielsaison</title>
+      <link>https://www.aev-panther.de/artikel/panther-eroeffnen-die-heimspielsaison/01a042b4-937d-78b5-a0ee-dda2864d3162</link>
+      <description>Am Freitagabend bestreiten die Augsburger Panther gegen den EHC Kloten (SUI) ihr erstes Heimspiel der neuen Saison. Spielbeginn im Curt-Frenzel-Stadion ist um 19:00 Uhr. Nach zwei Tests im Rahmen des …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-eroeffnen-die-heimspielsaison/01a042b4-937d-78b5-a0ee-dda2864d3162</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a042b4-937d-78b5-a0ee-dda2864d3162.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
