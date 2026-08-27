@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:27:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Modern Forms</title>
-      <link>https://homey.app/a/com.miguelcastro67.modernforms</link>
-      <description>Smarter control for your Modern Forms ceiling fans.</description>
-      <author>noreply@homey.app (Miguel Castro)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.miguelcastro67.modernforms</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.miguelcastro67.modernforms/21/d5e6455f-cc6c-4712-a1c2-30b70e90c77a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 12:39:35 +0200</pubDate>
-    </item>
-    <item>
-      <title>Magnum W-C System</title>
-      <link>https://homey.app/a/com.magnumheating.wcontroller</link>
-      <description>Every room its own temperature</description>
-      <author>noreply@homey.app (Henri Apperloo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.magnumheating.wcontroller</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.magnumheating.wcontroller/7/308790ed-2289-4672-86ae-2dcce74048e5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 12:39:35 +0200</pubDate>
-    </item>
     <item>
       <title>Panasonic AC (IR)</title>
       <link>https://homey.app/a/dev.haugli.panasonicac</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.marcorits.growattaura</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.marcorits.growattaura/2/c40a20a4-9d89-48dc-9402-3d210ee80c5b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 26 Aug 2026 10:16:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>SofaBaton X2</title>
+      <link>https://homey.app/a/com.repairguydk.sofabatonx2</link>
+      <description>One press on the couch, and the whole living room follows.</description>
+      <author>noreply@homey.app (Fille Kirstein)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.repairguydk.sofabatonx2</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.repairguydk.sofabatonx2/9/e1c1f2ae-bd3c-4409-b550-08b3c34cd8c2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 13:27:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Network Devices</title>
+      <link>https://homey.app/a/com.dataweavelabs.netdevices</link>
+      <description>UPS, NAS and network switches over SNMP — including a UPS plugged into your NAS</description>
+      <author>noreply@homey.app (vincent fresnel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.netdevices</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.netdevices/10/46397e4e-6ef2-4e12-b4f6-3ba7f0cc7348/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 13:27:14 +0200</pubDate>
     </item>
   </channel>
 </rss>
