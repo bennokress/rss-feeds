@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:55:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panasonic AC (IR)</title>
-      <link>https://homey.app/a/dev.haugli.panasonicac</link>
-      <description>Smart climate control over infrared</description>
-      <author>noreply@homey.app (Jøran Haugli)</author>
-      <guid isPermaLink="false">https://homey.app/a/dev.haugli.panasonicac</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dev.haugli.panasonicac/2/94d02f77-88a5-4bb1-ac64-40c0b10cb690/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>Arlo Connect</title>
-      <link>https://homey.app/a/com.creson.arlo</link>
-      <description>Bring Arlo cameras and base stations into your Homey Flows.</description>
-      <author>noreply@homey.app (Mikael Creson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.creson.arlo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.creson.arlo/7/16f57c7e-ff87-42d8-8a42-75cf7b1c0b92/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>PostNord Mail Delivery</title>
-      <link>https://homey.app/a/com.creson.postnord-delivery</link>
-      <description>Shows scheduled PostNord mail delivery days for a Swedish postal code.</description>
-      <author>noreply@homey.app (Mikael Creson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.creson.postnord-delivery</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.creson.postnord-delivery/2/4c033ded-a5ef-4070-80dd-62716d775d4e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 11:21:55 +0200</pubDate>
-    </item>
     <item>
       <title>HYXI Cloud</title>
       <link>https://homey.app/a/nl.lrvdlinden.hyxi-cloud</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.netdevices</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.netdevices/10/46397e4e-6ef2-4e12-b4f6-3ba7f0cc7348/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 27 Aug 2026 13:27:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Home Overview</title>
+      <link>https://homey.app/a/com.homeoverview</link>
+      <description>One widget. One overview. Everything that matters at home at a glance.</description>
+      <author>noreply@homey.app (Erik van Oosten)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.homeoverview</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.homeoverview/16/4c65dd86-a77a-4357-8ef6-74293a6adce8/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 13:55:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rheem EcoNet</title>
+      <link>https://homey.app/a/com.dellarciprete.rheemeconet</link>
+      <description>Hot water, ready the moment you need it.</description>
+      <author>noreply@homey.app (John DellArciprete)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dellarciprete.rheemeconet</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dellarciprete.rheemeconet/5/f5837316-c8de-432e-85c4-39397fb0fbc0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 13:55:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>Davey LifeGuard</title>
+      <link>https://homey.app/a/nu.ruiter.davey-lifeguard</link>
+      <description>Crystal-clear pool water, monitored and controlled from Homey.</description>
+      <author>noreply@homey.app (Sander Ruiter)</author>
+      <guid isPermaLink="false">https://homey.app/a/nu.ruiter.davey-lifeguard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nu.ruiter.davey-lifeguard/8/6d86d9e9-3418-4480-848d-203f5a8907a0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 13:55:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
