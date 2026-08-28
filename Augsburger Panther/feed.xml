@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:19:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Cameron Wright</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-cameron-wright/019da9ee-8ba9-774a-b046-2d1e6ea6d034</link>
-      <description>Die Augsburger Panther haben sich für die PENNY DEL-Saison 2026-27 die Dienste von Cameron Wright gesichert. Der kanadische Außenstürmer wechselt von HPK aus der finnischen Liiga in di…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-cameron-wright/019da9ee-8ba9-774a-b046-2d1e6ea6d034</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8ba9-774a-b046-2d1e6ea6d034.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Apr 2026 16:10:00 +0200</pubDate>
-    </item>
     <item>
       <title>Blank &amp; Pilu für Nationalmannschaft nominiert</title>
       <link>https://www.aev-panther.de/artikel/blank-pilu-fuer-nationalmannschaft-nominiert/019da9ee-8af6-762e-a39f-ec1d4d4060e8</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-eroeffnen-die-heimspielsaison/01a042b4-937d-78b5-a0ee-dda2864d3162</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a042b4-937d-78b5-a0ee-dda2864d3162.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Stadtwerke Augsburg bleiben Premiumpartner</title>
+      <link>https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</link>
+      <description>Gute Nachrichten kurz vor dem ersten Heimspiel der neuen Saison: Die Stadtwerke Augsburg (swa) unterstützen die Augsburger Panther auch in den kommenden beiden Spielzeiten umfangreich als Premiumpartn…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0485e-2e93-7476-9ad5-6ef645c4d735.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 14:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
