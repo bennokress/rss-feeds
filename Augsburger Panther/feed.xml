@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:26:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Blank &amp; Pilu für Nationalmannschaft nominiert</title>
-      <link>https://www.aev-panther.de/artikel/blank-pilu-fuer-nationalmannschaft-nominiert/019da9ee-8af6-762e-a39f-ec1d4d4060e8</link>
-      <description>Das Aufgebot der Männer-Nationalmannschaft für den Auftakt der Vorbereitung auf die IIHF Weltmeisterschaft 2026 in der Schweiz im kommenden Mai steht fest. Bundestrainer Harold Kreis hat ins…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/blank-pilu-fuer-nationalmannschaft-nominiert/019da9ee-8af6-762e-a39f-ec1d4d4060e8</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8af6-762e-a39f-ec1d4d4060e8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>60.000 Euro durch das Spiel der Herzen powered by LEW</title>
       <link>https://www.aev-panther.de/artikel/60-000-euro-durch-das-spiel-der-herzen-powered-by-lew/019da9ee-8a5b-730c-8c73-72efe229936d</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0485e-2e93-7476-9ad5-6ef645c4d735.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Aug 2026 14:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>AEV verliert Schlagabtausch mit Kloten</title>
+      <link>https://www.aev-panther.de/artikel/aev-verliert-schlagabtausch-mit-kloten/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b</link>
+      <description>Die Augsburger Panther haben auch das dritte Testspiel zur Saison 2026-27 verloren. Gegen den EHC Kloten lieferte sich der AEV über weite Strecken einen Fight auf Augenhöhe, unterlag am Ende aber nach…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-schlagabtausch-mit-kloten/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 21:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
