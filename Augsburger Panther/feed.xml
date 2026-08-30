@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:16:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>60.000 Euro durch das Spiel der Herzen powered by LEW</title>
-      <link>https://www.aev-panther.de/artikel/60-000-euro-durch-das-spiel-der-herzen-powered-by-lew/019da9ee-8a5b-730c-8c73-72efe229936d</link>
-      <description>Jetzt steht fest: Bei der sechsten Runde der Benefizaktion „Spiel der Herzen powered by LEW" kamen insgesamt 60.000 Euro für die gute Sache zusammen.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/60-000-euro-durch-das-spiel-der-herzen-powered-by-lew/019da9ee-8a5b-730c-8c73-72efe229936d</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-8a5b-730c-8c73-72efe229936d.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Apr 2026 12:45:00 +0200</pubDate>
-    </item>
     <item>
       <title>Liron Pellizzari fährt zur U18-Weltmeisterschaft</title>
       <link>https://www.aev-panther.de/artikel/liron-pellizzari-faehrt-zur-u18-weltmeisterschaft/019da9ee-89bb-793f-ad67-ab78e5413f34</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-schlagabtausch-mit-kloten/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Aug 2026 21:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther gewinnen in Regensburg</title>
+      <link>https://www.aev-panther.de/artikel/panther-gewinnen-in-regensburg/01a05290-ef50-785f-bf4e-9a655bb7ef4b</link>
+      <description>Die Augsburger Panther haben das erste Testspiel vor der Saison 2026-27 gewonnen. Bei den Eisbären Regensburg aus der DEL2 siegte der AEV am Ende verdient mit 4:1. Die Treffer für die Panther erzielte…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gewinnen-in-regensburg/01a05290-ef50-785f-bf4e-9a655bb7ef4b</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a05290-ef50-785f-bf4e-9a655bb7ef4b.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 30 Aug 2026 17:23:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
