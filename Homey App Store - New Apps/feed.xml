@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:20:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Innr Bridge</title>
-      <link>https://homey.app/a/com.innr.cloud</link>
-      <description>Connect Innr devices via the bridge</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.innr.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.innr.cloud/4/b602b266-b4c0-43be-b9c3-f36c4d57986b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>KPN TV+ Remote</title>
-      <link>https://homey.app/a/nl.robinpeters.mediaboxremote</link>
-      <description>Your KPN TV+ remote, always within reach.</description>
-      <author>noreply@homey.app (Robin Peters)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.robinpeters.mediaboxremote</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.robinpeters.mediaboxremote/3/dd1fd8d5-9603-4175-bc81-5d7f6cc4c501/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nordlux Smart Light</title>
-      <link>https://homey.app/a/com.nordlux</link>
-      <description>There's a perfect light for everyone</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.nordlux</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.nordlux/2/90405467-0c62-492a-93e1-094888e19744/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
-    </item>
     <item>
       <title>Lotus Lantern</title>
       <link>https://homey.app/a/com.elkble</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.edilkamin.ek63</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.edilkamin.ek63/8/05b7ce57-ca50-4ecd-9fb4-47650be5a98f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Aug 2026 18:15:50 +0200</pubDate>
+    </item>
+    <item>
+      <title>Husdata H66</title>
+      <link>https://homey.app/a/com.kristerolsson63.husdatav5</link>
+      <description>Local monitoring and control through a Husdata H66 gateway for Rego 600/637 systems.</description>
+      <author>noreply@homey.app (krister Olsson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kristerolsson63.husdatav5</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kristerolsson63.husdatav5/4/d3f2bd34-9d1b-46e8-876b-3aefbbcf80ed/assets/images/appstore-v20-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 10:20:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Smart Gulvvarme</title>
+      <link>https://homey.app/a/dk.smartgulvvarme</link>
+      <description>Control your underfloor heating room by room, based on the weather forecast.</description>
+      <author>noreply@homey.app (Henrik Lund Thomassen)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.smartgulvvarme</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.smartgulvvarme/2/4ef8e911-4eca-4b78-809d-56e68f23d8d4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 10:20:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>DiO HomeBox Gateway</title>
+      <link>https://homey.app/a/io.github.passerelledio.homebox</link>
+      <description>DiO servers closed? Your HomeBox lives on in Homey.</description>
+      <author>noreply@homey.app (Nicolas Langlois)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.github.passerelledio.homebox</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.github.passerelledio.homebox/6/7d2c0019-a41e-44bd-86be-fd70dd4945ad/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 10:20:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
