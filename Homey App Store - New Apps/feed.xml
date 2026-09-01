@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:19:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Loxone</title>
-      <link>https://homey.app/a/nl.daverutten.loxone</link>
-      <description>Your Loxone Miniserver, now speaking Homey.</description>
-      <author>noreply@homey.app (Dave Rutten)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.daverutten.loxone</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.daverutten.loxone/3/0a04922d-959c-4b75-a58b-9191a7b7e187/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 12:50:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fluidra Pool</title>
-      <link>https://homey.app/a/fr.cedricbonneau.fluidrapool</link>
-      <description>Crystal-clear pool water, effortlessly.</description>
-      <author>noreply@homey.app (Cédric Bonneau)</author>
-      <guid isPermaLink="false">https://homey.app/a/fr.cedricbonneau.fluidrapool</guid>
-      <enclosure url="https://apps.homeycdn.net/app/fr.cedricbonneau.fluidrapool/6/e9d4c969-35a6-4735-9b23-80f56b450a64/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 12:50:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>LotusLamp X</title>
-      <link>https://homey.app/a/nl.dypodex.lotuslampx</link>
-      <description>Smarter lighting starts here</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.lotuslampx</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.lotuslampx/2/3f935089-22eb-4eee-92ca-6b16241c5b04/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 12:50:11 +0200</pubDate>
-    </item>
     <item>
       <title>Custom Dash</title>
       <link>https://homey.app/a/com.julianborghuis.customdash</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.barradas.cardashboard</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.barradas.cardashboard/9/6e6417a9-bd42-4cd2-aaf8-9c8443dc9b00/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Sep 2026 12:14:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hailo Libero</title>
+      <link>https://homey.app/a/com.hailo.libero</link>
+      <description>Smart hands-free access for your kitchen.</description>
+      <author>noreply@homey.app (Antoine Chaulieu)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hailo.libero</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hailo.libero/2/c7e8c548-de6c-496d-b652-10e02ea3821d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>WS90 Weather Flows</title>
+      <link>https://homey.app/a/com.jariminnen.ws90flows</link>
+      <description>Turn changing weather into flexible Flow automations.</description>
+      <author>noreply@homey.app (Jari Minnen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.jariminnen.ws90flows</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.jariminnen.ws90flows/2/46a332c2-c3bc-4915-9e38-2023c53594fd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bosch eBike</title>
+      <link>https://homey.app/a/com.bosch.ebike</link>
+      <description>Keep an eye on your eBike's battery, range and charging</description>
+      <author>noreply@homey.app (Gonçalo Barradas)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.bosch.ebike</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.bosch.ebike/5/f274f56a-6f69-40b7-aaf6-c2586f943e45/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
