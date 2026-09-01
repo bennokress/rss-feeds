@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:14:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Lotus Lantern</title>
-      <link>https://homey.app/a/com.elkble</link>
-      <description>Affordable Bluetooth LED strips</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.elkble</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.elkble/2/44d3b941-1d28-4538-84f6-4f54a71c8b4f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>duoCo Strip</title>
-      <link>https://homey.app/a/nl.dypodex.duoco-strip</link>
-      <description>LED strips for every mood</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.duoco-strip</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.duoco-strip/2/0b1dd86b-c7b6-43e6-91b8-b1c1beffaa43/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:58:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>Connector+</title>
-      <link>https://homey.app/a/hull.software.connector-plus</link>
-      <description>Every shutter, exactly as open as you want it.</description>
-      <author>noreply@homey.app (Jack Hull)</author>
-      <guid isPermaLink="false">https://homey.app/a/hull.software.connector-plus</guid>
-      <enclosure url="https://apps.homeycdn.net/app/hull.software.connector-plus/6/68497659-8384-4b2d-b075-f4e9b8b75567/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 12:50:11 +0200</pubDate>
-    </item>
     <item>
       <title>Loxone</title>
       <link>https://homey.app/a/nl.daverutten.loxone</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/io.github.passerelledio.homebox</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.github.passerelledio.homebox/6/7d2c0019-a41e-44bd-86be-fd70dd4945ad/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 31 Aug 2026 10:20:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Heat &amp; Glo</title>
+      <link>https://homey.app/a/com.heatnglo.rc300</link>
+      <description>Control your Heat &amp; Glo gas fireplace's power, flame and fan from Homey.</description>
+      <author>noreply@homey.app (John Bothe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.heatnglo.rc300</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.heatnglo.rc300/1/47196098-5982-478c-b78f-ae238d33b44f/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 12:14:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Brivis</title>
+      <link>https://homey.app/a/au.com.brivis.touch</link>
+      <description>Control in the palm of your hand</description>
+      <author>noreply@homey.app (John Bothe)</author>
+      <guid isPermaLink="false">https://homey.app/a/au.com.brivis.touch</guid>
+      <enclosure url="https://apps.homeycdn.net/app/au.com.brivis.touch/1/f476668f-83d7-4bb0-b5d5-8e356a60bce7/assets/images/large.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 12:14:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Car Dashboard</title>
+      <link>https://homey.app/a/com.barradas.cardashboard</link>
+      <description>Configure a simple, safe dashboard for your car's display (Android Automotive).</description>
+      <author>noreply@homey.app (Gonçalo Barradas)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.barradas.cardashboard</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.barradas.cardashboard/9/6e6417a9-bd42-4cd2-aaf8-9c8443dc9b00/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 12:14:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
