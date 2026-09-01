@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 30 Aug 2026 16:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:17:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Liron Pellizzari fährt zur U18-Weltmeisterschaft</title>
-      <link>https://www.aev-panther.de/artikel/liron-pellizzari-faehrt-zur-u18-weltmeisterschaft/019da9ee-89bb-793f-ad67-ab78e5413f34</link>
-      <description>U18-Bundestrainer Andreas Becherer hat den finalen Kader für die IIHF U18-Weltmeisterschaft 2026 nominiert. Mit im Aufgebot steht auch Liron Pellizzari. Die WM findet vom 22. April bis 02. Mai in…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/liron-pellizzari-faehrt-zur-u18-weltmeisterschaft/019da9ee-89bb-793f-ad67-ab78e5413f34</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-89bb-793f-ad67-ab78e5413f34.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Apr 2026 09:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Kloten und Frankfurt gastieren im CFS</title>
       <link>https://www.aev-panther.de/artikel/kloten-und-frankfurt-gastieren-im-cfs/019da9ee-8920-7363-8ae6-28cecc4e5129</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gewinnen-in-regensburg/01a05290-ef50-785f-bf4e-9a655bb7ef4b</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a05290-ef50-785f-bf4e-9a655bb7ef4b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 30 Aug 2026 17:23:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther verlieren gegen Bern</title>
+      <link>https://www.aev-panther.de/artikel/panther-verlieren-gegen-bern/01a05e63-9ad5-7ed1-83ec-01f6162cf533</link>
+      <description>Die Augsburger Panther mussten im fünften Testspiel die vierte Niederlage hinnehmen. Gegen den SC Bern unterlag der AEV deutlich mit 1:6. Das Tor für die Panther erzielte Jimmy Lambert (41.). Für Bern…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verlieren-gegen-bern/01a05e63-9ad5-7ed1-83ec-01f6162cf533</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a05e63-9ad5-7ed1-83ec-01f6162cf533.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Sep 2026 21:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
