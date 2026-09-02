@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:20:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Custom Dash</title>
-      <link>https://homey.app/a/com.julianborghuis.customdash</link>
-      <description>Design modern custom dashboard cards with status, buttons, sliders and more.</description>
-      <author>noreply@homey.app (Julian Borghuis)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.julianborghuis.customdash</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.julianborghuis.customdash/23/24721d9f-9f68-49ed-8c85-05e45dcdab07/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:10:15 +0200</pubDate>
-    </item>
     <item>
       <title>Jura Connect</title>
       <link>https://homey.app/a/nl.brokebyte.juraconnect</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.bosch.ebike</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.bosch.ebike/5/f274f56a-6f69-40b7-aaf6-c2586f943e45/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Power Estimator</title>
+      <link>https://homey.app/a/com.dataweavelabs.powerestimate</link>
+      <description>Power that follows the real curve of a device, and its colour, from profiles measured with a wattmeter</description>
+      <author>noreply@homey.app (vincent fresnel)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.powerestimate</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.powerestimate/7/c8ae6602-32ae-4cff-adc8-a7b6b020a6e6/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 14:20:35 +0200</pubDate>
     </item>
   </channel>
 </rss>
