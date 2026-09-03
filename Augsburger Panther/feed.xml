@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:19:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Philipp Krauß wird ein Augsburger Panther</title>
-      <link>https://www.aev-panther.de/artikel/philipp-krauss-wird-ein-augsburger-panther/019da9ee-86f6-7acb-ac13-bebe93675bcd</link>
-      <description>Die Augsburger Panther können die Verpflichtung von Philipp Krauß bestätigen. Der 25-jährige Nationalstürmer wechselt vom bayerischen Konkurrenten Ingolstadt innerhalb der PE…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/philipp-krauss-wird-ein-augsburger-panther/019da9ee-86f6-7acb-ac13-bebe93675bcd</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019da9ee-86f6-7acb-ac13-bebe93675bcd.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Apr 2026 10:15:00 +0200</pubDate>
-    </item>
     <item>
       <title>DEB-Aufgebot weiter mit Blank, Pilu &amp; Krauß</title>
       <link>https://www.aev-panther.de/artikel/deb-aufgebot-weiter-mit-blank-pilu-krauss/019daa85-0f8d-7285-9235-f4da6aeea79d</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/cameron-wright-fehlt-panthern-mehrere-wochen/01a066ce-bdb0-75fb-b46c-2f3b0e79fcae</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a066ce-bdb0-75fb-b46c-2f3b0e79fcae.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Sep 2026 12:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fantasy Manager startet in seine zweite Saison</title>
+      <link>https://www.aev-panther.de/artikel/fantasy-manager-startet-in-seine-zweite-saison/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7</link>
+      <description>Zwei Wochen ist es noch hin, bis die Saison 2026-27 in der Deutschen Eishockey Liga (PENNY DEL) beginnt. Aber für viele Fans geht es schon heute richtig los. Denn der PENNY DEL Fantasy Manager startet…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/fantasy-manager-startet-in-seine-zweite-saison/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
