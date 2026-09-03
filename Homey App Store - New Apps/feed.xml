@@ -12,62 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:13:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Jura Connect</title>
-      <link>https://homey.app/a/nl.brokebyte.juraconnect</link>
-      <description>Your Jura coffee machine, fully local — no cloud, no account.</description>
-      <author>noreply@homey.app (Wout Van der Aa)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.brokebyte.juraconnect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.brokebyte.juraconnect/12/4ed9b80b-f4ee-4f62-bb3a-57f44b7939d2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:10:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Denkovi smartDEN</title>
-      <link>https://homey.app/a/com.denkovi.smartden</link>
-      <description>Every relay, switch and sensor, right inside your smart home</description>
-      <author>noreply@homey.app (Benny VanWynsberghe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.denkovi.smartden</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.denkovi.smartden/2/2e33dc08-72df-46f3-ada6-87ffb02a2b07/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>iParking Visitor Parking</title>
-      <link>https://homey.app/a/com.lomohome.iparking_members_community</link>
-      <description>Register and manage visitor parking at your apartment complex</description>
-      <author>noreply@homey.app (Geunwon Mo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lomohome.iparking_members_community</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lomohome.iparking_members_community/3/5c825f7b-ce52-4e36-8be5-c453c2c7f277/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Oklyn</title>
-      <link>https://homey.app/a/com.cedric07.oklyn</link>
-      <description>Integrate Oklyn pool controllers with Homey</description>
-      <author>noreply@homey.app (Cédric Andrietti)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.cedric07.oklyn</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.cedric07.oklyn/5/7d332c4a-0216-4018-be59-6f7c7b356757/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 09:27:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nibe Live</title>
-      <link>https://homey.app/a/com.nibe.local</link>
-      <description>Local Nibe control, split into the devices you actually automate</description>
-      <author>noreply@homey.app (Love Thyresson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.nibe.local</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.nibe.local/11/a53533fb-b60b-4d04-b880-cd8c0e73d078/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 10:29:01 +0200</pubDate>
-    </item>
-    <item>
-      <title>Maledro</title>
-      <link>https://homey.app/a/com.maledro.tuya-zigbee-dimmer</link>
-      <description>Elegant smart control for every room.</description>
-      <author>noreply@homey.app (Maledro .NL)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.maledro.tuya-zigbee-dimmer</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.maledro.tuya-zigbee-dimmer/4/35f38498-95c6-488d-a496-f70ed3d0a331/drivers/maledro_touch_dimmer/assets/app-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 08:56:10 +0200</pubDate>
-    </item>
     <item>
       <title>SmartHQ</title>
       <link>https://homey.app/a/com.smarthq.community</link>
@@ -463,6 +409,60 @@
       <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.powerestimate</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.powerestimate/7/c8ae6602-32ae-4cff-adc8-a7b6b020a6e6/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Sep 2026 14:20:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>MOVA Vacuum</title>
+      <link>https://homey.app/a/com.mova.vacuum</link>
+      <description>Spotless floors, without lifting a finger.</description>
+      <author>noreply@homey.app (Didier Van Uffelen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mova.vacuum</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mova.vacuum/1/2eee0fbb-6664-4790-a384-ecb9dbb6b1e2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sysav Waste Calendar</title>
+      <link>https://homey.app/a/com.hibbisoft.garbagecalendar</link>
+      <description>Know exactly when your waste will be collected</description>
+      <author>noreply@homey.app (Sebastian Johansson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hibbisoft.garbagecalendar</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hibbisoft.garbagecalendar/2/8df739cf-ad4e-4004-9813-bc96e6e00e2c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>FR Bornes VE</title>
+      <link>https://homey.app/a/com.rapinology.hirve</link>
+      <description>Know a charging point is free before you leave.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hirve</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hirve/3/7571fb86-faee-4d83-a77f-217fa3427c4e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bear</title>
+      <link>https://homey.app/a/com.bear.blinds</link>
+      <description>Blinds and awnings that move with the sun.</description>
+      <author>noreply@homey.app (John Bothe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.bear.blinds</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.bear.blinds/1/805cec06-ba01-4fa3-80c7-f26872c1eae5/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>FR Carburants</title>
+      <link>https://homey.app/a/com.rapinology.hcarburants</link>
+      <description>Fill up at the best price, without thinking about it.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hcarburants</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hcarburants/5/7597f86c-9c44-4b33-bbe0-274f5b3dc34b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
+    </item>
+    <item>
+      <title>FR Qualité de l'air</title>
+      <link>https://homey.app/a/com.rapinology.hatmo</link>
+      <description>Let your home breathe at the right moment.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hatmo</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hatmo/2/388a8d2c-45c7-474e-892a-d0394038e64f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
     </item>
   </channel>
 </rss>
