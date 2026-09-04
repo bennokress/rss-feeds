@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:16:47 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bill Peters bleibt Cheftrainer der Panther</title>
-      <link>https://www.aev-panther.de/artikel/bill-peters-bleibt-cheftrainer-der-panther/019e06ee-c947-7a0a-b366-ccf65f18290a</link>
-      <description>Was schon länger mündlich vereinbart war, ist nun auch abschließend schriftlich fixiert. Bill Peters bleibt Cheftrainer der Augsburger Panther und geht in seine zweite Saison hinter de…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/bill-peters-bleibt-cheftrainer-der-panther/019e06ee-c947-7a0a-b366-ccf65f18290a</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c947-7a0a-b366-ccf65f18290a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Apr 2026 10:35:00 +0200</pubDate>
-    </item>
     <item>
       <title>Blank weiter im deutschen Aufgebot</title>
       <link>https://www.aev-panther.de/artikel/blank-weiter-im-deutschen-aufgebot/019e06ee-c8bc-7891-910d-08f17e1b0542</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-testen-gegen-loewen/01a06787-e5f5-7348-978b-78542e2aa16c</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a06787-e5f5-7348-978b-78542e2aa16c.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Sep 2026 08:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther unterliegen Löwen Frankfurt</title>
+      <link>https://www.aev-panther.de/artikel/panther-unterliegen-loewen-frankfurt/01a06de1-d86f-77e0-8b97-012be5f0b8d1</link>
+      <description>Die Augsburger Panther haben ihr Testspiel gegen die Löwen Frankfurt mit 2:4 verloren. Für die Panther trafen Kyle Wood (35.) und Enrico Henriquez (45.), während für die Gäste Anthony Romano (13.), Ma…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-unterliegen-loewen-frankfurt/01a06de1-d86f-77e0-8b97-012be5f0b8d1</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a06de1-d86f-77e0-8b97-012be5f0b8d1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Sep 2026 21:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
