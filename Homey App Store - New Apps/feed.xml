@@ -12,71 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 08:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:13:41 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SolarAccuOpMaat</title>
-      <link>https://homey.app/a/nl.solaraccuopmaat.homey</link>
-      <description>Let your home battery follow your household</description>
-      <author>noreply@homey.app (Finn Zut)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.solaraccuopmaat.homey</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.solaraccuopmaat.homey/1/8e438c20-9e8d-4b5c-a131-092609a3f789/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>Honeywell Galaxy</title>
-      <link>https://homey.app/a/com.selfmon.galaxy</link>
-      <description>Take full control of your security system</description>
-      <author>noreply@homey.app (SelfMon Ltd)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.selfmon.galaxy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.selfmon.galaxy/20/7d5b3147-e751-48fd-be03-3cae0bf1ec36/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>SmartGrill</title>
-      <link>https://homey.app/a/com.noctowl17.smartgrill</link>
-      <description>Keep every barbecue perfectly on temperature.</description>
-      <author>noreply@homey.app (Frank Gerritsen Mulkes)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.noctowl17.smartgrill</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.noctowl17.smartgrill/7/de736f75-8501-43ee-80cc-3f05479f809e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vektiva SMARWI</title>
-      <link>https://homey.app/a/com.vektiva.smarwi</link>
-      <description>Fresh air, exactly when your home needs it.</description>
-      <author>noreply@homey.app (Marian Lojka)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.vektiva.smarwi</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.vektiva.smarwi/5/b9a84396-1415-40ff-b16b-5f9a28799944/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:50:25 +0200</pubDate>
-    </item>
-    <item>
-      <title>AUX Airco</title>
-      <link>https://homey.app/a/com.zwegersit.auxairco</link>
-      <description>Freedom over your climate, automated</description>
-      <author>noreply@homey.app (Gijs Zwegers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.zwegersit.auxairco</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.zwegersit.auxairco/4/8c016f37-09c9-4046-8a37-98ba93fc2126/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>Geberit AquaClean</title>
-      <link>https://homey.app/a/com.thomastorp.geberit-aquaclean</link>
-      <description>Shower, dryer, lid and every profile setting for your AquaClean — entirely on your own network.</description>
-      <author>noreply@homey.app (Thomas Torp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.geberit-aquaclean</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.geberit-aquaclean/16/089113c2-4de1-4057-a4ec-02ee436ae3a1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>Withings Sleep</title>
-      <link>https://homey.app/a/com.thomastorp.withings-sleep</link>
-      <description>Let your home react when you get into bed and when you get up.</description>
-      <author>noreply@homey.app (Thomas Torp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.withings-sleep</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.withings-sleep/24/5d8b0d0b-d6c2-438d-97e3-aaab4935cc7b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
-    </item>
     <item>
       <title>DEFA Power</title>
       <link>https://homey.app/a/com.thomastorp.defa-power</link>
@@ -463,6 +400,69 @@
       <guid isPermaLink="false">https://homey.app/a/com.idiamant-netatmo</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.idiamant-netatmo/15/2c7e696d-e887-44af-977d-3a58746fb204/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Sep 2026 10:20:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dew Point &amp; Mould Guard</title>
+      <link>https://homey.app/a/com.rapinology.hdewpoint</link>
+      <description>Know when a wall is about to get wet, in degrees rather than a vague warning.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hdewpoint</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hdewpoint/1/6bece0e9-baf9-4e79-b6c8-19be71f36d9b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ephemerides</title>
+      <link>https://homey.app/a/com.rapinology.ephemerides</link>
+      <description>Every twilight, golden hour and moon phase for your home, computed offline.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.ephemerides</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.ephemerides/2/4adeda7e-a040-4073-b79f-b34be7d4973f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>FF-Agent</title>
+      <link>https://homey.app/a/com.stefanbauer.ff-agent</link>
+      <description>Bring fire brigade alarms into your smart home.</description>
+      <author>noreply@homey.app (Stefan Bauer)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.stefanbauer.ff-agent</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.stefanbauer.ff-agent/2/f7d1700e-1f94-494d-91f3-cd76d826380b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>VarView</title>
+      <link>https://homey.app/a/com.dklatt.varview</link>
+      <description>Shows a selected device value full-screen, ready to be cast to a Chromecast or Google Nest Hub.</description>
+      <author>noreply@homey.app (Dennis Klatt)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dklatt.varview</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.varview/7/2e9f27e6-9024-4421-9647-f9510b3c3213/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>ISS</title>
+      <link>https://homey.app/a/com.rapinology.hiss</link>
+      <description>Know when the space station flies over, and when it can be seen.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hiss</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hiss/1/ec953694-80dc-465d-8fc6-46f218a2e3bc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>FR Vigilance</title>
+      <link>https://homey.app/a/com.rapinology.hvigilance</link>
+      <description>Flood and wildfire danger levels near you, from French public services.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hvigilance</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hvigilance/1/abf81fd6-74a9-4135-b2f5-9c6541a75978/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Energy Allocator</title>
+      <link>https://homey.app/a/fi.oh2th.energy-allocator</link>
+      <description>Estimate the split of grid, solar, and battery energy a device consumes.</description>
+      <author>noreply@homey.app (Tapio Heiskanen)</author>
+      <guid isPermaLink="false">https://homey.app/a/fi.oh2th.energy-allocator</guid>
+      <enclosure url="https://apps.homeycdn.net/app/fi.oh2th.energy-allocator/6/d37e9c04-13b7-48f9-a16b-dcb849609a3b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
