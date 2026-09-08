@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:19:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Scrypted</title>
-      <link>https://homey.app/a/com.dataweavelabs.scrypted</link>
-      <description>Every camera, under one roof</description>
-      <author>noreply@homey.app (vincent fresnel)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.scrypted</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.scrypted/1/dff7e9e6-cf57-43ec-9362-9842ff17a630/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 14:48:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>OVO Energy</title>
-      <link>https://homey.app/a/com.rompa.ovoenergy</link>
-      <description>Understand your electricity use, half an hour at a time.</description>
-      <author>noreply@homey.app (John Bear)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rompa.ovoenergy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rompa.ovoenergy/2/f7e2aa3c-b712-4363-9bf2-1c0617616789/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 14:48:42 +0200</pubDate>
-    </item>
     <item>
       <title>Alfen Eve Single / ACE EV Charger</title>
       <link>https://homey.app/a/Alfen.ProlineSingle</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.rapinology.hsaints</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hsaints/2/e24f00c6-c830-482f-89f9-46cebdf4f01c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Solar Controller</title>
+      <link>https://homey.app/a/com.patrick.solarcontroller</link>
+      <description>Turn surplus solar power into useful hot water with local monitoring and control.</description>
+      <author>noreply@homey.app (Patrick Blijie)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.patrick.solarcontroller</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.patrick.solarcontroller/4/b92a6bcb-eb0f-4919-bf96-7eef54bb76ca/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 14:19:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365</title>
+      <link>https://homey.app/a/nl.monkeysoft.microsoft365</link>
+      <description>Sync your Microsoft 365 / Teams presence and calendar into Homey automations</description>
+      <author>noreply@homey.app (Stèphan Eizinga (MonkeySoft))</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.microsoft365</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.microsoft365/7/6f40a9a7-49f0-4d62-85b4-c6f128526a1f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 14:19:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
