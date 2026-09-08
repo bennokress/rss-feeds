@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:19:28 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Goalie Tobias Ancicka</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-goalie-tobias-ancicka/019e06ee-c799-7361-9961-f346ca351a96</link>
-      <description>Die Augsburger Panther können die Verpflichtung von Tobias Ancicka offiziell bestätigen. Der 25-jährige Torwart wechselt vom Hauptrundensieger Kölner Haie in die Fuggerstadt und bildet dort künftig mi…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-goalie-tobias-ancicka/019e06ee-c799-7361-9961-f346ca351a96</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c799-7361-9961-f346ca351a96.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Apr 2026 11:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Jimmy Lambert wechselt in die Fuggerstadt</title>
       <link>https://www.aev-panther.de/artikel/jimmy-lambert-wechselt-in-die-fuggerstadt/019e06ee-c715-7e16-b72f-e71c9d68cfab</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/spielplan-der-maenner-nationalmannschaft-steht-fest/01a07b47-a547-767c-9eb8-7243841cbccd</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a07b47-a547-767c-9eb8-7243841cbccd.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Sep 2026 11:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Neue Website &amp; modifizierter Liveticker zur Saison 26-27</title>
+      <link>https://www.aev-panther.de/artikel/neue-website-modifizierter-liveticker-zur-saison-26-27/01a0813c-7bfd-70fe-a8e8-178c5f42217d</link>
+      <description>Die Augsburger Panther starten auch digital mit frischem Schwung in die Saison 2026-27: Die offizielle Clubwebsite wurde technisch komplett überarbeitet und bietet Fans jetzt ein schnelleres, intuitiv…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/neue-website-modifizierter-liveticker-zur-saison-26-27/01a0813c-7bfd-70fe-a8e8-178c5f42217d</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0813c-7bfd-70fe-a8e8-178c5f42217d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
