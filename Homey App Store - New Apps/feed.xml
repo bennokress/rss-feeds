@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:13:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>DEFA Power</title>
-      <link>https://homey.app/a/com.thomastorp.defa-power</link>
-      <description>Your DEFA charger, on your terms.</description>
-      <author>noreply@homey.app (Thomas Torp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thomastorp.defa-power</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thomastorp.defa-power/12/40d813f2-fe33-47fa-ada6-76065e868d73/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>Obi Energy Tracker</title>
-      <link>https://homey.app/a/hull.software.obi-energy-tracker</link>
-      <description>Follow your electricity consumption and current load in Homey Energy.</description>
-      <author>noreply@homey.app (Jack Hull)</author>
-      <guid isPermaLink="false">https://homey.app/a/hull.software.obi-energy-tracker</guid>
-      <enclosure url="https://apps.homeycdn.net/app/hull.software.obi-energy-tracker/5/d00afb68-e08c-401b-8a8f-cadaeaeb6a73/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 16:36:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>OpenQuatt</title>
-      <link>https://homey.app/a/nl.openquatt</link>
-      <description>Your heat pump, live and local — no cloud required</description>
-      <author>noreply@homey.app (WebBuilds B.V.)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.openquatt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.openquatt/6/44616f90-f056-446f-a702-1b0c0aaeef87/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 12:30:44 +0200</pubDate>
-    </item>
     <item>
       <title>Scrypted</title>
       <link>https://homey.app/a/com.dataweavelabs.scrypted</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/fi.oh2th.energy-allocator</guid>
       <enclosure url="https://apps.homeycdn.net/app/fi.oh2th.energy-allocator/6/d37e9c04-13b7-48f9-a16b-dcb849609a3b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
+    </item>
+    <item>
+      <title>Midea Cloud</title>
+      <link>https://homey.app/a/com.lucaauletta.midea-cloud</link>
+      <description>Keep your Midea air conditioners working with Homey through the cloud</description>
+      <author>noreply@homey.app (Luca Auletta)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lucaauletta.midea-cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lucaauletta.midea-cloud/6/48db7f6c-2f9e-469c-ab7c-8581fa49d28c/assets/images/app-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>ATAG Zone</title>
+      <link>https://homey.app/a/com.michelhelsdingen.atag-zone</link>
+      <description>Never be surprised by a cold house again</description>
+      <author>noreply@homey.app (Michel Helsdingen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.michelhelsdingen.atag-zone</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.michelhelsdingen.atag-zone/7/474ea644-2f96-4d02-afc7-91f654d0b61d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
+    </item>
+    <item>
+      <title>Saint du jour</title>
+      <link>https://homey.app/a/com.rapinology.hsaints</link>
+      <description>Know whose name day it is, without opening a calendar.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hsaints</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hsaints/2/e24f00c6-c830-482f-89f9-46cebdf4f01c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
     </item>
   </channel>
 </rss>
