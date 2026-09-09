@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:30:59 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Jimmy Lambert wechselt in die Fuggerstadt</title>
-      <link>https://www.aev-panther.de/artikel/jimmy-lambert-wechselt-in-die-fuggerstadt/019e06ee-c715-7e16-b72f-e71c9d68cfab</link>
-      <description>Die Panther können den nächsten Neuzugang vermelden. Jimmy Lambert wechselt von den Grizzlys Wolfsburg in die Fuggerstadt und verstärkt in der PENNY DEL-Saison 2026-27 die Augsburger Offensive.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/jimmy-lambert-wechselt-in-die-fuggerstadt/019e06ee-c715-7e16-b72f-e71c9d68cfab</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c715-7e16-b72f-e71c9d68cfab.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 03 May 2026 09:55:00 +0200</pubDate>
-    </item>
     <item>
       <title>Alexander Blank gehört weiter zum Aufgebot des DEB-Teams</title>
       <link>https://www.aev-panther.de/artikel/alexander-blank-gehoert-weiter-zum-aufgebot-des-deb-teams/019e06ee-c694-7196-bc06-1720ccc48dae</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/neue-website-modifizierter-liveticker-zur-saison-26-27/01a0813c-7bfd-70fe-a8e8-178c5f42217d</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0813c-7bfd-70fe-a8e8-178c5f42217d.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Sep 2026 15:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zwei Augsburger Traditionen schreiben Zukunft</title>
+      <link>https://www.aev-panther.de/artikel/zwei-augsburger-traditionen-schreiben-zukunft/01a081a9-fd48-7efc-be03-0413b599e109</link>
+      <description>Die RENK Group AG, ein führender Anbieter von Antriebslösungen für den militärischen und zivilen Bereich, startet mit Beginn der Saison 2026-27 eine Sponsoring-Partnerschaft mit den Augsburger Panther…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/zwei-augsburger-traditionen-schreiben-zukunft/01a081a9-fd48-7efc-be03-0413b599e109</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a081a9-fd48-7efc-be03-0413b599e109.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 08:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
