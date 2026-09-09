@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:13:02 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Alfen Eve Single / ACE EV Charger</title>
-      <link>https://homey.app/a/Alfen.ProlineSingle</link>
-      <description>Integrate your Alfen EV charger in Homey</description>
-      <author>noreply@homey.app (Barney 3245)</author>
-      <guid isPermaLink="false">https://homey.app/a/Alfen.ProlineSingle</guid>
-      <enclosure url="https://apps.homeycdn.net/app/Alfen.ProlineSingle/7/39124078-7a1f-40c3-bbef-7022e16ed36d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 10:17:52 +0200</pubDate>
-    </item>
     <item>
       <title>Netro Smart Watering</title>
       <link>https://homey.app/a/com.netro.watering</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.microsoft365</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.microsoft365/7/6f40a9a7-49f0-4d62-85b4-c6f128526a1f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Sep 2026 14:19:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>ComEd Opower</title>
+      <link>https://homey.app/a/com.carcani.homey.comed-opower</link>
+      <description>Monitor your ComEd electricity consumption and energy usage directly in Homey.</description>
+      <author>noreply@homey.app (Erjon Carcani)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.carcani.homey.comed-opower</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.carcani.homey.comed-opower/4/18e0a6cd-77ce-49a1-b8c2-c5ccd5adb091/assets/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 12:12:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
