@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:14:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Netro Smart Watering</title>
-      <link>https://homey.app/a/com.netro.watering</link>
-      <description>Smart watering for every corner of your garden.</description>
-      <author>noreply@homey.app (Patrick Tavaris)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.netro.watering</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.netro.watering/16/73e8060c-817b-4a6e-a7e5-013106990f8d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 10:17:52 +0200</pubDate>
-    </item>
     <item>
       <title>ArtiLED</title>
       <link>https://homey.app/a/nl.artiled</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.carcani.homey.comed-opower</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.carcani.homey.comed-opower/4/18e0a6cd-77ce-49a1-b8c2-c5ccd5adb091/assets/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Sep 2026 12:12:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>SolarAssistant</title>
+      <link>https://homey.app/a/org.solarassistant.homey</link>
+      <description>Monitor and control your SolarAssistant solar &amp; battery system from Homey.</description>
+      <author>noreply@homey.app (Morten Bech)</author>
+      <guid isPermaLink="false">https://homey.app/a/org.solarassistant.homey</guid>
+      <enclosure url="https://apps.homeycdn.net/app/org.solarassistant.homey/8/d73f5d3e-f7ad-435b-95ad-14f1013f4ad4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 18:14:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
