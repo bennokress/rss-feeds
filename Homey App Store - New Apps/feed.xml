@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:12:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ArtiLED</title>
-      <link>https://homey.app/a/nl.artiled</link>
-      <description>Control ArtiLED lighting from Homey. Rooms, zones and lights appear as light devices; scenes and modes can be run from the home screen or from a flow.</description>
-      <author>noreply@homey.app (Michel van Osenbruggen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.artiled</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.artiled/2/dfab794f-3d19-45dc-9d61-2aef4bb80007/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 10:17:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>Surplife</title>
-      <link>https://homey.app/a/com.zengge.surplife</link>
-      <description>Set the mood with Surplife smart lighting</description>
-      <author>noreply@homey.app (Surplife Zengge)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.zengge.surplife</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.zengge.surplife/6/0102511c-d955-4909-8d34-5dbbbed4c92b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 10:17:52 +0200</pubDate>
-    </item>
     <item>
       <title>TrueNAS Manager</title>
       <link>https://homey.app/a/com.truenas.manager</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/org.solarassistant.homey</guid>
       <enclosure url="https://apps.homeycdn.net/app/org.solarassistant.homey/8/d73f5d3e-f7ad-435b-95ad-14f1013f4ad4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Sep 2026 18:14:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ratio Electric Charger</title>
+      <link>https://homey.app/a/nl.ratio</link>
+      <description>Powered by Simplicity</description>
+      <author>noreply@homey.app (Ron van de Graaf)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.ratio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.ratio/18/d100cf1d-6195-4f17-bbe1-b057a449b5fe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 12:12:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>Solis Local Hybrid Inverter</title>
+      <link>https://homey.app/a/nl.orangeframe.solis</link>
+      <description>Monitor and control your hybrid solar inverter and home battery over your local network — no cloud</description>
+      <author>noreply@homey.app (Remco Bosshard)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.orangeframe.solis</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.orangeframe.solis/16/798980c8-dba1-4dea-816a-9b8e63952efe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 12:12:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
