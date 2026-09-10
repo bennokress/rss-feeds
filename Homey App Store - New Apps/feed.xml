@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:19:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>TrueNAS Manager</title>
-      <link>https://homey.app/a/com.truenas.manager</link>
-      <description>Your storage, pools and services at a glance.</description>
-      <author>noreply@homey.app (Andi Wirz)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.truenas.manager</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.truenas.manager/2/6e539b29-1e50-421c-be8b-ecbefae07ffa/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 12:16:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>HomeFlux</title>
-      <link>https://homey.app/a/com.dashboard.homeflux</link>
-      <description>See where your energy goes.</description>
-      <author>noreply@homey.app (Davy Bert)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dashboard.homeflux</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dashboard.homeflux/26/1a054d36-6941-4ee8-9dc5-ffb6a3a3f488/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 16:16:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dantherm HCV</title>
-      <link>https://homey.app/a/dk.fredskilde.dantherm</link>
-      <description>Fresh air on autopilot — and free cooling all summer, in every Flow</description>
-      <author>noreply@homey.app (Mike Fredskilde)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.fredskilde.dantherm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.fredskilde.dantherm/2/1eef63b6-ad69-45f2-8a74-e8bd5fff7090/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 16:16:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Shelly Control</title>
-      <link>https://homey.app/a/cloud.shelly.control</link>
-      <description>Smart home automation is that easy!</description>
-      <author>noreply@homey.app (Allterco Robotics)</author>
-      <guid isPermaLink="false">https://homey.app/a/cloud.shelly.control</guid>
-      <enclosure url="https://apps.homeycdn.net/app/cloud.shelly.control/23/f3048607-b6e3-4548-9086-b9540e741947/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 18:12:28 +0200</pubDate>
-    </item>
     <item>
       <title>Ecovacs Deebot</title>
       <link>https://homey.app/a/com.ecovacs.deebot</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/nl.orangeframe.solis</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.orangeframe.solis/16/798980c8-dba1-4dea-816a-9b8e63952efe/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 12:12:54 +0200</pubDate>
+    </item>
+    <item>
+      <title>MeRGBW</title>
+      <link>https://homey.app/a/com.szwest</link>
+      <description>Colorful smart life, Lights up your world</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.szwest</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.szwest/2/0a2a26f3-ba09-49b4-a64b-a4a3a5bf805d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Faber ITC</title>
+      <link>https://homey.app/a/com.faber.itc</link>
+      <description>Bring the warmth of Faber into your smart home.</description>
+      <author>noreply@homey.app (Harm Jonkers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.faber.itc</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.faber.itc/3/7f994f3e-a27e-4a6a-bdb6-f9db02024a09/assets/images/store-banner-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>iStrip+</title>
+      <link>https://homey.app/a/net.beniao</link>
+      <description>LED strips for every area</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.beniao</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.beniao/2/ac6d10ad-8f8e-4b6c-8ec7-78031b468e1a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sleepy</title>
+      <link>https://homey.app/a/com.sleepy</link>
+      <description>A smart sleep coach for children, using light and movement to guide bedtime, nighttime and wake-up routines.</description>
+      <author>noreply@homey.app (Erik van Oosten)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sleepy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sleepy/9/37c4aeee-a3f1-4518-97ff-7148f33d0006/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
     </item>
   </channel>
 </rss>
