@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:15:10 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Adaptive Thermostat</title>
-      <link>https://homey.app/a/com.dataweavelabs.adaptivethermostat</link>
-      <description>Turn any temperature sensor and any heater into a thermostat that actually regulates</description>
-      <author>noreply@homey.app (vincent fresnel)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.adaptivethermostat</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.adaptivethermostat/7/f702a8cd-23cd-4cad-90d6-404b702950da/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 14:11:10 +0200</pubDate>
-    </item>
     <item>
       <title>Network Printer</title>
       <link>https://homey.app/a/com.dataweavelabs.netprinter</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.marctronic</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.marctronic/6/cab5c7a1-973d-4d16-9ae1-78f687ed85b2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 18:12:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>MyNissan</title>
+      <link>https://homey.app/a/eu.nissanconnect</link>
+      <description>Make your Nissan a part of your smart home</description>
+      <author>noreply@homey.app (Simon Andersson)</author>
+      <guid isPermaLink="false">https://homey.app/a/eu.nissanconnect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/eu.nissanconnect/13/e24f4bf9-56f7-425a-a818-25f07e2b5e6c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 20:15:09 +0200</pubDate>
     </item>
   </channel>
 </rss>
