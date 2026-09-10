@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:12:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ecovacs Deebot</title>
-      <link>https://homey.app/a/com.ecovacs.deebot</link>
-      <description>You relax. DEEBOT delivers</description>
-      <author>noreply@homey.app (Ronny Winkler)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ecovacs.deebot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ecovacs.deebot/1/136e7930-ed2f-4fe9-81f3-60a5b8c20d25/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 22:08:35 +0200</pubDate>
-    </item>
     <item>
       <title>Adaptive Thermostat</title>
       <link>https://homey.app/a/com.dataweavelabs.adaptivethermostat</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.sleepy</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.sleepy/9/37c4aeee-a3f1-4518-97ff-7148f33d0006/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Marctronic</title>
+      <link>https://homey.app/a/com.marctronic</link>
+      <description>Local 433 MHz control for generic FLL floor lamps.</description>
+      <author>noreply@homey.app (yann baillet)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.marctronic</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.marctronic/6/cab5c7a1-973d-4d16-9ae1-78f687ed85b2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 18:12:55 +0200</pubDate>
     </item>
   </channel>
 </rss>
