@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:26:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:16:52 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>PENNY DEL erreicht 2025-26 so viele TV-Zuschauer wie noch nie</title>
-      <link>https://www.aev-panther.de/artikel/penny-del-erreicht-2025-26-so-viele-tv-zuschauer-wie-noch-nie/019e06ee-c60d-7682-ae20-177854553bfb</link>
-      <description>Die Spiele der Saison 2025-26 in der Deutschen Eishockey Liga (PENNY DEL) haben so viele Fernsehzuschauer wie noch nie zuvor in der Geschichte der Liga erreicht. Insgesamt sahen in der abgelaufenen Sp…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/penny-del-erreicht-2025-26-so-viele-tv-zuschauer-wie-noch-nie/019e06ee-c60d-7682-ae20-177854553bfb</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019e06ee-c60d-7682-ae20-177854553bfb.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther testen in Villach</title>
       <link>https://www.aev-panther.de/artikel/panther-testen-in-villach/019e06ee-c50c-7c86-863f-7cd6bb0cca44</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/nummer-24-fuer-immer/01a08ad2-38b2-72c8-af9d-f6bd36e5bcec</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a08ad2-38b2-72c8-af9d-f6bd36e5bcec.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 13:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther siegen in Villach</title>
+      <link>https://www.aev-panther.de/artikel/panther-siegen-in-villach/01a091ca-39a1-71c1-b07f-075fec737945</link>
+      <description>Die Augsburger Panther haben das letzte Testspiel vor dem Start der PENNY DEL-Hauptrunde in einer Woche gegen den EC VSV in Villach mit 5:4 nach Verlängerung für sich entschieden. Für die Panther traf…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-siegen-in-villach/01a091ca-39a1-71c1-b07f-075fec737945</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a091ca-39a1-71c1-b07f-075fec737945.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Sep 2026 21:40:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
