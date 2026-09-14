@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:20:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SofaBaton X2</title>
-      <link>https://homey.app/a/com.repairguydk.sofabatonx2</link>
-      <description>One press on the couch, and the whole living room follows.</description>
-      <author>noreply@homey.app (Fille Kirstein)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.repairguydk.sofabatonx2</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.repairguydk.sofabatonx2/9/e1c1f2ae-bd3c-4409-b550-08b3c34cd8c2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 27 Aug 2026 13:27:14 +0200</pubDate>
-    </item>
     <item>
       <title>Network Devices</title>
       <link>https://homey.app/a/com.dataweavelabs.netdevices</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.ericj.senseenergymonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ericj.senseenergymonitor/5/b4cfcf0c-8546-45c3-98f3-d9c13726c4cb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 10:20:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cigol</title>
+      <link>https://homey.app/a/io.cigol</link>
+      <description>Make professional electrical installations part of the smart home.</description>
+      <author>noreply@homey.app (Kim T. Nielsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.cigol</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.cigol/2/4db9b080-0f5f-4a7a-b368-899993def4bc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 14:20:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
