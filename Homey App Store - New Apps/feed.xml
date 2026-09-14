@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:20:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Network Printer</title>
-      <link>https://homey.app/a/com.dataweavelabs.netprinter</link>
-      <description>Ink, toner and status for any network printer</description>
-      <author>noreply@homey.app (vincent fresnel)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dataweavelabs.netprinter</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dataweavelabs.netprinter/24/771d68b2-7994-431b-8d37-5a2a2cdd09f4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 14:11:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>Growatt AURA</title>
-      <link>https://homey.app/a/com.marcorits.growattaura</link>
-      <description>See what your home battery is doing, from live power to stored energy.</description>
-      <author>noreply@homey.app (Marco Rits)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.marcorits.growattaura</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.marcorits.growattaura/2/c40a20a4-9d89-48dc-9402-3d210ee80c5b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 10:16:36 +0200</pubDate>
-    </item>
     <item>
       <title>SofaBaton X2</title>
       <link>https://homey.app/a/com.repairguydk.sofabatonx2</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/eu.nissanconnect</guid>
       <enclosure url="https://apps.homeycdn.net/app/eu.nissanconnect/13/e24f4bf9-56f7-425a-a818-25f07e2b5e6c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Sep 2026 20:15:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hue Device Location Sync</title>
+      <link>https://homey.app/a/nl.jessedevries.huedevicelocationsync</link>
+      <description>Keeps your Hue devices in the correct Homey zones by providing a one-time mapping of Hue rooms with Homey zones.</description>
+      <author>noreply@homey.app (Jesse de Vries)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.jessedevries.huedevicelocationsync</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.jessedevries.huedevicelocationsync/1/b53908da-ed31-4400-8642-3203c0c7762b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 10:20:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sense Energy Monitor</title>
+      <link>https://homey.app/a/com.ericj.senseenergymonitor</link>
+      <description>See every watt your home uses and makes</description>
+      <author>noreply@homey.app (Eric Jilot)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ericj.senseenergymonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ericj.senseenergymonitor/5/b4cfcf0c-8546-45c3-98f3-d9c13726c4cb/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 10:20:41 +0200</pubDate>
     </item>
   </channel>
 </rss>
