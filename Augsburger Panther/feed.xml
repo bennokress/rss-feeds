@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:18:37 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>JAKO bleibt Off-Ice-Ausstatter</title>
-      <link>https://www.aev-panther.de/artikel/jako-bleibt-off-ice-ausstatter/019ecfb9-5912-7098-9053-8798bb383ac1</link>
-      <description>Die Augsburger Panther und der Augsburger Eislaufverein können bis mindestens 2029 auf erstklassige Off-Ice-Ausstattung aus dem Hause JAKO zählen. Der Ausrüstervertrag mit dem renommier…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/jako-bleibt-off-ice-ausstatter/019ecfb9-5912-7098-9053-8798bb383ac1</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5912-7098-9053-8798bb383ac1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 May 2026 14:20:00 +0200</pubDate>
-    </item>
     <item>
       <title>Testspiel gegen den SC Bern</title>
       <link>https://www.aev-panther.de/artikel/testspiel-gegen-den-sc-bern/019ecfb9-5811-7a77-9994-4f7be69d10f9</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/von-fans-fuer-fans-die-erstanlaufstelle-powerplay/01a08187-6f45-785d-bbd7-3ffd6ea34ce4</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a08187-6f45-785d-bbd7-3ffd6ea34ce4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 13 Sep 2026 10:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Scheppach &amp; Panther bauen Partnerschaft aus</title>
+      <link>https://www.aev-panther.de/artikel/scheppach-panther-bauen-partnerschaft-aus/01a09f1f-33e7-7ea2-8af5-75f6b49e28b0</link>
+      <description>Die Scheppach GmbH erweitert ihr bisheriges Engagement bei den Augsburger Panthern zur Saison 2026-27: Das traditionsreiche Werkzeugunternehmen steigt in die zweithöchste Sponsorenebene auf und firmie…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/scheppach-panther-bauen-partnerschaft-aus/01a09f1f-33e7-7ea2-8af5-75f6b49e28b0</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a09f1f-33e7-7ea2-8af5-75f6b49e28b0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 10:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
