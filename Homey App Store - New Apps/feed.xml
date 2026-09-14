@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:14:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:12:55 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Rheem EcoNet</title>
-      <link>https://homey.app/a/com.dellarciprete.rheemeconet</link>
-      <description>Hot water, ready the moment you need it.</description>
-      <author>noreply@homey.app (John DellArciprete)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dellarciprete.rheemeconet</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dellarciprete.rheemeconet/5/f5837316-c8de-432e-85c4-39397fb0fbc0/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 28 Aug 2026 13:55:55 +0200</pubDate>
-    </item>
     <item>
       <title>Davey LifeGuard</title>
       <link>https://homey.app/a/nu.ruiter.davey-lifeguard</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.alpha.mohlenhoff.v2</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.alpha.mohlenhoff.v2/13/40e3c361-214a-41d2-ba51-2507d14dfd2a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 16:14:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Porsche Connect</title>
+      <link>https://homey.app/a/nl.error404.porsche</link>
+      <description>Vehicle status and climate control for recent Porsche Taycan, Macan Electric and Cayenne Electric models.</description>
+      <author>noreply@homey.app (error404.nl)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.error404.porsche</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.error404.porsche/5/6bcc6d8f-037e-4482-92d3-062bdb8b6a8d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 22:12:54 +0200</pubDate>
     </item>
   </channel>
 </rss>
