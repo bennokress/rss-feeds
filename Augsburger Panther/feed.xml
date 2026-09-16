@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:19:01 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Testspiel gegen den SC Bern</title>
-      <link>https://www.aev-panther.de/artikel/testspiel-gegen-den-sc-bern/019ecfb9-5811-7a77-9994-4f7be69d10f9</link>
-      <description>Auch das sechste von insgesamt sieben geplanten Testspielen der Vorbereitung 2026 ist nun fix. Am Dienstag, 01. September 2026, treffen die Augsburger Panther in der Eishalle Schoren in Langenthal auf…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/testspiel-gegen-den-sc-bern/019ecfb9-5811-7a77-9994-4f7be69d10f9</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5811-7a77-9994-4f7be69d10f9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verpflichten Maximilian Glötzl</title>
       <link>https://www.aev-panther.de/artikel/panther-verpflichten-maximilian-gloetzl/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/scheppach-panther-bauen-partnerschaft-aus/01a09f1f-33e7-7ea2-8af5-75f6b49e28b0</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a09f1f-33e7-7ea2-8af5-75f6b49e28b0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 10:50:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ryan Button neuer Kapitän der Panther</title>
+      <link>https://www.aev-panther.de/artikel/ryan-button-neuer-kapitaen-der-panther/01a0aa67-cc60-7912-9433-b5bb0c6b6104</link>
+      <description>Die Augsburger Panther starten am Freitag mit einem neuen Kapitän in die PENNY DEL-Saison 2026-27. VerteidigerRyan Button übernimmt das Amt und trägt ab sofort das „C“ auf seinem Trikot. Die Entscheid…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/ryan-button-neuer-kapitaen-der-panther/01a0aa67-cc60-7912-9433-b5bb0c6b6104</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aa67-cc60-7912-9433-b5bb0c6b6104.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 15:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
