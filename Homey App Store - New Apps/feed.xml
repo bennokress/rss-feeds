@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:14:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Car Dashboard</title>
-      <link>https://homey.app/a/com.barradas.cardashboard</link>
-      <description>Configure a simple, safe dashboard for your car's display (Android Automotive).</description>
-      <author>noreply@homey.app (Gonçalo Barradas)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.barradas.cardashboard</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.barradas.cardashboard/9/6e6417a9-bd42-4cd2-aaf8-9c8443dc9b00/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 12:14:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hailo Libero</title>
-      <link>https://homey.app/a/com.hailo.libero</link>
-      <description>Smart hands-free access for your kitchen.</description>
-      <author>noreply@homey.app (Antoine Chaulieu)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.hailo.libero</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.hailo.libero/2/c7e8c548-de6c-496d-b652-10e02ea3821d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>WS90 Weather Flows</title>
-      <link>https://homey.app/a/com.jariminnen.ws90flows</link>
-      <description>Turn changing weather into flexible Flow automations.</description>
-      <author>noreply@homey.app (Jari Minnen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jariminnen.ws90flows</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jariminnen.ws90flows/2/46a332c2-c3bc-4915-9e38-2023c53594fd/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bosch eBike</title>
-      <link>https://homey.app/a/com.bosch.ebike</link>
-      <description>Keep an eye on your eBike's battery, range and charging</description>
-      <author>noreply@homey.app (Gonçalo Barradas)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.bosch.ebike</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.bosch.ebike/5/f274f56a-6f69-40b7-aaf6-c2586f943e45/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 14:19:54 +0200</pubDate>
-    </item>
     <item>
       <title>Power Estimator</title>
       <link>https://homey.app/a/com.dataweavelabs.powerestimate</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/eu.energypriceforecast</guid>
       <enclosure url="https://apps.homeycdn.net/app/eu.energypriceforecast/5/9a864abd-bb7c-4893-a132-d0d555d59346/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Sep 2026 14:20:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>SolarBuffer</title>
+      <link>https://homey.app/a/com.solarbuffer</link>
+      <description>Turn your solar surplus into hot water, and keep an eye on your boiler and home battery from Homey.</description>
+      <author>noreply@homey.app (Enis vd Veld)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.solarbuffer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.solarbuffer/2/9dbf20c3-10cb-4431-9d65-36624c43e3f0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>iDeal LED+</title>
+      <link>https://homey.app/a/com.winkison.ledlight</link>
+      <description>Affordable smart fairy lights</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.winkison.ledlight</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.winkison.ledlight/3/ae313b3c-8e1a-4b59-83f8-b069783ec005/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>Universal Remote</title>
+      <link>https://homey.app/a/de.ftedv.irremote</link>
+      <description>Turn everyday remotes into flexible virtual controls</description>
+      <author>noreply@homey.app (Florian Trück)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.ftedv.irremote</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.irremote/4/a2d00ebe-f262-4fda-9c0f-c0d009a50f5d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
+    </item>
+    <item>
+      <title>NuVo Grand Concerto</title>
+      <link>https://homey.app/a/se.krister.nuvo.grandconcerto</link>
+      <description>Fill every room with the music you love.</description>
+      <author>noreply@homey.app (krister Olsson)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.krister.nuvo.grandconcerto</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.krister.nuvo.grandconcerto/3/ef2e26b0-f557-4e54-9217-7401b6d8c35b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
     </item>
   </channel>
 </rss>
