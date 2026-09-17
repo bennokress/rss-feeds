@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:19:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MOVA Vacuum</title>
-      <link>https://homey.app/a/com.mova.vacuum</link>
-      <description>Spotless floors, without lifting a finger.</description>
-      <author>noreply@homey.app (Didier Van Uffelen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.mova.vacuum</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.mova.vacuum/1/2eee0fbb-6664-4790-a384-ecb9dbb6b1e2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sysav Waste Calendar</title>
-      <link>https://homey.app/a/com.hibbisoft.garbagecalendar</link>
-      <description>Know exactly when your waste will be collected</description>
-      <author>noreply@homey.app (Sebastian Johansson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.hibbisoft.garbagecalendar</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.hibbisoft.garbagecalendar/2/8df739cf-ad4e-4004-9813-bc96e6e00e2c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
-    </item>
     <item>
       <title>FR Bornes VE</title>
       <link>https://homey.app/a/com.rapinology.hirve</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.alphaess</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.alphaess/1/c0450d8e-e5fd-4d76-b02b-299ffad2d9aa/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Sep 2026 20:15:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>HomeFlux EMS</title>
+      <link>https://homey.app/a/com.homeflux.ems</link>
+      <description>Your energy, managed differently</description>
+      <author>noreply@homey.app (Davy Bert)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.homeflux.ems</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.homeflux.ems/59/58d89628-8ef8-4cc9-a389-508525d220fd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 10:19:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>Backup Center</title>
+      <link>https://homey.app/a/nl.dennisweel.flowbackup</link>
+      <description>Keep your setup safe with simple, reliable backups.</description>
+      <author>noreply@homey.app (Dennis Weel)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dennisweel.flowbackup</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dennisweel.flowbackup/5/514c76e9-6647-48ba-bc8c-612b1c2d6654/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 10:19:29 +0200</pubDate>
     </item>
   </channel>
 </rss>
