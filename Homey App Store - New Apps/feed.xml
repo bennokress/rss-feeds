@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:20:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bear</title>
-      <link>https://homey.app/a/com.bear.blinds</link>
-      <description>Blinds and awnings that move with the sun.</description>
-      <author>noreply@homey.app (John Bothe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.bear.blinds</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.bear.blinds/1/805cec06-ba01-4fa3-80c7-f26872c1eae5/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
-    </item>
     <item>
       <title>FR Carburants</title>
       <link>https://homey.app/a/com.rapinology.hcarburants</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.jackery.flowapp</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.jackery.flowapp/11/91cd30aa-455f-4236-9078-ffc8f0993c66/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Sep 2026 12:13:25 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ford Vehicle Data</title>
+      <link>https://homey.app/a/com.ziglar.fordvehicledata</link>
+      <description>Your Ford's status, always within reach.</description>
+      <author>noreply@homey.app (Bas de Jong)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ziglar.fordvehicledata</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ziglar.fordvehicledata/5/ae1616f3-eef5-4cf5-9968-88481130b95a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 14:19:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
