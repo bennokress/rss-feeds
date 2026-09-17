@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:13:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>FR Bornes VE</title>
-      <link>https://homey.app/a/com.rapinology.hirve</link>
-      <description>Know a charging point is free before you leave.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hirve</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hirve/3/7571fb86-faee-4d83-a77f-217fa3427c4e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 12:13:45 +0200</pubDate>
-    </item>
     <item>
       <title>Bear</title>
       <link>https://homey.app/a/com.bear.blinds</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.dennisweel.flowbackup</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.dennisweel.flowbackup/5/514c76e9-6647-48ba-bc8c-612b1c2d6654/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Sep 2026 10:19:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jackery</title>
+      <link>https://homey.app/a/com.jackery.flowapp</link>
+      <description>Sustainable Power for Your Life</description>
+      <author>noreply@homey.app (Jackery Tech)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.jackery.flowapp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.jackery.flowapp/11/91cd30aa-455f-4236-9078-ffc8f0993c66/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 12:13:25 +0200</pubDate>
     </item>
   </channel>
 </rss>
