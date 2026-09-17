@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:19:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Madison Bowey verlässt die Panther</title>
-      <link>https://www.aev-panther.de/artikel/madison-bowey-verlaesst-die-panther/019ecfb9-5457-7214-abdc-8447445a8e69</link>
-      <description>Die letzte noch offene Personalie der Saison 2025-26 ist geklärt: Madison Bowey wird in der kommenden Spielzeit nicht mehr für die Augsburger Panther auflaufen.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/madison-bowey-verlaesst-die-panther/019ecfb9-5457-7214-abdc-8447445a8e69</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5457-7214-abdc-8447445a8e69.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 08:50:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther haben Lizenz-Unterlagen fristgerecht eingereicht</title>
       <link>https://www.aev-panther.de/artikel/panther-haben-lizenz-unterlagen-fristgerecht-eingereicht/019ecfb9-535f-737b-a1d7-453e965e4a76</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aec6-aa8d-75db-b52a-e791236f4391.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Förderlizenz für Liron Pellizzari</title>
+      <link>https://www.aev-panther.de/artikel/foerderlizenz-fuer-liron-pellizzari/01a0af2e-8409-71c5-834b-e2ab4142cde8</link>
+      <description>Die Augsburger Panther haben ihr 17-jähriges EigengewächsLiron Pellizzarimit einer Förderlizenz ausgestattet. Der U18-Nationalspieler ist in der Saison 2026-27 damit für die Panther in der PENNY DEL, …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/foerderlizenz-fuer-liron-pellizzari/01a0af2e-8409-71c5-834b-e2ab4142cde8</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0af2e-8409-71c5-834b-e2ab4142cde8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
