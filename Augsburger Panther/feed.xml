@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:18:10 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Maximilian Glötzl</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-maximilian-gloetzl/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e</link>
-      <description>Die Augsburger Panther können einen weiteren Neuzugang vermelden. In der Saison 2026-27 verstärkt Maximilian Glötzl die Defensive der Fuggerstädter. Der 24-jährige Verteidiger stand in den vergangenen…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-maximilian-gloetzl/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-5574-78d2-9367-b8ebb0b4cb6e.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 May 2026 09:50:00 +0200</pubDate>
-    </item>
     <item>
       <title>Madison Bowey verlässt die Panther</title>
       <link>https://www.aev-panther.de/artikel/madison-bowey-verlaesst-die-panther/019ecfb9-5457-7214-abdc-8447445a8e69</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/ryan-button-neuer-kapitaen-der-panther/01a0aa67-cc60-7912-9433-b5bb0c6b6104</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aa67-cc60-7912-9433-b5bb0c6b6104.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Sep 2026 15:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Warm-Up 26-27 powered by Walser</title>
+      <link>https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</link>
+      <description>Die Augsburger Panther und die WALSER Immobilienprojekte GmbH bauen ihre erfolgreiche Zusammenarbeit aus: Ab sofort wirbt das inhabergeführte Immobilienunternehmen aus Augsburg zusätzlich zum bisherig…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aec6-aa8d-75db-b52a-e791236f4391.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
