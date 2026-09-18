@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:17:30 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Nach GBS-Erkrankung - Peters macht Fortschritte bei der Rehabilitation</title>
-      <link>https://www.aev-panther.de/artikel/nach-gbs-erkrankung-peters-macht-fortschritte-bei-der-rehabilitation/019ecfb9-525e-7573-845d-22f9c66ba2a5</link>
-      <description>Bill Peters ist am Guillain-Barré-Syndrom (GBS) erkrankt und befindet sich deshalb seit dem 15. Mai in stationärer Behandlung. GBS ist eine Erkrankung, bei der das Immunsystem das Nervensy…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/nach-gbs-erkrankung-peters-macht-fortschritte-bei-der-rehabilitation/019ecfb9-525e-7573-845d-22f9c66ba2a5</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-525e-7573-845d-22f9c66ba2a5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Jun 2026 15:45:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther testen in Regensburg</title>
       <link>https://www.aev-panther.de/artikel/panther-testen-in-regensburg/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/neue-regeln-zur-saison-2026-27/01a0af10-693d-7b3d-9db8-fc2956a3ae1e</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0af10-693d-7b3d-9db8-fc2956a3ae1e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 08:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>AEV verliert Auftakt in Nürnberg</title>
+      <link>https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</link>
+      <description>Die Augsburger Panther haben ihr Auftaktspiel der Saison 2026-27 in der PENNY DEL verloren. Bei den Nürnberg Ice Tigers unterlag der AEV mit 1:4. Für Diskussionsstoff sorgten dabei zwei umstrittene Sc…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0b578-db48-72cc-87cc-4f5696f66a04.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 22:07:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
