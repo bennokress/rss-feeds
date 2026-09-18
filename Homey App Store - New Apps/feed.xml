@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:19:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AECC Plug-and-Play Battery</title>
-      <link>https://homey.app/a/nl.stekkerdeal.aecc</link>
-      <description>Full local control, no cloud connection</description>
-      <author>noreply@homey.app (Roy Dorland)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.stekkerdeal.aecc</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.stekkerdeal.aecc/3/72280f29-83c7-4787-90b9-aa303a8fc9d3/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 10:20:21 +0200</pubDate>
-    </item>
     <item>
       <title>Leapmotor</title>
       <link>https://homey.app/a/zperx.leapmotor</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/no.joymyr.sesam-pay</guid>
       <enclosure url="https://apps.homeycdn.net/app/no.joymyr.sesam-pay/11/d731b0d1-6ec1-41e5-bcb1-7464502b916b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 12:13:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wemo</title>
+      <link>https://homey.app/a/com.wemolocal</link>
+      <description>Keep your legacy devices connected, with local control.</description>
+      <author>noreply@homey.app (Antoine Chaulieu)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wemolocal</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wemolocal/4/77d2438e-4069-41c6-b497-1c46fec6dbd4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 14:18:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
