@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:11:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Leapmotor</title>
-      <link>https://homey.app/a/zperx.leapmotor</link>
-      <description>Give your Leapmotor a Home[y]</description>
-      <author>noreply@homey.app (ZperX .)</author>
-      <guid isPermaLink="false">https://homey.app/a/zperx.leapmotor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/zperx.leapmotor/5/8af14547-2878-4799-8900-e820f0bceb93/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 10:20:21 +0200</pubDate>
-    </item>
     <item>
       <title>NovaDigital</title>
       <link>https://homey.app/a/com.gpm.novadigital</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.wemolocal</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.wemolocal/4/77d2438e-4069-41c6-b497-1c46fec6dbd4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 14:18:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ticker Tapes</title>
+      <link>https://homey.app/a/nl.rvginkel.tickertapes</link>
+      <description>A scrolling digital ticker for the Homey dashboard.</description>
+      <author>noreply@homey.app (Rene van Ginkel)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.rvginkel.tickertapes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.rvginkel.tickertapes/1/a75da391-0b30-494f-9855-b8438cd8a4cd/assets/images/st-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 12:11:31 +0200</pubDate>
     </item>
   </channel>
 </rss>
