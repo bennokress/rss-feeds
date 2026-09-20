@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:17:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>NovaDigital</title>
-      <link>https://homey.app/a/com.gpm.novadigital</link>
-      <description>Wall switches (1-6 gang) and smart plugs for NovaDigital Zigbee devices.</description>
-      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.gpm.novadigital</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.gpm.novadigital/1/401f2689-70fd-4d5b-b0c8-5a57a9d6b7fb/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 10:20:21 +0200</pubDate>
-    </item>
     <item>
       <title>iDiamant by Netatmo</title>
       <link>https://homey.app/a/com.idiamant-netatmo</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.rvginkel.tickertapes</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.rvginkel.tickertapes/1/a75da391-0b30-494f-9855-b8438cd8a4cd/assets/images/st-large.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 19 Sep 2026 12:11:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fully Kiosk Browser</title>
+      <link>https://homey.app/a/de.ozerov.fully</link>
+      <description>Control your Fully Kiosk Browser running on Android</description>
+      <author>noreply@homey.app (Emile Nijssen)</author>
+      <guid isPermaLink="false">https://homey.app/a/de.ozerov.fully</guid>
+      <enclosure url="https://apps.homeycdn.net/app/de.ozerov.fully/2/22fd7f43-d7e0-49c8-ade3-8ce4f0655526/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 14:17:31 +0200</pubDate>
     </item>
   </channel>
 </rss>
