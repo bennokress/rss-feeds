@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:21:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther testen in Regensburg</title>
-      <link>https://www.aev-panther.de/artikel/panther-testen-in-regensburg/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d</link>
-      <description>Das Testspielprogramm der Augsburger Panther ist komplett. Am Sonntag, 30. August 2026 tritt das PENNY DEL-Team bei den Eisbären Regensburg in der Stadtwerk.Donau-Arena. Spielbeginn ist um 15:00 …</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-testen-in-regensburg/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-511f-7aa5-9f9e-2bbe3e436e3d.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 18:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Das Panthercatering sucht einen Koch (m/w/d)</title>
       <link>https://www.aev-panther.de/artikel/das-panthercatering-sucht-einen-koch-m-w-d/019ecfb9-4f29-733b-b137-edcf1afdbafc</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0b578-db48-72cc-87cc-4f5696f66a04.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 22:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Im Home Opener gegen Schwenningen</title>
+      <link>https://www.aev-panther.de/artikel/im-home-opener-gegen-schwenningen/01a0b447-c09b-7aaa-a0f8-31f468e86e73</link>
+      <description>Endlich wieder PENNY DEL-Eishockey in Augsburg. In ihrem Home Opener empfangen die Panther am Sonntagnachmittag um 16:30 Uhr die Schwenninger Wild Wings.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/im-home-opener-gegen-schwenningen/01a0b447-c09b-7aaa-a0f8-31f468e86e73</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0b447-c09b-7aaa-a0f8-31f468e86e73.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 09:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
