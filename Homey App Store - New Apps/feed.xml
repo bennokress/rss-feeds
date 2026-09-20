@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:11:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>iDiamant by Netatmo</title>
-      <link>https://homey.app/a/com.idiamant-netatmo</link>
-      <description>Control your Bubendorff shutters connected via iDiamant by Netatmo</description>
-      <author>noreply@homey.app (ATX corp)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.idiamant-netatmo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.idiamant-netatmo/15/2c7e696d-e887-44af-977d-3a58746fb204/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 10:20:21 +0200</pubDate>
-    </item>
     <item>
       <title>Dew Point &amp; Mould Guard</title>
       <link>https://homey.app/a/com.rapinology.hdewpoint</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/de.ozerov.fully</guid>
       <enclosure url="https://apps.homeycdn.net/app/de.ozerov.fully/2/22fd7f43-d7e0-49c8-ade3-8ce4f0655526/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 14:17:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>SSH Client</title>
+      <link>https://homey.app/a/net.weejewel.sshclient</link>
+      <description>Connect &amp; execute commands on a remote SSH Server.</description>
+      <author>noreply@homey.app (Emile Nijssen)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.weejewel.sshclient</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.weejewel.sshclient/1/5492206a-51f2-41fa-a390-c73a9524ba46/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 16:11:02 +0200</pubDate>
     </item>
   </channel>
 </rss>
