@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:19:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Das Panthercatering sucht einen Koch (m/w/d)</title>
-      <link>https://www.aev-panther.de/artikel/das-panthercatering-sucht-einen-koch-m-w-d/019ecfb9-4f29-733b-b137-edcf1afdbafc</link>
-      <description>Du liebst gutes Essen, kreative Küche und besondere Events? Dann komm zu uns ins Panthercatering und mache das Curt-Frenzel-Stadion zu deinem neuen Arbeitsplatz.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/das-panthercatering-sucht-einen-koch-m-w-d/019ecfb9-4f29-733b-b137-edcf1afdbafc</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ecfb9-4f29-733b-b137-edcf1afdbafc.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 09:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Wir suchen Verstärkung fürs Panther-Catering</title>
       <link>https://www.aev-panther.de/artikel/wir-suchen-verstaerkung-fuers-panther-catering/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/im-home-opener-gegen-schwenningen/01a0b447-c09b-7aaa-a0f8-31f468e86e73</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0b447-c09b-7aaa-a0f8-31f468e86e73.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 09:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Schützenfest gegen Schwenningen</title>
+      <link>https://www.aev-panther.de/artikel/schuetzenfest-gegen-schwenningen/01a0bf0e-61f2-7802-8006-0f12c59e58aa</link>
+      <description>Die Augsburger Panther haben das erste Heimspiel der Saison 2026-27 in der PENNY DEL gegen die Schwenningen Wild Wings deutlich und auch in der Höhe verdient mit 7:3 gewonnen. Die Treffer für die Pant…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/schuetzenfest-gegen-schwenningen/01a0bf0e-61f2-7802-8006-0f12c59e58aa</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0bf0e-61f2-7802-8006-0f12c59e58aa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 19:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
