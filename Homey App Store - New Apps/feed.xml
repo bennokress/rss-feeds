@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:14:42 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>FF-Agent</title>
-      <link>https://homey.app/a/com.stefanbauer.ff-agent</link>
-      <description>Bring fire brigade alarms into your smart home.</description>
-      <author>noreply@homey.app (Stefan Bauer)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.stefanbauer.ff-agent</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.stefanbauer.ff-agent/2/f7d1700e-1f94-494d-91f3-cd76d826380b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
     <item>
       <title>VarView</title>
       <link>https://homey.app/a/com.dklatt.varview</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.ady.zonetracks</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ady.zonetracks/2/97df9b2c-b81c-483d-8e1a-e440b8dbf097/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Sep 2026 12:13:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>PostNL</title>
+      <link>https://homey.app/a/nl.lrvdlinden.postnl</link>
+      <description>See incoming mail and PostNL parcels in Homey, with widgets and Flow cards.</description>
+      <author>noreply@homey.app (Léon van der Linden)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.postnl</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.postnl/20/6d0a4f86-57ea-4864-acd5-7cb508815e38/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 16:14:41 +0200</pubDate>
     </item>
   </channel>
 </rss>
