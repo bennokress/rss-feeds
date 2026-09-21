@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:13:49 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Dew Point &amp; Mould Guard</title>
-      <link>https://homey.app/a/com.rapinology.hdewpoint</link>
-      <description>Know when a wall is about to get wet, in degrees rather than a vague warning.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hdewpoint</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hdewpoint/1/6bece0e9-baf9-4e79-b6c8-19be71f36d9b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ephemerides</title>
-      <link>https://homey.app/a/com.rapinology.ephemerides</link>
-      <description>Every twilight, golden hour and moon phase for your home, computed offline.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.ephemerides</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.ephemerides/2/4adeda7e-a040-4073-b79f-b34be7d4973f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
     <item>
       <title>FF-Agent</title>
       <link>https://homey.app/a/com.stefanbauer.ff-agent</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/net.weejewel.sshclient</guid>
       <enclosure url="https://apps.homeycdn.net/app/net.weejewel.sshclient/1/5492206a-51f2-41fa-a390-c73a9524ba46/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 16:11:02 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nubes</title>
+      <link>https://homey.app/a/com.rapinology.nubes</link>
+      <description>See the sky above Europe as the satellites see it.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.nubes</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.nubes/1/5838f2be-d2bb-4ef6-ba54-685c8ce706a7/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 12:13:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>ZoneTracks</title>
+      <link>https://homey.app/a/com.ady.zonetracks</link>
+      <description>Keep track of the family with the OwnTracks app</description>
+      <author>noreply@homey.app (Adrian Rockall)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ady.zonetracks</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ady.zonetracks/2/97df9b2c-b81c-483d-8e1a-e440b8dbf097/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 12:13:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
