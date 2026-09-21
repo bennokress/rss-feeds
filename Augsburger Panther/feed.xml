@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 20 Sep 2026 18:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:19:25 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Wir suchen Verstärkung fürs Panther-Catering</title>
-      <link>https://www.aev-panther.de/artikel/wir-suchen-verstaerkung-fuers-panther-catering/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683</link>
-      <description>Du liebst Eishockey, hast ein Herz für Gastfreundschaft und möchtest unsere Heimspiele im Curt-Frenzel-Stadion aus einer ganz besonderen Perspektive erleben? Dann suchen wir genau DICH! Die Augsburger…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/wir-suchen-verstaerkung-fuers-panther-catering/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ef434-e3a5-7e61-a2b4-2fdb3b4e2683.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jun 2026 13:16:00 +0200</pubDate>
-    </item>
     <item>
       <title>Alle 14 Clubs erhalten die Lizenz</title>
       <link>https://www.aev-panther.de/artikel/alle-14-clubs-erhalten-die-lizenz/019efee4-2d8a-7ba8-8933-70d80ba0324a</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/schuetzenfest-gegen-schwenningen/01a0bf0e-61f2-7802-8006-0f12c59e58aa</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0bf0e-61f2-7802-8006-0f12c59e58aa.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 19:25:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>6.179 - Löw Immobilien präsentiert die Zuschauerzahl</title>
+      <link>https://www.aev-panther.de/artikel/6-179-loew-immobilien-praesentiert-die-zuschauerzahl/01a0c320-52c2-7073-a10b-80fda07ae4e1</link>
+      <description>Die Löw Immobilien GmbH bleibt den Augsburger Panther treu: Die seit 2023 bestehende Top-Partnerschaft wurde im Sommer um zwei weitere Spielzeiten verlängert.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/6-179-loew-immobilien-praesentiert-die-zuschauerzahl/01a0c320-52c2-7073-a10b-80fda07ae4e1</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0c320-52c2-7073-a10b-80fda07ae4e1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 10:40:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
