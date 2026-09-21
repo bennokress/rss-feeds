@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:14:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>VarView</title>
-      <link>https://homey.app/a/com.dklatt.varview</link>
-      <description>Shows a selected device value full-screen, ready to be cast to a Chromecast or Google Nest Hub.</description>
-      <author>noreply@homey.app (Dennis Klatt)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dklatt.varview</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.varview/7/2e9f27e6-9024-4421-9647-f9510b3c3213/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
     <item>
       <title>ISS</title>
       <link>https://homey.app/a/com.rapinology.hiss</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.postnl</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.postnl/20/6d0a4f86-57ea-4864-acd5-7cb508815e38/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Sep 2026 16:14:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>TRMNL</title>
+      <link>https://homey.app/a/com.trmnl.companion</link>
+      <description>Your home without distractions</description>
+      <author>noreply@homey.app (TRMNL)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.trmnl.companion</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.trmnl.companion/15/6550e97e-6792-4bb4-a7a5-33630fd193ff/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 18:14:26 +0200</pubDate>
     </item>
   </channel>
 </rss>
