@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:14:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ISS</title>
-      <link>https://homey.app/a/com.rapinology.hiss</link>
-      <description>Know when the space station flies over, and when it can be seen.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hiss</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hiss/1/ec953694-80dc-465d-8fc6-46f218a2e3bc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
     <item>
       <title>FR Vigilance</title>
       <link>https://homey.app/a/com.rapinology.hvigilance</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.trmnl.companion</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.trmnl.companion/15/6550e97e-6792-4bb4-a7a5-33630fd193ff/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Sep 2026 18:14:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Jev</title>
+      <link>https://homey.app/a/com.basmilius.jev</link>
+      <description>Make decisions in your Flows with your own context.</description>
+      <author>noreply@homey.app (Bas Milius)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.basmilius.jev</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.basmilius.jev/3/6b3e8a4f-2b8f-4bfa-b423-10221d2c454f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 12:14:31 +0200</pubDate>
     </item>
   </channel>
 </rss>
