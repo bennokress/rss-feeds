@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:20:07 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Midea Cloud</title>
-      <link>https://homey.app/a/com.lucaauletta.midea-cloud</link>
-      <description>Keep your Midea air conditioners working with Homey through the cloud</description>
-      <author>noreply@homey.app (Luca Auletta)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lucaauletta.midea-cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lucaauletta.midea-cloud/6/48db7f6c-2f9e-469c-ab7c-8581fa49d28c/assets/images/app-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>ATAG Zone</title>
-      <link>https://homey.app/a/com.michelhelsdingen.atag-zone</link>
-      <description>Never be surprised by a cold house again</description>
-      <author>noreply@homey.app (Michel Helsdingen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.michelhelsdingen.atag-zone</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.michelhelsdingen.atag-zone/7/474ea644-2f96-4d02-afc7-91f654d0b61d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
-    </item>
     <item>
       <title>Saint du jour</title>
       <link>https://homey.app/a/com.rapinology.hsaints</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.rapinology.nubesamerica</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rapinology.nubesamerica/1/2adf0380-e896-46ea-aca4-c1b02f337c67/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Sep 2026 12:13:30 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vent-Axia</title>
+      <link>https://homey.app/a/com.dklatt.ventaxia</link>
+      <description>Let your home breathe.</description>
+      <author>noreply@homey.app (Dennis Klatt)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dklatt.ventaxia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.ventaxia/3/dee8dee7-6b07-42e5-ba84-a415dd7b685e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 14:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>MQTT Bridge</title>
+      <link>https://homey.app/a/com.drchip666.mqttbridge</link>
+      <description>Keep every MQTT broker on your network perfectly in sync.</description>
+      <author>noreply@homey.app (Morten Bech)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.drchip666.mqttbridge</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.drchip666.mqttbridge/5/45c826ed-4dfd-4a04-bb1d-5c18d1975e2c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 14:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
