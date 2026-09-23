@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:13:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>FR Vigilance</title>
-      <link>https://homey.app/a/com.rapinology.hvigilance</link>
-      <description>Flood and wildfire danger levels near you, from French public services.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hvigilance</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hvigilance/1/abf81fd6-74a9-4135-b2f5-9c6541a75978/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>Energy Allocator</title>
-      <link>https://homey.app/a/fi.oh2th.energy-allocator</link>
-      <description>Estimate the split of grid, solar, and battery energy a device consumes.</description>
-      <author>noreply@homey.app (Tapio Heiskanen)</author>
-      <guid isPermaLink="false">https://homey.app/a/fi.oh2th.energy-allocator</guid>
-      <enclosure url="https://apps.homeycdn.net/app/fi.oh2th.energy-allocator/6/d37e9c04-13b7-48f9-a16b-dcb849609a3b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 07 Sep 2026 18:13:33 +0200</pubDate>
-    </item>
     <item>
       <title>Midea Cloud</title>
       <link>https://homey.app/a/com.lucaauletta.midea-cloud</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.basmilius.jev</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.basmilius.jev/3/6b3e8a4f-2b8f-4bfa-b423-10221d2c454f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Sep 2026 12:14:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>LuxVen</title>
+      <link>https://homey.app/a/com.marco.luxven</link>
+      <description>A fresh breeze that fits your day</description>
+      <author>noreply@homey.app (Marco Ahlers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.marco.luxven</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.marco.luxven/2/ac4b73a7-640f-4c9e-9067-73da34d6655d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 12:13:30 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nubes America</title>
+      <link>https://homey.app/a/com.rapinology.nubesamerica</link>
+      <description>Watch the weather cross the Americas, live from orbit.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.nubesamerica</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.nubesamerica/1/2adf0380-e896-46ea-aca4-c1b02f337c67/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 12:13:30 +0200</pubDate>
     </item>
   </channel>
 </rss>
