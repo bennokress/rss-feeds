@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:15:34 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Saint du jour</title>
-      <link>https://homey.app/a/com.rapinology.hsaints</link>
-      <description>Know whose name day it is, without opening a calendar.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.hsaints</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.hsaints/2/e24f00c6-c830-482f-89f9-46cebdf4f01c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 12:13:40 +0200</pubDate>
-    </item>
     <item>
       <title>Solar Controller</title>
       <link>https://homey.app/a/com.patrick.solarcontroller</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.drchip666.mqttbridge</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.drchip666.mqttbridge/5/45c826ed-4dfd-4a04-bb1d-5c18d1975e2c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Sep 2026 14:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Anker SOLIX</title>
+      <link>https://homey.app/a/com.anker.solix</link>
+      <description>Charge smart, live free.</description>
+      <author>noreply@homey.app (Anker Solix)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.anker.solix</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.anker.solix/2/fbcc4be9-d442-4aa5-bd54-37187f1027a4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 06:15:33 +0200</pubDate>
     </item>
   </channel>
 </rss>
