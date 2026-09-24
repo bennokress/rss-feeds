@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:20:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SolarAssistant</title>
-      <link>https://homey.app/a/org.solarassistant.homey</link>
-      <description>Monitor and control your SolarAssistant solar &amp; battery system from Homey.</description>
-      <author>noreply@homey.app (Morten Bech)</author>
-      <guid isPermaLink="false">https://homey.app/a/org.solarassistant.homey</guid>
-      <enclosure url="https://apps.homeycdn.net/app/org.solarassistant.homey/8/d73f5d3e-f7ad-435b-95ad-14f1013f4ad4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 18:14:20 +0200</pubDate>
-    </item>
     <item>
       <title>Ratio Electric Charger</title>
       <link>https://homey.app/a/nl.ratio</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.onlycat.cloud</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.onlycat.cloud/5/93925cb2-2e5c-46a6-9742-09aec2582541/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Sep 2026 12:13:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>SG LEDDim</title>
+      <link>https://homey.app/a/com.sgsmart.csrmesh</link>
+      <description>Gateway-free Bluetooth dimming for the lights that were smart before the hub arrived.</description>
+      <author>noreply@homey.app (Trond Bildøy)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sgsmart.csrmesh</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sgsmart.csrmesh/8/0f7010eb-e3ce-4349-837d-b3a9ec7a72ee/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 14:20:12 +0200</pubDate>
     </item>
   </channel>
 </rss>
