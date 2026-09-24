@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 08:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:13:40 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Microsoft 365</title>
-      <link>https://homey.app/a/nl.monkeysoft.microsoft365</link>
-      <description>Sync your Microsoft 365 / Teams presence and calendar into Homey automations</description>
-      <author>noreply@homey.app (Stèphan Eizinga (MonkeySoft))</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.microsoft365</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.microsoft365/7/6f40a9a7-49f0-4d62-85b4-c6f128526a1f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Sep 2026 14:19:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>ComEd Opower</title>
-      <link>https://homey.app/a/com.carcani.homey.comed-opower</link>
-      <description>Monitor your ComEd electricity consumption and energy usage directly in Homey.</description>
-      <author>noreply@homey.app (Erjon Carcani)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.carcani.homey.comed-opower</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.carcani.homey.comed-opower/4/18e0a6cd-77ce-49a1-b8c2-c5ccd5adb091/assets/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 12:12:59 +0200</pubDate>
-    </item>
     <item>
       <title>SolarAssistant</title>
       <link>https://homey.app/a/org.solarassistant.homey</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.cedric07.presencefusion</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.cedric07.presencefusion/5/4333c8e4-5cec-4984-a346-0e465bfe4c99/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Sep 2026 10:19:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>BookSwipe</title>
+      <link>https://homey.app/a/nl.smarthomeassistent.bookswipe</link>
+      <description>Turn your home into a reading corner: start a reading session with a button and let Homey celebrate the books you finish.</description>
+      <author>noreply@homey.app (Smarthome Assistent)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.smarthomeassistent.bookswipe</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.smarthomeassistent.bookswipe/6/acd161c7-1804-4497-86e0-e0d77bdc5b67/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 12:13:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>OnlyCat</title>
+      <link>https://homey.app/a/com.onlycat.cloud</link>
+      <description>Who came in, who was turned away, and why.</description>
+      <author>noreply@homey.app (Love Thyresson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.onlycat.cloud</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.onlycat.cloud/5/93925cb2-2e5c-46a6-9742-09aec2582541/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 12:13:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
