@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:18:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Der Hauptrunden-Spielplan ist da</title>
-      <link>https://www.aev-panther.de/artikel/der-hauptrunden-spielplan-ist-da/019f0322-d605-7e26-9429-67915f2167cc</link>
-      <description>Die 33. Saison der PENNY DEL wirft ihren Schatten voraus. Heute veröffentlichte die Deutsche Eishockey Liga den neuen Hauptrunden-Spielplan. Der 1. Spieltag der Panther Freitag, 18. September 2026. Wi…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/der-hauptrunden-spielplan-ist-da/019f0322-d605-7e26-9429-67915f2167cc</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019f0322-d605-7e26-9429-67915f2167cc.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 11:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Gerry Fleming wird Associate Coach</title>
       <link>https://www.aev-panther.de/artikel/gerry-fleming-wird-associate-coach/019f1d21-4bef-7ea0-b0d5-91ded8a798c2</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/kein-platz-fuer-diskriminierung-und-gewalt-im-cfs/01a0c496-a3db-736e-8a57-81c5dc52c496</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0c496-a3db-736e-8a57-81c5dc52c496.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Sep 2026 17:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>AEV feiert Comeback-Sieg in Iserlohn</title>
+      <link>https://www.aev-panther.de/artikel/aev-feiert-comeback-sieg-in-iserlohn/01a0d4da-3bee-7890-9df3-3a2f928d22d6</link>
+      <description>Die Augsburger Panther haben im dritten Spiel der Saison 2026-27 in der PENNY DEL den zweiten Sieg gefeiert. Bei den Iserlohn Roosters machte der AEV ein zwischenzeitliches 0:2 wett und siegte am Ende…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-feiert-comeback-sieg-in-iserlohn/01a0d4da-3bee-7890-9df3-3a2f928d22d6</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0d4da-3bee-7890-9df3-3a2f928d22d6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 22:11:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
