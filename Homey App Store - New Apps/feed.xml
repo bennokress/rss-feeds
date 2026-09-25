@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:13:42 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ratio Electric Charger</title>
-      <link>https://homey.app/a/nl.ratio</link>
-      <description>Powered by Simplicity</description>
-      <author>noreply@homey.app (Ron van de Graaf)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.ratio</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.ratio/18/d100cf1d-6195-4f17-bbe1-b057a449b5fe/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 12:12:54 +0200</pubDate>
-    </item>
     <item>
       <title>Solis Local Hybrid Inverter</title>
       <link>https://homey.app/a/nl.orangeframe.solis</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.sgsmart.csrmesh</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.sgsmart.csrmesh/8/0f7010eb-e3ce-4349-837d-b3a9ec7a72ee/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Sep 2026 14:20:12 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lepro</title>
+      <link>https://homey.app/a/com.lepro</link>
+      <description>Designed for Future Spaces</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lepro</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lepro/2/2bc338ce-1c22-4f4c-acf3-7239314a654e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Sep 2026 12:13:41 +0200</pubDate>
     </item>
   </channel>
 </rss>
