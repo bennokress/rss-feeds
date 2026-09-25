@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:20:19 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Solis Local Hybrid Inverter</title>
-      <link>https://homey.app/a/nl.orangeframe.solis</link>
-      <description>Monitor and control your hybrid solar inverter and home battery over your local network — no cloud</description>
-      <author>noreply@homey.app (Remco Bosshard)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.orangeframe.solis</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.orangeframe.solis/16/798980c8-dba1-4dea-816a-9b8e63952efe/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 12:12:54 +0200</pubDate>
-    </item>
     <item>
       <title>MeRGBW</title>
       <link>https://homey.app/a/com.szwest</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.lepro</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lepro/2/2bc338ce-1c22-4f4c-acf3-7239314a654e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Sep 2026 12:13:41 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mac Monitor</title>
+      <link>https://homey.app/a/com.kircuvaloglu.macmonitor</link>
+      <description>Keep your Mac cool, healthy and part of your home</description>
+      <author>noreply@homey.app (Guray Kircuvaloglu)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kircuvaloglu.macmonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kircuvaloglu.macmonitor/3/ab05e193-5cd7-45cb-880d-d4c4f0619293/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Sep 2026 14:20:19 +0200</pubDate>
     </item>
   </channel>
 </rss>
