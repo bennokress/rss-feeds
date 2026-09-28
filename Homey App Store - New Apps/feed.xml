@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:15:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MeRGBW</title>
-      <link>https://homey.app/a/com.szwest</link>
-      <description>Colorful smart life, Lights up your world</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.szwest</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.szwest/2/0a2a26f3-ba09-49b4-a64b-a4a3a5bf805d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
-    </item>
-    <item>
-      <title>Faber ITC</title>
-      <link>https://homey.app/a/com.faber.itc</link>
-      <description>Bring the warmth of Faber into your smart home.</description>
-      <author>noreply@homey.app (Harm Jonkers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.faber.itc</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.faber.itc/3/7f994f3e-a27e-4a6a-bdb6-f9db02024a09/assets/images/store-banner-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
-    </item>
-    <item>
-      <title>iStrip+</title>
-      <link>https://homey.app/a/net.beniao</link>
-      <description>LED strips for every area</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.beniao</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.beniao/2/ac6d10ad-8f8e-4b6c-8ec7-78031b468e1a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sleepy</title>
-      <link>https://homey.app/a/com.sleepy</link>
-      <description>A smart sleep coach for children, using light and movement to guide bedtime, nighttime and wake-up routines.</description>
-      <author>noreply@homey.app (Erik van Oosten)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.sleepy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.sleepy/9/37c4aeee-a3f1-4518-97ff-7148f33d0006/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 14:19:18 +0200</pubDate>
-    </item>
     <item>
       <title>Marctronic</title>
       <link>https://homey.app/a/com.marctronic</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.kircuvaloglu.macmonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.kircuvaloglu.macmonitor/3/ab05e193-5cd7-45cb-880d-d4c4f0619293/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Sep 2026 14:20:19 +0200</pubDate>
+    </item>
+    <item>
+      <title>Little Monkey</title>
+      <link>https://homey.app/a/com.rapinology.littlemonkey</link>
+      <description>Make every watt visible</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.littlemonkey</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.littlemonkey/5/62ceb236-98e9-412b-8295-8770155138c0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 12:15:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>GoodWe SEMS</title>
+      <link>https://homey.app/a/nl.koelman.goodwesems</link>
+      <description>Your GoodWe solar yield, properly counted in Homey Energy.</description>
+      <author>noreply@homey.app (Wisse Koelman)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.koelman.goodwesems</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.koelman.goodwesems/8/cf65ed3e-4efa-4148-bb3a-4f2b38f78d4a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 12:15:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ferroamp Control</title>
+      <link>https://homey.app/a/com.ferroamp.power</link>
+      <description>Optimize how your home uses and produces electricity with Ferroamp EnergyHub</description>
+      <author>noreply@homey.app (Dennis Berggren)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ferroamp.power</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ferroamp.power/25/5326af12-4588-4d95-a8af-425a00c3b2f5/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 12:15:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aikion</title>
+      <link>https://homey.app/a/se.innomenta.aikion</link>
+      <description>AI-powered EMS for your solar, batteries and EV chargers</description>
+      <author>noreply@homey.app (Innomenta)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.innomenta.aikion</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.innomenta.aikion/25/09d7d7a9-7003-4522-a6d9-b6bfb97dd7c4/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 12:15:09 +0200</pubDate>
     </item>
   </channel>
 </rss>
