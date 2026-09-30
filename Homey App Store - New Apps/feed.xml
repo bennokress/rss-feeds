@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:17:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>iDeal LED+</title>
-      <link>https://homey.app/a/com.winkison.ledlight</link>
-      <description>Affordable smart fairy lights</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.winkison.ledlight</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.winkison.ledlight/3/ae313b3c-8e1a-4b59-83f8-b069783ec005/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
-    </item>
     <item>
       <title>Universal Remote</title>
       <link>https://homey.app/a/de.ftedv.irremote</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/se.krister.gardensprinkler</guid>
       <enclosure url="https://apps.homeycdn.net/app/se.krister.gardensprinkler/1/6288d20e-a9ac-439c-bae2-ca2f27cd7e85/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Sep 2026 18:15:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Oral-B</title>
+      <link>https://homey.app/a/com.oralb.io</link>
+      <description>Make every brushing session a smarter part of your day.</description>
+      <author>noreply@homey.app (Mark Moorlag)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.oralb.io</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.oralb.io/11/dfe24db2-eb61-4c11-bee6-268131639fa9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 20:17:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
