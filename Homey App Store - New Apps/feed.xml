@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:14:20 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MyNissan</title>
-      <link>https://homey.app/a/eu.nissanconnect</link>
-      <description>Make your Nissan a part of your smart home</description>
-      <author>noreply@homey.app (Simon Andersson)</author>
-      <guid isPermaLink="false">https://homey.app/a/eu.nissanconnect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eu.nissanconnect/13/e24f4bf9-56f7-425a-a818-25f07e2b5e6c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 20:15:09 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hue Device Location Sync</title>
-      <link>https://homey.app/a/nl.jessedevries.huedevicelocationsync</link>
-      <description>Keeps your Hue devices in the correct Homey zones by providing a one-time mapping of Hue rooms with Homey zones.</description>
-      <author>noreply@homey.app (Jesse de Vries)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.jessedevries.huedevicelocationsync</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.jessedevries.huedevicelocationsync/1/b53908da-ed31-4400-8642-3203c0c7762b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 10:20:41 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sense Energy Monitor</title>
-      <link>https://homey.app/a/com.ericj.senseenergymonitor</link>
-      <description>See every watt your home uses and makes</description>
-      <author>noreply@homey.app (Eric Jilot)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ericj.senseenergymonitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ericj.senseenergymonitor/5/b4cfcf0c-8546-45c3-98f3-d9c13726c4cb/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 10:20:41 +0200</pubDate>
-    </item>
     <item>
       <title>Cigol</title>
       <link>https://homey.app/a/io.cigol</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/dk.kvols.ankerprime</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.kvols.ankerprime/5/87b742d2-6fda-4c78-a930-c70436fe4617/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Sep 2026 18:15:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>A-OK</title>
+      <link>https://homey.app/a/com.aok.blinds</link>
+      <description>Roller blinds that follow your day.</description>
+      <author>noreply@homey.app (Thorstein Klingenberg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aok.blinds</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aok.blinds/11/8ab90cc7-ee5f-4bc7-a90f-8a4ea7fa686f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>Outdoor Climate</title>
+      <link>https://homey.app/a/com.dklatt.outdoorclimate</link>
+      <description>Know how warm and humid it really is outside</description>
+      <author>noreply@homey.app (Dennis Klatt)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dklatt.outdoorclimate</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.outdoorclimate/3/71f693d6-89c6-4c09-93ac-eebbdcbcf66a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>ESPanel</title>
+      <link>https://homey.app/a/com.lolpold.espanel</link>
+      <description>Your Homey on an ESP32 wall display: tiles, rooms, dimmers and Flow messages</description>
+      <author>noreply@homey.app (Leopold Junkers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lolpold.espanel</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lolpold.espanel/1/cd71cde9-adff-4582-ac3d-b0990de66cd5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
     </item>
   </channel>
 </rss>
