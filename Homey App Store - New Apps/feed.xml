@@ -12,71 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:15:45 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Cigol</title>
-      <link>https://homey.app/a/io.cigol</link>
-      <description>Make professional electrical installations part of the smart home.</description>
-      <author>noreply@homey.app (Kim T. Nielsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.cigol</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.cigol/2/4db9b080-0f5f-4a7a-b368-899993def4bc/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 14:20:20 +0200</pubDate>
-    </item>
-    <item>
-      <title>Themo</title>
-      <link>https://homey.app/a/com.esko.themo</link>
-      <description>Heat your floors using affordable exchange electricity</description>
-      <author>noreply@homey.app (Esko Pyyluoma)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.esko.themo</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.esko.themo/7/c8a22da2-7133-4014-b203-30f8fbccc489/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 16:14:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Alpha Möhlenhoff V2</title>
-      <link>https://homey.app/a/com.alpha.mohlenhoff.v2</link>
-      <description>The comfort of every room, exactly where you want it.</description>
-      <author>noreply@homey.app (Thijs te Paske)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.alpha.mohlenhoff.v2</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.alpha.mohlenhoff.v2/13/40e3c361-214a-41d2-ba51-2507d14dfd2a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 16:14:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Porsche Connect</title>
-      <link>https://homey.app/a/nl.error404.porsche</link>
-      <description>Vehicle status and climate control for recent Porsche Taycan, Macan Electric and Cayenne Electric models.</description>
-      <author>noreply@homey.app (error404.nl)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.error404.porsche</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.error404.porsche/5/6bcc6d8f-037e-4482-92d3-062bdb8b6a8d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Sep 2026 22:12:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lightkeeper</title>
-      <link>https://homey.app/a/com.thomassidor.lightkeeper</link>
-      <description>Easy control for the lights you already have.</description>
-      <author>noreply@homey.app (Thomas R. Sidor)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thomassidor.lightkeeper</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thomassidor.lightkeeper/2/6093d82f-9b0f-4a15-84b8-46d04fe5d8e4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 12:13:27 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lotte SmartHome</title>
-      <link>https://homey.app/a/com.lottecon.homenet</link>
-      <description>Experience Premium Smart Living with Lotte SmartHome.</description>
-      <author>noreply@homey.app (롯데 스마트홈)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lottecon.homenet</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lottecon.homenet/2/d2aa8e44-1ade-4429-9d66-e8837e7b3a2e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 12:13:27 +0200</pubDate>
-    </item>
-    <item>
-      <title>NL-Alert</title>
-      <link>https://homey.app/a/nl.lrvdlinden.nlalert-widget</link>
-      <description>Stay informed when an NL-Alert affects your area.</description>
-      <author>noreply@homey.app (PixelForges .)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.nlalert-widget</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.nlalert-widget/24/5bf7fbe9-5419-4cab-9349-5600ce5c1f6a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 12:13:27 +0200</pubDate>
-    </item>
     <item>
       <title>Météo France</title>
       <link>https://homey.app/a/com.rapinology.hmeteo</link>
@@ -463,6 +400,69 @@
       <guid isPermaLink="false">https://homey.app/a/com.lolpold.espanel</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.lolpold.espanel/1/cd71cde9-adff-4582-ac3d-b0990de66cd5/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
+    </item>
+    <item>
+      <title>YI Camera Local</title>
+      <link>https://homey.app/a/local.yi.camera</link>
+      <description>Keep an eye on your home every day</description>
+      <author>noreply@homey.app (Antoine Chaulieu)</author>
+      <guid isPermaLink="false">https://homey.app/a/local.yi.camera</guid>
+      <enclosure url="https://apps.homeycdn.net/app/local.yi.camera/2/db64790c-0320-4032-a3a4-e8e3e82aeee5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hikvision NVR &amp; DVR</title>
+      <link>https://homey.app/a/com.wisse.hikvision</link>
+      <description>Every camera. One recorder. Full control.</description>
+      <author>noreply@homey.app (Wisse Koelman)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wisse.hikvision</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wisse.hikvision/3/7267b129-160b-4b67-9879-87098381eef7/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>MR Star</title>
+      <link>https://homey.app/a/nl.dypodex.mrstar</link>
+      <description>LED strips for every mood</description>
+      <author>noreply@homey.app (Sven Serlier)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.dypodex.mrstar</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.dypodex.mrstar/2/9a874f60-b473-4e5b-a99a-87f4e7c0e446/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Narwal</title>
+      <link>https://homey.app/a/com.narwal.global</link>
+      <description>Spotless floors, without lifting a finger</description>
+      <author>noreply@homey.app (Idan Bush)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.narwal.global</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.narwal.global/8/94b02948-c981-41b2-aa96-51a7cf2589d4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>TenneT Onbalans</title>
+      <link>https://homey.app/a/com.jeroenstern.tennet-onbalans</link>
+      <description>TenneT imbalance prices for import and export, available for Homey dashboards, charts and Flows.</description>
+      <author>noreply@homey.app (Jeroen Stern)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.jeroenstern.tennet-onbalans</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.jeroenstern.tennet-onbalans/7/442c2a7b-a7e4-42a7-98cc-63fa3319401f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Grohe Sense</title>
+      <link>https://homey.app/a/net.lindbom.grohe</link>
+      <description>Detect leaks, track water usage, and safeguard your home.</description>
+      <author>noreply@homey.app (Johan Lindbom)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.lindbom.grohe</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.lindbom.grohe/8/3ca91ed6-9686-4e14-9524-638438b15dda/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hue Sync</title>
+      <link>https://homey.app/a/nl.jessedevries.huesync</link>
+      <description>Automatically sync your Hue devices to Homey.</description>
+      <author>noreply@homey.app (Jesse de Vries)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.jessedevries.huesync</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.jessedevries.huesync/2/aae65087-21fb-4c5d-bcc8-28c0e681bff1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
