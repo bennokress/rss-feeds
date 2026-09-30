@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:13:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Universal Remote</title>
-      <link>https://homey.app/a/de.ftedv.irremote</link>
-      <description>Turn everyday remotes into flexible virtual controls</description>
-      <author>noreply@homey.app (Florian Trück)</author>
-      <guid isPermaLink="false">https://homey.app/a/de.ftedv.irremote</guid>
-      <enclosure url="https://apps.homeycdn.net/app/de.ftedv.irremote/4/a2d00ebe-f262-4fda-9c0f-c0d009a50f5d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
-    </item>
     <item>
       <title>NuVo Grand Concerto</title>
       <link>https://homey.app/a/se.krister.nuvo.grandconcerto</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.oralb.io</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.oralb.io/11/dfe24db2-eb61-4c11-bee6-268131639fa9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Sep 2026 20:17:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sonos Announcements</title>
+      <link>https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</link>
+      <description>Say it at home, from wherever you happen to be.</description>
+      <author>noreply@homey.app (Tobias Vinzents)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.hoffmeyer-net.sonosannouncements/12/f97e4321-0bb4-4673-a9f3-a704c93e65ff/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 00:13:23 +0200</pubDate>
     </item>
   </channel>
 </rss>
