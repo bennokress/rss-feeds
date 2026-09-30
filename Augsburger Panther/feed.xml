@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 18:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:19:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Die Dolomitencup 2026 rückt näher</title>
-      <link>https://www.aev-panther.de/artikel/die-dolomitencup-2026-rueckt-naeher/019f22fa-8b54-737e-9765-c6f1e5219281</link>
-      <description>Während sich der Sommer ausbreitet, rückt ein erstes großes Eishockey-Highlight der neuen Saison immer näher: In exakt 50 Tagen beginnt in Neumarkt/Südtirol die 20. Auflage des Dolomitencups.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/die-dolomitencup-2026-rueckt-naeher/019f22fa-8b54-737e-9765-c6f1e5219281</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019f22fa-8b54-737e-9765-c6f1e5219281.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 15:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verpflichten Verteidiger Kyle Wood</title>
       <link>https://www.aev-panther.de/artikel/panther-verpflichten-verteidiger-kyle-wood/019f26ef-d8f1-7abc-8ebc-17221ac6109a</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-zehn-tore-spektakel/01a0e3bc-f1d1-7b0b-9df2-bffec0ce77b3</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0e3bc-f1d1-7b0b-9df2-bffec0ce77b3.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 27 Sep 2026 19:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>DF1 legt weitere Top-Spiele in der Saison 2026-27 fest</title>
+      <link>https://www.aev-panther.de/artikel/df1-legt-weitere-top-spiele-in-der-saison-2026-27-fest/01a0f18c-9fc3-7167-858f-0c5bcaada84e</link>
+      <description>Gute Nachrichten für alle Eishockey-Fans: Der HD-Premiumsender DF1 überträgt auch im weiteren Verlauf der PENNY DEL-Saison 2026-27 jede Woche am Sonntag ein Top-Spiel zur festen Sendezeit ab 16:15 Uhr…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/df1-legt-weitere-top-spiele-in-der-saison-2026-27-fest/01a0f18c-9fc3-7167-858f-0c5bcaada84e</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0f18c-9fc3-7167-858f-0c5bcaada84e.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
