@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 10:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:14:33 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ford Vehicle Data</title>
-      <link>https://homey.app/a/com.ziglar.fordvehicledata</link>
-      <description>Your Ford's status, always within reach.</description>
-      <author>noreply@homey.app (Bas de Jong)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.ziglar.fordvehicledata</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.ziglar.fordvehicledata/5/ae1616f3-eef5-4cf5-9968-88481130b95a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 14:19:58 +0200</pubDate>
-    </item>
     <item>
       <title>Wiener Netze Smart Meter</title>
       <link>https://homey.app/a/at.dsnet.wnsm</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.rapinology.starlink</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rapinology.starlink/1/89e41e63-e257-461d-bf49-d448f7a65295/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Dashboard Buttons</title>
+      <link>https://homey.app/a/nl.rvginkel.knoppen</link>
+      <description>Create dashboard buttons and use them in a Flow.</description>
+      <author>noreply@homey.app (Rene van Ginkel)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.rvginkel.knoppen</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.rvginkel.knoppen/1/5ce3a17b-ccd5-4e03-94f8-8208fb199035/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 18:14:32 +0200</pubDate>
     </item>
   </channel>
 </rss>
