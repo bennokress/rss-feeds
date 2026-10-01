@@ -12,53 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:14:16 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>NuVo Grand Concerto</title>
-      <link>https://homey.app/a/se.krister.nuvo.grandconcerto</link>
-      <description>Fill every room with the music you love.</description>
-      <author>noreply@homey.app (krister Olsson)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.krister.nuvo.grandconcerto</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.krister.nuvo.grandconcerto/3/ef2e26b0-f557-4e54-9217-7401b6d8c35b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 18:14:20 +0200</pubDate>
-    </item>
-    <item>
-      <title>AlphaESS</title>
-      <link>https://homey.app/a/com.alphaess</link>
-      <description>Take control of your home energy with smart battery monitoring and automation.</description>
-      <author>noreply@homey.app (AlphaESS)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.alphaess</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.alphaess/1/c0450d8e-e5fd-4d76-b02b-299ffad2d9aa/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 20:15:32 +0200</pubDate>
-    </item>
-    <item>
-      <title>HomeFlux EMS</title>
-      <link>https://homey.app/a/com.homeflux.ems</link>
-      <description>Your energy, managed differently</description>
-      <author>noreply@homey.app (Davy Bert)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.homeflux.ems</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.homeflux.ems/59/58d89628-8ef8-4cc9-a389-508525d220fd/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 10:19:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>Backup Center</title>
-      <link>https://homey.app/a/nl.dennisweel.flowbackup</link>
-      <description>Keep your setup safe with simple, reliable backups.</description>
-      <author>noreply@homey.app (Dennis Weel)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.dennisweel.flowbackup</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.dennisweel.flowbackup/5/514c76e9-6647-48ba-bc8c-612b1c2d6654/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 10:19:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>Jackery</title>
-      <link>https://homey.app/a/com.jackery.flowapp</link>
-      <description>Sustainable Power for Your Life</description>
-      <author>noreply@homey.app (Jackery Tech)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jackery.flowapp</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jackery.flowapp/11/91cd30aa-455f-4236-9078-ffc8f0993c66/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 12:13:25 +0200</pubDate>
-    </item>
     <item>
       <title>Ford Vehicle Data</title>
       <link>https://homey.app/a/com.ziglar.fordvehicledata</link>
@@ -463,6 +418,51 @@
       <guid isPermaLink="false">https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.hoffmeyer-net.sonosannouncements/12/f97e4321-0bb4-4673-a9f3-a704c93e65ff/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 01 Oct 2026 00:13:23 +0200</pubDate>
+    </item>
+    <item>
+      <title>Grid Green Carbon</title>
+      <link>https://homey.app/a/com.rapinology.frgreenenergy</link>
+      <description>Run the house when the grid is clean</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.frgreenenergy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.frgreenenergy/3/8556fc7f-6340-467b-9e98-9aa7cf0d3a52/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Moduel</title>
+      <link>https://homey.app/a/com.moduel</link>
+      <description>Smart, modular power that clicks together</description>
+      <author>noreply@homey.app (Moduel AB)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.moduel</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.moduel/4/6106a82e-5a1d-4505-a56d-1e1eeaf2b165/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Duepi Stove Controller</title>
+      <link>https://homey.app/a/com.duepigroup.dpremote</link>
+      <description>Unofficial app to warm up your home with a pellet stove that runs on a Duepi controller.</description>
+      <author>noreply@homey.app (Kay-Arne van Dalfsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.duepigroup.dpremote</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.duepigroup.dpremote/6/2ae3de3e-77f4-4032-a119-250c3ce7e2d3/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Grok Connect</title>
+      <link>https://homey.app/a/com.djordie.grokconnect</link>
+      <description>Let your home think before it acts</description>
+      <author>noreply@homey.app (Djordie Hendriks)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.djordie.grokconnect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.djordie.grokconnect/1/3c200c48-dae9-4d44-a001-3882a4ec53dc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
+    </item>
+    <item>
+      <title>Starlink Monitor</title>
+      <link>https://homey.app/a/com.rapinology.starlink</link>
+      <description>Keep an eye on the sky above your dish.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.starlink</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.starlink/1/89e41e63-e257-461d-bf49-d448f7a65295/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:14:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
