@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:32:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Verteidiger Kyle Wood</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-verteidiger-kyle-wood/019f26ef-d8f1-7abc-8ebc-17221ac6109a</link>
-      <description>Mit der Verpflichtung von Kyle Wood komplettieren die Panther ihre Verteidigung zum Start des Trainingscamps am 14. August 2026. Der 30-jährige Kanadier wechselt innerhalb der Deutschen Eishockey Liga…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-verteidiger-kyle-wood/019f26ef-d8f1-7abc-8ebc-17221ac6109a</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019f26ef-d8f1-7abc-8ebc-17221ac6109a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verstärken sich mit Sean Malone</title>
       <link>https://www.aev-panther.de/artikel/panther-verstaerken-sich-mit-sean-malone/019f45bf-96e2-7036-b473-0e19ab7d6874</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/df1-legt-weitere-top-spiele-in-der-saison-2026-27-fest/01a0f18c-9fc3-7167-858f-0c5bcaada84e</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0f18c-9fc3-7167-858f-0c5bcaada84e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Sep 2026 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Am Freitagabend gegen die Grizzlys Wolfsburg</title>
+      <link>https://www.aev-panther.de/artikel/am-freitagabend-gegen-die-grizzlys-wolfsburg/01a0f757-a3f1-7a58-bf09-0d2ef7467a7b</link>
+      <description>Für die Augsburger Panther steht das erste Freitagabend-Heimspiel der noch jungen PENNY DEL-Hauptrunde 2026-27 auf dem Plan. Um 19:30 Uhr kommt es im Curt-Frenzel-Stadion zum Duell mit den Grizzlys au…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/am-freitagabend-gegen-die-grizzlys-wolfsburg/01a0f757-a3f1-7a58-bf09-0d2ef7467a7b</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0f757-a3f1-7a58-bf09-0d2ef7467a7b.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 02 Oct 2026 08:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
