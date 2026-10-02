@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:17:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verstärken sich mit Sean Malone</title>
-      <link>https://www.aev-panther.de/artikel/panther-verstaerken-sich-mit-sean-malone/019f45bf-96e2-7036-b473-0e19ab7d6874</link>
-      <description>Die Augsburger Panther haben sich die Dienste eines umworbenen Mittelstürmers gesichert:Sean Maloneverstärkt in der Saison 2026-27 die Offensive des PENNY DEL-Clubs.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verstaerken-sich-mit-sean-malone/019f45bf-96e2-7036-b473-0e19ab7d6874</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019f45bf-96e2-7036-b473-0e19ab7d6874.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verpflichten Luke Toporowski</title>
       <link>https://www.aev-panther.de/artikel/panther-verpflichten-luke-toporowski/019f4ae6-1ae6-7417-be35-0a374890c8be</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/am-freitagabend-gegen-die-grizzlys-wolfsburg/01a0f757-a3f1-7a58-bf09-0d2ef7467a7b</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0f757-a3f1-7a58-bf09-0d2ef7467a7b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 02 Oct 2026 08:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Panther feiern zweiten Heimsieg</title>
+      <link>https://www.aev-panther.de/artikel/panther-feiern-zweiten-heimsieg/01a0fd63-885b-7b83-bc32-fd03b188e665</link>
+      <description>Die Augsburger Panther haben im dritten Heimspiel der Saison 2026-27 in der PENNY DEL den zweiten Dreier gefeiert. Gegen die Wolfsburg Grizzlys siegte der AEV verdient mit 5:2. Die Treffer für die Pan…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-feiern-zweiten-heimsieg/01a0fd63-885b-7b83-bc32-fd03b188e665</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0fd63-885b-7b83-bc32-fd03b188e665.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 02 Oct 2026 22:04:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
