@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 20:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:58:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verpflichten Luke Toporowski</title>
-      <link>https://www.aev-panther.de/artikel/panther-verpflichten-luke-toporowski/019f4ae6-1ae6-7417-be35-0a374890c8be</link>
-      <description>Die Augsburger Panther vergeben ihre neunte Importlizenz an den 25-jährigenLuke Toporowski. Der vielseitig einsetzbare Angreifer wechselt von den Colorado Eagles aus der American Hockey League in die …</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verpflichten-luke-toporowski/019f4ae6-1ae6-7417-be35-0a374890c8be</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019f4ae6-1ae6-7417-be35-0a374890c8be.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 09:40:00 +0200</pubDate>
-    </item>
     <item>
       <title>Felix Scheel wird ein Panther</title>
       <link>https://www.aev-panther.de/artikel/felix-scheel-wird-ein-panther/019f650c-cee9-7dee-8f96-00f6eedd8833</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-feiern-zweiten-heimsieg/01a0fd63-885b-7b83-bc32-fd03b188e665</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a0fd63-885b-7b83-bc32-fd03b188e665.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 02 Oct 2026 22:04:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Keine Punkte im Derby</title>
+      <link>https://www.aev-panther.de/artikel/keine-punkte-im-derby/01a107d0-d422-737b-9826-b77dbeda9e0b</link>
+      <description>Die Augsburger Panther haben das erste Derby der laufenden Saison in der PENNY DEL beim EHC Red Bull München verloren. Trotz einer über weite Strecken ansprechenden Leistung unterlag der AEV mit 2:4. …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/keine-punkte-im-derby/01a107d0-d422-737b-9826-b77dbeda9e0b</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a107d0-d422-737b-9826-b77dbeda9e0b.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 04 Oct 2026 21:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
