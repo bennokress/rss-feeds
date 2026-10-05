@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:27:34 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Wiener Netze Smart Meter</title>
-      <link>https://homey.app/a/at.dsnet.wnsm</link>
-      <description>Keep an eye on your energy use.</description>
-      <author>noreply@homey.app (David Schoefberger)</author>
-      <guid isPermaLink="false">https://homey.app/a/at.dsnet.wnsm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/at.dsnet.wnsm/2/07fbb09b-57c6-4e97-96d3-513271971245/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 12:13:10 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sesam Pay</title>
-      <link>https://homey.app/a/no.joymyr.sesam-pay</link>
-      <description>Never pay a parking service fee again.</description>
-      <author>noreply@homey.app (Jon Harald Øymyr)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.joymyr.sesam-pay</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.joymyr.sesam-pay/11/d731b0d1-6ec1-41e5-bcb1-7464502b916b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 12:13:10 +0200</pubDate>
-    </item>
     <item>
       <title>Wemo</title>
       <link>https://homey.app/a/com.wemolocal</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.rvginkel.knoppen</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.rvginkel.knoppen/1/5ce3a17b-ccd5-4e03-94f8-8208fb199035/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 01 Oct 2026 18:14:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>HUUM UKU Sauna</title>
+      <link>https://homey.app/a/com.rickd.huum</link>
+      <description>Unofficial companion app that adds the controls missing from HUUM's official UKU app.</description>
+      <author>noreply@homey.app (Richard Dubs)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rickd.huum</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rickd.huum/17/6f8f16aa-2ab4-497d-be45-9390d9938b73/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 05 Oct 2026 10:27:32 +0200</pubDate>
+    </item>
+    <item>
+      <title>Yeelight Candela</title>
+      <link>https://homey.app/a/com.kevinvanoosterhout.yeelightcandela</link>
+      <description>Set the mood with warm candlelight</description>
+      <author>noreply@homey.app (Kevin van Oosterhout)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.kevinvanoosterhout.yeelightcandela</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.kevinvanoosterhout.yeelightcandela/1/530e78f5-a3dc-43a7-9f4b-0e73675b3f3e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 05 Oct 2026 10:27:32 +0200</pubDate>
     </item>
   </channel>
 </rss>
