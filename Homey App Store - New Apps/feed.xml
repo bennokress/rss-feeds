@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:21:59 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Anker SOLIX</title>
-      <link>https://homey.app/a/com.anker.solix</link>
-      <description>Charge smart, live free.</description>
-      <author>noreply@homey.app (Anker Solix)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.anker.solix</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.anker.solix/2/fbcc4be9-d442-4aa5-bd54-37187f1027a4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Sep 2026 06:15:33 +0200</pubDate>
-    </item>
     <item>
       <title>Presence Fusion</title>
       <link>https://homey.app/a/com.cedric07.presencefusion</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/no.arvebjoe.network-visualizer</guid>
       <enclosure url="https://apps.homeycdn.net/app/no.arvebjoe.network-visualizer/4/a0448d03-a80b-4207-8f49-387bf76700eb/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>MyGrid</title>
+      <link>https://homey.app/a/energy.mygrid</link>
+      <description>Power your home on your terms</description>
+      <author>noreply@homey.app (RogierM ThissenM)</author>
+      <guid isPermaLink="false">https://homey.app/a/energy.mygrid</guid>
+      <enclosure url="https://apps.homeycdn.net/app/energy.mygrid/3/3a44ada5-02c9-4279-a3f7-b830490fcabf/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 14:21:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
