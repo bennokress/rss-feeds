@@ -12,44 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:13:59 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>LuxVen</title>
-      <link>https://homey.app/a/com.marco.luxven</link>
-      <description>A fresh breeze that fits your day</description>
-      <author>noreply@homey.app (Marco Ahlers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.marco.luxven</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.marco.luxven/2/ac4b73a7-640f-4c9e-9067-73da34d6655d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 12:13:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nubes America</title>
-      <link>https://homey.app/a/com.rapinology.nubesamerica</link>
-      <description>Watch the weather cross the Americas, live from orbit.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.nubesamerica</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.nubesamerica/1/2adf0380-e896-46ea-aca4-c1b02f337c67/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 12:13:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vent-Axia</title>
-      <link>https://homey.app/a/com.dklatt.ventaxia</link>
-      <description>Let your home breathe.</description>
-      <author>noreply@homey.app (Dennis Klatt)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dklatt.ventaxia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.ventaxia/3/dee8dee7-6b07-42e5-ba84-a415dd7b685e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 14:20:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>MQTT Bridge</title>
-      <link>https://homey.app/a/com.drchip666.mqttbridge</link>
-      <description>Keep every MQTT broker on your network perfectly in sync.</description>
-      <author>noreply@homey.app (Morten Bech)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.drchip666.mqttbridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.drchip666.mqttbridge/5/45c826ed-4dfd-4a04-bb1d-5c18d1975e2c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Sep 2026 14:20:00 +0200</pubDate>
-    </item>
     <item>
       <title>Anker SOLIX</title>
       <link>https://homey.app/a/com.anker.solix</link>
@@ -463,6 +427,42 @@
       <guid isPermaLink="false">https://homey.app/a/com.rapinology.unas</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.rapinology.unas/2/b78d2312-e62f-4ad5-92d0-9034cd85adca/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 07 Oct 2026 10:19:58 +0200</pubDate>
+    </item>
+    <item>
+      <title>SportConnect</title>
+      <link>https://homey.app/a/dk.kvols.sportslive</link>
+      <description>Let sporting moments light up your home.</description>
+      <author>noreply@homey.app (Mads Kvols Hansen)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.kvols.sportslive</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.sportslive/3/15f2447d-3116-40a0-852a-7b546419a8d8/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>eTilbudsavis</title>
+      <link>https://homey.app/a/dk.kvols.etilbudsavis</link>
+      <description>Keep an eye on Danish offers for your favourite products.</description>
+      <author>noreply@homey.app (Mads Kvols Hansen)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.kvols.etilbudsavis</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.etilbudsavis/2/7ba898d2-3c63-45f8-928b-a861d4fef0b4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Swiss Dynamic Electricity Tariff</title>
+      <link>https://homey.app/a/com.rickd.dynamictariffch</link>
+      <description>Run your home when Swiss electricity is cheapest</description>
+      <author>noreply@homey.app (Richard Dubs)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rickd.dynamictariffch</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rickd.dynamictariffch/8/b49839a6-8359-4f29-9ed3-cdeec80a7988/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
+    </item>
+    <item>
+      <title>Network Visualizer</title>
+      <link>https://homey.app/a/no.arvebjoe.network-visualizer</link>
+      <description>See how your devices really reach each other, and where the signal struggles.</description>
+      <author>noreply@homey.app (Arve Bjørnerud)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.arvebjoe.network-visualizer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.arvebjoe.network-visualizer/4/a0448d03-a80b-4207-8f49-387bf76700eb/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
     </item>
   </channel>
 </rss>
