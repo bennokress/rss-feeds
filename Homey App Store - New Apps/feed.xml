@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:21:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:15:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BookSwipe</title>
-      <link>https://homey.app/a/nl.smarthomeassistent.bookswipe</link>
-      <description>Turn your home into a reading corner: start a reading session with a button and let Homey celebrate the books you finish.</description>
-      <author>noreply@homey.app (Smarthome Assistent)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.smarthomeassistent.bookswipe</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.smarthomeassistent.bookswipe/6/acd161c7-1804-4497-86e0-e0d77bdc5b67/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Sep 2026 12:13:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>OnlyCat</title>
-      <link>https://homey.app/a/com.onlycat.cloud</link>
-      <description>Who came in, who was turned away, and why.</description>
-      <author>noreply@homey.app (Love Thyresson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.onlycat.cloud</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.onlycat.cloud/5/93925cb2-2e5c-46a6-9742-09aec2582541/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Sep 2026 12:13:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>SG LEDDim</title>
-      <link>https://homey.app/a/com.sgsmart.csrmesh</link>
-      <description>Gateway-free Bluetooth dimming for the lights that were smart before the hub arrived.</description>
-      <author>noreply@homey.app (Trond Bildøy)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.sgsmart.csrmesh</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.sgsmart.csrmesh/8/0f7010eb-e3ce-4349-837d-b3a9ec7a72ee/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Sep 2026 14:20:12 +0200</pubDate>
-    </item>
     <item>
       <title>Lepro</title>
       <link>https://homey.app/a/com.lepro</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.linkgensystems.securegen</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.linkgensystems.securegen/2/93808dac-6278-4d91-bc39-652b74c226d8/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 14:21:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>BioStar 2</title>
+      <link>https://homey.app/a/com.biostar2.community</link>
+      <description>Let every badge and fingerprint at your door start a Flow</description>
+      <author>noreply@homey.app (Lionel Der Boven)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.biostar2.community</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.biostar2.community/5/9efade6b-610b-40ad-a27a-85b09f2ae1a0/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 16:15:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>Widgetkeeper</title>
+      <link>https://homey.app/a/com.thomassidor.widgetkeeper</link>
+      <description>Custom dashboard widgets for your Homey.</description>
+      <author>noreply@homey.app (Thomas R. Sidor)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.thomassidor.widgetkeeper</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.thomassidor.widgetkeeper/3/dcb41345-a71c-40a0-9520-1085d4f41235/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 16:15:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>SRV Waste Collection</title>
+      <link>https://homey.app/a/se.sikth.srv</link>
+      <description>Keep track of the next collection and get your bins out on time.</description>
+      <author>noreply@homey.app (Fredrik Sundlöf)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.sikth.srv</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.sikth.srv/7/0b1e4b0b-8148-4b97-aca8-e8812015ea69/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 16:15:22 +0200</pubDate>
     </item>
   </channel>
 </rss>
