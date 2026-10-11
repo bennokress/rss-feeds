@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:19:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther Pur läutet die neue Saison ein</title>
-      <link>https://www.aev-panther.de/artikel/panther-pur-laeutet-die-neue-saison-ein/019fc77e-8e85-7d21-b716-fe5a9f0f048a</link>
-      <description>Wenn die Augsburger Panther in eine neue PENNY DEL-Saison starten, gehört eine Tradition seit vielen Jahren fest dazu: das gemeinsame Einbrauen des Kult-Biers „Panther Pur“. Bereits zum 26. Mal entsta…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-pur-laeutet-die-neue-saison-ein/019fc77e-8e85-7d21-b716-fe5a9f0f048a</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019fc77e-8e85-7d21-b716-fe5a9f0f048a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 14:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Förderlizenzen für Torhütertalente</title>
       <link>https://www.aev-panther.de/artikel/foerderlizenzen-fuer-torhuetertalente/019fcba1-5e28-7f46-87bb-4b4f23d24456</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/exklusive-leinwaende-zu-ehren-der-ewigen-24/01a121de-4b30-7060-81fa-63af160b0be6</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a121de-4b30-7060-81fa-63af160b0be6.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 17:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erstes Sechs-Punkte-Wochenende!</title>
+      <link>https://www.aev-panther.de/artikel/erstes-sechs-punkte-wochenende/01a12a9b-50ba-7589-8ccd-d4c6b54e7517</link>
+      <description>Die Augsburger Panther haben in der PENNY DEL in der Saison 2026-27 erstmals sechs Punkte an einem Wochenende geholt. Nach dem 3:0-Heimsieg am Freitag gegen die Fischtown Pinguins holte der AEV auch b…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/erstes-sechs-punkte-wochenende/01a12a9b-50ba-7589-8ccd-d4c6b54e7517</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a12a9b-50ba-7589-8ccd-d4c6b54e7517.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 16:48:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
