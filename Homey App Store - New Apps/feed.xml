@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:18:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Aikion</title>
-      <link>https://homey.app/a/se.innomenta.aikion</link>
-      <description>AI-powered EMS for your solar, batteries and EV chargers</description>
-      <author>noreply@homey.app (Innomenta)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.innomenta.aikion</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.innomenta.aikion/25/09d7d7a9-7003-4522-a6d9-b6bfb97dd7c4/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 12:15:09 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anker Prime Power Bank</title>
-      <link>https://homey.app/a/dk.kvols.ankerprime</link>
-      <description>Read battery and charging power from an Anker Prime A1340.</description>
-      <author>noreply@homey.app (Mads Kvols Hansen)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.kvols.ankerprime</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.ankerprime/5/87b742d2-6fda-4c78-a930-c70436fe4617/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 18:15:55 +0200</pubDate>
-    </item>
-    <item>
-      <title>A-OK</title>
-      <link>https://homey.app/a/com.aok.blinds</link>
-      <description>Roller blinds that follow your day.</description>
-      <author>noreply@homey.app (Thorstein Klingenberg)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.aok.blinds</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.aok.blinds/11/8ab90cc7-ee5f-4bc7-a90f-8a4ea7fa686f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
-    </item>
     <item>
       <title>Outdoor Climate</title>
       <link>https://homey.app/a/com.dklatt.outdoorclimate</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.glumpf.zendurecloud</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.glumpf.zendurecloud/5/423e3810-7d83-4d08-a972-3e57864363ca/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 18:16:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sensor Trends</title>
+      <link>https://homey.app/a/com.rapinology.htrends</link>
+      <description>Turn any sensor into a trend: rising, falling or steady, with the pace.</description>
+      <author>noreply@homey.app (Henri Dominique Rapin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.rapinology.htrends</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.htrends/5/1174eee7-45a6-404d-ad5a-556a47c21b80/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 12:18:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Opel Ampera-e (WiCAN)</title>
+      <link>https://homey.app/a/info.schellekens.amperae</link>
+      <description>Your Ampera-e's battery, live in Homey</description>
+      <author>noreply@homey.app (Ruud Schellekens)</author>
+      <guid isPermaLink="false">https://homey.app/a/info.schellekens.amperae</guid>
+      <enclosure url="https://apps.homeycdn.net/app/info.schellekens.amperae/4/0a22f3ec-45e3-4d99-8975-debca30c2266/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 12:18:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>WARP Charger</title>
+      <link>https://homey.app/a/com.glumpf.warp</link>
+      <description>Charge with sunshine, steered by Homey</description>
+      <author>noreply@homey.app (Lars Andresen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.glumpf.warp</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.glumpf.warp/21/a93d87f4-e57b-4fc9-9ab1-79eaea6a6d52/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 12:18:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
