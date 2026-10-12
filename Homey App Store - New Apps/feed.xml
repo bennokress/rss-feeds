@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:14:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>ESPanel</title>
-      <link>https://homey.app/a/com.lolpold.espanel</link>
-      <description>Your Homey on an ESP32 wall display: tiles, rooms, dimmers and Flow messages</description>
-      <author>noreply@homey.app (Leopold Junkers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lolpold.espanel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lolpold.espanel/1/cd71cde9-adff-4582-ac3d-b0990de66cd5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
-    </item>
     <item>
       <title>YI Camera Local</title>
       <link>https://homey.app/a/local.yi.camera</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/dk.sundgaard.universalrfremote</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.sundgaard.universalrfremote/2/b4cdd3ce-c79c-4002-b1ce-45b3627fc5f0/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 12 Oct 2026 16:20:36 +0200</pubDate>
+    </item>
+    <item>
+      <title>EV Charging Predictor</title>
+      <link>https://homey.app/a/com.evcharging.predictor</link>
+      <description>Learns when your car leaves, comes home and how much energy it needs, all from your EV charger.</description>
+      <author>noreply@homey.app (Wesley Neelen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.evcharging.predictor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.evcharging.predictor/5/efeaf41a-c2e7-41c5-9355-6a43c0f80d7c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 18:14:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
