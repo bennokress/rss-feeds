@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 10:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:20:37 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Outdoor Climate</title>
-      <link>https://homey.app/a/com.dklatt.outdoorclimate</link>
-      <description>Know how warm and humid it really is outside</description>
-      <author>noreply@homey.app (Dennis Klatt)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.dklatt.outdoorclimate</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.dklatt.outdoorclimate/3/71f693d6-89c6-4c09-93ac-eebbdcbcf66a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 12:14:17 +0200</pubDate>
-    </item>
     <item>
       <title>ESPanel</title>
       <link>https://homey.app/a/com.lolpold.espanel</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.glumpf.warp</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.glumpf.warp/21/a93d87f4-e57b-4fc9-9ab1-79eaea6a6d52/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 12 Oct 2026 12:18:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Universal RF Remote</title>
+      <link>https://homey.app/a/dk.sundgaard.universalrfremote</link>
+      <description>Bring the remotes for your awning, gate and doorbell into your smart home</description>
+      <author>noreply@homey.app (Bo Sundgaard)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.sundgaard.universalrfremote</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.sundgaard.universalrfremote/2/b4cdd3ce-c79c-4002-b1ce-45b3627fc5f0/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 16:20:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
