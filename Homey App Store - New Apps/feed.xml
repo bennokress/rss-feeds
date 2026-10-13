@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:15:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Narwal</title>
-      <link>https://homey.app/a/com.narwal.global</link>
-      <description>Spotless floors, without lifting a finger</description>
-      <author>noreply@homey.app (Idan Bush)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.narwal.global</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.narwal.global/8/94b02948-c981-41b2-aa96-51a7cf2589d4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
     <item>
       <title>TenneT Onbalans</title>
       <link>https://homey.app/a/com.jeroenstern.tennet-onbalans</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.joey.hmipgarage</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.joey.hmipgarage/2/ed38abb9-2bca-402e-8b51-cbc7aacacd4d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 13 Oct 2026 12:15:29 +0200</pubDate>
+    </item>
+    <item>
+      <title>Midea</title>
+      <link>https://homey.app/a/ro.ciprian.midea.ccm15</link>
+      <description>Comfort in every room, with local VRF control</description>
+      <author>noreply@homey.app (Ciprian Moldoveanu)</author>
+      <guid isPermaLink="false">https://homey.app/a/ro.ciprian.midea.ccm15</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ro.ciprian.midea.ccm15/5/4e47625e-a0b4-449d-a849-82a72f8e76c4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Oct 2026 18:15:34 +0200</pubDate>
     </item>
   </channel>
 </rss>
