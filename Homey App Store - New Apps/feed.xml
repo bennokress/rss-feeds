@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:23:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>YI Camera Local</title>
-      <link>https://homey.app/a/local.yi.camera</link>
-      <description>Keep an eye on your home every day</description>
-      <author>noreply@homey.app (Antoine Chaulieu)</author>
-      <guid isPermaLink="false">https://homey.app/a/local.yi.camera</guid>
-      <enclosure url="https://apps.homeycdn.net/app/local.yi.camera/2/db64790c-0320-4032-a3a4-e8e3e82aeee5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hikvision NVR &amp; DVR</title>
-      <link>https://homey.app/a/com.wisse.hikvision</link>
-      <description>Every camera. One recorder. Full control.</description>
-      <author>noreply@homey.app (Wisse Koelman)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wisse.hikvision</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wisse.hikvision/3/7267b129-160b-4b67-9879-87098381eef7/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
     <item>
       <title>MR Star</title>
       <link>https://homey.app/a/nl.dypodex.mrstar</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.evcharging.predictor</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.evcharging.predictor/5/efeaf41a-c2e7-41c5-9355-6a43c0f80d7c/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 12 Oct 2026 18:14:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fox ESS</title>
+      <link>https://homey.app/a/com.foxess</link>
+      <description>Life by Sunshine</description>
+      <author>noreply@homey.app (RM de Gruijter)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.foxess</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.foxess/3/1343cb0a-bfa1-482d-93ce-cceddce072e8/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Oct 2026 10:23:05 +0200</pubDate>
+    </item>
+    <item>
+      <title>Solarwatt</title>
+      <link>https://homey.app/a/com.solarwatt</link>
+      <description>Powering a better tomorrow.</description>
+      <author>noreply@homey.app (RM de Gruijter)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.solarwatt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.solarwatt/4/bf86542d-4f54-479d-8f48-5c95cacec2f7/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Oct 2026 10:23:05 +0200</pubDate>
     </item>
   </channel>
 </rss>
