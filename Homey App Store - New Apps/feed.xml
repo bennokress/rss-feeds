@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:13:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>TenneT Onbalans</title>
-      <link>https://homey.app/a/com.jeroenstern.tennet-onbalans</link>
-      <description>TenneT imbalance prices for import and export, available for Homey dashboards, charts and Flows.</description>
-      <author>noreply@homey.app (Jeroen Stern)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jeroenstern.tennet-onbalans</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jeroenstern.tennet-onbalans/7/442c2a7b-a7e4-42a7-98cc-63fa3319401f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>Grohe Sense</title>
-      <link>https://homey.app/a/net.lindbom.grohe</link>
-      <description>Detect leaks, track water usage, and safeguard your home.</description>
-      <author>noreply@homey.app (Johan Lindbom)</author>
-      <guid isPermaLink="false">https://homey.app/a/net.lindbom.grohe</guid>
-      <enclosure url="https://apps.homeycdn.net/app/net.lindbom.grohe/8/3ca91ed6-9686-4e14-9524-638438b15dda/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
     <item>
       <title>Hue Sync</title>
       <link>https://homey.app/a/nl.jessedevries.huesync</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/ro.ciprian.midea.ccm15</guid>
       <enclosure url="https://apps.homeycdn.net/app/ro.ciprian.midea.ccm15/5/4e47625e-a0b4-449d-a849-82a72f8e76c4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 13 Oct 2026 18:15:34 +0200</pubDate>
+    </item>
+    <item>
+      <title>Volumio</title>
+      <link>https://homey.app/a/io.github.robinnoort.volumio</link>
+      <description>Let your music set the whole home in motion.</description>
+      <author>noreply@homey.app (Robin Noort)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.github.robinnoort.volumio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.github.robinnoort.volumio/2/aa538a5b-eaa4-4025-960b-10475d1f2211/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 12:13:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>MealPlan</title>
+      <link>https://homey.app/a/dk.kvols.mealplan</link>
+      <description>Remember your meals and plan the week ahead</description>
+      <author>noreply@homey.app (Mads Kvols Hansen)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.kvols.mealplan</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.mealplan/3/7fe5914e-4771-4b0b-89f7-42c5a0020f4d/assets/images/large-release.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 12:13:24 +0200</pubDate>
     </item>
   </channel>
 </rss>
