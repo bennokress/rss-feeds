@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:13:17 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Cozytouch</title>
-      <link>https://homey.app/a/nl.webbuilds.cozytouch</link>
-      <description>Heating, hot water and cooling from Atlantic, Thermor and Sauter</description>
-      <author>noreply@homey.app (WebBuilds B.V.)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.webbuilds.cozytouch</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.webbuilds.cozytouch/2/8714b9fd-63de-4637-8937-1f287a0e3ed2/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 18:15:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>Remora Fil Pilote</title>
-      <link>https://homey.app/a/fr.remora.filpilote</link>
-      <description>Keep every room comfortable with local heating control</description>
-      <author>noreply@homey.app (yann baillet)</author>
-      <guid isPermaLink="false">https://homey.app/a/fr.remora.filpilote</guid>
-      <enclosure url="https://apps.homeycdn.net/app/fr.remora.filpilote/3/5a20cc05-cb26-4c96-aac9-ae73bfee6797/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 18:15:53 +0200</pubDate>
-    </item>
     <item>
       <title>Atmoce</title>
       <link>https://homey.app/a/com.goossens.atmoce</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/ua.te.its.vaillantebus</guid>
       <enclosure url="https://apps.homeycdn.net/app/ua.te.its.vaillantebus/4/3157083b-b496-462a-8dcc-5767d98d727d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 14:20:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>ToGrill BBQ Thermometer</title>
+      <link>https://homey.app/a/com.togrill</link>
+      <description>Perfectly cooked barbecue, every single time.</description>
+      <author>noreply@homey.app (Peter Persson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.togrill</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.togrill/3/e07713c6-e3d9-4f96-b9dc-81680562d8ce/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 16:13:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Apple Health</title>
+      <link>https://homey.app/a/nl.lrvdlinden.applehealth</link>
+      <description>Your Apple Health and Apple Watch data in Homey</description>
+      <author>noreply@homey.app (Léon van der Linden)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.applehealth</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.applehealth/5/404eda59-c96b-4954-9669-e8b3e9bf04ee/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 16:13:14 +0200</pubDate>
     </item>
   </channel>
 </rss>
