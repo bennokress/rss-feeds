@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:20:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Hue Sync</title>
-      <link>https://homey.app/a/nl.jessedevries.huesync</link>
-      <description>Automatically sync your Hue devices to Homey.</description>
-      <author>noreply@homey.app (Jesse de Vries)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.jessedevries.huesync</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.jessedevries.huesync/2/aae65087-21fb-4c5d-bcc8-28c0e681bff1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 16:15:37 +0200</pubDate>
-    </item>
-    <item>
-      <title>SmartVVB</title>
-      <link>https://homey.app/a/no.wattlet.smartvvb</link>
-      <description>Make your water heater smart</description>
-      <author>noreply@homey.app (Luc Wathelet)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.wattlet.smartvvb</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.wattlet.smartvvb/6/15c10dae-6030-469b-a245-5c692c1f5ec3/assets/images/app_large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 18:15:53 +0200</pubDate>
-    </item>
     <item>
       <title>Cozytouch</title>
       <link>https://homey.app/a/nl.webbuilds.cozytouch</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/dk.kvols.mealplan</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.kvols.mealplan/3/7fe5914e-4771-4b0b-89f7-42c5a0020f4d/assets/images/large-release.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 12:13:24 +0200</pubDate>
+    </item>
+    <item>
+      <title>PV Forecast</title>
+      <link>https://homey.app/a/be.pvforecast</link>
+      <description>Solar forecast that learns from your own panels.</description>
+      <author>noreply@homey.app (Danny van Soerland)</author>
+      <guid isPermaLink="false">https://homey.app/a/be.pvforecast</guid>
+      <enclosure url="https://apps.homeycdn.net/app/be.pvforecast/18/34165266-173f-4060-abb5-c0e44052b43f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 14:20:18 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vaillant eBUS</title>
+      <link>https://homey.app/a/ua.te.its.vaillantebus</link>
+      <description>Turn your Vaillant boiler into smart, weather-aware heating.</description>
+      <author>noreply@homey.app (Volodymyr Piaskovskyi)</author>
+      <guid isPermaLink="false">https://homey.app/a/ua.te.its.vaillantebus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ua.te.its.vaillantebus/4/3157083b-b496-462a-8dcc-5767d98d727d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 14:20:18 +0200</pubDate>
     </item>
   </channel>
 </rss>
