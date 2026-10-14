@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:14:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Atmoce</title>
-      <link>https://homey.app/a/com.goossens.atmoce</link>
-      <description>Solar, battery and grid with smart local battery control.</description>
-      <author>noreply@homey.app (Jo Goossens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.goossens.atmoce</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.goossens.atmoce/3/6449021c-717c-481d-8756-547e82079030/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 18:15:53 +0200</pubDate>
-    </item>
     <item>
       <title>Garden sprinkler</title>
       <link>https://homey.app/a/se.krister.gardensprinkler</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.applehealth</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.applehealth/5/404eda59-c96b-4954-9669-e8b3e9bf04ee/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 16:13:14 +0200</pubDate>
+    </item>
+    <item>
+      <title>Waste Collection Denmark</title>
+      <link>https://homey.app/a/com.nicolai.wastecalendar</link>
+      <description>Danish waste collection dates and reminders.</description>
+      <author>noreply@homey.app (Nicolai Clausen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.nicolai.wastecalendar</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.nicolai.wastecalendar/4/d78529a2-714b-4f6d-a84a-35f66ac3d9df/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 18:14:10 +0200</pubDate>
     </item>
   </channel>
 </rss>
