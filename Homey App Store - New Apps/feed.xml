@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:19:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Oral-B</title>
-      <link>https://homey.app/a/com.oralb.io</link>
-      <description>Make every brushing session a smarter part of your day.</description>
-      <author>noreply@homey.app (Mark Moorlag)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.oralb.io</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.oralb.io/11/dfe24db2-eb61-4c11-bee6-268131639fa9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Sep 2026 20:17:23 +0200</pubDate>
-    </item>
     <item>
       <title>Sonos Announcements</title>
       <link>https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.haefele.connectmesh</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.haefele.connectmesh/3/a9110754-29bb-48ca-b4a0-5d35ef9d6bef/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 15 Oct 2026 12:12:49 +0200</pubDate>
+    </item>
+    <item>
+      <title>Silent Gliss</title>
+      <link>https://homey.app/a/com.tomshinsky.silent-gliss</link>
+      <description>Let daylight follow your daily routine</description>
+      <author>noreply@homey.app (Mike Tomshinsky)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.tomshinsky.silent-gliss</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.tomshinsky.silent-gliss/2/2304964e-ba38-4823-8901-ef9cfbc8d6ae/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 15 Oct 2026 14:19:52 +0200</pubDate>
     </item>
   </channel>
 </rss>
