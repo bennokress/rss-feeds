@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:17:03 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sonos Announcements</title>
-      <link>https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</link>
-      <description>Say it at home, from wherever you happen to be.</description>
-      <author>noreply@homey.app (Tobias Vinzents)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.hoffmeyer-net.sonosannouncements</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.hoffmeyer-net.sonosannouncements/12/f97e4321-0bb4-4673-a9f3-a704c93e65ff/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 01 Oct 2026 00:13:23 +0200</pubDate>
-    </item>
     <item>
       <title>Grid Green Carbon</title>
       <link>https://homey.app/a/com.rapinology.frgreenenergy</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.tomshinsky.silent-gliss</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.tomshinsky.silent-gliss/2/2304964e-ba38-4823-8901-ef9cfbc8d6ae/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 15 Oct 2026 14:19:52 +0200</pubDate>
+    </item>
+    <item>
+      <title>Thuisbord</title>
+      <link>https://homey.app/a/app.thuisbord</link>
+      <description>Your power and gas, live on the screen on your wall</description>
+      <author>noreply@homey.app (Menno van Hout)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.thuisbord</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.thuisbord/8/992670fe-ca79-4af6-bcfd-9f77421859e3/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 16 Oct 2026 10:17:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
