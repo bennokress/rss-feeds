@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:18:00 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Rot-Grün-Weiß – ein Leben lang!</title>
-      <link>https://www.aev-panther.de/artikel/rot-gruen-weiss-ein-leben-lang/019fdc11-457b-7662-9ead-ab2a0b7a2be5</link>
-      <description>Wenige Tage vor dem ersten öffentlichen Eistraining der „Augschburger Jungs“ steigt die Vorfreude auf die Saison 2026-27 spürbar. Da dürfen natürlich auch die offiziellen Trikots für die neue PENNY DE…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/rot-gruen-weiss-ein-leben-lang/019fdc11-457b-7662-9ead-ab2a0b7a2be5</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019fdc11-457b-7662-9ead-ab2a0b7a2be5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Bargeldloses Bezahlen im Panthercatering</title>
       <link>https://www.aev-panther.de/artikel/bargeldloses-bezahlen-im-panthercatering/019ff001-3e12-7bcc-801f-992927ab3afc</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/mannheim-am-trevelyan-abend-zu-stark/01a145b7-a012-7ad6-bcde-5891de939e12</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a145b7-a012-7ad6-bcde-5891de939e12.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 22:08:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bittere Niederlage im Panther-Duell</title>
+      <link>https://www.aev-panther.de/artikel/bittere-niederlage-im-panther-duell/01a14f32-4c92-7780-ac95-59a206947ad3</link>
+      <description>Die Augsburger Panther haben das erste Pantherduell der Saison 2026-27 in der PENNY DEL unglücklich mit 3:6 beim ERC Ingolstadt verloren. Die Treffer für die Panther erzielten Philipp Krauß (16.), Tre…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/bittere-niederlage-im-panther-duell/01a14f32-4c92-7780-ac95-59a206947ad3</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a14f32-4c92-7780-ac95-59a206947ad3.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 18 Oct 2026 18:58:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
