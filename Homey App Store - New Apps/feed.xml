@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:13:44 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>OCPP Bridge</title>
-      <link>https://homey.app/a/com.wisse.ocppbridge</link>
-      <description>Smart charging from Homey, with your charging provider still on board.</description>
-      <author>noreply@homey.app (Wisse Koelman)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.wisse.ocppbridge</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.wisse.ocppbridge/1/c9ef16cd-854f-4e14-be6b-f4410a8a3c3c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 16:17:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>illumi Home</title>
-      <link>https://homey.app/a/com.lxillumi.illumihome</link>
-      <description>LED strips for everyone</description>
-      <author>noreply@homey.app (Sven Serlier)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lxillumi.illumihome</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lxillumi.illumihome/3/7e5129ca-af5a-4368-9a8b-3999c2447682/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 16:17:15 +0200</pubDate>
-    </item>
     <item>
       <title>Advanced Waiting</title>
       <link>https://homey.app/a/com.advancedwaiting.community</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.goossens.cortexai</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.goossens.cortexai/3/f2529a31-44a9-41bf-a4e3-fd6dc241f706/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 19 Oct 2026 14:20:44 +0200</pubDate>
+    </item>
+    <item>
+      <title>Digital Twin</title>
+      <link>https://homey.app/a/eu.paulkok.digitaltwin</link>
+      <description>See what's happening at home, in 3D</description>
+      <author>noreply@homey.app (Paul Kok)</author>
+      <guid isPermaLink="false">https://homey.app/a/eu.paulkok.digitaltwin</guid>
+      <enclosure url="https://apps.homeycdn.net/app/eu.paulkok.digitaltwin/1/9277652d-f0c4-4aa7-8724-d2ab1b6a1f2d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 16:13:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>InCharge Connector</title>
+      <link>https://homey.app/a/community.djordie.inchargeconnector</link>
+      <description>Know if your charging pole is free and what it costs before you head out.</description>
+      <author>noreply@homey.app (Djordie Hendriks)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.djordie.inchargeconnector</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.djordie.inchargeconnector/9/3619e3fa-47f2-43ee-bb0e-5225e76a5f4f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 16:13:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
