@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:12:49 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Yeelight Candela</title>
-      <link>https://homey.app/a/com.kevinvanoosterhout.yeelightcandela</link>
-      <description>Set the mood with warm candlelight</description>
-      <author>noreply@homey.app (Kevin van Oosterhout)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.kevinvanoosterhout.yeelightcandela</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.kevinvanoosterhout.yeelightcandela/1/530e78f5-a3dc-43a7-9f4b-0e73675b3f3e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 10:27:32 +0200</pubDate>
-    </item>
-    <item>
-      <title>LedFx</title>
-      <link>https://homey.app/a/community.ledfx</link>
-      <description>Let your lights dance to the music</description>
-      <author>noreply@homey.app (Dennis Klatt)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.ledfx</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.ledfx/9/a6bed632-1c02-4721-af53-1dedbf2bde95/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 12:17:01 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hyves</title>
-      <link>https://homey.app/a/nl.lrvdlinden.hyves</link>
-      <description>Your Hyves world, now part of your smart home.</description>
-      <author>noreply@homey.app (Léon van der Linden)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.hyves</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.hyves/24/df4b29ca-4b68-421c-85fd-87338e800433/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 12:17:01 +0200</pubDate>
-    </item>
     <item>
       <title>Additional User Statuses</title>
       <link>https://homey.app/a/com.additionaluserstatuses.community</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.roue.geozones</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.roue.geozones/17/ad1820ea-81e3-46cf-aae7-92e2f64a0910/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 14:19:35 +0200</pubDate>
+    </item>
+    <item>
+      <title>WoodUpp Lumi</title>
+      <link>https://homey.app/a/no.local.woodupp.zigbee</link>
+      <description>Bring your WoodUpp Lumi lighting to life with effortless control in Homey.</description>
+      <author>noreply@homey.app (Øivind Solheim)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.local.woodupp.zigbee</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.local.woodupp.zigbee/2/f5d8cbc6-17f8-4005-a0ac-2e609072ae4c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zyxel Router</title>
+      <link>https://homey.app/a/zyxel.router</link>
+      <description>Your 5G connection at a glance</description>
+      <author>noreply@homey.app (Rob Hagemann)</author>
+      <guid isPermaLink="false">https://homey.app/a/zyxel.router</guid>
+      <enclosure url="https://apps.homeycdn.net/app/zyxel.router/12/b562bfe4-991b-41ea-b6ae-3211bddbbd24/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Bird Buddy</title>
+      <link>https://homey.app/a/community.birdbuddy</link>
+      <description>See every bird that visits your feeder</description>
+      <author>noreply@homey.app (Tim Vandendriessche)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.birdbuddy</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.birdbuddy/2/2779aa47-7041-46b1-a1cd-07b280a38107/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
