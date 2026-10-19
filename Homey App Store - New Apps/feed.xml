@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:20:46 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Additional User Statuses</title>
-      <link>https://homey.app/a/com.additionaluserstatuses.community</link>
-      <description>Presence and sleep cards for the whole household, plus statuses of your own</description>
-      <author>noreply@homey.app (Lionel Der Boven)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.additionaluserstatuses.community</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.additionaluserstatuses.community/1/2f7093bf-4fdc-4054-b47e-570f72bef803/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 12:17:01 +0200</pubDate>
-    </item>
     <item>
       <title>OCPP Bridge</title>
       <link>https://homey.app/a/com.wisse.ocppbridge</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/community.birdbuddy</guid>
       <enclosure url="https://apps.homeycdn.net/app/community.birdbuddy/2/2779aa47-7041-46b1-a1cd-07b280a38107/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cortex AI</title>
+      <link>https://homey.app/a/com.goossens.cortexai</link>
+      <description>An AI brain for your Flows and your home, with any model.</description>
+      <author>noreply@homey.app (Jo Goossens)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.goossens.cortexai</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.goossens.cortexai/3/f2529a31-44a9-41bf-a4e3-fd6dc241f706/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 19 Oct 2026 14:20:44 +0200</pubDate>
     </item>
   </channel>
 </rss>
