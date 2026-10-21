@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:12:50 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Advanced Waiting</title>
-      <link>https://homey.app/a/com.advancedwaiting.community</link>
-      <description>Pause your Flow down to the millisecond</description>
-      <author>noreply@homey.app (Lionel Der Boven)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.advancedwaiting.community</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.advancedwaiting.community/1/fbef7d03-e108-4c6b-9e06-82d3d170fad4/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 16:17:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>Thermia Heat Pump</title>
-      <link>https://homey.app/a/com.thermia</link>
-      <description>Sustainable comfort, smartly controlled</description>
-      <author>noreply@homey.app (Ruud Schellekens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thermia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thermia/2/62fab0b0-778a-43b0-9f05-2b2db962b81c/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 16:17:15 +0200</pubDate>
-    </item>
     <item>
       <title>Data Pulse</title>
       <link>https://homey.app/a/io.github.arrow87-home.datawatchdog</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/community.djordie.inchargeconnector</guid>
       <enclosure url="https://apps.homeycdn.net/app/community.djordie.inchargeconnector/9/3619e3fa-47f2-43ee-bb0e-5225e76a5f4f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 19 Oct 2026 16:13:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Anthbot</title>
+      <link>https://homey.app/a/com.techboys.anthbot</link>
+      <description>Mow, pause and dock from your Flows</description>
+      <author>noreply@homey.app (Gary Madeo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.techboys.anthbot</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.techboys.anthbot/2/8c8182a2-18cc-44ce-9574-6f950d3e9e07/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 12:12:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Divoom TimeBox Evo</title>
+      <link>https://homey.app/a/com.habbo656.divoom-timebox</link>
+      <description>The pixel heart of your smart home.</description>
+      <author>noreply@homey.app (Thomas Happich)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.habbo656.divoom-timebox</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.habbo656.divoom-timebox/2/164833d8-2da0-4b57-84d9-5b4c8e16ada9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 12:12:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
