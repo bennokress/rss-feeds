@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:16:30 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>SportConnect</title>
-      <link>https://homey.app/a/dk.kvols.sportslive</link>
-      <description>Let sporting moments light up your home.</description>
-      <author>noreply@homey.app (Mads Kvols Hansen)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.kvols.sportslive</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.sportslive/3/15f2447d-3116-40a0-852a-7b546419a8d8/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
-    </item>
-    <item>
-      <title>eTilbudsavis</title>
-      <link>https://homey.app/a/dk.kvols.etilbudsavis</link>
-      <description>Keep an eye on Danish offers for your favourite products.</description>
-      <author>noreply@homey.app (Mads Kvols Hansen)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.kvols.etilbudsavis</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.etilbudsavis/2/7ba898d2-3c63-45f8-928b-a861d4fef0b4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 07 Oct 2026 12:13:53 +0200</pubDate>
-    </item>
     <item>
       <title>Swiss Dynamic Electricity Tariff</title>
       <link>https://homey.app/a/com.rickd.dynamictariffch</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.robinnoort.hegel</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.robinnoort.hegel/2/1dcd6e57-aeca-41dd-9f50-9561906f65d4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 21 Oct 2026 18:12:59 +0200</pubDate>
+    </item>
+    <item>
+      <title>RIKA Firenet</title>
+      <link>https://homey.app/a/nu.thien.rikafirenet</link>
+      <description>Come home to a warm fire</description>
+      <author>noreply@homey.app (Jordy Thien)</author>
+      <guid isPermaLink="false">https://homey.app/a/nu.thien.rikafirenet</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nu.thien.rikafirenet/4/1fa1bdef-9458-4865-a02b-2a59d873e74f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 20:16:28 +0200</pubDate>
+    </item>
+    <item>
+      <title>WebPanel</title>
+      <link>https://homey.app/a/com.lolpold.webpanel</link>
+      <description>Wall dashboards for your tablets, served by Homey</description>
+      <author>noreply@homey.app (Leopold Junkers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lolpold.webpanel</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lolpold.webpanel/2/1e1c18aa-2a46-403a-9bad-9ca31a1b028e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 20:16:28 +0200</pubDate>
     </item>
   </channel>
 </rss>
