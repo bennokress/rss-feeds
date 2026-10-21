@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:17:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ticketverkauf für Saison 2026-27 startet am 14. August</title>
-      <link>https://www.aev-panther.de/artikel/ticketverkauf-fuer-saison-2026-27-startet-am-14-august/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f</link>
-      <description>Mit großer Vorfreude blicken die Augsburger Panther auf die neue Eishockeysaison. Am Freitag, 14. August 2026 um 13 Uhr beginnt der Kartenvorverkauf für alle Heimspiele im Curt-Frenzel-Stadion. Fans k…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/ticketverkauf-fuer-saison-2026-27-startet-am-14-august/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/019ffa3c-8f9d-7e9a-b175-bd36df82ef1f.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 10:15:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther müssen vorerst auf Ryan Button verzichten</title>
       <link>https://www.aev-panther.de/artikel/panther-muessen-vorerst-auf-ryan-button-verzichten/01a00f6b-4a52-7a2b-a6f8-f6cf6d6b7ffd</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/verguenstigte-tickets-after-game-party-im-peaches-am-29-oktober/01a1591c-931a-74b1-a3d6-5cf8a19266ea</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a1591c-931a-74b1-a3d6-5cf8a19266ea.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 20 Oct 2026 13:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sebastian Zwickl für U20-Maßnahme nominiert</title>
+      <link>https://www.aev-panther.de/artikel/sebastian-zwickl-fuer-u20-massnahme-nominiert/01a15db9-5781-74b5-b955-fc0bb20900c4</link>
+      <description>Die U20-Nationalmannschaft reist nach Finnland, mit an Bord ist auch PantherstürmerSebastian Zwickl. Am Mittwoch, den 4. November 2026, bezieht das Team um U20-Bundestrainer Tobias Abstreiter in Vieru…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/sebastian-zwickl-fuer-u20-massnahme-nominiert/01a15db9-5781-74b5-b955-fc0bb20900c4</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a15db9-5781-74b5-b955-fc0bb20900c4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 11:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
