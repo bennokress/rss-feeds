@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:14:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Data Pulse</title>
-      <link>https://homey.app/a/io.github.arrow87-home.datawatchdog</link>
-      <description>Know when your Homey data stops arriving</description>
-      <author>noreply@homey.app (Maarten Rusbach)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.github.arrow87-home.datawatchdog</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.github.arrow87-home.datawatchdog/5/3d76cf60-3b98-40fb-aa26-fff3c9415223/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 07 Oct 2026 10:19:58 +0200</pubDate>
-    </item>
     <item>
       <title>UNAS Monitor</title>
       <link>https://homey.app/a/com.rapinology.unas</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.habbo656.divoom-timebox</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.habbo656.divoom-timebox/2/164833d8-2da0-4b57-84d9-5b4c8e16ada9/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 21 Oct 2026 12:12:48 +0200</pubDate>
+    </item>
+    <item>
+      <title>Joulia</title>
+      <link>https://homey.app/a/se.liamlofgren.joulia</link>
+      <description>EV charging for housing communities</description>
+      <author>noreply@homey.app (Liam Löfgren)</author>
+      <guid isPermaLink="false">https://homey.app/a/se.liamlofgren.joulia</guid>
+      <enclosure url="https://apps.homeycdn.net/app/se.liamlofgren.joulia/1/16c795ad-a76c-4d14-917f-4da4567d9ad3/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 16:14:07 +0200</pubDate>
     </item>
   </channel>
 </rss>
