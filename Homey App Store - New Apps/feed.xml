@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:20:10 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MyGrid</title>
-      <link>https://homey.app/a/energy.mygrid</link>
-      <description>Power your home on your terms</description>
-      <author>noreply@homey.app (RogierM ThissenM)</author>
-      <guid isPermaLink="false">https://homey.app/a/energy.mygrid</guid>
-      <enclosure url="https://apps.homeycdn.net/app/energy.mygrid/3/3a44ada5-02c9-4279-a3f7-b830490fcabf/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 07 Oct 2026 14:21:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>SecureGen</title>
-      <link>https://homey.app/a/com.linkgensystems.securegen</link>
-      <description>Your security, working together</description>
-      <author>noreply@homey.app (LinkGen Systems)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.linkgensystems.securegen</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.linkgensystems.securegen/2/93808dac-6278-4d91-bc39-652b74c226d8/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 14:21:31 +0200</pubDate>
-    </item>
     <item>
       <title>BioStar 2</title>
       <link>https://homey.app/a/com.biostar2.community</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/be.medicationreminder</guid>
       <enclosure url="https://apps.homeycdn.net/app/be.medicationreminder/5/c98223f3-3f38-4df2-8cce-093f99ad2eb8/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 22 Oct 2026 12:12:21 +0200</pubDate>
+    </item>
+    <item>
+      <title>BYD Vehicle</title>
+      <link>https://homey.app/a/cz.severa.byd</link>
+      <description>Your BYD, charged and ready when you are.</description>
+      <author>noreply@homey.app (Tom Severa)</author>
+      <guid isPermaLink="false">https://homey.app/a/cz.severa.byd</guid>
+      <enclosure url="https://apps.homeycdn.net/app/cz.severa.byd/4/affdd9f5-a70b-4767-9e40-ea65e7d721c1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Oct 2026 14:20:08 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sensible</title>
+      <link>https://homey.app/a/no.tjahnsen.sensible</link>
+      <description>The temperature you feel, not the one your heater guesses</description>
+      <author>noreply@homey.app (Thomas Jahnsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.tjahnsen.sensible</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.tjahnsen.sensible/71/ed9f38ee-2ad3-4f4a-921a-c8f6dee70b0a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 22 Oct 2026 14:20:08 +0200</pubDate>
     </item>
   </channel>
 </rss>
