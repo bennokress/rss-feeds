@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:18:53 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Aman &amp; Merkle neuer Partner der Panther</title>
-      <link>https://www.aev-panther.de/artikel/aman-merkle-neuer-partner-der-panther/01a03927-538d-7c5c-a8e2-0eab34b3f7bd</link>
-      <description>Die Augsburger Panther freuen sich über einen neuen Partner an ihrer Seite: Die Aman &amp; Merkle GmbH wird in der PENNY DEL-Saison 2026-27 im Curt-Frenzel-Stadion präsent sein.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aman-merkle-neuer-partner-der-panther/01a03927-538d-7c5c-a8e2-0eab34b3f7bd</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a03927-538d-7c5c-a8e2-0eab34b3f7bd.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 15:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Stadtsparkasse Augsburg als Partner des Eishockeys</title>
       <link>https://www.aev-panther.de/artikel/stadtsparkasse-augsburg-als-partner-des-eishockeys/01a03ced-a178-7f51-af0b-2e3f59a7bd3e</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/straubing-tigers-zu-gast-im-cfs/01a162c1-0919-7f4f-9824-cfc9d8f81dea</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a162c1-0919-7f4f-9824-cfc9d8f81dea.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 25 Oct 2026 09:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AEV unterliegt gegen Straubing</title>
+      <link>https://www.aev-panther.de/artikel/aev-unterliegt-gegen-straubing/01a173a1-a99c-7c27-a4d5-5d74110b0b62</link>
+      <description>Die Augsburger Panther mussten in der PENNY DEL trotz einer erneut ansprechenden Leistung bereits die vierte Niederlage in Folge hinnehmen. Gegen die Straubing Tigers unterlag der AEV im ausverkauften…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-unterliegt-gegen-straubing/01a173a1-a99c-7c27-a4d5-5d74110b0b62</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a173a1-a99c-7c27-a4d5-5d74110b0b62.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 19:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
