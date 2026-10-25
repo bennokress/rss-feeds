@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:15:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther gegen eiskalte Eisbären ohne Chance</title>
-      <link>https://www.aev-panther.de/artikel/panther-gegen-eiskalte-eisbaeren-ohne-chance/01a0308c-837e-7d90-874a-ebef688c8ab5</link>
-      <description>Die Augsburger Panther mussten sich beim Dolomitencup 2026 mit dem vierten und letzten Platz begnügen. Im Spiel um Platz drei unterlag der Rekordchampion den Eisbären Berlin deutlich mit 0:7. Die Tref…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gegen-eiskalte-eisbaeren-ohne-chance/01a0308c-837e-7d90-874a-ebef688c8ab5</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0308c-837e-7d90-874a-ebef688c8ab5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 23:23:00 +0200</pubDate>
-    </item>
     <item>
       <title>Aman &amp; Merkle neuer Partner der Panther</title>
       <link>https://www.aev-panther.de/artikel/aman-merkle-neuer-partner-der-panther/01a03927-538d-7c5c-a8e2-0eab34b3f7bd</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verlieren-knapp-beim-meister/01a169cf-1364-796c-85d0-370b7d263e58</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a169cf-1364-796c-85d0-370b7d263e58.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 23 Oct 2026 21:52:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Straubing Tigers zu Gast im CFS</title>
+      <link>https://www.aev-panther.de/artikel/straubing-tigers-zu-gast-im-cfs/01a162c1-0919-7f4f-9824-cfc9d8f81dea</link>
+      <description>Die Augsburger Panther bestreiten am Sonntagnachmittag ihr erstes bayerisches Derby auf eigenem Eis in der PENNY DEL-Hauptrunde 2026-27. Um 16:30 Uhr ist Eröffnungsbully in der Partie gegen die Straub…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/straubing-tigers-zu-gast-im-cfs/01a162c1-0919-7f4f-9824-cfc9d8f81dea</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a162c1-0919-7f4f-9824-cfc9d8f81dea.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 09:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
