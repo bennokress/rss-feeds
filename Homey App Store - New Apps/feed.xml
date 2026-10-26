@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:42:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:20:20 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Sensor Trends</title>
-      <link>https://homey.app/a/com.rapinology.htrends</link>
-      <description>Turn any sensor into a trend: rising, falling or steady, with the pace.</description>
-      <author>noreply@homey.app (Henri Dominique Rapin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.rapinology.htrends</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.rapinology.htrends/5/1174eee7-45a6-404d-ad5a-556a47c21b80/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 12 Oct 2026 12:18:44 +0200</pubDate>
-    </item>
     <item>
       <title>Opel Ampera-e (WiCAN)</title>
       <link>https://homey.app/a/info.schellekens.amperae</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.yuji.commute</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.yuji.commute/2/23e892a7-8e98-4f0f-97bd-8b76d67e7a2e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 26 Oct 2026 14:42:12 +0100</pubDate>
+    </item>
+    <item>
+      <title>REMKO Smart-Control Touch</title>
+      <link>https://homey.app/a/site.zeno.remko</link>
+      <description>Home comfort and hot water in step with your day.</description>
+      <author>noreply@homey.app (Pieter Groot)</author>
+      <guid isPermaLink="false">https://homey.app/a/site.zeno.remko</guid>
+      <enclosure url="https://apps.homeycdn.net/app/site.zeno.remko/3/f8c73b51-fbbc-41ee-beec-d2ace177fd1b/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 19:20:20 +0100</pubDate>
     </item>
   </channel>
 </rss>
