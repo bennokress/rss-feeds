@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:15:22 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Widgetkeeper</title>
-      <link>https://homey.app/a/com.thomassidor.widgetkeeper</link>
-      <description>Custom dashboard widgets for your Homey.</description>
-      <author>noreply@homey.app (Thomas R. Sidor)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.thomassidor.widgetkeeper</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.thomassidor.widgetkeeper/3/dcb41345-a71c-40a0-9520-1085d4f41235/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 16:15:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>SRV Waste Collection</title>
-      <link>https://homey.app/a/se.sikth.srv</link>
-      <description>Keep track of the next collection and get your bins out on time.</description>
-      <author>noreply@homey.app (Fredrik Sundlöf)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.sikth.srv</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.sikth.srv/7/0b1e4b0b-8148-4b97-aca8-e8812015ea69/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 16:15:22 +0200</pubDate>
-    </item>
-    <item>
-      <title>Logitech MX Keypad</title>
-      <link>https://homey.app/a/com.logitech.mxkeypad</link>
-      <description>Give every keypad press a place in your smart home.</description>
-      <author>noreply@homey.app (Kim Kokholm)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.logitech.mxkeypad</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.logitech.mxkeypad/2/323e5478-f86d-477e-9a34-215b0d0ac344/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 18:16:29 +0200</pubDate>
-    </item>
     <item>
       <title>Toney</title>
       <link>https://homey.app/a/app.tooney.toniebox</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/be.cyrilhendriks.drivie</guid>
       <enclosure url="https://apps.homeycdn.net/app/be.cyrilhendriks.drivie/59/58bc4b4b-c494-40fc-ba51-0f8469be2fb6/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 23 Oct 2026 12:12:39 +0200</pubDate>
+    </item>
+    <item>
+      <title>Lucci Air</title>
+      <link>https://homey.app/a/com.lucci.fan</link>
+      <description>Ceiling fans that answer to Homey as well as the handset.</description>
+      <author>noreply@homey.app (John Bothe)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.lucci.fan</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.lucci.fan/1/57d5dbd3-d187-49e6-89fe-bf9ed046e719/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
+    </item>
+    <item>
+      <title>Network Print</title>
+      <link>https://homey.app/a/it.giuliomaffei.networkprint</link>
+      <description>Print text and images directly to your network printer</description>
+      <author>noreply@homey.app (Giulio Maffei)</author>
+      <guid isPermaLink="false">https://homey.app/a/it.giuliomaffei.networkprint</guid>
+      <enclosure url="https://apps.homeycdn.net/app/it.giuliomaffei.networkprint/4/509fd7a0-bb71-4fec-a93e-0541971f3fd5/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
+    </item>
+    <item>
+      <title>Canadian Weather &amp; Alerts</title>
+      <link>https://homey.app/a/dev.masonlab.canadianweather</link>
+      <description>Stay a step ahead of Canadian weather</description>
+      <author>noreply@homey.app (Timothy Mason)</author>
+      <guid isPermaLink="false">https://homey.app/a/dev.masonlab.canadianweather</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dev.masonlab.canadianweather/3/678fdac6-3163-4df2-b5c5-61eba571633c/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
     </item>
   </channel>
 </rss>
