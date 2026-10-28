@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:19:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther eröffnen die Heimspielsaison</title>
-      <link>https://www.aev-panther.de/artikel/panther-eroeffnen-die-heimspielsaison/01a042b4-937d-78b5-a0ee-dda2864d3162</link>
-      <description>Am Freitagabend bestreiten die Augsburger Panther gegen den EHC Kloten (SUI) ihr erstes Heimspiel der neuen Saison. Spielbeginn im Curt-Frenzel-Stadion ist um 19:00 Uhr. Nach zwei Tests im Rahmen des …</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-eroeffnen-die-heimspielsaison/01a042b4-937d-78b5-a0ee-dda2864d3162</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a042b4-937d-78b5-a0ee-dda2864d3162.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Stadtwerke Augsburg bleiben Premiumpartner</title>
       <link>https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/liron-pellizzari-fuer-u18-nationalmannschaft-nominiert/01a17de6-874d-784e-99b6-3cdbd6043446</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a17de6-874d-784e-99b6-3cdbd6043446.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 27 Oct 2026 16:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther müssen auf D.J. Busdeker verzichten</title>
+      <link>https://www.aev-panther.de/artikel/panther-muessen-auf-d-j-busdeker-verzichten/01a18246-676a-718c-a8dd-290057451c87</link>
+      <description>Die Augsburger Panther müssen in den letzten beiden Spielen vor der Deutschland Cup-Pause auf D.J. Busdeker verzichten. Der Stürmer verletzte sich beim Auswärtsspiel in Berlin am Oberkörper und verpas…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-muessen-auf-d-j-busdeker-verzichten/01a18246-676a-718c-a8dd-290057451c87</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a18246-676a-718c-a8dd-290057451c87.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 12:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
