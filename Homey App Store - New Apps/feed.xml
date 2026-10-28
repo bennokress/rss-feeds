@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:10:54 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Solarwatt</title>
-      <link>https://homey.app/a/com.solarwatt</link>
-      <description>Powering a better tomorrow.</description>
-      <author>noreply@homey.app (RM de Gruijter)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.solarwatt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.solarwatt/4/bf86542d-4f54-479d-8f48-5c95cacec2f7/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 10:23:05 +0200</pubDate>
-    </item>
-    <item>
-      <title>Homematic IP Garage Door</title>
-      <link>https://homey.app/a/nl.joey.hmipgarage</link>
-      <description>Open, close and keep an eye on your garage door through the Homematic IP cloud</description>
-      <author>noreply@homey.app (Joey Gosenson)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.joey.hmipgarage</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.joey.hmipgarage/2/ed38abb9-2bca-402e-8b51-cbc7aacacd4d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 12:15:29 +0200</pubDate>
-    </item>
     <item>
       <title>Midea</title>
       <link>https://homey.app/a/ro.ciprian.midea.ccm15</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/dk.elpriser</guid>
       <enclosure url="https://apps.homeycdn.net/app/dk.elpriser/2/1b360538-d12a-4934-a5cc-3ed41471f66a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Oct 2026 15:10:19 +0100</pubDate>
+    </item>
+    <item>
+      <title>BLUETTI</title>
+      <link>https://homey.app/a/com.gpm.bluetti</link>
+      <description>Your backup power, part of your smart home</description>
+      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.gpm.bluetti</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.gpm.bluetti/5/f016b8ed-7672-43ff-b8f1-c65fe045ed5d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 17:10:52 +0100</pubDate>
+    </item>
+    <item>
+      <title>Desi Smart</title>
+      <link>https://homey.app/a/com.desi.smart</link>
+      <description>A smarter way to secure home</description>
+      <author>noreply@homey.app (DESI Smart Lock &amp; Security Systems)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.desi.smart</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.desi.smart/17/ed947d1b-0f0e-4463-86fa-f6d1bc4bffc2/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 28 Oct 2026 17:10:52 +0100</pubDate>
     </item>
   </channel>
 </rss>
