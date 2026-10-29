@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:12:17 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther gewinnen in Regensburg</title>
-      <link>https://www.aev-panther.de/artikel/panther-gewinnen-in-regensburg/01a05290-ef50-785f-bf4e-9a655bb7ef4b</link>
-      <description>Die Augsburger Panther haben das erste Testspiel vor der Saison 2026-27 gewonnen. Bei den Eisbären Regensburg aus der DEL2 siegte der AEV am Ende verdient mit 4:1. Die Treffer für die Panther erzielte…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-gewinnen-in-regensburg/01a05290-ef50-785f-bf4e-9a655bb7ef4b</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a05290-ef50-785f-bf4e-9a655bb7ef4b.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 30 Aug 2026 17:23:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther verlieren gegen Bern</title>
       <link>https://www.aev-panther.de/artikel/panther-verlieren-gegen-bern/01a05e63-9ad5-7ed1-83ec-01f6162cf533</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/drei-panther-beim-deutschland-cup/01a18711-d1f8-7f16-853e-c8231f4ee172</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a18711-d1f8-7f16-853e-c8231f4ee172.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 29 Oct 2026 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AEV zurück auf der Siegesstraße!</title>
+      <link>https://www.aev-panther.de/artikel/aev-zurueck-auf-der-siegesstrasse/01a188d2-bc35-7c23-ae54-42b507b16d31</link>
+      <description>Die Augsburger Panther konnten nach vier Niederlagen in Folge in der PENNY DEL endlich wieder einen Sieg bejubeln. Gegen die Löwen Frankfurt war der AEV über weite Strecken das deutlich bessere Team, …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-zurueck-auf-der-siegesstrasse/01a188d2-bc35-7c23-ae54-42b507b16d31</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a188d2-bc35-7c23-ae54-42b507b16d31.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 22:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
