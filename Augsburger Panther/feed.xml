@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:17:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Stadtwerke Augsburg bleiben Premiumpartner</title>
-      <link>https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</link>
-      <description>Gute Nachrichten kurz vor dem ersten Heimspiel der neuen Saison: Die Stadtwerke Augsburg (swa) unterstützen die Augsburger Panther auch in den kommenden beiden Spielzeiten umfangreich als Premiumpartn…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/stadtwerke-augsburg-bleiben-premiumpartner/01a0485e-2e93-7476-9ad5-6ef645c4d735</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0485e-2e93-7476-9ad5-6ef645c4d735.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 28 Aug 2026 14:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>AEV verliert Schlagabtausch mit Kloten</title>
       <link>https://www.aev-panther.de/artikel/aev-verliert-schlagabtausch-mit-kloten/01a0496d-d2ee-73e8-96dc-9a8eaf4ff98b</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-muessen-auf-d-j-busdeker-verzichten/01a18246-676a-718c-a8dd-290057451c87</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a18246-676a-718c-a8dd-290057451c87.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Oct 2026 12:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hockey 4 Students gegen Frankfurt</title>
+      <link>https://www.aev-panther.de/artikel/hockey-4-students-gegen-frankfurt/01a17dc6-def3-7395-af82-615e893ba581</link>
+      <description>Am Donnerstagabend steht für die Augsburger Panther das letzte Heimspiel vor der Deutschland Cup-Pause auf dem Plan. Um 19:30 Uhr geht es im Curt-Frenzel-Stadion gegen die Löwen Frankfurt. Die Partie …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/hockey-4-students-gegen-frankfurt/01a17dc6-def3-7395-af82-615e893ba581</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a17dc6-def3-7395-af82-615e893ba581.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
