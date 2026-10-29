@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:10:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Midea</title>
-      <link>https://homey.app/a/ro.ciprian.midea.ccm15</link>
-      <description>Comfort in every room, with local VRF control</description>
-      <author>noreply@homey.app (Ciprian Moldoveanu)</author>
-      <guid isPermaLink="false">https://homey.app/a/ro.ciprian.midea.ccm15</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ro.ciprian.midea.ccm15/5/4e47625e-a0b4-449d-a849-82a72f8e76c4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 18:15:34 +0200</pubDate>
-    </item>
-    <item>
-      <title>Volumio</title>
-      <link>https://homey.app/a/io.github.robinnoort.volumio</link>
-      <description>Let your music set the whole home in motion.</description>
-      <author>noreply@homey.app (Robin Noort)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.github.robinnoort.volumio</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.github.robinnoort.volumio/2/aa538a5b-eaa4-4025-960b-10475d1f2211/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 12:13:24 +0200</pubDate>
-    </item>
     <item>
       <title>MealPlan</title>
       <link>https://homey.app/a/dk.kvols.mealplan</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.desi.smart</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.desi.smart/17/ed947d1b-0f0e-4463-86fa-f6d1bc4bffc2/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Oct 2026 17:10:52 +0100</pubDate>
+    </item>
+    <item>
+      <title>Thermex</title>
+      <link>https://homey.app/a/dk.hye-knudsen.thermexwifihood</link>
+      <description>Kitchen extractor hoods since 1958</description>
+      <author>noreply@homey.app (Jon Hye-Knudsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.hye-knudsen.thermexwifihood</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.hye-knudsen.thermexwifihood/4/8bd93005-e897-4185-9dff-572aadf174f9/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 17:10:46 +0100</pubDate>
+    </item>
+    <item>
+      <title>Manager API Test</title>
+      <link>https://homey.app/a/com.athom.managerapi</link>
+      <description>Logs the devices this app can reach through the Homey Web API.</description>
+      <author>noreply@homey.app (Hermanus Meerlo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.athom.managerapi</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.athom.managerapi/2/c85a23f1-4abe-4fe8-84df-b9895056aedb/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 29 Oct 2026 17:10:46 +0100</pubDate>
     </item>
   </channel>
 </rss>
