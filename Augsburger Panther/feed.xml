@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:13:48 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther verlieren gegen Bern</title>
-      <link>https://www.aev-panther.de/artikel/panther-verlieren-gegen-bern/01a05e63-9ad5-7ed1-83ec-01f6162cf533</link>
-      <description>Die Augsburger Panther mussten im fünften Testspiel die vierte Niederlage hinnehmen. Gegen den SC Bern unterlag der AEV deutlich mit 1:6. Das Tor für die Panther erzielte Jimmy Lambert (41.). Für Bern…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-verlieren-gegen-bern/01a05e63-9ad5-7ed1-83ec-01f6162cf533</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a05e63-9ad5-7ed1-83ec-01f6162cf533.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 21:15:00 +0200</pubDate>
-    </item>
     <item>
       <title>Förderlizenz für Sebastian Zwickl</title>
       <link>https://www.aev-panther.de/artikel/foerderlizenz-fuer-sebastian-zwickl/01a0620e-c32a-74db-8bd3-27ac6035e337</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-zurueck-auf-der-siegesstrasse/01a188d2-bc35-7c23-ae54-42b507b16d31</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a188d2-bc35-7c23-ae54-42b507b16d31.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 29 Oct 2026 22:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zwei Spiele Sperre für Max Glötzl</title>
+      <link>https://www.aev-panther.de/artikel/zwei-spiele-sperre-fuer-max-gloetzl/01a18d37-39f0-70de-b6e7-f8f9c0dadc9f</link>
+      <description>Maximilian Glötzlwurde vom Disziplinarausschuss der Deutschen Eishockey Liga (PENNY DEL) wegen eines Verstoßes gegen Regel 48 (Check gegen den Kopf- und Nackenbereich) in der Begegnung gegen die Löwen…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/zwei-spiele-sperre-fuer-max-gloetzl/01a18d37-39f0-70de-b6e7-f8f9c0dadc9f</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a18d37-39f0-70de-b6e7-f8f9c0dadc9f.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
