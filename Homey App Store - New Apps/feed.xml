@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:10:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MealPlan</title>
-      <link>https://homey.app/a/dk.kvols.mealplan</link>
-      <description>Remember your meals and plan the week ahead</description>
-      <author>noreply@homey.app (Mads Kvols Hansen)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.kvols.mealplan</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.kvols.mealplan/3/7fe5914e-4771-4b0b-89f7-42c5a0020f4d/assets/images/large-release.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 12:13:24 +0200</pubDate>
-    </item>
     <item>
       <title>PV Forecast</title>
       <link>https://homey.app/a/be.pvforecast</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.athom.managerapi</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.athom.managerapi/2/c85a23f1-4abe-4fe8-84df-b9895056aedb/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 29 Oct 2026 17:10:46 +0100</pubDate>
+    </item>
+    <item>
+      <title>Timeline Export</title>
+      <link>https://homey.app/a/dk.timelineexport.DrChip666</link>
+      <description>Keep your timeline history safe in a file</description>
+      <author>noreply@homey.app (Morten Bech)</author>
+      <guid isPermaLink="false">https://homey.app/a/dk.timelineexport.DrChip666</guid>
+      <enclosure url="https://apps.homeycdn.net/app/dk.timelineexport.DrChip666/4/4532e928-54c8-4b0e-9e37-8650ec4bdb75/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 15:10:12 +0100</pubDate>
     </item>
   </channel>
 </rss>
