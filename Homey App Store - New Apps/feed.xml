@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:06:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Apple Health</title>
-      <link>https://homey.app/a/nl.lrvdlinden.applehealth</link>
-      <description>Your Apple Health and Apple Watch data in Homey</description>
-      <author>noreply@homey.app (Léon van der Linden)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.applehealth</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.applehealth/5/404eda59-c96b-4954-9669-e8b3e9bf04ee/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 16:13:14 +0200</pubDate>
-    </item>
     <item>
       <title>Waste Collection Denmark</title>
       <link>https://homey.app/a/com.nicolai.wastecalendar</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/se.happy.sense</guid>
       <enclosure url="https://apps.homeycdn.net/app/se.happy.sense/5/ba7e3567-3fcb-40dd-aa6c-5b3916e782a3/assets/images/store-large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Oct 2026 17:09:59 +0100</pubDate>
+    </item>
+    <item>
+      <title>Luxio</title>
+      <link>https://homey.app/a/lighting.luxio</link>
+      <description>Connect Luxio LED Strips to Homey.</description>
+      <author>noreply@homey.app (Emile Nijssen)</author>
+      <guid isPermaLink="false">https://homey.app/a/lighting.luxio</guid>
+      <enclosure url="https://apps.homeycdn.net/app/lighting.luxio/3/8962bab2-e2d8-400f-9569-f73e2d35782a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 31 Oct 2026 15:06:56 +0100</pubDate>
     </item>
   </channel>
 </rss>
