@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:10:21 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Fantasy Manager startet in seine zweite Saison</title>
-      <link>https://www.aev-panther.de/artikel/fantasy-manager-startet-in-seine-zweite-saison/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7</link>
-      <description>Zwei Wochen ist es noch hin, bis die Saison 2026-27 in der Deutschen Eishockey Liga (PENNY DEL) beginnt. Aber für viele Fans geht es schon heute richtig los. Denn der PENNY DEL Fantasy Manager startet…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/fantasy-manager-startet-in-seine-zweite-saison/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0676e-3e5b-7b9b-a7e6-3aa044b4e4f7.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther testen gegen Löwen</title>
       <link>https://www.aev-panther.de/artikel/panther-testen-gegen-loewen/01a06787-e5f5-7348-978b-78542e2aa16c</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/deutsche-krebshilfe-und-deutsche-eishockey-liga-starten-bundesweite-move-challenge/01a18d3e-c0a4-7f56-b6bf-3ca103ae119d</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a18d3e-c0a4-7f56-b6bf-3ca103ae119d.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 01 Nov 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Klarer Sieg in Wolfsburg</title>
+      <link>https://www.aev-panther.de/artikel/klarer-sieg-in-wolfsburg/01a197cf-b151-7c54-bff6-e8da99db5df7</link>
+      <description>Die Augsburger Panther haben sich mit einem hochverdienten Dreier in die Deutschland-Cup-Pause verabschiedet. Bei den Wolfsburg Grizzlys siegte der AEV mit 4:0. Die Treffer für die Panther erzielten C…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/klarer-sieg-in-wolfsburg/01a197cf-b151-7c54-bff6-e8da99db5df7</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a197cf-b151-7c54-bff6-e8da99db5df7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 16:51:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
