@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:11:42 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Panther testen gegen Löwen</title>
-      <link>https://www.aev-panther.de/artikel/panther-testen-gegen-loewen/01a06787-e5f5-7348-978b-78542e2aa16c</link>
-      <description>Im sechsten von sieben Testspielen vor dem Start der neuen PENNY DEL-Saison bekommen es die Augsburger Panther am Freitagabend mit einem Ligarivalen zu tun. Die Löwen Frankfurt sind zu Gast im Curt-Fr…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-testen-gegen-loewen/01a06787-e5f5-7348-978b-78542e2aa16c</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a06787-e5f5-7348-978b-78542e2aa16c.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 08:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther unterliegen Löwen Frankfurt</title>
       <link>https://www.aev-panther.de/artikel/panther-unterliegen-loewen-frankfurt/01a06de1-d86f-77e0-8b97-012be5f0b8d1</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/klarer-sieg-in-wolfsburg/01a197cf-b151-7c54-bff6-e8da99db5df7</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a197cf-b151-7c54-bff6-e8da99db5df7.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 01 Nov 2026 16:51:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trevelyan-Warm Ups unter dem Auktionshammer</title>
+      <link>https://www.aev-panther.de/artikel/trevelyan-warm-ups-unter-dem-auktionshammer/01a19b9c-721c-7deb-8089-52973844499c</link>
+      <description>Zu Ehren von ClublegendeT.J. Trevelyantrugen die Spieler der Augsburger Panther beim Warm Up vor dem Heimspiel am 16. November gegen die Adler Mannheim Aufwärmtrikots mit der Rückennummer 24.  Le…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/trevelyan-warm-ups-unter-dem-auktionshammer/01a19b9c-721c-7deb-8089-52973844499c</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a19b9c-721c-7deb-8089-52973844499c.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Nov 2026 10:24:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
