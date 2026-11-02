@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:10:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Waste Collection Denmark</title>
-      <link>https://homey.app/a/com.nicolai.wastecalendar</link>
-      <description>Danish waste collection dates and reminders.</description>
-      <author>noreply@homey.app (Nicolai Clausen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.nicolai.wastecalendar</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.nicolai.wastecalendar/4/d78529a2-714b-4f6d-a84a-35f66ac3d9df/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 18:14:10 +0200</pubDate>
-    </item>
     <item>
       <title>Häfele Connect Mesh</title>
       <link>https://homey.app/a/com.haefele.connectmesh</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/lighting.luxio</guid>
       <enclosure url="https://apps.homeycdn.net/app/lighting.luxio/3/8962bab2-e2d8-400f-9569-f73e2d35782a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 31 Oct 2026 15:06:56 +0100</pubDate>
+    </item>
+    <item>
+      <title>2N</title>
+      <link>https://homey.app/a/com.roypedrinis.twon</link>
+      <description>Know who is at your door, and let them in from anywhere in your home.</description>
+      <author>noreply@homey.app (Roy PEDRINIS)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.roypedrinis.twon</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.roypedrinis.twon/4/36ad7e96-9815-4cfa-b249-f9a95e714529/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Nov 2026 19:10:10 +0100</pubDate>
     </item>
   </channel>
 </rss>
