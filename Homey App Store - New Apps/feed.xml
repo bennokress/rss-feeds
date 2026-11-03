@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:12:08 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Häfele Connect Mesh</title>
-      <link>https://homey.app/a/com.haefele.connectmesh</link>
-      <description>Your kitchen and cabinet lighting, part of your smart home</description>
-      <author>noreply@homey.app (Reinier SecEnablers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.haefele.connectmesh</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.haefele.connectmesh/3/a9110754-29bb-48ca-b4a0-5d35ef9d6bef/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 15 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
-    <item>
-      <title>Silent Gliss</title>
-      <link>https://homey.app/a/com.tomshinsky.silent-gliss</link>
-      <description>Let daylight follow your daily routine</description>
-      <author>noreply@homey.app (Mike Tomshinsky)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.tomshinsky.silent-gliss</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.tomshinsky.silent-gliss/2/2304964e-ba38-4823-8901-ef9cfbc8d6ae/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 15 Oct 2026 14:19:52 +0200</pubDate>
-    </item>
     <item>
       <title>Thuisbord</title>
       <link>https://homey.app/a/app.thuisbord</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.roypedrinis.twon</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.roypedrinis.twon/4/36ad7e96-9815-4cfa-b249-f9a95e714529/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 02 Nov 2026 19:10:10 +0100</pubDate>
+    </item>
+    <item>
+      <title>Frisquet Connect</title>
+      <link>https://homey.app/a/community.frisquet.connect</link>
+      <description>Heating and hot water that fit your day</description>
+      <author>noreply@homey.app (Sylvain Huguet)</author>
+      <guid isPermaLink="false">https://homey.app/a/community.frisquet.connect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/community.frisquet.connect/3/171d6346-64f6-4a77-9b75-be3fa48e6e7d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Nov 2026 13:12:02 +0100</pubDate>
+    </item>
+    <item>
+      <title>Voldt</title>
+      <link>https://homey.app/a/nl.bryan.voldt</link>
+      <description>Charge locally, keep track of your energy</description>
+      <author>noreply@homey.app (Bryan Suijkerland)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.bryan.voldt</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.bryan.voldt/1/515bc611-5713-4bb3-adab-0dfcca202ec1/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Nov 2026 13:12:02 +0100</pubDate>
     </item>
   </channel>
 </rss>
