@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:08:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>MG iSMART</title>
-      <link>https://homey.app/a/be.mgismart</link>
-      <description>Battery, range, charging, locks and climate of your MG in Homey.</description>
-      <author>noreply@homey.app (Danny van Soerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.mgismart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.mgismart/11/1bdd5eda-45b3-4403-bcf5-4b38f5813c41/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
-    <item>
-      <title>HeatSmart</title>
-      <link>https://homey.app/a/no.ekdahl.heatsmart</link>
-      <description>Heats every room to be warm at the hour you set. Learns your rooms, follows who is home, guards your power limit and explains every choice.</description>
-      <author>noreply@homey.app (Thomas Ekdahl)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.ekdahl.heatsmart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.ekdahl.heatsmart/4/7f8f9f3d-297d-49d6-95c1-c89797929c8c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
     <item>
       <title>Solar-Log</title>
       <link>https://homey.app/a/ch.secanis.solarlog</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/nl.egteren.tvlift</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.egteren.tvlift/1/e5fff7e9-4f95-4e3e-918e-4fae411eed3d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Nov 2026 17:08:43 +0100</pubDate>
+    </item>
+    <item>
+      <title>JUWEL</title>
+      <link>https://homey.app/a/com.github.moogblob.juwel-appcontrol</link>
+      <description>Your aquarium, part of your smart home.</description>
+      <author>noreply@homey.app (Johan Klintberg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.github.moogblob.juwel-appcontrol</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.github.moogblob.juwel-appcontrol/5/45a35f2c-c26f-446d-8e3f-719ccf3f3f7e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 17:08:24 +0100</pubDate>
+    </item>
+    <item>
+      <title>Daily Rhythm</title>
+      <link>https://homey.app/a/com.glumpf.dailyrhythm</link>
+      <description>Learns your routines and tells your Flows in advance</description>
+      <author>noreply@homey.app (Lars Andresen)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.glumpf.dailyrhythm</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.glumpf.dailyrhythm/2/a431de40-ae47-4aa4-b215-0da7748d1493/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 17:08:24 +0100</pubDate>
     </item>
   </channel>
 </rss>
