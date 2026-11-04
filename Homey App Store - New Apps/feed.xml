@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:09:30 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Solar-Log</title>
-      <link>https://homey.app/a/ch.secanis.solarlog</link>
-      <description>Track the production of your solar panels</description>
-      <author>noreply@homey.app (secanis)</author>
-      <guid isPermaLink="false">https://homey.app/a/ch.secanis.solarlog</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ch.secanis.solarlog/1/f625af60-c486-4a59-9b4c-830e8d116378/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
-    <item>
-      <title>PowerWorld</title>
-      <link>https://homey.app/a/nl.gykm.powerworld</link>
-      <description>Comfort at home, insight into every heating cycle</description>
-      <author>noreply@homey.app (Remco Gykm)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.gykm.powerworld</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.gykm.powerworld/2/06147a6b-9cf4-44c7-81a1-f37f6bebb3ee/assets/images/powerworld-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
     <item>
       <title>Laundry Tracker</title>
       <link>https://homey.app/a/com.simon.laundrytracker</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.glumpf.dailyrhythm</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.glumpf.dailyrhythm/2/a431de40-ae47-4aa4-b215-0da7748d1493/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 04 Nov 2026 17:08:24 +0100</pubDate>
+    </item>
+    <item>
+      <title>Google Nest Controls</title>
+      <link>https://homey.app/a/no.tjahnsen.googlenestcontrols</link>
+      <description>Keep your cameras, Wifi and speakers working together</description>
+      <author>noreply@homey.app (Thomas Jahnsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.tjahnsen.googlenestcontrols</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.tjahnsen.googlenestcontrols/62/4ce3a8fc-523d-4644-995d-c6e1586ddc44/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 19:09:28 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hoymiles HiOne</title>
+      <link>https://homey.app/a/com.hoymiles.hione</link>
+      <description>Your home battery charges when energy is cheap and powers your home when it is dear</description>
+      <author>noreply@homey.app (Reinier SecEnablers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.hoymiles.hione</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.hoymiles.hione/21/187c746d-d21c-4e00-9ce1-1d062218be4f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 19:09:28 +0100</pubDate>
     </item>
   </channel>
 </rss>
