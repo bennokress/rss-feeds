@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:12:39 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Tobias Ancicka im Interview</title>
-      <link>https://www.aev-panther.de/artikel/tobias-ancicka-im-interview/01a0706f-c45a-7b47-a2ce-87e746af3786</link>
-      <description>Die Panther sind auf der Suche nach ihrem neuen Torhüter in Köln fündig geworden. Nach drei Jahren in der Rheinmetropole wechseltTobias Ancickain die Fuggerstadt. Sport in Augsburg hat mit ihm die spo…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/tobias-ancicka-im-interview/01a0706f-c45a-7b47-a2ce-87e746af3786</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0706f-c45a-7b47-a2ce-87e746af3786.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 10:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Spielplan der Männer-Nationalmannschaft steht fest</title>
       <link>https://www.aev-panther.de/artikel/spielplan-der-maenner-nationalmannschaft-steht-fest/01a07b47-a547-767c-9eb8-7243841cbccd</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/mit-panthern-eisbaeren-zurueck-in-die-1990er/01a19cd0-6685-7bc4-9747-543ba57d825a</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a19cd0-6685-7bc4-9747-543ba57d825a.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Alec McCrea im Interview</title>
+      <link>https://www.aev-panther.de/artikel/alec-mccrea-im-interview/01a1a0b3-6db3-7a26-a47e-236cd121d81c</link>
+      <description>Alec McCreahat sich bestens in Augsburg eingelebt. Der US-Amerikaner ist nicht nur auf dem Eis zu einer festen Größe bei den Augsburger Panthern geworden, sondern fühlt sich auch abseits der Eisfläche…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/alec-mccrea-im-interview/01a1a0b3-6db3-7a26-a47e-236cd121d81c</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a1a0b3-6db3-7a26-a47e-236cd121d81c.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
