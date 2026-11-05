@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:10:31 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>WoodUpp Lumi</title>
-      <link>https://homey.app/a/no.local.woodupp.zigbee</link>
-      <description>Bring your WoodUpp Lumi lighting to life with effortless control in Homey.</description>
-      <author>noreply@homey.app (Øivind Solheim)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.local.woodupp.zigbee</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.local.woodupp.zigbee/2/f5d8cbc6-17f8-4005-a0ac-2e609072ae4c/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
-    </item>
     <item>
       <title>Zyxel Router</title>
       <link>https://homey.app/a/zyxel.router</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/film.framebuilder.muellkalender</guid>
       <enclosure url="https://apps.homeycdn.net/app/film.framebuilder.muellkalender/2/9b764554-4329-40b2-9d2e-cd9b898619b4/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Nov 2026 13:12:31 +0100</pubDate>
+    </item>
+    <item>
+      <title>ESPHome</title>
+      <link>https://homey.app/a/io.esphome</link>
+      <description>Connect your ESPHome devices to Homey</description>
+      <author>noreply@homey.app (Abe Haverkamp)</author>
+      <guid isPermaLink="false">https://homey.app/a/io.esphome</guid>
+      <enclosure url="https://apps.homeycdn.net/app/io.esphome/8/cbe35bd2-e6d9-48d9-b1e6-d5061c654971/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 19:10:30 +0100</pubDate>
     </item>
   </channel>
 </rss>
