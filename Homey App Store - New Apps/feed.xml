@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:12:32 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Laundry Tracker</title>
-      <link>https://homey.app/a/com.simon.laundrytracker</link>
-      <description>Washing machine and tumble dryer status widgets with traffic light timers</description>
-      <author>noreply@homey.app (Simon Salvin)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.simon.laundrytracker</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.simon.laundrytracker/10/97d89d6f-770e-42e7-b671-e223b73182d9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:12:49 +0200</pubDate>
-    </item>
-    <item>
-      <title>GeoZones</title>
-      <link>https://homey.app/a/com.roue.geozones</link>
-      <description>Use geographic zones in your Flows</description>
-      <author>noreply@homey.app (Vincent Roué)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.roue.geozones</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.roue.geozones/17/ad1820ea-81e3-46cf-aae7-92e2f64a0910/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 14:19:35 +0200</pubDate>
-    </item>
     <item>
       <title>WoodUpp Lumi</title>
       <link>https://homey.app/a/no.local.woodupp.zigbee</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.hoymiles.hione</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.hoymiles.hione/21/187c746d-d21c-4e00-9ce1-1d062218be4f/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 04 Nov 2026 19:09:28 +0100</pubDate>
+    </item>
+    <item>
+      <title>Prana</title>
+      <link>https://homey.app/a/ua.te.its.prana</link>
+      <description>Fresh, filtered air with heat recovery, controlled locally</description>
+      <author>noreply@homey.app (Volodymyr Piaskovskyi)</author>
+      <guid isPermaLink="false">https://homey.app/a/ua.te.its.prana</guid>
+      <enclosure url="https://apps.homeycdn.net/app/ua.te.its.prana/3/eb6083a0-75e8-4a1f-abb1-67ef0ffa8074/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 13:12:31 +0100</pubDate>
+    </item>
+    <item>
+      <title>Waste Calendar Germany</title>
+      <link>https://homey.app/a/film.framebuilder.muellkalender</link>
+      <description>Your bins. Your calendar. Your reminders.</description>
+      <author>noreply@homey.app (Chris Müller)</author>
+      <guid isPermaLink="false">https://homey.app/a/film.framebuilder.muellkalender</guid>
+      <enclosure url="https://apps.homeycdn.net/app/film.framebuilder.muellkalender/2/9b764554-4329-40b2-9d2e-cd9b898619b4/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 13:12:31 +0100</pubDate>
     </item>
   </channel>
 </rss>
