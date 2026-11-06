@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:08:56 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Bird Buddy</title>
-      <link>https://homey.app/a/community.birdbuddy</link>
-      <description>See every bird that visits your feeder</description>
-      <author>noreply@homey.app (Tim Vandendriessche)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.birdbuddy</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.birdbuddy/2/2779aa47-7041-46b1-a1cd-07b280a38107/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cortex AI</title>
-      <link>https://homey.app/a/com.goossens.cortexai</link>
-      <description>An AI brain for your Flows and your home, with any model.</description>
-      <author>noreply@homey.app (Jo Goossens)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.goossens.cortexai</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.goossens.cortexai/3/f2529a31-44a9-41bf-a4e3-fd6dc241f706/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 14:20:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>Digital Twin</title>
-      <link>https://homey.app/a/eu.paulkok.digitaltwin</link>
-      <description>See what's happening at home, in 3D</description>
-      <author>noreply@homey.app (Paul Kok)</author>
-      <guid isPermaLink="false">https://homey.app/a/eu.paulkok.digitaltwin</guid>
-      <enclosure url="https://apps.homeycdn.net/app/eu.paulkok.digitaltwin/1/9277652d-f0c4-4aa7-8724-d2ab1b6a1f2d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 16:13:42 +0200</pubDate>
-    </item>
     <item>
       <title>InCharge Connector</title>
       <link>https://homey.app/a/community.djordie.inchargeconnector</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/be.dreocommunity</guid>
       <enclosure url="https://apps.homeycdn.net/app/be.dreocommunity/9/47f640d1-ffd8-48dc-9a8d-47ec1cf0a5e2/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 13:12:07 +0100</pubDate>
+    </item>
+    <item>
+      <title>AMS reader</title>
+      <link>https://homey.app/a/com.fladby.amsleser</link>
+      <description>Your power use, live.</description>
+      <author>noreply@homey.app (Vegard Fladby)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.fladby.amsleser</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.fladby.amsleser/7/198708b5-8540-4c8e-ab06-934c79c7340c/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 17:08:54 +0100</pubDate>
+    </item>
+    <item>
+      <title>House Guard</title>
+      <link>https://homey.app/a/no.husmodus</link>
+      <description>Automate your home with intrusion, fire and water alarms, locks and lights</description>
+      <author>noreply@homey.app (by NorthGuard Labs)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.husmodus</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.husmodus/23/efc55d0f-3e26-472c-bd7d-f09277ae9484/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 17:08:54 +0100</pubDate>
+    </item>
+    <item>
+      <title>Stookwijzer</title>
+      <link>https://homey.app/a/nl.vyx.stookwijzer</link>
+      <description>Know when it is better not to light a wood fire</description>
+      <author>noreply@homey.app (Nick Peters)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.vyx.stookwijzer</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.vyx.stookwijzer/3/7eeabc48-83fb-420c-af8e-7f83ac91e39d/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 17:08:54 +0100</pubDate>
     </item>
   </channel>
 </rss>
