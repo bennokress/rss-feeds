@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:12:11 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Zyxel Router</title>
-      <link>https://homey.app/a/zyxel.router</link>
-      <description>Your 5G connection at a glance</description>
-      <author>noreply@homey.app (Rob Hagemann)</author>
-      <guid isPermaLink="false">https://homey.app/a/zyxel.router</guid>
-      <enclosure url="https://apps.homeycdn.net/app/zyxel.router/12/b562bfe4-991b-41ea-b6ae-3211bddbbd24/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 12:12:47 +0200</pubDate>
-    </item>
     <item>
       <title>Bird Buddy</title>
       <link>https://homey.app/a/community.birdbuddy</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/io.esphome</guid>
       <enclosure url="https://apps.homeycdn.net/app/io.esphome/8/cbe35bd2-e6d9-48d9-b1e6-d5061c654971/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Nov 2026 19:10:30 +0100</pubDate>
+    </item>
+    <item>
+      <title>DREO (Community)</title>
+      <link>https://homey.app/a/be.dreocommunity</link>
+      <description>Every Dreo fan, heater and air treatment device in Homey.</description>
+      <author>noreply@homey.app (Danny van Soerland)</author>
+      <guid isPermaLink="false">https://homey.app/a/be.dreocommunity</guid>
+      <enclosure url="https://apps.homeycdn.net/app/be.dreocommunity/9/47f640d1-ffd8-48dc-9a8d-47ec1cf0a5e2/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 13:12:07 +0100</pubDate>
     </item>
   </channel>
 </rss>
