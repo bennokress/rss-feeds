@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:07:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>UAE Athan</title>
-      <link>https://homey.app/a/com.jumeirapps.athan</link>
-      <description>Make UAE prayer times and athan part of your home's automations.</description>
-      <author>noreply@homey.app (Jumeirapps Portal)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.jumeirapps.athan</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.jumeirapps.athan/2/013ae936-c900-4e45-ad63-caeaf71b9082/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 12:12:21 +0200</pubDate>
-    </item>
     <item>
       <title>Medication Reminder</title>
       <link>https://homey.app/a/be.medicationreminder</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.flinx.garage</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.flinx.garage/2/b8748dd1-9cdf-4340-b33a-726edc92defb/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>App Cleaner</title>
+      <link>https://homey.app/a/com.byluto.appcleaner</link>
+      <description>Shows which installed apps are running but unused.</description>
+      <author>noreply@homey.app (MR Luto)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.byluto.appcleaner</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.byluto.appcleaner/2/86418315-af11-4c2a-b630-85078d5394ae/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 21:07:56 +0100</pubDate>
     </item>
   </channel>
 </rss>
