@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:08:29 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>InCharge Connector</title>
-      <link>https://homey.app/a/community.djordie.inchargeconnector</link>
-      <description>Know if your charging pole is free and what it costs before you head out.</description>
-      <author>noreply@homey.app (Djordie Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.djordie.inchargeconnector</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.djordie.inchargeconnector/9/3619e3fa-47f2-43ee-bb0e-5225e76a5f4f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 16:13:42 +0200</pubDate>
-    </item>
     <item>
       <title>Anthbot</title>
       <link>https://homey.app/a/com.techboys.anthbot</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.vyx.stookwijzer</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.vyx.stookwijzer/3/7eeabc48-83fb-420c-af8e-7f83ac91e39d/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 17:08:54 +0100</pubDate>
+    </item>
+    <item>
+      <title>Energy Flow</title>
+      <link>https://homey.app/a/com.mariomark.energyflow</link>
+      <description>See electricity, gas and solar energy come alive in one dashboard.</description>
+      <author>noreply@homey.app (Mark Moorlag)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.mariomark.energyflow</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.mariomark.energyflow/27/561b69e7-f821-4d5b-90ab-7fbc645b31bc/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 11:08:28 +0100</pubDate>
     </item>
   </channel>
 </rss>
