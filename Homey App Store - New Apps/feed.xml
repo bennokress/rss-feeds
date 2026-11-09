@@ -12,62 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:09:19 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Anthbot</title>
-      <link>https://homey.app/a/com.techboys.anthbot</link>
-      <description>Mow, pause and dock from your Flows</description>
-      <author>noreply@homey.app (Gary Madeo)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.techboys.anthbot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.techboys.anthbot/2/8c8182a2-18cc-44ce-9574-6f950d3e9e07/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 12:12:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Divoom TimeBox Evo</title>
-      <link>https://homey.app/a/com.habbo656.divoom-timebox</link>
-      <description>The pixel heart of your smart home.</description>
-      <author>noreply@homey.app (Thomas Happich)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.habbo656.divoom-timebox</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.habbo656.divoom-timebox/2/164833d8-2da0-4b57-84d9-5b4c8e16ada9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 12:12:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Joulia</title>
-      <link>https://homey.app/a/se.liamlofgren.joulia</link>
-      <description>EV charging for housing communities</description>
-      <author>noreply@homey.app (Liam Löfgren)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.liamlofgren.joulia</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.liamlofgren.joulia/1/16c795ad-a76c-4d14-917f-4da4567d9ad3/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 16:14:07 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hegel</title>
-      <link>https://homey.app/a/nl.robinnoort.hegel</link>
-      <description>Control your Hegel amplifier with Homey.</description>
-      <author>noreply@homey.app (Robin Noort)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.robinnoort.hegel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.robinnoort.hegel/2/1dcd6e57-aeca-41dd-9f50-9561906f65d4/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 18:12:59 +0200</pubDate>
-    </item>
-    <item>
-      <title>RIKA Firenet</title>
-      <link>https://homey.app/a/nu.thien.rikafirenet</link>
-      <description>Come home to a warm fire</description>
-      <author>noreply@homey.app (Jordy Thien)</author>
-      <guid isPermaLink="false">https://homey.app/a/nu.thien.rikafirenet</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nu.thien.rikafirenet/4/1fa1bdef-9458-4865-a02b-2a59d873e74f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 20:16:28 +0200</pubDate>
-    </item>
-    <item>
-      <title>WebPanel</title>
-      <link>https://homey.app/a/com.lolpold.webpanel</link>
-      <description>Wall dashboards for your tablets, served by Homey</description>
-      <author>noreply@homey.app (Leopold Junkers)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lolpold.webpanel</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lolpold.webpanel/2/1e1c18aa-2a46-403a-9bad-9ca31a1b028e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 21 Oct 2026 20:16:28 +0200</pubDate>
-    </item>
     <item>
       <title>UAE Athan</title>
       <link>https://homey.app/a/com.jumeirapps.athan</link>
@@ -463,6 +409,60 @@
       <guid isPermaLink="false">https://homey.app/a/com.mariomark.energyflow</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.mariomark.energyflow/27/561b69e7-f821-4d5b-90ab-7fbc645b31bc/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Nov 2026 11:08:28 +0100</pubDate>
+    </item>
+    <item>
+      <title>Anycubic Connect</title>
+      <link>https://homey.app/a/com.community.anycubicconnect</link>
+      <description>Monitor compatible Anycubic Kobra printers over your local network.</description>
+      <author>noreply@homey.app (Maurice Vd waarsenburg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.community.anycubicconnect</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.community.anycubicconnect/5/97549e18-a1d1-4fe4-94a6-14094c18dc07/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bekendmakingen NL</title>
+      <link>https://homey.app/a/com.patrick.bekendmakingennl</link>
+      <description>Discover what is officially published around the places that matter to you.</description>
+      <author>noreply@homey.app (Patrick Blijie)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.patrick.bekendmakingennl</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.patrick.bekendmakingennl/1/8e0f1000-bb0b-4284-9938-aad7e19197be/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>Homematic HCU</title>
+      <link>https://homey.app/a/digital.o1.homematic-hcu</link>
+      <description>Finally, Homematic IP seamlessly in Homey.</description>
+      <author>noreply@homey.app (Mario Kempter)</author>
+      <guid isPermaLink="false">https://homey.app/a/digital.o1.homematic-hcu</guid>
+      <enclosure url="https://apps.homeycdn.net/app/digital.o1.homematic-hcu/2/51d8fa41-e7b4-414b-a764-40f569725c7f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fuel Prices</title>
+      <link>https://homey.app/a/nl.jeffreydebruijn.fuelprices</link>
+      <description>Shows the cheapest fuel prices and stations near you.</description>
+      <author>noreply@homey.app (JdeB Web Solutions)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.jeffreydebruijn.fuelprices</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.jeffreydebruijn.fuelprices/1/b3f43065-7b57-4dc1-b2f3-5b8042108b1a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>B-Care Baby Monitor</title>
+      <link>https://homey.app/a/nl.bcare.moon.unofficial</link>
+      <description>Know the moment your little one wakes up</description>
+      <author>noreply@homey.app (Jan Harm Veenstra)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.bcare.moon.unofficial</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.bcare.moon.unofficial/1/2a5a54f5-b4b6-4fb8-af35-2b177f4ae2fd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
+    </item>
+    <item>
+      <title>F-linX Garage Door</title>
+      <link>https://homey.app/a/com.flinx.garage</link>
+      <description>Know your garage door is closed, wherever you are.</description>
+      <author>noreply@homey.app (JanosKevin Bakacs)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.flinx.garage</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.flinx.garage/2/b8748dd1-9cdf-4340-b33a-726edc92defb/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 17:09:15 +0100</pubDate>
     </item>
   </channel>
 </rss>
