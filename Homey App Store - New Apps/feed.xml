@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:11:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Medication Reminder</title>
-      <link>https://homey.app/a/be.medicationreminder</link>
-      <description>Reminders that keep coming until the medication is taken.</description>
-      <author>noreply@homey.app (Danny van Soerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.medicationreminder</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.medicationreminder/5/c98223f3-3f38-4df2-8cce-093f99ad2eb8/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 12:12:21 +0200</pubDate>
-    </item>
     <item>
       <title>BYD Vehicle</title>
       <link>https://homey.app/a/cz.severa.byd</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.byluto.appcleaner</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.byluto.appcleaner/2/86418315-af11-4c2a-b630-85078d5394ae/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Nov 2026 21:07:56 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ozonos</title>
+      <link>https://homey.app/a/com.ozonos.aircleaner</link>
+      <description>Pure air. Reimagined.</description>
+      <author>noreply@homey.app (Danee de Kruyff)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.ozonos.aircleaner</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.ozonos.aircleaner/5/3c914d85-9b2f-420a-aedc-d07447454c7a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 13:11:42 +0100</pubDate>
     </item>
   </channel>
 </rss>
