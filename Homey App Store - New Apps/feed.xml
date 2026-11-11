@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:09:13 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BYD Vehicle</title>
-      <link>https://homey.app/a/cz.severa.byd</link>
-      <description>Your BYD, charged and ready when you are.</description>
-      <author>noreply@homey.app (Tom Severa)</author>
-      <guid isPermaLink="false">https://homey.app/a/cz.severa.byd</guid>
-      <enclosure url="https://apps.homeycdn.net/app/cz.severa.byd/4/affdd9f5-a70b-4767-9e40-ea65e7d721c1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 14:20:08 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sensible</title>
-      <link>https://homey.app/a/no.tjahnsen.sensible</link>
-      <description>The temperature you feel, not the one your heater guesses</description>
-      <author>noreply@homey.app (Thomas Jahnsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.tjahnsen.sensible</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.tjahnsen.sensible/71/ed9f38ee-2ad3-4f4a-921a-c8f6dee70b0a/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 14:20:08 +0200</pubDate>
-    </item>
     <item>
       <title>Drivie - Companion</title>
       <link>https://homey.app/a/be.cyrilhendriks.drivie</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.ozonos.aircleaner</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.ozonos.aircleaner/5/3c914d85-9b2f-420a-aedc-d07447454c7a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Nov 2026 13:11:42 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tiledash</title>
+      <link>https://homey.app/a/app.tiledash</link>
+      <description>Your dashboards start flows, and flows change your tiles.</description>
+      <author>noreply@homey.app (Wim Haanstra)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.tiledash</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.tiledash/4/937913b7-628c-4316-a92a-186245a2bf37/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Nov 2026 17:09:11 +0100</pubDate>
+    </item>
+    <item>
+      <title>UteamUP</title>
+      <link>https://homey.app/a/com.uteamup</link>
+      <description>Keep maintenance work in step with your home and building</description>
+      <author>noreply@homey.app (Gísli Guðmundsson)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.uteamup</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.uteamup/2/f54d2f84-1b39-4fe9-aabe-7815353d22be/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Nov 2026 17:09:11 +0100</pubDate>
     </item>
   </channel>
 </rss>
