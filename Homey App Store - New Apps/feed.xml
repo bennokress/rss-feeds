@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:09:36 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Network Print</title>
-      <link>https://homey.app/a/it.giuliomaffei.networkprint</link>
-      <description>Print text and images directly to your network printer</description>
-      <author>noreply@homey.app (Giulio Maffei)</author>
-      <guid isPermaLink="false">https://homey.app/a/it.giuliomaffei.networkprint</guid>
-      <enclosure url="https://apps.homeycdn.net/app/it.giuliomaffei.networkprint/4/509fd7a0-bb71-4fec-a93e-0541971f3fd5/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
-    </item>
     <item>
       <title>Canadian Weather &amp; Alerts</title>
       <link>https://homey.app/a/dev.masonlab.canadianweather</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.jacobsen.maintenancemonitor</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.jacobsen.maintenancemonitor/15/5a52f515-ce3b-435e-aa0c-a4eb8b4c6841/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 15:08:37 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dashboard Alarm Keypad</title>
+      <link>https://homey.app/a/com.simon.dashboardalarmkeypad</link>
+      <description>Only the right code turns your alarm off.</description>
+      <author>noreply@homey.app (Simon Salvin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.simon.dashboardalarmkeypad</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.simon.dashboardalarmkeypad/4/acb6b577-4455-42ce-a1ca-c568b2f4833b/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 17:09:36 +0100</pubDate>
     </item>
   </channel>
 </rss>
