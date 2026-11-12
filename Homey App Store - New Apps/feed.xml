@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:08:38 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Drivie - Companion</title>
-      <link>https://homey.app/a/be.cyrilhendriks.drivie</link>
-      <description>Homey on CarPlay and Android Auto, plus ride and location triggers and advanced presence detection.</description>
-      <author>noreply@homey.app (Cyril Hendriks)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.cyrilhendriks.drivie</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.cyrilhendriks.drivie/59/58bc4b4b-c494-40fc-ba51-0f8469be2fb6/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 23 Oct 2026 12:12:39 +0200</pubDate>
-    </item>
-    <item>
-      <title>Lucci Air</title>
-      <link>https://homey.app/a/com.lucci.fan</link>
-      <description>Ceiling fans that answer to Homey as well as the handset.</description>
-      <author>noreply@homey.app (John Bothe)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.lucci.fan</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.lucci.fan/1/57d5dbd3-d187-49e6-89fe-bf9ed046e719/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
-    </item>
     <item>
       <title>Network Print</title>
       <link>https://homey.app/a/it.giuliomaffei.networkprint</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.uteamup</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.uteamup/2/f54d2f84-1b39-4fe9-aabe-7815353d22be/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Nov 2026 17:09:11 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zenisun</title>
+      <link>https://homey.app/a/com.zenisun</link>
+      <description>Outdoor osmosis</description>
+      <author>noreply@homey.app (Roy PEDRINIS)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.zenisun</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.zenisun/1/f12d4119-84b1-4852-bcde-2b420606f249/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 15:08:37 +0100</pubDate>
+    </item>
+    <item>
+      <title>Maintenance Monitor</title>
+      <link>https://homey.app/a/nl.jacobsen.maintenancemonitor</link>
+      <description>Keeps an eye on all maintenance in and around your home, and tells you when it's time.</description>
+      <author>noreply@homey.app (Sander Jacobsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.jacobsen.maintenancemonitor</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.jacobsen.maintenancemonitor/15/5a52f515-ce3b-435e-aa0c-a4eb8b4c6841/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 15:08:37 +0100</pubDate>
     </item>
   </channel>
 </rss>
