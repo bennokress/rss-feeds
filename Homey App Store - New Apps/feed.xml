@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:11:41 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Canadian Weather &amp; Alerts</title>
-      <link>https://homey.app/a/dev.masonlab.canadianweather</link>
-      <description>Stay a step ahead of Canadian weather</description>
-      <author>noreply@homey.app (Timothy Mason)</author>
-      <guid isPermaLink="false">https://homey.app/a/dev.masonlab.canadianweather</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dev.masonlab.canadianweather/3/678fdac6-3163-4df2-b5c5-61eba571633c/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 11:15:19 +0100</pubDate>
-    </item>
     <item>
       <title>App Store Connect</title>
       <link>https://homey.app/a/nl.lrvdlinden.appstoreconnect</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.simon.dashboardalarmkeypad</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.simon.dashboardalarmkeypad/4/acb6b577-4455-42ce-a1ca-c568b2f4833b/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 17:09:36 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aroma-Link Diffuser</title>
+      <link>https://homey.app/a/com.aroma-link</link>
+      <description>Let your home smell great, automatically</description>
+      <author>noreply@homey.app (Robert Cristofoli)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.aroma-link</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.aroma-link/7/569ddfbb-8b5b-4a29-93cf-d265be3c2b1d/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 13:11:40 +0100</pubDate>
     </item>
   </channel>
 </rss>
