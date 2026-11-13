@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:09:43 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Nummer 24 für immer</title>
-      <link>https://www.aev-panther.de/artikel/nummer-24-fuer-immer/01a08ad2-38b2-72c8-af9d-f6bd36e5bcec</link>
-      <description>Am Freitag, 16. Oktober 2026, ehren die Augsburger Panther ihren langjährigen Publikumsliebling T.J. Trevelyan. Im Rahmen des Heimspiels gegen die Adler Mannheim wird die Rückennummer 24 des Deutschka…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/nummer-24-fuer-immer/01a08ad2-38b2-72c8-af9d-f6bd36e5bcec</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a08ad2-38b2-72c8-af9d-f6bd36e5bcec.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 13:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Panther siegen in Villach</title>
       <link>https://www.aev-panther.de/artikel/panther-siegen-in-villach/01a091ca-39a1-71c1-b07f-075fec737945</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/derby-gegen-muenchen-im-ausverkauften-cfs/01a1cf67-6859-7e23-b3d9-918372e8f5c9</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a1cf67-6859-7e23-b3d9-918372e8f5c9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Knappe Niederlage im Derby</title>
+      <link>https://www.aev-panther.de/artikel/knappe-niederlage-im-derby/01a1d5fc-2e1d-7e6a-afe0-fe0ccaa199c5</link>
+      <description>Die Augsburger Panther können in der PENNY DEL einfach nicht gegen den EHC Red Bull München gewinnen. Trotz einer über weite Strecken starken Vorstellung im zweiten Derby der laufenden Saison unterlag…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/knappe-niederlage-im-derby/01a1d5fc-2e1d-7e6a-afe0-fe0ccaa199c5</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a1d5fc-2e1d-7e6a-afe0-fe0ccaa199c5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
