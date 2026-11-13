@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:08:35 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>App Store Connect</title>
-      <link>https://homey.app/a/nl.lrvdlinden.appstoreconnect</link>
-      <description>Downloads, App Review status, builds and reviews of your iOS apps in Homey</description>
-      <author>noreply@homey.app (Léon van der Linden)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.appstoreconnect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.appstoreconnect/3/868e5470-6355-48e0-89d5-5ac985df64af/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 14:42:12 +0100</pubDate>
-    </item>
-    <item>
-      <title>Live Traffic &amp; Transit Sweden</title>
-      <link>https://homey.app/a/com.erikrichardson.trafik</link>
-      <description>Live bus, train, tram and metro departures, door-to-door commutes, road traffic and ferries for all of Sweden.</description>
-      <author>noreply@homey.app (Erik Richardson)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.erikrichardson.trafik</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.erikrichardson.trafik/8/3b751fa6-aab6-4c84-8a24-c1c575996315/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 14:42:12 +0100</pubDate>
-    </item>
     <item>
       <title>Xelectrix Power</title>
       <link>https://homey.app/a/com.xelectrix.power</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.aroma-link</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.aroma-link/7/569ddfbb-8b5b-4a29-93cf-d265be3c2b1d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Nov 2026 13:11:40 +0100</pubDate>
+    </item>
+    <item>
+      <title>Christmas Countdown</title>
+      <link>https://homey.app/a/com.simplepc.christmascountdown</link>
+      <description>Count down the sleeps until Christmas right on your dashboard.</description>
+      <author>noreply@homey.app (Simon Salvin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.simplepc.christmascountdown</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.simplepc.christmascountdown/2/9eda3ecf-ce82-439f-b5bd-73e42860973f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 15:08:33 +0100</pubDate>
+    </item>
+    <item>
+      <title>BSK Zephyr</title>
+      <link>https://homey.app/a/com.bskhvac</link>
+      <description>Fresh air with heat recovery, on autopilot</description>
+      <author>noreply@homey.app (Branislav Jenči)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.bskhvac</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.bskhvac/1/5083c78c-bddb-4467-8cf9-766daf1a32ea/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 15:08:33 +0100</pubDate>
     </item>
   </channel>
 </rss>
