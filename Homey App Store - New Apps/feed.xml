@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:10:04 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>BLUETTI</title>
-      <link>https://homey.app/a/com.gpm.bluetti</link>
-      <description>Your backup power, part of your smart home</description>
-      <author>noreply@homey.app (Gabriel Pedrosa Machado)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.gpm.bluetti</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.gpm.bluetti/5/f016b8ed-7672-43ff-b8f1-c65fe045ed5d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 17:10:52 +0100</pubDate>
-    </item>
     <item>
       <title>Desi Smart</title>
       <link>https://homey.app/a/com.desi.smart</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.roue.frameo</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.roue.frameo/4/351f8965-d6eb-4947-ad30-1d335134ebea/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Nov 2026 17:09:32 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wolf SmartSet</title>
+      <link>https://homey.app/a/com.wolf.smartset</link>
+      <description>Your heat pump, finally out in the open</description>
+      <author>noreply@homey.app (Henri Apperloo)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.wolf.smartset</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.wolf.smartset/4/b7758022-687f-4e06-8aeb-afa84ae73cdd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 19:10:02 +0100</pubDate>
     </item>
   </channel>
 </rss>
