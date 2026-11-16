@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:21:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>REMKO Smart-Control Touch</title>
-      <link>https://homey.app/a/site.zeno.remko</link>
-      <description>Home comfort and hot water in step with your day.</description>
-      <author>noreply@homey.app (Pieter Groot)</author>
-      <guid isPermaLink="false">https://homey.app/a/site.zeno.remko</guid>
-      <enclosure url="https://apps.homeycdn.net/app/site.zeno.remko/3/f8c73b51-fbbc-41ee-beec-d2ace177fd1b/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 26 Oct 2026 19:20:20 +0100</pubDate>
-    </item>
-    <item>
-      <title>Planetpod</title>
-      <link>https://homey.app/a/energy.planetpod</link>
-      <description>The smart Dutch home battery that actually fits in your home.</description>
-      <author>noreply@homey.app (Planetpod)</author>
-      <guid isPermaLink="false">https://homey.app/a/energy.planetpod</guid>
-      <enclosure url="https://apps.homeycdn.net/app/energy.planetpod/4/f9336cc2-3c24-4c50-9869-b7f5d2410e1e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 11:10:01 +0100</pubDate>
-    </item>
-    <item>
-      <title>RAMSES ESP</title>
-      <link>https://homey.app/a/io.github.starredev.ramses</link>
-      <description>Let your home ventilation respond to CO₂, humidity and your daily routine.</description>
-      <author>noreply@homey.app (Bryan van der Starre)</author>
-      <guid isPermaLink="false">https://homey.app/a/io.github.starredev.ramses</guid>
-      <enclosure url="https://apps.homeycdn.net/app/io.github.starredev.ramses/7/ac8e54c5-c78b-42d8-99bc-e6e186682c79/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 15:10:19 +0100</pubDate>
-    </item>
     <item>
       <title>IMAP Client</title>
       <link>https://homey.app/a/io.olae.imapclient</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.simplepc.rointe</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.simplepc.rointe/11/470f131a-77ac-4428-9e55-1fe2cab34ff6/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Nov 2026 11:09:44 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fuel Prices UK</title>
+      <link>https://homey.app/a/com.simon.fuelpricesuk</link>
+      <description>Live prices from every UK forecourt, so you always fill up for less.</description>
+      <author>noreply@homey.app (Simon Salvin)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.simon.fuelpricesuk</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.simon.fuelpricesuk/7/18da83f5-8bff-4df8-b126-216a3a6f7268/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 15:21:25 +0100</pubDate>
+    </item>
+    <item>
+      <title>TV Parental Control</title>
+      <link>https://homey.app/a/no.salhus.foreldrestyring</link>
+      <description>Daily TV time limits for your kids, set from your phone.</description>
+      <author>noreply@homey.app (Erik Salhus)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.salhus.foreldrestyring</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.salhus.foreldrestyring/4/b427318d-84f7-4ca1-9f26-d95e78a3d3fe/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 15:21:25 +0100</pubDate>
+    </item>
+    <item>
+      <title>Værmeldingen</title>
+      <link>https://homey.app/a/no.vaermeldingen</link>
+      <description>The complete weather app for Norway</description>
+      <author>noreply@homey.app (Thomas Jahnsen)</author>
+      <guid isPermaLink="false">https://homey.app/a/no.vaermeldingen</guid>
+      <enclosure url="https://apps.homeycdn.net/app/no.vaermeldingen/26/524fbf0d-663f-4471-ad10-d44920499380/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 15:21:25 +0100</pubDate>
     </item>
   </channel>
 </rss>
