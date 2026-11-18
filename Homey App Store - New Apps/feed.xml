@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:07:25 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Desi Smart</title>
-      <link>https://homey.app/a/com.desi.smart</link>
-      <description>A smarter way to secure home</description>
-      <author>noreply@homey.app (DESI Smart Lock &amp; Security Systems)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.desi.smart</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.desi.smart/17/ed947d1b-0f0e-4463-86fa-f6d1bc4bffc2/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 28 Oct 2026 17:10:52 +0100</pubDate>
-    </item>
-    <item>
-      <title>Thermex</title>
-      <link>https://homey.app/a/dk.hye-knudsen.thermexwifihood</link>
-      <description>Kitchen extractor hoods since 1958</description>
-      <author>noreply@homey.app (Jon Hye-Knudsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.hye-knudsen.thermexwifihood</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.hye-knudsen.thermexwifihood/4/8bd93005-e897-4185-9dff-572aadf174f9/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 17:10:46 +0100</pubDate>
-    </item>
     <item>
       <title>Manager API Test</title>
       <link>https://homey.app/a/com.athom.managerapi</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.wolf.smartset</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.wolf.smartset/4/b7758022-687f-4e06-8aeb-afa84ae73cdd/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Nov 2026 19:10:02 +0100</pubDate>
+    </item>
+    <item>
+      <title>SENSY-ONE</title>
+      <link>https://homey.app/a/com.sensy-one</link>
+      <description>Reliable sensing for your smart home.</description>
+      <author>noreply@homey.app (SENSY-ONE)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.sensy-one</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.sensy-one/7/642ed064-175a-4648-9240-aec464867402/assets/images/sensy-one-family-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Nov 2026 23:07:24 +0100</pubDate>
+    </item>
+    <item>
+      <title>MACO</title>
+      <link>https://homey.app/a/eu.maco</link>
+      <description>Technology in motion</description>
+      <author>noreply@homey.app (Mayer &amp; Co Beschläge GmbH)</author>
+      <guid isPermaLink="false">https://homey.app/a/eu.maco</guid>
+      <enclosure url="https://apps.homeycdn.net/app/eu.maco/4/7d7efefc-1fce-4a86-a5e5-20eb6b5926cd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Nov 2026 23:07:24 +0100</pubDate>
     </item>
   </channel>
 </rss>
