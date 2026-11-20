@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:15:17 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Ryan Button neuer Kapitän der Panther</title>
-      <link>https://www.aev-panther.de/artikel/ryan-button-neuer-kapitaen-der-panther/01a0aa67-cc60-7912-9433-b5bb0c6b6104</link>
-      <description>Die Augsburger Panther starten am Freitag mit einem neuen Kapitän in die PENNY DEL-Saison 2026-27. VerteidigerRyan Button übernimmt das Amt und trägt ab sofort das „C“ auf seinem Trikot. Die Entscheid…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/ryan-button-neuer-kapitaen-der-panther/01a0aa67-cc60-7912-9433-b5bb0c6b6104</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aa67-cc60-7912-9433-b5bb0c6b6104.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 15:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>Warm-Up 26-27 powered by Walser</title>
       <link>https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/alec-mccrea-hat-einbuergerungsverfahren-abgeschlossen/01a1f2fc-6829-70eb-aba4-dfdda62e2254</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a1f2fc-6829-70eb-aba4-dfdda62e2254.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Nov 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Panther erwarten Spitzenreiter Nürnberg Ice Tigers</title>
+      <link>https://www.aev-panther.de/artikel/panther-erwarten-spitzenreiter-nuernberg-ice-tigers/01a1f447-f13a-7491-bbae-f856d0f2465e</link>
+      <description>Der nächste Derbykracher an einem Freitagabend im ausverkauften Curt-Frenzel-Stadion: Die Nürnberg Ice Tigers sind zu Gast, Spielbeginn ist um 19:30 Uhr.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-erwarten-spitzenreiter-nuernberg-ice-tigers/01a1f447-f13a-7491-bbae-f856d0f2465e</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a1f447-f13a-7491-bbae-f856d0f2465e.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
