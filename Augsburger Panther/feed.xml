@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:09:27 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Warm-Up 26-27 powered by Walser</title>
-      <link>https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</link>
-      <description>Die Augsburger Panther und die WALSER Immobilienprojekte GmbH bauen ihre erfolgreiche Zusammenarbeit aus: Ab sofort wirbt das inhabergeführte Immobilienunternehmen aus Augsburg zusätzlich zum bisherig…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/warm-up-26-27-powered-by-walser/01a0aec6-aa8d-75db-b52a-e791236f4391</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0aec6-aa8d-75db-b52a-e791236f4391.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0200</pubDate>
-    </item>
     <item>
       <title>Förderlizenz für Liron Pellizzari</title>
       <link>https://www.aev-panther.de/artikel/foerderlizenz-fuer-liron-pellizzari/01a0af2e-8409-71c5-834b-e2ab4142cde8</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/panther-erwarten-spitzenreiter-nuernberg-ice-tigers/01a1f447-f13a-7491-bbae-f856d0f2465e</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a1f447-f13a-7491-bbae-f856d0f2465e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dramatischer Sieg gegen den Tabellenführer</title>
+      <link>https://www.aev-panther.de/artikel/dramatischer-sieg-gegen-den-tabellenfuehrer/01a1fa6c-3c60-7b21-a245-dd7e010445d7</link>
+      <description>Die Augsburger Panther haben in einem hochklassigen Eishockeyspiel den Tabellenführer der PENNY DEL, die Nürnberg Ice Tigers, auf dramatische Art und Weise mit 5:4 nach Penaltyschießen bezwungen. Die …</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/dramatischer-sieg-gegen-den-tabellenfuehrer/01a1fa6c-3c60-7b21-a245-dd7e010445d7</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a1fa6c-3c60-7b21-a245-dd7e010445d7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 22:54:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
