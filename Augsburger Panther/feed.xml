@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:12:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Neue Regeln zur Saison 2026-27</title>
-      <link>https://www.aev-panther.de/artikel/neue-regeln-zur-saison-2026-27/01a0af10-693d-7b3d-9db8-fc2956a3ae1e</link>
-      <description>Am gestrigen Donnerstag starte die Saison 2026-27 in der PENNY DEL mit Duell zwischen den Eisbären Berlin und den Straubing Tigers. Zu diesem Duell traten erstmalig angepasste Regeln, Verfahren und In…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/neue-regeln-zur-saison-2026-27/01a0af10-693d-7b3d-9db8-fc2956a3ae1e</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0af10-693d-7b3d-9db8-fc2956a3ae1e.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 08:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>AEV verliert Auftakt in Nürnberg</title>
       <link>https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/online-rabattaktion-im-panther-merch/01a1e9b6-9df0-76a9-940c-b172993f73f1</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a1e9b6-9df0-76a9-940c-b172993f73f1.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 21 Nov 2026 07:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AEV entführt die Punkte aus Schwenningen</title>
+      <link>https://www.aev-panther.de/artikel/aev-entfuehrt-die-punkte-aus-schwenningen/01a203cf-6e41-7ec3-856a-a671c0b3c626</link>
+      <description>Die Augsburger Panther haben auch das zweite Duell der laufenden Saison in der PENNY DEL gegen die Schwenninger Wild Wings gewonnen. Entscheidend war dabei ein starkes Mitteldrittel, denn am Ende wurd…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-entfuehrt-die-punkte-aus-schwenningen/01a203cf-6e41-7ec3-856a-a671c0b3c626</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a203cf-6e41-7ec3-856a-a671c0b3c626.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 19:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
