@@ -12,35 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:09:15 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Timeline Export</title>
-      <link>https://homey.app/a/dk.timelineexport.DrChip666</link>
-      <description>Keep your timeline history safe in a file</description>
-      <author>noreply@homey.app (Morten Bech)</author>
-      <guid isPermaLink="false">https://homey.app/a/dk.timelineexport.DrChip666</guid>
-      <enclosure url="https://apps.homeycdn.net/app/dk.timelineexport.DrChip666/4/4532e928-54c8-4b0e-9e37-8650ec4bdb75/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 30 Oct 2026 15:10:12 +0100</pubDate>
-    </item>
-    <item>
-      <title>Philips Avent Baby Monitor</title>
-      <link>https://homey.app/a/nl.erikvl87.avent-baby-monitor</link>
-      <description>Peace of mind while your little one sleeps</description>
-      <author>noreply@homey.app (Erik van Leeuwen)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.erikvl87.avent-baby-monitor</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.erikvl87.avent-baby-monitor/3/2460e74a-2bd3-4093-b1df-20f10b426b5f/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 30 Oct 2026 17:09:59 +0100</pubDate>
-    </item>
-    <item>
-      <title>Parcel Tracker</title>
-      <link>https://homey.app/a/be.parceltracker</link>
-      <description>Every parcel on its way, from every carrier, in one place.</description>
-      <author>noreply@homey.app (Danny van Soerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/be.parceltracker</guid>
-      <enclosure url="https://apps.homeycdn.net/app/be.parceltracker/3/6a8ff6da-30e3-43dd-bca4-f916dcb80f29/assets/images/large.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 30 Oct 2026 17:09:59 +0100</pubDate>
-    </item>
     <item>
       <title>Happy Sense</title>
       <link>https://homey.app/a/se.happy.sense</link>
@@ -463,6 +436,33 @@
       <guid isPermaLink="false">https://homey.app/a/com.andresensoft.warp</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.andresensoft.warp/2/ebe3aacd-3a83-4440-ba83-4342e19bd85d/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Nov 2026 19:09:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>InfraRed Toolkit</title>
+      <link>https://homey.app/a/com.zperx.infrared</link>
+      <description>Get your InfraRed to the next level</description>
+      <author>noreply@homey.app (ZperX .)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.zperx.infrared</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.zperx.infrared/4/46464a75-0eea-4f74-aa0c-49765977315f/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 11:09:13 +0100</pubDate>
+    </item>
+    <item>
+      <title>Komobi Moto</title>
+      <link>https://homey.app/a/com.komobimoto</link>
+      <description>Keep an eye on your motorcycle with your Komobi Moto GPS tracker</description>
+      <author>noreply@homey.app (Stefan Simon)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.komobimoto</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.komobimoto/4/2f120fce-f5ae-4af1-9643-7efa3fadbd0a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 11:09:13 +0100</pubDate>
+    </item>
+    <item>
+      <title>Resol VBus</title>
+      <link>https://homey.app/a/nl.monkeysoft.resol</link>
+      <description>Read Resol solar and heating controllers (DeltaSol and others) via a KM2, DL2, DL3 or VBus/LAN adapter.</description>
+      <author>noreply@homey.app (Stèphan Eizinga (MonkeySoft))</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.resol</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.resol/4/0944b49a-6019-4219-b992-f543bc79be0a/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 11:09:13 +0100</pubDate>
     </item>
   </channel>
 </rss>
