@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:09:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Happy Sense</title>
-      <link>https://homey.app/a/se.happy.sense</link>
-      <description>See the power behind your whole home</description>
-      <author>noreply@homey.app (Fredrik Eidlert)</author>
-      <guid isPermaLink="false">https://homey.app/a/se.happy.sense</guid>
-      <enclosure url="https://apps.homeycdn.net/app/se.happy.sense/5/ba7e3567-3fcb-40dd-aa6c-5b3916e782a3/assets/images/store-large.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 30 Oct 2026 17:09:59 +0100</pubDate>
-    </item>
     <item>
       <title>Luxio</title>
       <link>https://homey.app/a/lighting.luxio</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.monkeysoft.resol</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.monkeysoft.resol/4/0944b49a-6019-4219-b992-f543bc79be0a/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Nov 2026 11:09:13 +0100</pubDate>
+    </item>
+    <item>
+      <title>FreeKiosk</title>
+      <link>https://homey.app/a/app.freekiosk</link>
+      <description>Bring your Android kiosk into your smart home and keep everyday controls within reach.</description>
+      <author>noreply@homey.app (Sébastien Castermans)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.freekiosk</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.freekiosk/2/6dacef53-1844-4572-b571-b7115e9f8660/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 15:09:23 +0100</pubDate>
     </item>
   </channel>
 </rss>
