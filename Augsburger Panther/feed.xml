@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:11:35 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>AEV verliert Auftakt in Nürnberg</title>
-      <link>https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</link>
-      <description>Die Augsburger Panther haben ihr Auftaktspiel der Saison 2026-27 in der PENNY DEL verloren. Bei den Nürnberg Ice Tigers unterlag der AEV mit 1:4. Für Diskussionsstoff sorgten dabei zwei umstrittene Sc…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-verliert-auftakt-in-nuernberg/01a0b578-db48-72cc-87cc-4f5696f66a04</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0b578-db48-72cc-87cc-4f5696f66a04.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 22:07:00 +0200</pubDate>
-    </item>
     <item>
       <title>Im Home Opener gegen Schwenningen</title>
       <link>https://www.aev-panther.de/artikel/im-home-opener-gegen-schwenningen/01a0b447-c09b-7aaa-a0f8-31f468e86e73</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/aev-entfuehrt-die-punkte-aus-schwenningen/01a203cf-6e41-7ec3-856a-a671c0b3c626</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a203cf-6e41-7ec3-856a-a671c0b3c626.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 22 Nov 2026 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Philipp Krauß fehlt Panthern in den kommenden Wochen</title>
+      <link>https://www.aev-panther.de/artikel/philipp-krauss-fehlt-panthern-in-den-kommenden-wochen/01a208c2-e9ca-7f64-979c-bd5467a9936f</link>
+      <description>Die schlechten Nachrichten reißen nicht ab, die Augsburger Panther haben erneut einen Ausfall zu verzeichnen. Der PENNY DEL-Club muss in den kommenden Wochen aufPhilipp Kraußverzichten.</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/philipp-krauss-fehlt-panthern-in-den-kommenden-wochen/01a208c2-e9ca-7f64-979c-bd5467a9936f</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a208c2-e9ca-7f64-979c-bd5467a9936f.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
