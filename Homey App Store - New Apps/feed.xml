@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:09:51 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>2N</title>
-      <link>https://homey.app/a/com.roypedrinis.twon</link>
-      <description>Know who is at your door, and let them in from anywhere in your home.</description>
-      <author>noreply@homey.app (Roy PEDRINIS)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.roypedrinis.twon</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.roypedrinis.twon/4/36ad7e96-9815-4cfa-b249-f9a95e714529/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 02 Nov 2026 19:10:10 +0100</pubDate>
-    </item>
-    <item>
-      <title>Frisquet Connect</title>
-      <link>https://homey.app/a/community.frisquet.connect</link>
-      <description>Heating and hot water that fit your day</description>
-      <author>noreply@homey.app (Sylvain Huguet)</author>
-      <guid isPermaLink="false">https://homey.app/a/community.frisquet.connect</guid>
-      <enclosure url="https://apps.homeycdn.net/app/community.frisquet.connect/3/171d6346-64f6-4a77-9b75-be3fa48e6e7d/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Nov 2026 13:12:02 +0100</pubDate>
-    </item>
     <item>
       <title>Voldt</title>
       <link>https://homey.app/a/nl.bryan.voldt</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/com.v34.yahla</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.v34.yahla/5/f10c363b-fbfd-4524-9609-3041b920a391/assets/images/large.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Nov 2026 17:08:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Jablotron Cloud</title>
+      <link>https://homey.app/a/net.jablotron.api</link>
+      <description>Arm, disarm and keep an eye on your Jablotron alarm.</description>
+      <author>noreply@homey.app (Jakub H.)</author>
+      <guid isPermaLink="false">https://homey.app/a/net.jablotron.api</guid>
+      <enclosure url="https://apps.homeycdn.net/app/net.jablotron.api/5/39728f8e-48ab-40e1-a956-0f96d03d4b0e/assets/images/large.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 19:09:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Commodore</title>
+      <link>https://homey.app/a/com.github.moogblob.commodore</link>
+      <description>Bring the breadbin home</description>
+      <author>noreply@homey.app (Johan Klintberg)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.github.moogblob.commodore</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.github.moogblob.commodore/5/06bced25-652c-423a-8f47-6024722f8f01/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 19:09:49 +0100</pubDate>
     </item>
   </channel>
 </rss>
