@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:10:58 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Voldt</title>
-      <link>https://homey.app/a/nl.bryan.voldt</link>
-      <description>Charge locally, keep track of your energy</description>
-      <author>noreply@homey.app (Bryan Suijkerland)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.bryan.voldt</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.bryan.voldt/1/515bc611-5713-4bb3-adab-0dfcca202ec1/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Nov 2026 13:12:02 +0100</pubDate>
-    </item>
     <item>
       <title>Weekdot</title>
       <link>https://homey.app/a/nl.lrvdlinden.weekdot</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.github.moogblob.commodore</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.github.moogblob.commodore/5/06bced25-652c-423a-8f47-6024722f8f01/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Nov 2026 19:09:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Battery to Tibber</title>
+      <link>https://homey.app/a/app.socbridge.ev9</link>
+      <description>Let your charging plan follow your car battery</description>
+      <author>noreply@homey.app (Christian Klauser)</author>
+      <guid isPermaLink="false">https://homey.app/a/app.socbridge.ev9</guid>
+      <enclosure url="https://apps.homeycdn.net/app/app.socbridge.ev9/3/af31a36e-c575-4206-bea5-26bc585dd79e/assets/images/battery-tibber-large.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Nov 2026 17:10:57 +0100</pubDate>
     </item>
   </channel>
 </rss>
