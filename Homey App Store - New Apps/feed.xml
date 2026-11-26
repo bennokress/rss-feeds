@@ -12,26 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:09:18 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>JUWEL</title>
-      <link>https://homey.app/a/com.github.moogblob.juwel-appcontrol</link>
-      <description>Your aquarium, part of your smart home.</description>
-      <author>noreply@homey.app (Johan Klintberg)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.github.moogblob.juwel-appcontrol</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.github.moogblob.juwel-appcontrol/5/45a35f2c-c26f-446d-8e3f-719ccf3f3f7e/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 17:08:24 +0100</pubDate>
-    </item>
-    <item>
-      <title>Daily Rhythm</title>
-      <link>https://homey.app/a/com.glumpf.dailyrhythm</link>
-      <description>Learns your routines and tells your Flows in advance</description>
-      <author>noreply@homey.app (Lars Andresen)</author>
-      <guid isPermaLink="false">https://homey.app/a/com.glumpf.dailyrhythm</guid>
-      <enclosure url="https://apps.homeycdn.net/app/com.glumpf.dailyrhythm/2/a431de40-ae47-4aa4-b215-0da7748d1493/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 17:08:24 +0100</pubDate>
-    </item>
     <item>
       <title>Google Nest Controls</title>
       <link>https://homey.app/a/no.tjahnsen.googlenestcontrols</link>
@@ -463,6 +445,24 @@
       <guid isPermaLink="false">https://homey.app/a/org.barelysufficient.auk</guid>
       <enclosure url="https://apps.homeycdn.net/app/org.barelysufficient.auk/5/69eca759-3e9d-4f65-bb8e-c45d4c2c6e9b/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Nov 2026 15:09:09 +0100</pubDate>
+    </item>
+    <item>
+      <title>TOG Sense</title>
+      <link>https://homey.app/a/nl.rilaahq.togsense</link>
+      <description>Which bodysuit, sleepsuit and TOG sleeping bag your baby needs tonight</description>
+      <author>noreply@homey.app (Rilaa)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.rilaahq.togsense</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.rilaahq.togsense/1/7f92ca61-d36b-4a86-89c7-a1b7a553df53/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Nov 2026 17:09:17 +0100</pubDate>
+    </item>
+    <item>
+      <title>Charge Point Finder NL</title>
+      <link>https://homey.app/a/nl.jeffreydebruijn.chargepoints</link>
+      <description>See which public charging point near you is free, and what it costs.</description>
+      <author>noreply@homey.app (JdeB Web Solutions)</author>
+      <guid isPermaLink="false">https://homey.app/a/nl.jeffreydebruijn.chargepoints</guid>
+      <enclosure url="https://apps.homeycdn.net/app/nl.jeffreydebruijn.chargepoints/2/06510ecb-aa7f-4c5b-be96-fa9c4a77be2e/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Nov 2026 17:09:17 +0100</pubDate>
     </item>
   </channel>
 </rss>
