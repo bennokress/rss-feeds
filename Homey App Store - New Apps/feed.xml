@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:11:57 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Weekdot</title>
-      <link>https://homey.app/a/nl.lrvdlinden.weekdot</link>
-      <description>Your Weekdot calendar in Homey: Flows for your events and your daily agenda</description>
-      <author>noreply@homey.app (Léon van der Linden)</author>
-      <guid isPermaLink="false">https://homey.app/a/nl.lrvdlinden.weekdot</guid>
-      <enclosure url="https://apps.homeycdn.net/app/nl.lrvdlinden.weekdot/7/3a092024-2108-48d9-8ffa-93ea6b0b9715/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Nov 2026 15:08:03 +0100</pubDate>
-    </item>
     <item>
       <title>Limoss TV Lift</title>
       <link>https://homey.app/a/nl.egteren.tvlift</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/app.socbridge.ev9</guid>
       <enclosure url="https://apps.homeycdn.net/app/app.socbridge.ev9/3/af31a36e-c575-4206-bea5-26bc585dd79e/assets/images/battery-tibber-large.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Nov 2026 17:10:57 +0100</pubDate>
+    </item>
+    <item>
+      <title>Changan Deepal (Unofficial)</title>
+      <link>https://homey.app/a/com.github.hrkvalvik.deepal</link>
+      <description>Keep an eye on your car and control it from your smart home</description>
+      <author>noreply@homey.app (Trond-Daniel Kvalvik)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.github.hrkvalvik.deepal</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.github.hrkvalvik.deepal/2/e50e784c-7ba2-4691-9f43-4719c1364112/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Nov 2026 13:11:56 +0100</pubDate>
     </item>
   </channel>
 </rss>
