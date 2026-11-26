@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:09:34 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Google Nest Controls</title>
-      <link>https://homey.app/a/no.tjahnsen.googlenestcontrols</link>
-      <description>Keep your cameras, Wifi and speakers working together</description>
-      <author>noreply@homey.app (Thomas Jahnsen)</author>
-      <guid isPermaLink="false">https://homey.app/a/no.tjahnsen.googlenestcontrols</guid>
-      <enclosure url="https://apps.homeycdn.net/app/no.tjahnsen.googlenestcontrols/62/4ce3a8fc-523d-4644-995d-c6e1586ddc44/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 19:09:28 +0100</pubDate>
-    </item>
     <item>
       <title>Hoymiles HiOne</title>
       <link>https://homey.app/a/com.hoymiles.hione</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/nl.jeffreydebruijn.chargepoints</guid>
       <enclosure url="https://apps.homeycdn.net/app/nl.jeffreydebruijn.chargepoints/2/06510ecb-aa7f-4c5b-be96-fa9c4a77be2e/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Nov 2026 17:09:17 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mealie</title>
+      <link>https://homey.app/a/be.functor.mealie</link>
+      <description>What's for dinner? Your menu, always at hand</description>
+      <author>noreply@homey.app (Kenny Moens)</author>
+      <guid isPermaLink="false">https://homey.app/a/be.functor.mealie</guid>
+      <enclosure url="https://apps.homeycdn.net/app/be.functor.mealie/4/9f2a96e0-b265-4bc7-85e6-a2d67a7c6fdd/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Nov 2026 19:09:33 +0100</pubDate>
     </item>
   </channel>
 </rss>
