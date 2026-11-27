@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:15:26 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>6.179 - Löw Immobilien präsentiert die Zuschauerzahl</title>
-      <link>https://www.aev-panther.de/artikel/6-179-loew-immobilien-praesentiert-die-zuschauerzahl/01a0c320-52c2-7073-a10b-80fda07ae4e1</link>
-      <description>Die Löw Immobilien GmbH bleibt den Augsburger Panther treu: Die seit 2023 bestehende Top-Partnerschaft wurde im Sommer um zwei weitere Spielzeiten verlängert.</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/6-179-loew-immobilien-praesentiert-die-zuschauerzahl/01a0c320-52c2-7073-a10b-80fda07ae4e1</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0c320-52c2-7073-a10b-80fda07ae4e1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Sep 2026 10:40:00 +0200</pubDate>
-    </item>
     <item>
       <title>Kein Platz für Diskriminierung und Gewalt im CFS</title>
       <link>https://www.aev-panther.de/artikel/kein-platz-fuer-diskriminierung-und-gewalt-im-cfs/01a0c496-a3db-736e-8a57-81c5dc52c496</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/dank-lambert-hattrick-zum-dritten-sieg-in-folge/01a2110e-a2f1-79cd-a497-0efcbfb23206</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a2110e-a2f1-79cd-a497-0efcbfb23206.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Nov 2026 06:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Duell der Traditionsclubs im ausverkauften CFS</title>
+      <link>https://www.aev-panther.de/artikel/duell-der-traditionsclubs-im-ausverkauften-cfs/01a218b2-cafc-78f8-b359-4cab3df2ddc0</link>
+      <description>Retro-Spieltag am Freitagabend! Die Augsburger Panther empfangen im Duell zweier absoluter Traditionsclubs der Deutschen Eishockey Liga um 19:30 Uhr den Rekordmeister und aktuellen Spitzenreiter Eisbä…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/duell-der-traditionsclubs-im-ausverkauften-cfs/01a218b2-cafc-78f8-b359-4cab3df2ddc0</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a218b2-cafc-78f8-b359-4cab3df2ddc0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 08:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
