@@ -12,17 +12,8 @@
       <link>https://homey.app/en-us/apps/homey-pro/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:12:23 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Prana</title>
-      <link>https://homey.app/a/ua.te.its.prana</link>
-      <description>Fresh, filtered air with heat recovery, controlled locally</description>
-      <author>noreply@homey.app (Volodymyr Piaskovskyi)</author>
-      <guid isPermaLink="false">https://homey.app/a/ua.te.its.prana</guid>
-      <enclosure url="https://apps.homeycdn.net/app/ua.te.its.prana/3/eb6083a0-75e8-4a1f-abb1-67ef0ffa8074/assets/images/large.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Nov 2026 13:12:31 +0100</pubDate>
-    </item>
     <item>
       <title>Waste Calendar Germany</title>
       <link>https://homey.app/a/film.framebuilder.muellkalender</link>
@@ -463,6 +454,15 @@
       <guid isPermaLink="false">https://homey.app/a/com.samduo</guid>
       <enclosure url="https://apps.homeycdn.net/app/com.samduo/1/18a03ead-8d4b-41bb-8341-0617938840de/assets/images/large.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Nov 2026 11:08:31 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dimplex e-MatriX</title>
+      <link>https://homey.app/a/com.dimplex.ematrix</link>
+      <description>Local control for Dimplex e-MatriX electric fireplaces via LAN and Bluetooth.</description>
+      <author>noreply@homey.app (Harm Jonkers)</author>
+      <guid isPermaLink="false">https://homey.app/a/com.dimplex.ematrix</guid>
+      <enclosure url="https://apps.homeycdn.net/app/com.dimplex.ematrix/2/daea1166-6df2-417a-b9fa-adf63ea6d069/assets/images/large.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 13:12:22 +0100</pubDate>
     </item>
   </channel>
 </rss>
