@@ -12,16 +12,8 @@
       <link>https://www.aev-panther.de/panther/news</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:10:24 +0000</lastBuildDate>
     <ttl>120</ttl>
-    <item>
-      <title>Kein Platz für Diskriminierung und Gewalt im CFS</title>
-      <link>https://www.aev-panther.de/artikel/kein-platz-fuer-diskriminierung-und-gewalt-im-cfs/01a0c496-a3db-736e-8a57-81c5dc52c496</link>
-      <description>Nach dem Heimspiel der Augsburger Panther am Sonntag im Curt-Frenzel-Stadion kam es zu einem rassistischen Vorfall, auf den mit Gewalt reagiert wurde. Die Augsburger Panther verurteilen sowohl den ras…</description>
-      <guid isPermaLink="false">https://www.aev-panther.de/artikel/kein-platz-fuer-diskriminierung-und-gewalt-im-cfs/01a0c496-a3db-736e-8a57-81c5dc52c496</guid>
-      <enclosure url="https://www.aev-panther.de/img/generated/article/01a0c496-a3db-736e-8a57-81c5dc52c496.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Sep 2026 17:30:00 +0200</pubDate>
-    </item>
     <item>
       <title>AEV feiert Comeback-Sieg in Iserlohn</title>
       <link>https://www.aev-panther.de/artikel/aev-feiert-comeback-sieg-in-iserlohn/01a0d4da-3bee-7890-9df3-3a2f928d22d6</link>
@@ -413,6 +405,14 @@
       <guid isPermaLink="false">https://www.aev-panther.de/artikel/duell-der-traditionsclubs-im-ausverkauften-cfs/01a218b2-cafc-78f8-b359-4cab3df2ddc0</guid>
       <enclosure url="https://www.aev-panther.de/img/generated/article/01a218b2-cafc-78f8-b359-4cab3df2ddc0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Nov 2026 08:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pleite gegen den Meister</title>
+      <link>https://www.aev-panther.de/artikel/pleite-gegen-den-meister/01a21ed9-5150-7822-8655-2e8d66e0d6c5</link>
+      <description>Die Augsburger Panther haben das Retro-Duell in der PENNY DEL gegen die Eisbären Berlin mit 2:6 verloren. Die Treffer für die Panther erzielten Noel Hoefenmayer (38.) und Mitch Hoelscher (39.). Für di…</description>
+      <guid isPermaLink="false">https://www.aev-panther.de/artikel/pleite-gegen-den-meister/01a21ed9-5150-7822-8655-2e8d66e0d6c5</guid>
+      <enclosure url="https://www.aev-panther.de/img/generated/article/01a21ed9-5150-7822-8655-2e8d66e0d6c5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 22:19:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
